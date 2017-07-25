@@ -1,15 +1,15 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Crazykev","crazykev!zju.edu.cn","Self","2017-06-01",233,26,1
-"sarahnovotny","sarah.novotny!gmail.com","Google","2017-04-01",205,0,1
-"Crazykev","crazykev!zju.edu.cn","Self","2017-05-01",693,241,2
-"heartlock","21521209!zju.edu.cn","Self","2017-04-01",1961,1,2
-"Lantao Liu","lantaol!google.com","Google","2017-06-01",17844,6555,35
-"Lantao Liu","lantaol!google.com","Google","2017-05-01",35516,1853,25
-"Mike Brown","brownwm!us.ibm.com","IBM","2017-06-01",1408,1465,6
-"mozhulee","weidonglee27!gmail.com","Self","2017-05-01",939,0,1
-"Mike Brown","brownwm!us.ibm.com","IBM","2017-04-01",5539,1696,8
-"Christopher M. Luciano","cmluciano!us.ibm.com","IBM","2017-04-01",243,2,2
-"Lantao Liu","lantaol!google.com","Google","2017-04-01",9551,365,9
-"Xianglin Gao","xlgao!zju.edu.cn","Self","2017-05-01",2769,38,3
-"mozhuli","21621232!zju.edu.cn","Self","2017-05-01",1129,48,2
-"heartlock","21521209!zju.edu.cn","Self","2017-05-01",564,26,1
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Crazykev","crazykev!zju.edu.cn","Self","2017-06-01",233,26,233,1
+"sarahnovotny","sarah.novotny!gmail.com","Google","2017-04-01",205,0,205,1
+"Crazykev","crazykev!zju.edu.cn","Self","2017-05-01",693,241,780,2
+"heartlock","21521209!zju.edu.cn","Self","2017-04-01",1961,1,1961,2
+"Lantao Liu","lantaol!google.com","Google","2017-06-01",17844,6555,17915,35
+"Lantao Liu","lantaol!google.com","Google","2017-05-01",35516,1853,35520,25
+"Mike Brown","brownwm!us.ibm.com","IBM","2017-06-01",1408,1465,1944,6
+"mozhulee","weidonglee27!gmail.com","Self","2017-05-01",939,0,939,1
+"Mike Brown","brownwm!us.ibm.com","IBM","2017-04-01",5539,1696,7138,8
+"Christopher M. Luciano","cmluciano!us.ibm.com","IBM","2017-04-01",243,2,243,2
+"Lantao Liu","lantaol!google.com","Google","2017-04-01",9551,365,9911,9
+"Xianglin Gao","xlgao!zju.edu.cn","Self","2017-05-01",2769,38,2769,3
+"mozhuli","21621232!zju.edu.cn","Self","2017-05-01",1129,48,1153,2
+"heartlock","21521209!zju.edu.cn","Self","2017-05-01",564,26,564,1

@@ -1,8 +1,8 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Lars Wander","lwander!google.com","Google","2017-07-01",1044,146,6
-"Mehdy Bohlool","mehdy!google.com","Google","2017-05-01",485147,0,7
-"Lars Wander","lwander!google.com","Google","2017-06-01",10,22,2
-"Mehdy Bohlool","mehdy!google.com","Google","2017-07-01",40,24,1
-"Mehdy Bohlool","mehdy!google.com","Google","2017-06-01",98949,90728,5
-"Brendan Burns","brendan.d.burns!gmail.com","Microsoft","2017-05-01",2257,280,12
-"Brendan Burns","brendan.d.burns!gmail.com","Microsoft","2017-06-01",296,50,5
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Lars Wander","lwander!google.com","Google","2017-07-01",1044,146,1044,6
+"Mehdy Bohlool","mehdy!google.com","Google","2017-05-01",485147,0,485147,7
+"Lars Wander","lwander!google.com","Google","2017-06-01",10,22,22,2
+"Mehdy Bohlool","mehdy!google.com","Google","2017-07-01",40,24,40,1
+"Mehdy Bohlool","mehdy!google.com","Google","2017-06-01",98949,90728,98949,5
+"Brendan Burns","brendan.d.burns!gmail.com","Microsoft","2017-05-01",2257,280,2257,12
+"Brendan Burns","brendan.d.burns!gmail.com","Microsoft","2017-06-01",296,50,298,5

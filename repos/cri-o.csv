@@ -1,126 +1,126 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-03-01",35,0,1
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-01-01",66,41,2
-"Pengfei Ni","feiskyer!gmail.com","Hyper.sh","2016-11-01",9,9,1
-"Malhar Vora","mlvora.2010!gmail.com","Seagate","2017-02-01",1,1,1
-"Xianglin Gao","xlgao!zju.edu.cn","Self","2017-01-01",8,105,2
-"Alvaro Lopez Ortega","alvaro!gnu.org","GNU","2016-09-01",142,109,2
-"Máirín Duffy","duffy!redhat.com","Red Hat","2017-03-01",330,0,2
-"Crazykev","crazykev!zju.edu.cn","Self","2016-11-01",605,62,5
-"Matthew Heon","mheon!redhat.com","Red Hat","2017-04-01",4,2,1
-"Dan Williams","dcbw!redhat.com","Red Hat","2017-05-01",122,44,1
-"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-02-01",416,139,4
-"Mrunal Patel","mrunalp!gmail.com","Red Hat","2017-01-01",1469,989,5
-"Mrunal Patel","mrunalp!gmail.com","Red Hat","2016-08-01",4714,691,44
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-05-01",1226,1226,1
-"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-04-01",2489,1738,10
-"Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-06-01",1277,342,6
-"Jonathan Yu","jawnsy!redhat.com","Red Hat","2017-02-01",7,0,1
-"Johnny Bieren","jbieren!redhat.com","Red Hat","2017-05-01",1034,929,1
-"Samuel Ortiz","sameo!linux.intel.com","Intel","2016-12-01",1773,416,14
-"Haiyan Meng","hmeng!redhat.com","Red Hat","2016-07-01",2831,257,5
-"Xianglin Gao","xlgao!zju.edu.cn","Self","2016-11-01",1427,183,4
-"Jonathan Yu","jawnsy!redhat.com","Red Hat","2017-01-01",278,272,4
-"Qiang Huang","h.huangqiang!huawei.com","Huawei","2016-10-01",1,1,1
-"Yu-Ju Hong","yjhong!google.com","Google","2017-01-01",0,1,1
-"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-07-01",17,8,3
-"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2017-01-01",16,10,2
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-07-01",1423,491,3
-"Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-02-01",166,127,6
-"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2016-10-01",3988,1499,5
-"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-04-01",5979,5874,4
-"CuiHaozhi","cuihz!wise2c.com","Wise2c","2017-07-01",25,3,2
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-01-01",515,202,10
-"Ryan Cole","rcyoalne!gmail.com","Self","2017-07-01",2329,746,7
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2016-12-01",497,7,1
-"Matthew Heon","mheon!redhat.com","Red Hat","2016-11-01",152,1,1
-"Mrunal Patel","mpatel!redhat.com","Red Hat","2016-11-01",1408,83,10
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2016-10-01",744,243,14
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-11-01",13159,7552,8
-"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-01-01",1188,41,5
-"Shaya Potter","spotter!gmail.com","appOrbit","2016-09-01",43,5,1
-"Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-03-01",1495,1487,2
-"Michał Żyłowski","michal.zylowski!intel.com","Intel","2017-02-01",1116,1447,3
-"Vincent Batts","vbatts!hashbangbash.com","Red Hat","2016-12-01",245,78,3
-"Gianni Salinetti","gbsalinetti!extraordy.com","Extraordy","2017-05-01",9,9,1
-"Mrunal Patel","mpatel!redhat.com","Red Hat","2016-12-01",691,86,8
-"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2016-10-01",4221,1137,19
-"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2016-11-01",3770,14,4
-"Tobias Klauser","tobias.klauser!gmail.com","Self","2017-07-01",23,57,2
-"Mike Brown","brownwm!us.ibm.com","IBM","2017-01-01",3,1,1
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-03-01",2369,2124,10
-"Ryan Cole","rcyoalne!gmail.com","Self","2017-06-01",23871,1467,4
-"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-02-01",3,77,3
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-10-01",1231,83,12
-"Jonathan Yu","jawnsy!redhat.com","Red Hat","2017-03-01",212,55,1
-"Xianglin Gao","xlgao!zju.edu.cn","Self","2016-12-01",869,316,5
-"Rajat Chopra","rchopra!redhat.com","Red Hat","2016-09-01",277,5,1
-"Tobias Klauser","tobias.klauser!gmail.com","Self","2017-06-01",49,121,3
-"Ryan Cole","rcyoalne!gmail.com","Self","2016-10-01",10,6,2
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-12-01",2114,610,21
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-06-01",53,26,3
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-02-01",9,9,1
-"YaoZengzeng","yaozengzeng!zju.edu.cn","Self","2016-10-01",127,24,2
-"Suraj Deshmukh","surajssd009005!gmail.com","Red Hat","2017-03-01",37,6,2
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-02-01",1101,1101,2
-"Mrunal Patel","mrunal!me.com","Red Hat","2016-06-01",1637,7,2
-"Lai Jiangshan","jiangshanlai!gmail.com","Hyper.sh","2016-10-01",5,7,2
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-08-01",46,5,1
-"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2017-03-01",1247,845,3
-"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2016-12-01",170,106,2
-"umohnani8","umohnani!redhat.com","Red Hat","2017-07-01",446,72,3
-"Mrunal Patel","mpatel!redhat.com","Red Hat","2016-10-01",3942,748,39
-"Rajat Chopra","rchopra!redhat.com","Red Hat","2017-01-01",10,11,1
-"Rajat Chopra","rchopra!redhat.com","Red Hat","2016-08-01",0,3,1
-"Harry Zhang","harryz!hyper.sh","Hyper.sh","2016-12-01",40,3,1
-"Matthew Heon","mheon!redhat.com","Red Hat","2017-05-01",5,5,2
-"Pengfei Ni","feiskyer!gmail.com","Hyper.sh","2017-03-01",6,2,2
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-06-01",3186,4600,26
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-04-01",1731,1307,9
-"Matthew Heon","mheon!redhat.com","Red Hat","2017-07-01",20,2,2
-"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2017-02-01",4052,1841,5
-"Vishnu kannan","vishnuk!google.com","Google","2016-09-01",266,6,2
-"Samuel Ortiz","sameo!linux.intel.com","Intel","2016-11-01",1088,83,5
-"umohnani8","umohnani!redhat.com","Red Hat","2017-06-01",764,3,2
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-07-01",313,367,3
-"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2017-01-01",695,2,2
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-09-01",10272,6757,60
-"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-03-01",1688,1340,8
-"Lorenzo Fontana","fontanalorenz!gmail.com","kiratech","2017-02-01",1,0,1
-"Sebastien Boeuf","sebastien.boeuf!intel.com","Intel","2017-06-01",4,1,1
-"Crazykev","crazykev!zju.edu.cn","Self","2016-12-01",91,17,2
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-05-01",14289,10929,60
-"Dan Williams","dcbw!redhat.com","Red Hat","2017-03-01",295,55,2
-"Mrunal Patel","mrunalp!gmail.com","Red Hat","2016-07-01",1344,437,10
-"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-05-01",3684,93,22
-"Jonathan Yu","jawnsy!redhat.com","Red Hat","2016-09-01",82,76,3
-"Mrunal Patel","mrunalp!gmail.com","Red Hat","2017-02-01",42,32,1
-"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2016-11-01",176,141,2
-"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-05-01",29,0,1
-"Mike Brown","brownwm!us.ibm.com","IBM","2016-10-01",263,233,7
-"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-04-01",675,284,9
-"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2017-03-01",9,9,1
-"Suraj Deshmukh","surajssd009005!gmail.com","Red Hat","2017-04-01",82,1,2
-"Vincent Batts","vbatts!hashbangbash.com","Red Hat","2017-04-01",612,598,3
-"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-06-01",806,39,20
-"Vincent Batts","vbatts!hashbangbash.com","Red Hat","2017-06-01",9,0,1
-"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-07-01",140,29,1
-"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-01-01",767,83,7
-"Gao feng","omarapazanadi!gmail.com","Fujitsu","2016-10-01",104,119,1
-"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2016-09-01",382,6,2
-"Crazykev","crazykev!zju.edu.cn","Self","2016-10-01",1071,510,6
-"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2016-12-01",1537,2,3
-"Zhang Wei","zhangwei555!huawei.com","Huawei","2016-11-01",2,0,1
-"Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-07-01",6,0,1
-"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-03-01",2979,1567,17
-"Michal Rostecki","michal!kinvolk.io","CoreOS","2016-12-01",4,2,1
-"sarahnovotny","sarah.novotny!gmail.com","Google","2016-09-01",212,0,1
-"Haiyan Meng","hmeng!redhat.com","Red Hat","2016-08-01",2780,50,3
-"Vincent Batts","vbatts!hashbangbash.com","Red Hat","2017-07-01",1223,26,2
-"Mrunal Patel","mrunalp!gmail.com","Red Hat","2016-09-01",5161,1860,60
-"Clayton Coleman","ccoleman!redhat.com","Red Hat","2016-09-01",70,0,1
-"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-06-01",622,133,8
-"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-07-01",602,153,13
-"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2017-04-01",1203,536,10
-"Alexander Larsson","alexl!redhat.com","Red Hat","2017-06-01",6215,4616,31
-"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2016-12-01",133,0,1
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-03-01",35,0,35,1
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-01-01",66,41,66,2
+"Pengfei Ni","feiskyer!gmail.com","Hyper.sh","2016-11-01",9,9,9,1
+"Malhar Vora","mlvora.2010!gmail.com","Seagate","2017-02-01",1,1,1,1
+"Xianglin Gao","xlgao!zju.edu.cn","Self","2017-01-01",8,105,105,2
+"Alvaro Lopez Ortega","alvaro!gnu.org","GNU","2016-09-01",142,109,142,2
+"Máirín Duffy","duffy!redhat.com","Red Hat","2017-03-01",330,0,330,2
+"Crazykev","crazykev!zju.edu.cn","Self","2016-11-01",605,62,605,5
+"Matthew Heon","mheon!redhat.com","Red Hat","2017-04-01",4,2,4,1
+"Dan Williams","dcbw!redhat.com","Red Hat","2017-05-01",122,44,122,1
+"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-02-01",416,139,416,4
+"Mrunal Patel","mrunalp!gmail.com","Red Hat","2017-01-01",1469,989,2430,5
+"Mrunal Patel","mrunalp!gmail.com","Red Hat","2016-08-01",4714,691,4739,44
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-05-01",1226,1226,1226,1
+"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-04-01",2489,1738,2489,10
+"Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-06-01",1277,342,1406,6
+"Jonathan Yu","jawnsy!redhat.com","Red Hat","2017-02-01",7,0,7,1
+"Johnny Bieren","jbieren!redhat.com","Red Hat","2017-05-01",1034,929,1034,1
+"Samuel Ortiz","sameo!linux.intel.com","Intel","2016-12-01",1773,416,1937,14
+"Haiyan Meng","hmeng!redhat.com","Red Hat","2016-07-01",2831,257,2866,5
+"Xianglin Gao","xlgao!zju.edu.cn","Self","2016-11-01",1427,183,1427,4
+"Jonathan Yu","jawnsy!redhat.com","Red Hat","2017-01-01",278,272,283,4
+"Qiang Huang","h.huangqiang!huawei.com","Huawei","2016-10-01",1,1,1,1
+"Yu-Ju Hong","yjhong!google.com","Google","2017-01-01",0,1,1,1
+"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-07-01",17,8,19,3
+"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2017-01-01",16,10,16,2
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-07-01",1423,491,1423,3
+"Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-02-01",166,127,166,6
+"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2016-10-01",3988,1499,3988,5
+"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-04-01",5979,5874,6051,4
+"CuiHaozhi","cuihz!wise2c.com","Wise2c","2017-07-01",25,3,25,2
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-01-01",515,202,701,10
+"Ryan Cole","rcyoalne!gmail.com","Self","2017-07-01",2329,746,2342,7
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2016-12-01",497,7,497,1
+"Matthew Heon","mheon!redhat.com","Red Hat","2016-11-01",152,1,152,1
+"Mrunal Patel","mpatel!redhat.com","Red Hat","2016-11-01",1408,83,1408,10
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2016-10-01",744,243,745,14
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-11-01",13159,7552,13159,8
+"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-01-01",1188,41,1188,5
+"Shaya Potter","spotter!gmail.com","appOrbit","2016-09-01",43,5,43,1
+"Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-03-01",1495,1487,1495,2
+"Michał Żyłowski","michal.zylowski!intel.com","Intel","2017-02-01",1116,1447,1451,3
+"Vincent Batts","vbatts!hashbangbash.com","Red Hat","2016-12-01",245,78,248,3
+"Gianni Salinetti","gbsalinetti!extraordy.com","Extraordy","2017-05-01",9,9,9,1
+"Mrunal Patel","mpatel!redhat.com","Red Hat","2016-12-01",691,86,702,8
+"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2016-10-01",4221,1137,4224,19
+"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2016-11-01",3770,14,3770,4
+"Tobias Klauser","tobias.klauser!gmail.com","Self","2017-07-01",23,57,57,2
+"Mike Brown","brownwm!us.ibm.com","IBM","2017-01-01",3,1,3,1
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-03-01",2369,2124,2382,10
+"Ryan Cole","rcyoalne!gmail.com","Self","2017-06-01",23871,1467,23871,4
+"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2017-02-01",3,77,78,3
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-10-01",1231,83,1231,12
+"Jonathan Yu","jawnsy!redhat.com","Red Hat","2017-03-01",212,55,212,1
+"Xianglin Gao","xlgao!zju.edu.cn","Self","2016-12-01",869,316,886,5
+"Rajat Chopra","rchopra!redhat.com","Red Hat","2016-09-01",277,5,277,1
+"Tobias Klauser","tobias.klauser!gmail.com","Self","2017-06-01",49,121,121,3
+"Ryan Cole","rcyoalne!gmail.com","Self","2016-10-01",10,6,10,2
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-12-01",2114,610,2380,21
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-06-01",53,26,53,3
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-02-01",9,9,9,1
+"YaoZengzeng","yaozengzeng!zju.edu.cn","Self","2016-10-01",127,24,127,2
+"Suraj Deshmukh","surajssd009005!gmail.com","Red Hat","2017-03-01",37,6,37,2
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-02-01",1101,1101,1105,2
+"Mrunal Patel","mrunal!me.com","Red Hat","2016-06-01",1637,7,1644,2
+"Lai Jiangshan","jiangshanlai!gmail.com","Hyper.sh","2016-10-01",5,7,7,2
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-08-01",46,5,46,1
+"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2017-03-01",1247,845,1247,3
+"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2016-12-01",170,106,170,2
+"umohnani8","umohnani!redhat.com","Red Hat","2017-07-01",446,72,514,3
+"Mrunal Patel","mpatel!redhat.com","Red Hat","2016-10-01",3942,748,4368,39
+"Rajat Chopra","rchopra!redhat.com","Red Hat","2017-01-01",10,11,11,1
+"Rajat Chopra","rchopra!redhat.com","Red Hat","2016-08-01",0,3,3,1
+"Harry Zhang","harryz!hyper.sh","Hyper.sh","2016-12-01",40,3,40,1
+"Matthew Heon","mheon!redhat.com","Red Hat","2017-05-01",5,5,5,2
+"Pengfei Ni","feiskyer!gmail.com","Hyper.sh","2017-03-01",6,2,6,2
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-06-01",3186,4600,6741,26
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-04-01",1731,1307,1841,9
+"Matthew Heon","mheon!redhat.com","Red Hat","2017-07-01",20,2,20,2
+"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2017-02-01",4052,1841,4052,5
+"Vishnu kannan","vishnuk!google.com","Google","2016-09-01",266,6,266,2
+"Samuel Ortiz","sameo!linux.intel.com","Intel","2016-11-01",1088,83,1088,5
+"umohnani8","umohnani!redhat.com","Red Hat","2017-06-01",764,3,764,2
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2017-07-01",313,367,604,3
+"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2017-01-01",695,2,695,2
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2016-09-01",10272,6757,10916,60
+"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-03-01",1688,1340,1708,8
+"Lorenzo Fontana","fontanalorenz!gmail.com","kiratech","2017-02-01",1,0,1,1
+"Sebastien Boeuf","sebastien.boeuf!intel.com","Intel","2017-06-01",4,1,4,1
+"Crazykev","crazykev!zju.edu.cn","Self","2016-12-01",91,17,99,2
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-05-01",14289,10929,14513,60
+"Dan Williams","dcbw!redhat.com","Red Hat","2017-03-01",295,55,295,2
+"Mrunal Patel","mrunalp!gmail.com","Red Hat","2016-07-01",1344,437,1375,10
+"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-05-01",3684,93,3684,22
+"Jonathan Yu","jawnsy!redhat.com","Red Hat","2016-09-01",82,76,94,3
+"Mrunal Patel","mrunalp!gmail.com","Red Hat","2017-02-01",42,32,42,1
+"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2016-11-01",176,141,316,2
+"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-05-01",29,0,29,1
+"Mike Brown","brownwm!us.ibm.com","IBM","2016-10-01",263,233,385,7
+"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-04-01",675,284,771,9
+"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2017-03-01",9,9,9,1
+"Suraj Deshmukh","surajssd009005!gmail.com","Red Hat","2017-04-01",82,1,82,2
+"Vincent Batts","vbatts!hashbangbash.com","Red Hat","2017-04-01",612,598,612,3
+"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-06-01",806,39,807,20
+"Vincent Batts","vbatts!hashbangbash.com","Red Hat","2017-06-01",9,0,9,1
+"Antonio Murdaca","runcom!redhat.com","Red Hat","2017-07-01",140,29,140,1
+"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-01-01",767,83,786,7
+"Gao feng","omarapazanadi!gmail.com","Fujitsu","2016-10-01",104,119,119,1
+"Daniel J Walsh","dwalsh!redhat.com","Red Hat","2016-09-01",382,6,382,2
+"Crazykev","crazykev!zju.edu.cn","Self","2016-10-01",1071,510,1071,6
+"Nalin Dahyabhai","nalin!redhat.com","Red Hat","2016-12-01",1537,2,1537,3
+"Zhang Wei","zhangwei555!huawei.com","Huawei","2016-11-01",2,0,2,1
+"Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-07-01",6,0,6,1
+"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-03-01",2979,1567,3063,17
+"Michal Rostecki","michal!kinvolk.io","CoreOS","2016-12-01",4,2,4,1
+"sarahnovotny","sarah.novotny!gmail.com","Google","2016-09-01",212,0,212,1
+"Haiyan Meng","hmeng!redhat.com","Red Hat","2016-08-01",2780,50,2818,3
+"Vincent Batts","vbatts!hashbangbash.com","Red Hat","2017-07-01",1223,26,1223,2
+"Mrunal Patel","mrunalp!gmail.com","Red Hat","2016-09-01",5161,1860,6801,60
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2016-09-01",70,0,70,1
+"Samuel Ortiz","sameo!linux.intel.com","Intel","2017-06-01",622,133,625,8
+"Mrunal Patel","mpatel!redhat.com","Red Hat","2017-07-01",602,153,631,13
+"Aleksa Sarai","asarai!suse.de","SUSE/Novell","2017-04-01",1203,536,1247,10
+"Alexander Larsson","alexl!redhat.com","Red Hat","2017-06-01",6215,4616,6692,31
+"Jacek J. Łakis","jacek.lakis!intel.com","Intel","2016-12-01",133,0,133,1

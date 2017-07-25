@@ -1,31 +1,31 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Ajit Kumar","kumaraji!google.com","Google","2017-06-01",24,4,1
-"Andy Xie","andy.xning!gmail.com","Self","2017-02-01",589,400,5
-"Random-Liu","lantaol!google.com","Google","2017-02-01",2413,855,6
-"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-11-01",16,6,1
-"Random-Liu","lantaol!google.com","Google","2017-05-01",25,129,1
-"Random-Liu","lantaol!google.com","Google","2016-06-01",1813,608,6
-"thecantero","thecantero!users.noreply.github.com","NotFound","2016-12-01",1,1,1
-"Euan Kemp","euan.kemp!coreos.com","CoreOS","2017-03-01",1480,53,3
-"Random-Liu","lantaol!google.com","Google","2017-06-01",23,1,2
-"Shyam Jeedigunta","shyamjvs!google.com","Google","2017-01-01",1,1,1
-"Andy Xie","andy.xning!gmail.com","Self","2016-12-01",229,72,5
-"Random-Liu","lantaol!google.com","Google","2017-01-01",1603,327,8
-"Random-Liu","lantaol!google.com","Google","2016-08-01",185,142,2
-"fate-grand-order","chenjg!harmonycloud.cn","HarmonyCloud","2017-02-01",1,1,1
-"Random-Liu","lantaol!google.com","Google","2017-03-01",480,84,2
-"fate-grand-order","chenjg!harmonycloud.cn","HarmonyCloud","2017-01-01",2,2,2
-"Random-Liu","lantaol!google.com","Google","2016-05-01",9881,1800,4
-"Julius Milan","jmilan!redhat.com","Red Hat","2017-03-01",87,0,1
-"Amanpreet Singh","aps.sids!gmail.com","Codigami","2017-01-01",30,6,1
-"Johannes Scheuermann","johannes.scheuermann!inovex.de","Inovex","2016-09-01",1,1,1
-"Xiaoyu Zhang","zhang.xiaoyu33!zte.com.cn","ZTE Corporation","2017-03-01",1,0,1
-"Random-Liu","lantaol!google.com","Google","2016-11-01",2731,1581,3
-"Dawn Chen","dawnchen!google.com","Google","2016-05-01",218,0,1
-"Random-Liu","lantaol!google.com","Google","2016-12-01",1,1,1
-"Lantao Liu","taotaotheripper!gmail.com","Google","2016-08-01",47,47,1
-"AdoHe","coolhzb!163.com","Net EASE 网易有态度","2016-10-01",447,156,5
-"Julius Milan","jmilan!redhat.com","Red Hat","2017-05-01",107,48,2
-"Girish Kalele","gkalele!google.com","Google","2016-06-01",906,0,2
-"Andy Xie","andy.xning!gmail.com","Self","2017-01-01",149,54,2
-"Random-Liu","lantaol!google.com","Google","2016-09-01",221,400,3
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Ajit Kumar","kumaraji!google.com","Google","2017-06-01",24,4,24,1
+"Andy Xie","andy.xning!gmail.com","Self","2017-02-01",589,400,589,5
+"Random-Liu","lantaol!google.com","Google","2017-02-01",2413,855,2413,6
+"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-11-01",16,6,16,1
+"Random-Liu","lantaol!google.com","Google","2017-05-01",25,129,129,1
+"Random-Liu","lantaol!google.com","Google","2016-06-01",1813,608,1857,6
+"thecantero","thecantero!users.noreply.github.com","NotFound","2016-12-01",1,1,1,1
+"Euan Kemp","euan.kemp!coreos.com","CoreOS","2017-03-01",1480,53,1480,3
+"Random-Liu","lantaol!google.com","Google","2017-06-01",23,1,23,2
+"Shyam Jeedigunta","shyamjvs!google.com","Google","2017-01-01",1,1,1,1
+"Andy Xie","andy.xning!gmail.com","Self","2016-12-01",229,72,262,5
+"Random-Liu","lantaol!google.com","Google","2017-01-01",1603,327,1603,8
+"Random-Liu","lantaol!google.com","Google","2016-08-01",185,142,209,2
+"fate-grand-order","chenjg!harmonycloud.cn","HarmonyCloud","2017-02-01",1,1,1,1
+"Random-Liu","lantaol!google.com","Google","2017-03-01",480,84,480,2
+"fate-grand-order","chenjg!harmonycloud.cn","HarmonyCloud","2017-01-01",2,2,2,2
+"Random-Liu","lantaol!google.com","Google","2016-05-01",9881,1800,11260,4
+"Julius Milan","jmilan!redhat.com","Red Hat","2017-03-01",87,0,87,1
+"Amanpreet Singh","aps.sids!gmail.com","Codigami","2017-01-01",30,6,30,1
+"Johannes Scheuermann","johannes.scheuermann!inovex.de","Inovex","2016-09-01",1,1,1,1
+"Xiaoyu Zhang","zhang.xiaoyu33!zte.com.cn","ZTE Corporation","2017-03-01",1,0,1,1
+"Random-Liu","lantaol!google.com","Google","2016-11-01",2731,1581,2731,3
+"Dawn Chen","dawnchen!google.com","Google","2016-05-01",218,0,218,1
+"Random-Liu","lantaol!google.com","Google","2016-12-01",1,1,1,1
+"Lantao Liu","taotaotheripper!gmail.com","Google","2016-08-01",47,47,47,1
+"AdoHe","coolhzb!163.com","Net EASE 网易有态度","2016-10-01",447,156,472,5
+"Julius Milan","jmilan!redhat.com","Red Hat","2017-05-01",107,48,107,2
+"Girish Kalele","gkalele!google.com","Google","2016-06-01",906,0,906,2
+"Andy Xie","andy.xning!gmail.com","Self","2017-01-01",149,54,149,2
+"Random-Liu","lantaol!google.com","Google","2016-09-01",221,400,435,3

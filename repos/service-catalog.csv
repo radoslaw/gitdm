@@ -1,102 +1,102 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Doug Davis","dug!us.ibm.com","IBM","2017-01-01",4713,652,19
-"Ville Aikas","vaikas!google.com","Google","2017-04-01",12007,7515,6
-"Doug Davis","dug!us.ibm.com","IBM","2017-06-01",6,6,1
-"Richard Fung","richardfung!google.com","Google","2017-02-01",22,11,2
-"Doug Davis","dug!us.ibm.com","IBM","2017-05-01",11,642,1
-"Doug Davis","dug!us.ibm.com","IBM","2016-12-01",1724,1839,14
-"Brendan Melville","bmelville!google.com","Google","2016-11-01",290,203,4
-"Paul Morie","pmorie!redhat.com","Red Hat","2017-02-01",19203,9749,29
-"Mikhail Mazurskiy","126021+ash2k!users.noreply.github.com","(Unknown)","2017-07-01",2869,724,1
-"Aaron Schlesinger","arschles!gmail.com","Microsoft","2016-10-01",222,0,1
-"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2017-07-01",77,23,1
-"Ville Aikas","vaikas-google!users.noreply.github.com","Google","2017-03-01",7019,8007,6
-"Ville Aikas","vaikas-google!users.noreply.github.com","Google","2017-05-01",1459,11,3
-"Paul Morie","pmorie!redhat.com","Red Hat","2016-11-01",903,119,3
-"Solly Ross","directxman12+github!gmail.com","Red Hat","2017-06-01",40,1,1
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-02-01",32450,19925,18
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-07-01",1496,207,10
-"Doug Davis","dug!us.ibm.com","IBM","2017-02-01",696,176,5
-"Paul Morie","pmorie!redhat.com","Red Hat","2016-10-01",380,43,3
-"hchenxa","chairmanhh1986!gmail.com","NotFound","2017-04-01",9,9,1
-"Ville Aikas","vaikas!google.com","Google","2017-02-01",6133,4107,5
-"Solly Ross","sross!redhat.com","Red Hat","2017-04-01",2709,194,3
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-01-01",3674,113,12
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2016-12-01",2253,148,4
-"Michael Kibbe","mkibbe!google.com","Google","2016-11-01",303,68,1
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-06-01",1831,118,4
-"Aaron Schlesinger","arschles!gmail.com","Microsoft","2017-03-01",2526,413,21
-"Aaron Schlesinger","arschles!gmail.com","Microsoft","2017-01-01",7999,5346,7
-"Kent Rancourt","krancour!users.noreply.github.com","Microsoft","2016-12-01",22,19,2
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-03-01",1155,290,7
-"Michael Kibbe","mkibbe!google.com","Google","2016-12-01",1472,570,9
-"Richard Fung","richardfung!google.com","Google","2017-01-01",3309,946,18
-"Paul Morie","pmorie!redhat.com","Red Hat","2017-04-01",17715,13331,25
-"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-03-01",5474,1485,5
-"DeShuai Ma","dma!redhat.com","Red Hat","2017-05-01",1630,214,1
-"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-01-01",61008,135,1
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-04-01",900,169,7
-"Paul Morie","pmorie!redhat.com","Red Hat","2016-09-01",1433,65,8
-"Kent Rancourt","kent!deis.com","Microsoft","2016-11-01",229,5582,5
-"Paul Morie","pmorie!redhat.com","Red Hat","2017-05-01",23924,21937,18
-"Nail Islamov","nislamov!atlassian.com","Atlassian","2017-07-01",1786,177,3
-"Aaron Schlesinger","aaron!deis.com","Microsoft","2017-02-01",12500,2280,17
-"Álex González","agonzalezro!gmail.com","jobandtalent","2017-05-01",13,15,1
-"Michael Kibbe","kibbles-n-bytes!users.noreply.github.com","Google","2017-07-01",127,141,3
-"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-02-01",2208,12,3
-"Doug Davis","dug!us.ibm.com","IBM","2016-09-01",652,1034,3
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-05-01",427,429,5
-"Juan Vallejo","jvallejo!redhat.com","Red Hat","2017-02-01",34819,2,2
-"Marko Lukša","marko.luksa!gmail.com","Red Hat","2017-03-01",114,13,3
-"Aaron Schlesinger","arschles!gmail.com","Microsoft","2017-06-01",4407,401,4
-"Martin Maly","mmaly!google.com","Google","2016-11-01",40421,757,10
-"Paul Morie","pmorie!redhat.com","Red Hat","2016-12-01",2915,839,16
-"Marko Lukša","marko.luksa!gmail.com","Red Hat","2017-04-01",609,129,3
-"Michael Kibbe","kibbles-n-bytes!users.noreply.github.com","Google","2017-05-01",1458,13,2
-"Jessica Forrester","jforrest!redhat.com","Red Hat","2017-03-01",14,0,1
-"Kent Rancourt","krancour!users.noreply.github.com","Microsoft","2017-03-01",10296,2878,9
-"Kent Rancourt","kent.rancourt!microsoft.com","Microsoft","2017-06-01",3,2,1
-"Paul Morie","pmorie!redhat.com","Red Hat","2017-03-01",27602,39877,35
-"Paul Morie","pmorie!redhat.com","Red Hat","2017-01-01",3615,579,13
-"Vineet Kumar","vineet!doorstop.net","Google","2017-01-01",1,1,1
-"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-04-01",22102,35774,14
-"Nail Islamov","nislamov!atlassian.com","Atlassian","2017-06-01",25,7,1
-"Aaron Schlesinger","aaschles!microsoft.com","Microsoft","2017-07-01",346,103,5
-"Marko Lukša","marko.luksa!gmail.com","Red Hat","2017-02-01",209,50,7
-"Michael Kibbe","mkibbe!google.com","Google","2017-03-01",1316,2936,5
-"Jason Hansen","jason!slack.io","Microsoft","2016-10-01",1215,521,3
-"Paul Morie","pmorie!redhat.com","Red Hat","2017-07-01",5673,5715,3
-"Michael Kibbe","kibbles-n-bytes!users.noreply.github.com","Google","2017-06-01",49,5,3
-"Aaron Schlesinger","arschles!gmail.com","Microsoft","2017-05-01",8238,1500,31
-"Doug Davis","duglin!users.noreply.github.com","IBM","2016-11-01",13,0,1
-"Marko Lukša","marko.luksa!gmail.com","Red Hat","2017-05-01",872,760,1
-"Jay Judkowitz","judkowitz!google.com","Google","2016-12-01",1031,0,2
-"Kent Rancourt","kent!deis.com","Microsoft","2017-02-01",2520,227,13
-"Kent Rancourt","kent!deis.com","Microsoft","2017-04-01",4250,4724,15
-"Phillip Wittrock","pwittroc!google.com","Google","2016-11-01",331,0,1
-"Antoine Pelisse","apelisse!google.com","Google","2017-04-01",132,3,1
-"Michael Kibbe","mkibbe!google.com","Google","2017-01-01",2852,240,6
-"Álex González","agonzalezro!gmail.com","jobandtalent","2017-03-01",4,0,1
-"Kent Rancourt","kent.rancourt!microsoft.com","Microsoft","2017-05-01",4115,3688,9
-"Paul Morie","pmorie!redhat.com","Red Hat","2017-06-01",11502,6227,12
-"Jason Hansen","jhansen!deis.com","Microsoft","2016-11-01",95,6,1
-"Aaron Schlesinger","arschles!gmail.com","Microsoft","2016-12-01",2045,2029,20
-"Seth Jennings","sjenning!redhat.com","Red Hat","2017-05-01",231,32,1
-"Aaron Schlesinger","aaschles!microsoft.com","Microsoft","2017-04-01",5114,302,21
-"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-07-01",2348,73,3
-"Guang Ya Liu","gyliu513!gmail.com","IBM","2017-04-01",5,0,1
-"Martin Maly","mmaly!google.com","Google","2016-12-01",957,1134,9
-"Doug Davis","dug!us.ibm.com","IBM","2017-03-01",5,5,1
-"Simon Leung","leungs!us.ibm.com","IBM","2017-03-01",3211,337,8
-"Brendan Melville","bmelville!google.com","Google","2016-12-01",3517,2900,8
-"Derek Carr","decarr!redhat.com","Red Hat","2017-06-01",1882,664,3
-"Derek Carr","decarr!redhat.com","Red Hat","2017-04-01",2970,13,2
-"sarahnovotny","sarah.novotny!gmail.com","Google","2016-09-01",205,0,1
-"Doug Davis","dug!us.ibm.com","IBM","2017-07-01",5850,5670,4
-"Derek Carr","decarr!redhat.com","Red Hat","2017-05-01",8266,8092,2
-"Dan Wilson","emaildanwilson!gmail.com","Concur","2017-07-01",41,1,1
-"Michael Kibbe","mkibbe!google.com","Google","2017-04-01",722,139,6
-"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-06-01",650,4,2
-"Aaron Schlesinger","arschles!gmail.com","Microsoft","2016-11-01",544,170,3
-"Seth Jennings","sjenning!redhat.com","Red Hat","2017-04-01",3775,262,2
-"Kent Rancourt","kent!deis.com","Microsoft","2017-01-01",2928,2639,16
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Doug Davis","dug!us.ibm.com","IBM","2017-01-01",4713,652,5005,19
+"Ville Aikas","vaikas!google.com","Google","2017-04-01",12007,7515,15437,6
+"Doug Davis","dug!us.ibm.com","IBM","2017-06-01",6,6,6,1
+"Richard Fung","richardfung!google.com","Google","2017-02-01",22,11,22,2
+"Doug Davis","dug!us.ibm.com","IBM","2017-05-01",11,642,642,1
+"Doug Davis","dug!us.ibm.com","IBM","2016-12-01",1724,1839,2456,14
+"Brendan Melville","bmelville!google.com","Google","2016-11-01",290,203,294,4
+"Paul Morie","pmorie!redhat.com","Red Hat","2017-02-01",19203,9749,19899,29
+"Mikhail Mazurskiy","126021+ash2k!users.noreply.github.com","(Unknown)","2017-07-01",2869,724,2869,1
+"Aaron Schlesinger","arschles!gmail.com","Microsoft","2016-10-01",222,0,222,1
+"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2017-07-01",77,23,77,1
+"Ville Aikas","vaikas-google!users.noreply.github.com","Google","2017-03-01",7019,8007,10474,6
+"Ville Aikas","vaikas-google!users.noreply.github.com","Google","2017-05-01",1459,11,1459,3
+"Paul Morie","pmorie!redhat.com","Red Hat","2016-11-01",903,119,903,3
+"Solly Ross","directxman12+github!gmail.com","Red Hat","2017-06-01",40,1,40,1
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-02-01",32450,19925,52249,18
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-07-01",1496,207,1496,10
+"Doug Davis","dug!us.ibm.com","IBM","2017-02-01",696,176,703,5
+"Paul Morie","pmorie!redhat.com","Red Hat","2016-10-01",380,43,395,3
+"hchenxa","chairmanhh1986!gmail.com","NotFound","2017-04-01",9,9,9,1
+"Ville Aikas","vaikas!google.com","Google","2017-02-01",6133,4107,7683,5
+"Solly Ross","sross!redhat.com","Red Hat","2017-04-01",2709,194,2736,3
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-01-01",3674,113,3678,12
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2016-12-01",2253,148,2257,4
+"Michael Kibbe","mkibbe!google.com","Google","2016-11-01",303,68,303,1
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-06-01",1831,118,1831,4
+"Aaron Schlesinger","arschles!gmail.com","Microsoft","2017-03-01",2526,413,2551,21
+"Aaron Schlesinger","arschles!gmail.com","Microsoft","2017-01-01",7999,5346,8077,7
+"Kent Rancourt","krancour!users.noreply.github.com","Microsoft","2016-12-01",22,19,35,2
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-03-01",1155,290,1175,7
+"Michael Kibbe","mkibbe!google.com","Google","2016-12-01",1472,570,1481,9
+"Richard Fung","richardfung!google.com","Google","2017-01-01",3309,946,3661,18
+"Paul Morie","pmorie!redhat.com","Red Hat","2017-04-01",17715,13331,21121,25
+"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-03-01",5474,1485,5474,5
+"DeShuai Ma","dma!redhat.com","Red Hat","2017-05-01",1630,214,1630,1
+"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-01-01",61008,135,61008,1
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-04-01",900,169,904,7
+"Paul Morie","pmorie!redhat.com","Red Hat","2016-09-01",1433,65,1433,8
+"Kent Rancourt","kent!deis.com","Microsoft","2016-11-01",229,5582,5588,5
+"Paul Morie","pmorie!redhat.com","Red Hat","2017-05-01",23924,21937,27097,18
+"Nail Islamov","nislamov!atlassian.com","Atlassian","2017-07-01",1786,177,1786,3
+"Aaron Schlesinger","aaron!deis.com","Microsoft","2017-02-01",12500,2280,12570,17
+"Álex González","agonzalezro!gmail.com","jobandtalent","2017-05-01",13,15,15,1
+"Michael Kibbe","kibbles-n-bytes!users.noreply.github.com","Google","2017-07-01",127,141,219,3
+"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-02-01",2208,12,2208,3
+"Doug Davis","dug!us.ibm.com","IBM","2016-09-01",652,1034,1429,3
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-05-01",427,429,432,5
+"Juan Vallejo","jvallejo!redhat.com","Red Hat","2017-02-01",34819,2,34819,2
+"Marko Lukša","marko.luksa!gmail.com","Red Hat","2017-03-01",114,13,114,3
+"Aaron Schlesinger","arschles!gmail.com","Microsoft","2017-06-01",4407,401,4407,4
+"Martin Maly","mmaly!google.com","Google","2016-11-01",40421,757,40815,10
+"Paul Morie","pmorie!redhat.com","Red Hat","2016-12-01",2915,839,2951,16
+"Marko Lukša","marko.luksa!gmail.com","Red Hat","2017-04-01",609,129,609,3
+"Michael Kibbe","kibbles-n-bytes!users.noreply.github.com","Google","2017-05-01",1458,13,1458,2
+"Jessica Forrester","jforrest!redhat.com","Red Hat","2017-03-01",14,0,14,1
+"Kent Rancourt","krancour!users.noreply.github.com","Microsoft","2017-03-01",10296,2878,10324,9
+"Kent Rancourt","kent.rancourt!microsoft.com","Microsoft","2017-06-01",3,2,3,1
+"Paul Morie","pmorie!redhat.com","Red Hat","2017-03-01",27602,39877,53538,35
+"Paul Morie","pmorie!redhat.com","Red Hat","2017-01-01",3615,579,3901,13
+"Vineet Kumar","vineet!doorstop.net","Google","2017-01-01",1,1,1,1
+"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-04-01",22102,35774,45178,14
+"Nail Islamov","nislamov!atlassian.com","Atlassian","2017-06-01",25,7,25,1
+"Aaron Schlesinger","aaschles!microsoft.com","Microsoft","2017-07-01",346,103,346,5
+"Marko Lukša","marko.luksa!gmail.com","Red Hat","2017-02-01",209,50,212,7
+"Michael Kibbe","mkibbe!google.com","Google","2017-03-01",1316,2936,3102,5
+"Jason Hansen","jason!slack.io","Microsoft","2016-10-01",1215,521,1215,3
+"Paul Morie","pmorie!redhat.com","Red Hat","2017-07-01",5673,5715,5715,3
+"Michael Kibbe","kibbles-n-bytes!users.noreply.github.com","Google","2017-06-01",49,5,49,3
+"Aaron Schlesinger","arschles!gmail.com","Microsoft","2017-05-01",8238,1500,8501,31
+"Doug Davis","duglin!users.noreply.github.com","IBM","2016-11-01",13,0,13,1
+"Marko Lukša","marko.luksa!gmail.com","Red Hat","2017-05-01",872,760,872,1
+"Jay Judkowitz","judkowitz!google.com","Google","2016-12-01",1031,0,1031,2
+"Kent Rancourt","kent!deis.com","Microsoft","2017-02-01",2520,227,2551,13
+"Kent Rancourt","kent!deis.com","Microsoft","2017-04-01",4250,4724,7292,15
+"Phillip Wittrock","pwittroc!google.com","Google","2016-11-01",331,0,331,1
+"Antoine Pelisse","apelisse!google.com","Google","2017-04-01",132,3,132,1
+"Michael Kibbe","mkibbe!google.com","Google","2017-01-01",2852,240,2852,6
+"Álex González","agonzalezro!gmail.com","jobandtalent","2017-03-01",4,0,4,1
+"Kent Rancourt","kent.rancourt!microsoft.com","Microsoft","2017-05-01",4115,3688,6449,9
+"Paul Morie","pmorie!redhat.com","Red Hat","2017-06-01",11502,6227,12315,12
+"Jason Hansen","jhansen!deis.com","Microsoft","2016-11-01",95,6,95,1
+"Aaron Schlesinger","arschles!gmail.com","Microsoft","2016-12-01",2045,2029,3889,20
+"Seth Jennings","sjenning!redhat.com","Red Hat","2017-05-01",231,32,231,1
+"Aaron Schlesinger","aaschles!microsoft.com","Microsoft","2017-04-01",5114,302,5123,21
+"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-07-01",2348,73,2366,3
+"Guang Ya Liu","gyliu513!gmail.com","IBM","2017-04-01",5,0,5,1
+"Martin Maly","mmaly!google.com","Google","2016-12-01",957,1134,1635,9
+"Doug Davis","dug!us.ibm.com","IBM","2017-03-01",5,5,5,1
+"Simon Leung","leungs!us.ibm.com","IBM","2017-03-01",3211,337,3236,8
+"Brendan Melville","bmelville!google.com","Google","2016-12-01",3517,2900,4214,8
+"Derek Carr","decarr!redhat.com","Red Hat","2017-06-01",1882,664,1882,3
+"Derek Carr","decarr!redhat.com","Red Hat","2017-04-01",2970,13,2970,2
+"sarahnovotny","sarah.novotny!gmail.com","Google","2016-09-01",205,0,205,1
+"Doug Davis","dug!us.ibm.com","IBM","2017-07-01",5850,5670,5850,4
+"Derek Carr","decarr!redhat.com","Red Hat","2017-05-01",8266,8092,8266,2
+"Dan Wilson","emaildanwilson!gmail.com","Concur","2017-07-01",41,1,41,1
+"Michael Kibbe","mkibbe!google.com","Google","2017-04-01",722,139,771,6
+"Jeff Peeler","jpeeler!redhat.com","Red Hat","2017-06-01",650,4,650,2
+"Aaron Schlesinger","arschles!gmail.com","Microsoft","2016-11-01",544,170,544,3
+"Seth Jennings","sjenning!redhat.com","Red Hat","2017-04-01",3775,262,3775,2
+"Kent Rancourt","kent!deis.com","Microsoft","2017-01-01",2928,2639,3961,16

@@ -1,79 +1,79 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-05-01",55192,6032,30
-"Vishnu Kannan","vishnuk!google.com","Google","2015-06-01",22,0,2
-"Marek Biskup","biskup!google.com","Google","2015-07-01",302,93,2
-"Lukasz Zajaczkowski","lukasz.zajaczkowski!ts.fujitsu.com","Fujitsu","2016-08-01",1497,676,7
-"Eric Tune","etune!google.com","Google","2015-04-01",213,91,3
-"Mike Danese","mikedanese!google.com","Google","2016-04-01",2089,0,1
-"Andy Zheng","qzheng!google.com","Google","2016-02-01",33,1,1
-"Justin Santa Barbara","justin!fathomdb.com","Self","2017-05-01",496,2,1
-"Satnam Singh","satnam!google.com","Google","2015-04-01",0,8,1
-"Dai Zuozhuo","daizuozhuo!gmail.com","Amazon","2015-08-01",2,6,1
-"Andrew Basson","andrew.basson!gmail.com","Devops","2016-10-01",671,669,3
-"Yifan Gu","yifan.gu!coreos.com","CoreOS","2015-12-01",54,13,1
-"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-05-01",5357,0,1
-"Piotr Szczesniak","pszczesniak!google.com","Google","2015-07-01",1,1,1
-"Lars Mogren","lars.mogren!gmail.com","TheNatureOfSoftware","2016-07-01",3,0,1
-"saadali","saadali!google.com","Google","2015-06-01",24,0,2
-"saadali","saadali!google.com","Google","2015-05-01",22,4,1
-"Lukasz Zajaczkowski","lukasz.zajaczkowski!ts.fujitsu.com","Fujitsu","2016-05-01",42,10,2
-"Mike Danese","mikedanese!google.com","Google","2016-05-01",444,199,5
-"roblalonde","rlalonde!univa.com","Univa","2016-05-01",98,0,1
-"Christoph Held","christoph.held!est.fujitsu.com","Fujitsu","2016-05-01",16,2,2
-"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-07-01",750,522,1
-"Lukasz Zajaczkowski","lukasz.zajaczkowski!ts.fujitsu.com","Fujitsu","2016-07-01",1371,858,2
-"Mike Danese","mikedanese!google.com","Google","2016-03-01",240,370,2
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-09-01",3443,1265,8
-"Ivan Ilves","ivan.ilves!gmail.com","Schibsted","2016-08-01",19,2,2
-"Jonathan Boulle","jonathanboulle!gmail.com","NStack","2016-09-01",1,1,1
-"Brendan Burns","bburns!google.com","Google","2015-06-01",55,16,1
-"Justin Santa Barbara","justin!fathomdb.com","Self","2015-06-01",8,4,1
-"Arsen Mamikonyan","arsen!mamikonyan.am","Self","2015-12-01",1,1,1
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-01-01",4,0,1
-"Zach Loafman","zml!google.com","Google","2015-03-01",38,5,1
-"Muhammed Uluyol","uluyol!google.com","Google","2015-07-01",121,0,1
-"Ion Savin","comp_!gmx.net","Self","2016-06-01",30,29,3
-"bryk","bryk!google.com","Google","2016-01-01",2,2,1
-"Josh Ellithorpe","josh!apcera.com","Apcera","2016-01-01",2,0,1
-"Eric Tune","etune!google.com","Google","2015-03-01",279,4,1
-"Marek Biskup","biskup!google.com","Google","2015-06-01",2447,145,3
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-07-01",143,2,2
-"Cameron Brunner","brunner!univa.com","Univa","2017-01-01",73,98,1
-"Mike Danese","mikedanese!google.com","Google","2016-06-01",91,2311,2
-"Peter McDonnell","petermd!gmail.com","Donnerwood Media","2016-01-01",35,0,1
-"Zach Loafman","zml!google.com","Google","2015-06-01",6,5,1
-"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2017-04-01",0,5120,1
-"derekwaynecarr","decarr!redhat.com","Red Hat","2015-01-01",278,3,2
-"Prashanth Balasubramanian","beeps!google.com","Google","2015-10-01",11,0,1
-"Eric Paris","eparis!redhat.com","Red Hat","2015-05-01",3,2,1
-"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-08-01",610,1185,8
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-04-01",10444,0,1
-"Jeffrey Bean","jeffreyrobertbean!gmail.com","Docker","2015-06-01",1,1,1
-"Dawn Chen","dawnchen!google.com","Google","2015-05-01",66,0,1
-"Brendan Burns","bburns!google.com","Google","2015-10-01",5,1,1
-"Veres Lajos","vlajos!gmail.com","DrEd Online Doctor","2015-08-01",1,1,1
-"Kris Rousey","krousey!google.com","Google","2015-05-01",8,5,1
-"Abhishek Shah","abshah!google.com","Google","2015-03-01",21,2,1
-"Tim St. Clair","stclair!google.com","Google","2015-06-01",11,0,1
-"Robert Bailey","robertbailey!google.com","Google","2015-05-01",189,39,1
-"Muhammed Uluyol","uluyol!google.com","Google","2015-08-01",43,13,2
-"chrislovecnm","clove!cnmconsulting.net","CNM Consulting","2016-11-01",187,0,3
-"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-09-01",68,13,2
-"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-06-01",632,2010,3
-"Daniel Smith","dbsmith!google.com","Google","2015-06-01",42,0,1
-"Quintin Lee","qlee!google.com","Google","2016-03-01",10,5,2
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-10-01",2,0,1
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-03-01",45991,0,1
-"Satnam Singh","satnam!google.com","Google","2015-07-01",31,6,1
-"Dhawal Yogesh Bhanushali","dbhanushali!vmware.com","VMware","2016-01-01",1,1,1
-"Phạm Ngọc Quang Nam","nampnq!gmail.com","Easy Learn Code","2016-07-01",17,0,1
-"Jason Hansen","jhansen!deis.com","Microsoft","2016-06-01",4,4,2
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-12-01",496,2,1
-"Justin Santa Barbara","justin!fathomdb.com","Self","2015-07-01",9,3,2
-"Eric Paris","eparis!redhat.com","Red Hat","2015-06-01",5,2,2
-"CJ Cullen","cjcullen!google.com","Google","2015-04-01",22,47,1
-"Zach Loafman","zml!google.com","Google","2015-01-01",211,0,1
-"Shane Starcher","shanestarcher!gmail.com","Datapipe","2017-01-01",9,1,1
-"Ion Savin","comp_!gmx.net","Self","2016-07-01",16,1,1
-"Justin Santa Barbara","justin!fathomdb.com","Self","2016-06-01",74488,168915,111
-"nikhiljindal","nikhiljindal!google.com","Google","2015-06-01",2,2,1
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-05-01",55192,6032,56612,30
+"Vishnu Kannan","vishnuk!google.com","Google","2015-06-01",22,0,22,2
+"Marek Biskup","biskup!google.com","Google","2015-07-01",302,93,302,2
+"Lukasz Zajaczkowski","lukasz.zajaczkowski!ts.fujitsu.com","Fujitsu","2016-08-01",1497,676,1711,7
+"Eric Tune","etune!google.com","Google","2015-04-01",213,91,214,3
+"Mike Danese","mikedanese!google.com","Google","2016-04-01",2089,0,2089,1
+"Andy Zheng","qzheng!google.com","Google","2016-02-01",33,1,33,1
+"Justin Santa Barbara","justin!fathomdb.com","Self","2017-05-01",496,2,496,1
+"Satnam Singh","satnam!google.com","Google","2015-04-01",0,8,8,1
+"Dai Zuozhuo","daizuozhuo!gmail.com","Amazon","2015-08-01",2,6,6,1
+"Andrew Basson","andrew.basson!gmail.com","Devops","2016-10-01",671,669,936,3
+"Yifan Gu","yifan.gu!coreos.com","CoreOS","2015-12-01",54,13,54,1
+"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-05-01",5357,0,5357,1
+"Piotr Szczesniak","pszczesniak!google.com","Google","2015-07-01",1,1,1,1
+"Lars Mogren","lars.mogren!gmail.com","TheNatureOfSoftware","2016-07-01",3,0,3,1
+"saadali","saadali!google.com","Google","2015-06-01",24,0,24,2
+"saadali","saadali!google.com","Google","2015-05-01",22,4,22,1
+"Lukasz Zajaczkowski","lukasz.zajaczkowski!ts.fujitsu.com","Fujitsu","2016-05-01",42,10,42,2
+"Mike Danese","mikedanese!google.com","Google","2016-05-01",444,199,470,5
+"roblalonde","rlalonde!univa.com","Univa","2016-05-01",98,0,98,1
+"Christoph Held","christoph.held!est.fujitsu.com","Fujitsu","2016-05-01",16,2,16,2
+"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-07-01",750,522,750,1
+"Lukasz Zajaczkowski","lukasz.zajaczkowski!ts.fujitsu.com","Fujitsu","2016-07-01",1371,858,1371,2
+"Mike Danese","mikedanese!google.com","Google","2016-03-01",240,370,610,2
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-09-01",3443,1265,3443,8
+"Ivan Ilves","ivan.ilves!gmail.com","Schibsted","2016-08-01",19,2,19,2
+"Jonathan Boulle","jonathanboulle!gmail.com","NStack","2016-09-01",1,1,1,1
+"Brendan Burns","bburns!google.com","Google","2015-06-01",55,16,55,1
+"Justin Santa Barbara","justin!fathomdb.com","Self","2015-06-01",8,4,8,1
+"Arsen Mamikonyan","arsen!mamikonyan.am","Self","2015-12-01",1,1,1,1
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-01-01",4,0,4,1
+"Zach Loafman","zml!google.com","Google","2015-03-01",38,5,38,1
+"Muhammed Uluyol","uluyol!google.com","Google","2015-07-01",121,0,121,1
+"Ion Savin","comp_!gmx.net","Self","2016-06-01",30,29,30,3
+"bryk","bryk!google.com","Google","2016-01-01",2,2,2,1
+"Josh Ellithorpe","josh!apcera.com","Apcera","2016-01-01",2,0,2,1
+"Eric Tune","etune!google.com","Google","2015-03-01",279,4,279,1
+"Marek Biskup","biskup!google.com","Google","2015-06-01",2447,145,2447,3
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-07-01",143,2,143,2
+"Cameron Brunner","brunner!univa.com","Univa","2017-01-01",73,98,98,1
+"Mike Danese","mikedanese!google.com","Google","2016-06-01",91,2311,2396,2
+"Peter McDonnell","petermd!gmail.com","Donnerwood Media","2016-01-01",35,0,35,1
+"Zach Loafman","zml!google.com","Google","2015-06-01",6,5,6,1
+"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2017-04-01",0,5120,5120,1
+"derekwaynecarr","decarr!redhat.com","Red Hat","2015-01-01",278,3,278,2
+"Prashanth Balasubramanian","beeps!google.com","Google","2015-10-01",11,0,11,1
+"Eric Paris","eparis!redhat.com","Red Hat","2015-05-01",3,2,3,1
+"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-08-01",610,1185,1327,8
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-04-01",10444,0,10444,1
+"Jeffrey Bean","jeffreyrobertbean!gmail.com","Docker","2015-06-01",1,1,1,1
+"Dawn Chen","dawnchen!google.com","Google","2015-05-01",66,0,66,1
+"Brendan Burns","bburns!google.com","Google","2015-10-01",5,1,5,1
+"Veres Lajos","vlajos!gmail.com","DrEd Online Doctor","2015-08-01",1,1,1,1
+"Kris Rousey","krousey!google.com","Google","2015-05-01",8,5,8,1
+"Abhishek Shah","abshah!google.com","Google","2015-03-01",21,2,21,1
+"Tim St. Clair","stclair!google.com","Google","2015-06-01",11,0,11,1
+"Robert Bailey","robertbailey!google.com","Google","2015-05-01",189,39,189,1
+"Muhammed Uluyol","uluyol!google.com","Google","2015-08-01",43,13,43,2
+"chrislovecnm","clove!cnmconsulting.net","CNM Consulting","2016-11-01",187,0,187,3
+"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-09-01",68,13,68,2
+"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-06-01",632,2010,2385,3
+"Daniel Smith","dbsmith!google.com","Google","2015-06-01",42,0,42,1
+"Quintin Lee","qlee!google.com","Google","2016-03-01",10,5,10,2
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-10-01",2,0,2,1
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-03-01",45991,0,45991,1
+"Satnam Singh","satnam!google.com","Google","2015-07-01",31,6,31,1
+"Dhawal Yogesh Bhanushali","dbhanushali!vmware.com","VMware","2016-01-01",1,1,1,1
+"Phạm Ngọc Quang Nam","nampnq!gmail.com","Easy Learn Code","2016-07-01",17,0,17,1
+"Jason Hansen","jhansen!deis.com","Microsoft","2016-06-01",4,4,4,2
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-12-01",496,2,496,1
+"Justin Santa Barbara","justin!fathomdb.com","Self","2015-07-01",9,3,9,2
+"Eric Paris","eparis!redhat.com","Red Hat","2015-06-01",5,2,5,2
+"CJ Cullen","cjcullen!google.com","Google","2015-04-01",22,47,47,1
+"Zach Loafman","zml!google.com","Google","2015-01-01",211,0,211,1
+"Shane Starcher","shanestarcher!gmail.com","Datapipe","2017-01-01",9,1,9,1
+"Ion Savin","comp_!gmx.net","Self","2016-07-01",16,1,16,1
+"Justin Santa Barbara","justin!fathomdb.com","Self","2016-06-01",74488,168915,219994,111
+"nikhiljindal","nikhiljindal!google.com","Google","2015-06-01",2,2,2,1

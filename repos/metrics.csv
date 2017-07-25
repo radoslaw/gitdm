@@ -1,4 +1,4 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Marcin Wielgus","mwielgus!google.com","Google","2017-07-01",46689,17126,1
-"Solly Ross","sross!redhat.com","Red Hat","2017-02-01",54352,1,6
-"sarahnovotny","sarah.novotny!gmail.com","Google","2017-02-01",205,0,1
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Marcin Wielgus","mwielgus!google.com","Google","2017-07-01",46689,17126,46689,1
+"Solly Ross","sross!redhat.com","Red Hat","2017-02-01",54352,1,54352,6
+"sarahnovotny","sarah.novotny!gmail.com","Google","2017-02-01",205,0,205,1

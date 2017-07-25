@@ -1,47 +1,47 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"zouyee","zounengren!cmss.chinamobile.com","China Mobile International Limited","2017-06-01",8,0,1
-"Robson Roberto Souza Peixoto","robsonpeixoto!gmail.com","Jusbrasil","2017-05-01",97,97,4
-"Andy Xie","andy.xning!gmail.com","Self","2017-04-01",6,6,1
-"Andy Xie","andy.xning!gmail.com","Self","2017-02-01",10,8,3
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2017-03-01",158,91,1
-"Greg Dallavalle","greg.dallavalle!ave81.com","LeadPages","2016-09-01",204,2,2
-"Julia Evans","julia!stripe.com","(Unknown)","2017-07-01",52,74,3
-"Julia Evans","julia!stripe.com","(Unknown)","2017-06-01",522,296,4
-"Sophie Haskins","sophaskins!github.com","GitHub","2017-03-01",3,21,1
-"Fabian Reinartz","fab.reinartz!gmail.com","CoreOS","2016-10-01",9,38,2
-"Andy Xie","andy.xning!gmail.com","Self","2017-05-01",60,0,1
-"zouyee","zouyee1989!gmail.com","China Mobile International Limited","2017-03-01",1210,3,3
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-10-01",308,250,5
-"Andrew Davidoff","davidoff!qedmf.net","Ontolo","2017-04-01",1632,0,1
-"Guangya Liu","gyliu513!gmail.com","IBM","2017-03-01",60,1,1
-"Ferran Rodenas","frodenas!gmail.com","Pivotal","2016-12-01",8,1,1
-"Dominik Schulz","dominik.schulz!gauner.org","JustWatch","2016-12-01",2076,0,2
-"Andrew Davidoff","davidoff!qedmf.net","Ontolo","2017-01-01",191,26,3
-"Fabian Reinartz","fab.reinartz!gmail.com","CoreOS","2016-09-01",3703,1842,10
-"fate-grand-order","chenjg!harmonycloud.cn","HarmonyCloud","2017-01-01",1,1,1
-"Russell Cohen","russell.r.cohen!gmail.com","Russell Cohen","2017-03-01",1,1,1
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2017-05-01",1056,796,6
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-12-01",29,29,2
-"beorn7","beorn!soundcloud.com","SoundCloud","2017-07-01",7,8,1
-"Stijn De Haes","stijn.de.haes!gmail.com","Rombit","2017-06-01",1017,1,2
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-09-01",3098,1259,9
-"Andy Xie","andy.xning!gmail.com","Self","2017-03-01",1,1,1
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2017-02-01",3214,1268,9
-"Sam Ghods","sam!box.com","Box","2016-05-01",3791,47,4
-"Daniel Sachse","mail!wombatsoftware.de","Wombat Software UG","2016-09-01",209,17,2
-"Nicolae Vartolomei","nv!kuende.com","Self","2017-04-01",61,2,1
-"Dominik Schulz","dominik.schulz!gmail.com","JustWatch","2016-11-01",324,2,1
-"josh keife","jkeife!alianza.com","Alianza","2017-03-01",13,13,1
-"koudaiii","cs006061!gmail.com","Wantedly","2017-01-01",54,4,1
-"slaws","sebastien.lawniczak!orange.com","Orange","2016-12-01",1245,0,1
-"Haissam Kaj","haissam.kaj!gmail.com","Datadog","2017-04-01",7,7,1
-"Dan Gillespie","dan.gillespie!coreos.com","CoreOS","2017-06-01",26,2,1
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2017-04-01",1319,12,2
-"Andrew Davidoff","davidoff!qedmf.net","Ontolo","2017-05-01",2101,443,4
-"ahakanbaba","ahakanbaba!users.noreply.github.com","Box","2016-10-01",589,1,1
-"Raúl Benencia","rul!kalgan.cc","ThousandEyes","2016-10-01",61,3,1
-"Luke Mallon","luke!mallon.io","Axonista","2016-12-01",43,13,1
-"zouyee","zouyee1989!gmail.com","China Mobile International Limited","2017-05-01",137,5,2
-"Brian Grant","bgrant0607!users.noreply.github.com","Google","2016-05-01",214,0,1
-"Alex Simenduev","shamil.si!gmail.com","Bringg","2016-10-01",62,3,1
-"Arno Uhlig","arno.uhlig!sap.com","SAP","2017-04-01",686,6,4
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"zouyee","zounengren!cmss.chinamobile.com","China Mobile International Limited","2017-06-01",8,0,8,1
+"Robson Roberto Souza Peixoto","robsonpeixoto!gmail.com","Jusbrasil","2017-05-01",97,97,131,4
+"Andy Xie","andy.xning!gmail.com","Self","2017-04-01",6,6,6,1
+"Andy Xie","andy.xning!gmail.com","Self","2017-02-01",10,8,10,3
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2017-03-01",158,91,158,1
+"Greg Dallavalle","greg.dallavalle!ave81.com","LeadPages","2016-09-01",204,2,204,2
+"Julia Evans","julia!stripe.com","(Unknown)","2017-07-01",52,74,111,3
+"Julia Evans","julia!stripe.com","(Unknown)","2017-06-01",522,296,687,4
+"Sophie Haskins","sophaskins!github.com","GitHub","2017-03-01",3,21,21,1
+"Fabian Reinartz","fab.reinartz!gmail.com","CoreOS","2016-10-01",9,38,40,2
+"Andy Xie","andy.xning!gmail.com","Self","2017-05-01",60,0,60,1
+"zouyee","zouyee1989!gmail.com","China Mobile International Limited","2017-03-01",1210,3,1210,3
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-10-01",308,250,376,5
+"Andrew Davidoff","davidoff!qedmf.net","Ontolo","2017-04-01",1632,0,1632,1
+"Guangya Liu","gyliu513!gmail.com","IBM","2017-03-01",60,1,60,1
+"Ferran Rodenas","frodenas!gmail.com","Pivotal","2016-12-01",8,1,8,1
+"Dominik Schulz","dominik.schulz!gauner.org","JustWatch","2016-12-01",2076,0,2076,2
+"Andrew Davidoff","davidoff!qedmf.net","Ontolo","2017-01-01",191,26,191,3
+"Fabian Reinartz","fab.reinartz!gmail.com","CoreOS","2016-09-01",3703,1842,3788,10
+"fate-grand-order","chenjg!harmonycloud.cn","HarmonyCloud","2017-01-01",1,1,1,1
+"Russell Cohen","russell.r.cohen!gmail.com","Russell Cohen","2017-03-01",1,1,1,1
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2017-05-01",1056,796,1056,6
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-12-01",29,29,29,2
+"beorn7","beorn!soundcloud.com","SoundCloud","2017-07-01",7,8,8,1
+"Stijn De Haes","stijn.de.haes!gmail.com","Rombit","2017-06-01",1017,1,1017,2
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-09-01",3098,1259,3169,9
+"Andy Xie","andy.xning!gmail.com","Self","2017-03-01",1,1,1,1
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2017-02-01",3214,1268,3221,9
+"Sam Ghods","sam!box.com","Box","2016-05-01",3791,47,3791,4
+"Daniel Sachse","mail!wombatsoftware.de","Wombat Software UG","2016-09-01",209,17,224,2
+"Nicolae Vartolomei","nv!kuende.com","Self","2017-04-01",61,2,61,1
+"Dominik Schulz","dominik.schulz!gmail.com","JustWatch","2016-11-01",324,2,324,1
+"josh keife","jkeife!alianza.com","Alianza","2017-03-01",13,13,13,1
+"koudaiii","cs006061!gmail.com","Wantedly","2017-01-01",54,4,54,1
+"slaws","sebastien.lawniczak!orange.com","Orange","2016-12-01",1245,0,1245,1
+"Haissam Kaj","haissam.kaj!gmail.com","Datadog","2017-04-01",7,7,7,1
+"Dan Gillespie","dan.gillespie!coreos.com","CoreOS","2017-06-01",26,2,26,1
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2017-04-01",1319,12,1319,2
+"Andrew Davidoff","davidoff!qedmf.net","Ontolo","2017-05-01",2101,443,2110,4
+"ahakanbaba","ahakanbaba!users.noreply.github.com","Box","2016-10-01",589,1,589,1
+"Raúl Benencia","rul!kalgan.cc","ThousandEyes","2016-10-01",61,3,61,1
+"Luke Mallon","luke!mallon.io","Axonista","2016-12-01",43,13,43,1
+"zouyee","zouyee1989!gmail.com","China Mobile International Limited","2017-05-01",137,5,137,2
+"Brian Grant","bgrant0607!users.noreply.github.com","Google","2016-05-01",214,0,214,1
+"Alex Simenduev","shamil.si!gmail.com","Bringg","2016-10-01",62,3,62,1
+"Arno Uhlig","arno.uhlig!sap.com","SAP","2017-04-01",686,6,686,4

@@ -1,12 +1,12 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Rodrigo Campos","rodrigo!sdfg.com.ar","Self","2016-10-01",67,0,1
-"Tim Hockin","thockin!google.com","Google","2016-09-01",1564,100,10
-"Lucas Serven","lserven!gmail.com","National Geographic","2017-03-01",307,22,2
-"Lucas Serven","lucas.serven!coreos.com","CoreOS","2016-12-01",267,0,1
-"Brandon Philips","brandon.philips!coreos.com","CoreOS","2016-09-01",0,1,1
-"Tim Hockin","thockin!google.com","Google","2017-02-01",186,0,1
-"Tim Hockin","thockin!google.com","Google","2017-04-01",74,37,1
-"Brian Waldon","brian!waldon.cc","Planet Labs","2015-07-01",5696,0,1
-"Lucas Serven","lserven!gmail.com","National Geographic","2017-02-01",1275,8,5
-"Lucas Serven","lserven!gmail.com","National Geographic","2016-11-01",21,23,1
-"Tim Hockin","thockin!google.com","Google","2016-08-01",68952,36967,39
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Rodrigo Campos","rodrigo!sdfg.com.ar","Self","2016-10-01",67,0,67,1
+"Tim Hockin","thockin!google.com","Google","2016-09-01",1564,100,1564,10
+"Lucas Serven","lserven!gmail.com","National Geographic","2017-03-01",307,22,307,2
+"Lucas Serven","lucas.serven!coreos.com","CoreOS","2016-12-01",267,0,267,1
+"Brandon Philips","brandon.philips!coreos.com","CoreOS","2016-09-01",0,1,1,1
+"Tim Hockin","thockin!google.com","Google","2017-02-01",186,0,186,1
+"Tim Hockin","thockin!google.com","Google","2017-04-01",74,37,74,1
+"Brian Waldon","brian!waldon.cc","Planet Labs","2015-07-01",5696,0,5696,1
+"Lucas Serven","lserven!gmail.com","National Geographic","2017-02-01",1275,8,1275,5
+"Lucas Serven","lserven!gmail.com","National Geographic","2016-11-01",21,23,23,1
+"Tim Hockin","thockin!google.com","Google","2016-08-01",68952,36967,70275,39

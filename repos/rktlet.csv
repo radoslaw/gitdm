@@ -1,18 +1,18 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-09-01",5352,483,11
-"Luca Bruno","luca.bruno!coreos.com","CoreOS","2017-01-01",168,14,3
-"Casey Callendrello","casey.callendrello!coreos.com","CoreOS","2017-01-01",429,667,3
-"Jonathan Boulle","jonathanboulle!gmail.com","NStack","2016-09-01",2,2,2
-"Luca Bruno","lucab!debian.org","CoreOS","2017-04-01",93,50,2
-"Euan Kemp","euan.kemp!coreos.com","CoreOS","2017-01-01",1116,2196,9
-"Jason Murray","jason!loodse.com","Loodse","2016-09-01",1,1,1
-"Euan Kemp","euank!euank.com","CoreOS","2016-08-01",829,0,1
-"Yifan Gu","yifan.gu!coreos.com","CoreOS","2016-09-01",7322,1109,24
-"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-10-01",2570,840,13
-"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-11-01",4604,674,27
-"Sergiusz Urbaniak","sur!coreos.com","CoreOS","2017-01-01",329,22,3
-"Casey Callendrello","c1!caseyc.net","CoreOS","2016-11-01",290,100,2
-"Luca Bruno","luca.bruno!coreos.com","CoreOS","2017-03-01",16,0,1
-"Alban Crequy","alban!kinvolk.io","CoreOS","2017-06-01",20,1,1
-"Dawn Chen","dawnchen!google.com","Google","2016-08-01",213,0,1
-"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-12-01",5240,309,12
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-09-01",5352,483,5513,11
+"Luca Bruno","luca.bruno!coreos.com","CoreOS","2017-01-01",168,14,168,3
+"Casey Callendrello","casey.callendrello!coreos.com","CoreOS","2017-01-01",429,667,784,3
+"Jonathan Boulle","jonathanboulle!gmail.com","NStack","2016-09-01",2,2,2,2
+"Luca Bruno","lucab!debian.org","CoreOS","2017-04-01",93,50,96,2
+"Euan Kemp","euan.kemp!coreos.com","CoreOS","2017-01-01",1116,2196,3098,9
+"Jason Murray","jason!loodse.com","Loodse","2016-09-01",1,1,1,1
+"Euan Kemp","euank!euank.com","CoreOS","2016-08-01",829,0,829,1
+"Yifan Gu","yifan.gu!coreos.com","CoreOS","2016-09-01",7322,1109,7354,24
+"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-10-01",2570,840,3114,13
+"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-11-01",4604,674,4805,27
+"Sergiusz Urbaniak","sur!coreos.com","CoreOS","2017-01-01",329,22,341,3
+"Casey Callendrello","c1!caseyc.net","CoreOS","2016-11-01",290,100,290,2
+"Luca Bruno","luca.bruno!coreos.com","CoreOS","2017-03-01",16,0,16,1
+"Alban Crequy","alban!kinvolk.io","CoreOS","2017-06-01",20,1,20,1
+"Dawn Chen","dawnchen!google.com","Google","2016-08-01",213,0,213,1
+"Euan Kemp","euan.kemp!coreos.com","CoreOS","2016-12-01",5240,309,5241,12

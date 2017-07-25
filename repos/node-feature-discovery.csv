@@ -1,14 +1,14 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Connor Doyle","connor.p.d!gmail.com","Intel","2016-11-01",145,421,1
-"Balaji Subramaniam","balaji.warft!gmail.com","Intel","2016-07-01",4223,278,5
-"Connor Doyle","connordoyle!users.noreply.github.com","Intel","2016-09-01",152,12,2
-"David Oppenheimer","davidopp!google.com","Google","2016-07-01",1207,0,3
-"Balaji Subramaniam","balaji.subramaniam!intel.com","Intel","2016-10-01",191,4,3
-"Connor Doyle","connordoyle!users.noreply.github.com","Intel","2016-12-01",32,0,2
-"Brandon Philips","brandon.philips!coreos.com","CoreOS","2016-08-01",44,0,1
-"Cody Roseborough","cody.roseborough!intel.com","Intel","2016-10-01",722,23,3
-"Balaji Subramaniam","balaji.warft!gmail.com","Intel","2016-09-01",1993,67,4
-"Balaji Subramaniam","balaji.subramaniam!intel.com","Intel","2016-12-01",1394,214,5
-"Connor Doyle","connor.p.d!gmail.com","Intel","2016-07-01",2156,1008,6
-"Connor Doyle","connor.p.d!gmail.com","Intel","2016-10-01",77,28,3
-"Balaji Subramaniam","balaji.subramaniam!intel.com","Intel","2016-11-01",297,122,2
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Connor Doyle","connor.p.d!gmail.com","Intel","2016-11-01",145,421,421,1
+"Balaji Subramaniam","balaji.warft!gmail.com","Intel","2016-07-01",4223,278,4223,5
+"Connor Doyle","connordoyle!users.noreply.github.com","Intel","2016-09-01",152,12,152,2
+"David Oppenheimer","davidopp!google.com","Google","2016-07-01",1207,0,1207,3
+"Balaji Subramaniam","balaji.subramaniam!intel.com","Intel","2016-10-01",191,4,191,3
+"Connor Doyle","connordoyle!users.noreply.github.com","Intel","2016-12-01",32,0,32,2
+"Brandon Philips","brandon.philips!coreos.com","CoreOS","2016-08-01",44,0,44,1
+"Cody Roseborough","cody.roseborough!intel.com","Intel","2016-10-01",722,23,722,3
+"Balaji Subramaniam","balaji.warft!gmail.com","Intel","2016-09-01",1993,67,1993,4
+"Balaji Subramaniam","balaji.subramaniam!intel.com","Intel","2016-12-01",1394,214,1514,5
+"Connor Doyle","connor.p.d!gmail.com","Intel","2016-07-01",2156,1008,2240,6
+"Connor Doyle","connor.p.d!gmail.com","Intel","2016-10-01",77,28,83,3
+"Balaji Subramaniam","balaji.subramaniam!intel.com","Intel","2016-11-01",297,122,330,2

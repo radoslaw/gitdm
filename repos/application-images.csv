@@ -1,6 +1,6 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Zach Loafman","zml!google.com","Google","2016-02-01",13,5,2
-"Anirudh","ramanathana!google.com","Google","2016-12-01",318,0,1
-"Zach Loafman","zml!google.com","Google","2015-11-01",1730,2,3
-"Matthew Farrellee","matt!redhat.com","Red Hat","2016-01-01",58,601,10
-"Anirudh Ramanathan","foxish!users.noreply.github.com","Google","2016-12-01",8,0,1
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Zach Loafman","zml!google.com","Google","2016-02-01",13,5,13,2
+"Anirudh","ramanathana!google.com","Google","2016-12-01",318,0,318,1
+"Zach Loafman","zml!google.com","Google","2015-11-01",1730,2,1730,3
+"Matthew Farrellee","matt!redhat.com","Red Hat","2016-01-01",58,601,601,10
+"Anirudh Ramanathan","foxish!users.noreply.github.com","Google","2016-12-01",8,0,8,1

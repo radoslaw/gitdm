@@ -1,33 +1,33 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Omar Yasin","omarkj!gmail.com","Heroku","2017-04-01",1,1,1
-"Henning Jacobs","henning!jacobs1.de","Zalando","2017-05-01",1,1,1
-"Nils Juenemann","nils.juenemann+github!gmail.com","Exaring AG","2017-07-01",212,1,1
-"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-03-01",8479,353,20
-"Justin Santa Barbara","justin!fathomdb.com","Self","2017-03-01",107,73,1
-"Shane Starcher","shanestarcher!gmail.com","Datapipe","2017-06-01",39,0,1
-"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-02-01",2951,1494,33
-"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-02-01",3915,59,18
-"jordanjennings","jordanjennings!users.noreply.github.com","Thermo Fisher Scientific","2017-06-01",1,1,1
-"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-05-01",2483,2517,11
-"Peter Huene","peter!segfault.guru","Microsoft","2017-06-01",4942,5,1
-"Nick Jüttner","nick!juni.io","Zalando","2017-07-01",535,0,1
-"Adam Sunderland","iterion!gmail.com","Collanthropy, LLC","2017-06-01",1,0,1
-"Martin Linkhorst","martin.linkhorst+github.com!posteo.de","Zalando","2017-04-01",16754,8072,25
-"Nils Juenemann","nils.juenemann+github!gmail.com","Exaring AG","2017-06-01",1006,78,1
-"Henning Jacobs","henning!jacobs1.de","Zalando","2017-04-01",108,0,2
-"Justin Santa Barbara","justin!fathomdb.com","Self","2017-02-01",853,19,4
-"Lauri Apple","lauri.apple!zalando.de","Zalando","2017-04-01",281,269,1
-"Raffaele Di Fazio","difazio.raffaele!gmail.com","Zalando","2017-02-01",67,0,1
-"Adam Sunderland","iterion!gmail.com","Collanthropy, LLC","2017-02-01",90,8,3
-"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-06-01",150,112,2
-"Mikkel Oscar Lyderik Larsen","m!moscar.net","Zalando","2017-03-01",2195,114,1
-"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-06-01",1530,747,5
-"Henning Jacobs","henning!jacobs1.de","Zalando","2017-02-01",251,3,3
-"Nick Jüttner","nick!juni.io","Zalando","2017-06-01",11698,52,2
-"sarahnovotny","sarah.novotny!gmail.com","Google","2017-02-01",205,0,1
-"Mikkel Oscar Lyderik Larsen","mikkeloscar!users.noreply.github.com","Zalando","2017-04-01",4,0,1
-"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-03-01",15477,3697,52
-"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-07-01",843,19,6
-"Ian Smith","ismith!mit.edu","MIT","2017-05-01",888,67,3
-"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-04-01",9042,1794,18
-"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-05-01",2166,1842,2
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Omar Yasin","omarkj!gmail.com","Heroku","2017-04-01",1,1,1,1
+"Henning Jacobs","henning!jacobs1.de","Zalando","2017-05-01",1,1,1,1
+"Nils Juenemann","nils.juenemann+github!gmail.com","Exaring AG","2017-07-01",212,1,212,1
+"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-03-01",8479,353,8611,20
+"Justin Santa Barbara","justin!fathomdb.com","Self","2017-03-01",107,73,107,1
+"Shane Starcher","shanestarcher!gmail.com","Datapipe","2017-06-01",39,0,39,1
+"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-02-01",2951,1494,4142,33
+"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-02-01",3915,59,3915,18
+"jordanjennings","jordanjennings!users.noreply.github.com","Thermo Fisher Scientific","2017-06-01",1,1,1,1
+"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-05-01",2483,2517,3439,11
+"Peter Huene","peter!segfault.guru","Microsoft","2017-06-01",4942,5,4942,1
+"Nick Jüttner","nick!juni.io","Zalando","2017-07-01",535,0,535,1
+"Adam Sunderland","iterion!gmail.com","Collanthropy, LLC","2017-06-01",1,0,1,1
+"Martin Linkhorst","martin.linkhorst+github.com!posteo.de","Zalando","2017-04-01",16754,8072,18793,25
+"Nils Juenemann","nils.juenemann+github!gmail.com","Exaring AG","2017-06-01",1006,78,1006,1
+"Henning Jacobs","henning!jacobs1.de","Zalando","2017-04-01",108,0,108,2
+"Justin Santa Barbara","justin!fathomdb.com","Self","2017-02-01",853,19,853,4
+"Lauri Apple","lauri.apple!zalando.de","Zalando","2017-04-01",281,269,281,1
+"Raffaele Di Fazio","difazio.raffaele!gmail.com","Zalando","2017-02-01",67,0,67,1
+"Adam Sunderland","iterion!gmail.com","Collanthropy, LLC","2017-02-01",90,8,94,3
+"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-06-01",150,112,150,2
+"Mikkel Oscar Lyderik Larsen","m!moscar.net","Zalando","2017-03-01",2195,114,2195,1
+"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-06-01",1530,747,1530,5
+"Henning Jacobs","henning!jacobs1.de","Zalando","2017-02-01",251,3,251,3
+"Nick Jüttner","nick!juni.io","Zalando","2017-06-01",11698,52,11698,2
+"sarahnovotny","sarah.novotny!gmail.com","Google","2017-02-01",205,0,205,1
+"Mikkel Oscar Lyderik Larsen","mikkeloscar!users.noreply.github.com","Zalando","2017-04-01",4,0,4,1
+"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-03-01",15477,3697,16554,52
+"Martin Linkhorst","linki!users.noreply.github.com","Zalando","2017-07-01",843,19,843,6
+"Ian Smith","ismith!mit.edu","MIT","2017-05-01",888,67,911,3
+"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-04-01",9042,1794,9153,18
+"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-05-01",2166,1842,2203,2

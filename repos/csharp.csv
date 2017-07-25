@@ -1,7 +1,7 @@
-"Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Mehdy Bohlool","mehdy!google.com","Google","2017-05-01",215,0,2
-"Sergio Sisternes","sesispla!outlook.com","everis","2017-06-01",1213,21,13
-"krabhishek8260","kr.abhishek8260!gmail.com","Microsoft","2017-06-01",39185,33033,2
-"Sergio Sisternes","sesispla!outlook.com","everis","2017-07-01",92,33,2
-"Christian Geuer-Pollmann","chgeuer!microsoft.com","Microsoft","2017-06-01",11,9,1
-"Brendan Burns","brendan.d.burns!gmail.com","Microsoft","2017-06-01",319033,0,2
+"Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
+"Mehdy Bohlool","mehdy!google.com","Google","2017-05-01",215,0,215,2
+"Sergio Sisternes","sesispla!outlook.com","everis","2017-06-01",1213,21,1214,13
+"krabhishek8260","kr.abhishek8260!gmail.com","Microsoft","2017-06-01",39185,33033,39185,2
+"Sergio Sisternes","sesispla!outlook.com","everis","2017-07-01",92,33,96,2
+"Christian Geuer-Pollmann","chgeuer!microsoft.com","Microsoft","2017-06-01",11,9,11,1
+"Brendan Burns","brendan.d.burns!gmail.com","Microsoft","2017-06-01",319033,0,319033,2
