@@ -1,30 +1,30 @@
-Processed 19 csets from 4 developers
+Processed 22 csets from 5 developers
 3 employers found
-A total of 215912 lines added, 808 removed, 215913 changed (delta 215104)
+A total of 359749 lines added, 33096 removed, 359754 changed (delta 326653)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-everis                                                                             13 (68.4%)
-Microsoft                                                                           4 (21.1%)
-Google                                                                              2 (10.5%)
+everis                                                                             15 (68.2%)
+Microsoft                                                                           5 (22.7%)
+Google                                                                              2 (9.1%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Microsoft                                                                        215125 (99.6%)
-everis                                                                            578 (0.3%)
-Google                                                                            210 (0.1%)
+Microsoft                                                                        358229 (99.6%)
+everis                                                                           1310 (0.4%)
+Google                                                                            215 (0.1%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
 Covers 0.000000% of signoffs
 
-Employers with the most hackers (total 4)
-Microsoft                                                                           2 (50.0%)
-everis                                                                              1 (25.0%)
-Google                                                                              1 (25.0%)
+Employers with the most hackers (total 5)
+Microsoft                                                                           3 (60.0%)
+everis                                                                              1 (20.0%)
+Google                                                                              1 (20.0%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

@@ -1,23 +1,23 @@
-Processed 58 csets from 10 developers
+Processed 59 csets from 10 developers
 4 employers found
-A total of 26561 lines added, 5565 removed, 29523 changed (delta 20996)
+A total of 81204 lines added, 16965 removed, 87726 changed (delta 64239)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Google                                                                             49 (84.5%)
-Red Hat                                                                             7 (12.1%)
+Google                                                                             50 (84.7%)
+Red Hat                                                                             7 (11.9%)
 Seznam.cz                                                                           1 (1.7%)
 Practo                                                                              1 (1.7%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           23333 (79.0%)
-Red Hat                                                                          6175 (20.9%)
+Google                                                                           71305 (81.3%)
+Red Hat                                                                          16404 (18.7%)
 Practo                                                                             14 (0.0%)
-Seznam.cz                                                                           1 (0.0%)
+Seznam.cz                                                                           3 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)

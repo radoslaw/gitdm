@@ -92,27 +92,27 @@ Aaron Roydhouse: aaron!roydhouse.com
 	Outwide
 Aaron Schlesinger: aaron!deis.com, aaschles!microsoft.com, arschles!gmail.com, aschlesinger!deis.com
 	Microsoft
-	Engine Yard until 2017-04-15
+	Microsoft until 2017-04-15
 	Iron.io until 2015-11-15
 	PayPal until 2015-02-15
 	StackMob until 2013-12-15
 Aaron Signorelli: aarons88!gmail.com
 	Superpixel
+Aaron Taylor: me!ataylor.io
+	(Unknown)
 Aaron.L.Xu: likexu!harmonycloud.cn
 	Self
 Abby Tisdale: atisdale!atisdale.sfo.corp.google.com, atisdale!google.com
 	Google
-Abdelsalam Abbas: abdelsalam.naeim!gmail.com, abdelsalam50!gmail.com
-	Information Technology Institute
-	Raya Contact Center until 2016-06-15
-	Self until 2015-12-15
 Abel Lopez: abelopez!cisco.com
 	Cisco
 	AT&T until 2014-05-19
 Abhi Shah: abshah!google.com
 	Google
-Abhinav Dahiya: abhinav.dahiya!coreos.com
+Abhinav Dahiya*: abhinav.dahiya!coreos.com
 	CoreOS
+Abhinav Dahiya*: abhinavdtu2012!gmail.com
+	(Unknown)
 Abhishek: abhishek!linux.com
 	Linux
 Abhishek Chanda: abhishek.becs!gmail.com
@@ -153,6 +153,7 @@ Adam Pyle: admpyle!gmail.com
 	Google
 Adam Reese: adam!reese.io, adamreese!users.noreply.github.com
 	Microsoft
+	Microsoft until 2017-04-01
 Adam Schaub: adam.m.schaub!gmail.com
 	Self
 Adam Smith: asmith60!gmail.com
@@ -178,6 +179,8 @@ Adnan Abdulhussein: adnan!bitnami.com, adnan!prydoni.us
 	Bitnami
 Adnan Hajdarević: adnanh!gmail.com
 	SocialExplorer
+AdoHe: coolhzb!163.com
+	Net EASE 网易有态度
 Adrian G Prado: adrian.garciaprado!nrg.com
 	NRG Energy
 	TOTAL until 2015-09-15
@@ -199,6 +202,8 @@ Ahmet Alp Balkan*: ahmetalpbalkan!gmail.com
 	Microsoft
 Ahmet Alp Balkan*: ahmetb!google.com
 	Google
+Aishwarya Thangappa: aishwarya.thangappa!gmail.com
+	HP
 Ajanthan: balaajanthan!gmail.com
 	WSO2
 Ajit Kumar: kumaraji!google.com
@@ -252,6 +257,8 @@ Alena Prokharchyk: alena!rancher.com
 	Rancher
 Ales Nosek: ales.nosek!gmail.com
 	Self
+Alessandro Pilotti: apilotti!cloudbasesolutions.com
+	Cloudbase Solutions
 Alex Chan: alex!alexwlchan.net
 	wellcometrust
 Alex Chesser: alex.chesser!gmail.com
@@ -299,6 +306,8 @@ Alexander Campbell: alexanderhcampbell!gmail.com, campbellalex!google.com
 	Google
 	Self until 2017-05-01
 	Workiva until 2016-08-15
+Alexander Chumakov: bestak47!gmail.com
+	(Unknown)
 Alexander D. Kanevskiy: kad!kad.name
 	Intel
 Alexander Hersh: alexander.hersh!metaswitch.com
@@ -356,6 +365,8 @@ AlmogBaku: almog.baku!gmail.com
 	Rimoto
 Alok Kumar Singh: mail.alok87!gmail.com
 	Practo
+Alon Lavi: alon!argus-sec.com
+	(Unknown)
 Alvaro Lopez Ortega: alvaro!gnu.org
 	Akamai Technologies
 	GNU until 2017-06-15
@@ -363,12 +374,14 @@ Alvaro [Andor]: andor!pierdelacabeza.com
 	NotFound
 Aly Fulton: sinthetix!users.noreply.github.com
 	modernmsg
+Aman: aps.sids!gmail.com
+	Codigami
 Amanda Cameron: git!amanda.darkdna.net
 	DarkDNA
-Amanpreet Singh: aps.sids!gmail.com
-	Codigami
 Amey Deshpande: ameyd!google.com
 	Google
+Amit Kumar Jaiswal: amitkumarj441!gmail.com
+	(Unknown)
 Amit Kumar Prasad: amitbitcse!gmail.com
 	NTT Data Services
 	Dell until 2016-10-15
@@ -478,12 +491,16 @@ Andriy Yurchuk: ayurchuk!minuteware.net
 	ActiveVideo
 Andrzej Wasylkowski: wasylkowski!google.com
 	Google
-André Cruz: andre!cabine.org, andre.cruz!co.sapo.pt
+André Cruz*: andre!brpx.com
+	(Unknown)
+André Cruz*: andre!cabine.org, andre.cruz!co.sapo.pt
 	Bright Pixel
 André Martins: aanm90!gmail.com
 	Cisco
 Andrés Bono: andresbonojimenez!gmail.com
 	Self
+Andy Clayton: q3aiml!gmail.com
+	(Unknown)
 Andy Goldstein*: agoldste!redhat.com
 	Red Hat
 Andy Goldstein*: andy.goldstein!gmail.com
@@ -568,6 +585,8 @@ António Meireles: antonio.meireles!reformi.st
 	Self
 Anubhav Mishra: anubhavmishra!me.com
 	Apple
+Anuraag Agrawal: anuraaga!gmail.com
+	(Unknown)
 Anurag Goel: _!anur.ag, anurag!users.noreply.github.com
 	Self
 	Stripe until 2017-01-15
@@ -598,8 +617,6 @@ Arthur Le Maitre: arthurlm44!gmail.com
 	FinancialContent
 Arthur Miranda: artmr!lsd.ufcg.edu.br
 	Self
-Arun Gupta: arun.gupta!gmail.com
-	Red Hat
 Arve Knudsen: arve.knudsen!gmail.com
 	ApresMIDI AB
 Arvinderpal: awander!apcera.com
@@ -629,6 +646,8 @@ Atish: atish!atish.info
 	Atish Narlawar
 Ato Araki: ato.araki!gmail.com
 	NotFound
+AtzeDeVries: atze.devries!naturalis.nl
+	(Unknown)
 Austin Moore: austin.moore!teamaol.com, austin_moore!icloud.com
 	AOL
 	Transaction Network Services until 2014-09-15
@@ -638,6 +657,8 @@ Avesh Agarwal: avagarwa!redhat.com, avesh.ncsu!gmail.com
 	Red Hat
 Avinash Sridharan: avinash.sridharan!gmail.com
 	Mesosphere
+Ayush Pateria: cs15btech11007!iith.ac.in
+	(Unknown)
 BC Broussard: bc!kismatic.io
 	Vayable
 BUSSY Jean-Daniel: silversurfer972!gmail.com
@@ -655,6 +676,8 @@ Bart Van Bos: bart.vanbos!rombit.be
 Bartosz Ptaszynski: foobarto!gmail.com
 	Teamwork.com
 	Fidelity Investments until 2017-01-15
+Bastian Hofmann: bashofmann!gmail.com
+	(Unknown)
 Bastian Klein: b.klein!epages.com
 	NotFound
 Bastien Chong: bastien974!gmail.com
@@ -702,6 +725,8 @@ Ben Sully: ben.sully88!gmail.com
 	YouGov
 BenTheElder: ben.the.elder!gmail.com
 	Slack
+Benedict Hartley: spam!chaffin.ch
+	(Unknown)
 Beni Cherniavsky-Paskin: cben!redhat.com
 	Red Hat
 Benjamen Keroack: benjamen.keroack!dollarshaveclub.com
@@ -716,6 +741,8 @@ Benjamin Sonntag: benjamin!sonntag.fr
 	Octopuce
 Bernard Van De Walle: bernard!bvandewa.com
 	aporeto-inc
+Bernhard M. Wiedemann: bwiedemann!suse.de
+	SUSE
 Bharath Thiruveedula: bharath_ves!hotmail.com
 	Imaginea
 	Tata until 2015-08-06
@@ -786,6 +813,8 @@ Bouke van der Bijl: boukevanderbijl!gmail.com
 	Shopify
 Bowei Du: bowei!google.com, bowei.du!gmail.com
 	Google
+BoySherman: mccullya!gmail.com
+	(Unknown)
 Brad Beam: brad.beam!b-rad.info, bradbeam!users.noreply.github.com, bradley.beam!emc.com
 	Dell
 Brad Bowman: beeradb!gmail.com
@@ -870,8 +899,6 @@ Bryan Stone: aegixx!gmail.com
 	STONE Small Business Solutions until 2015-04-15
 Bryan T. Richardson: bryan!activeshadow.com
 	Self
-Buddha Prakash: buddhap!google.com
-	Google
 Budh Ram Gurung: budhram.gurung01!gmail.com
 	Red Hat
 Burcu Dogan: jbd!google.com
@@ -884,8 +911,6 @@ Caleb Gilmour: cgilmour!gmail.com
 	Oracle
 Cameron Brunner: brunner!univa.com
 	Univa
-Cameron Zahedi: czahedi!google.com
-	Google
 Camil Blanaru*: camil!edka.io
 	Netquest
 Camil Blanaru*: camil!me.com
@@ -936,6 +961,8 @@ Cemalettin Koc: cemalettin.koc!gmail.com
 	startuphero.es
 	Tazedirekt until 2016-04-15
 	Magnet Digital until 2014-05-15
+Cesar Wong: cewong!redhat.com
+	Red Hat
 Cesarini, Daniele: daniele.cesarini!sky.uk
 	Sky
 Cezar Sa Espinola: cezarsa!gmail.com
@@ -1011,7 +1038,9 @@ Chris Machler: chris.machler!evergreenitco.com
 	TEKsystems
 Chris Marino: chris!paninetworks.com
 	New Networking
-Chris Moos: chris!tech9computers.com
+Chris Moos*: chris!chrismoos.com
+	(Unknown)
+Chris Moos*: chris!tech9computers.com
 	Tech9 Computer Solutions, LLC
 Chris Nesbitt-Smith: chris!cns.me.uk
 	UK Home Office
@@ -1027,6 +1056,8 @@ Christiaan Hees: mail!chees.info
 	Q42
 Christian Bell: csbell!google.com
 	Google
+Christian Geuer-Pollmann: chgeuer!microsoft.com
+	Microsoft
 Christian Koep: christiankoep!gmail.com
 	Self
 Christian Simon: simon!swine.de
@@ -1067,7 +1098,7 @@ Christopher Najewicz: chief!beefdisciple.com
 Christopher Pauley: cmpauley!gmail.com
 	Devops
 Christopher Rigor: crigor!gmail.com
-	Engine Yard
+	Microsoft
 Chuanjian Wang: me!ckeyer.net
 	Sina
 Chun Chen: chenchun.feed!gmail.com
@@ -1090,6 +1121,8 @@ Clemens Tolboom: clemens!build2be.com
 	build2be
 Clenimar Filemon: clenimar.filemon!gmail.com
 	Self
+Cody Clark: codyclark!google.com
+	Google
 Cody Lundquist: cody.lundquist!gmail.com
 	GetFeedback.com
 Cody Roseborough: cody.roseborough!intel.com
@@ -1151,6 +1184,8 @@ Cristian Todea: ctodea!users.noreply.github.com
 	EDICOM
 	BiiT Sourcing Solutions until 2017-03-15
 	Self until 2016-02-15
+CuiHaozhi: cuihz!wise2c.com
+	Wise2c
 Curtis Allen: curtis.allen!robotsandpencils.com
 	Robots and Pencils
 Curtis Gagliardi: curtis!curtis.io
@@ -1201,24 +1236,30 @@ Dan Romlein: dromlein!apprenda.com, dromlein.apprenda!gmail.com
 	Apprenda
 Dan Sabath: dsabath!whitepages.com
 	Whitepages
-Dan Walsh: dwalsh!redhat.com
-	Red Hat
 Dan Williams: dcbw!redhat.com
 	Red Hat
 Dan Wilson: emaildanwilson!gmail.com
 	Concur
 Dan Winship: danw!redhat.com
 	Red Hat
+Dane LeBlanc: leblancd!cisco.com
+	Cisco
 Daniel Beruben: daniel.beruben!gmail.com
 	Devops
+Daniel Bryant: daniel.bryant!tai-dev.co.uk
+	(Unknown)
 Daniel Cohen: dcohen!gatech.edu
 	Georgia Tech
 Daniel Dreier: d!puppetlabs.com
 	Puppet
+Daniel Einspanjer: deinspanjer!gmail.com
+	(Unknown)
 Daniel Fernandes Martins: daniel.martins!descomplica.com.br
 	Descomplica
 Daniel Heitmann: dictvm!dictvm.org
 	ivx
+Daniel J Walsh: dwalsh!redhat.com
+	Red Hat
 Daniel Kłobuszewski: danielmk!google.com
 	Google
 Daniel Leining: daniel!leining.org
@@ -1372,6 +1413,8 @@ Denis Kolodin: deniskolodin!gmail.com
 	FORUM Investment Company until 2013-12-15
 Denis Poisson: denis.poisson!ts.fujitsu.com
 	Fujitsu
+DenisBiondic: denisbiondic!hotmail.com
+	(Unknown)
 Dennis Webb: dennis!bluesentryit.com
 	Blue Sentry
 Derek Carr: decarr!redhat.com
@@ -1498,6 +1541,8 @@ Edouard Kaiser: edouard.kaiser!gmail.com
 	Skiddoo
 Eduardo Baitello: eduardobaitello!gmail.com
 	Self
+Eduardo Minguez Perez: edu!redhat.com
+	Red Hat
 Eduardo Patrocinio: epatro!gmail.com
 	IBM
 Eduardo Silva: edsiper!gmail.com, eduardo!treasure-data.com
@@ -1560,6 +1605,8 @@ Eric Wright: eric!discoposse.com
 	Self
 Erick Fejta: erick!fejta.com, fejta!google.com
 	Google
+Erick Tryzelaar: erick.tryzelaar!gmail.com
+	(Unknown)
 Erik Bean: erikbean08!gmail.com
 	Self
 Erik Christensen: christensen.em!gmail.com
@@ -1651,6 +1698,8 @@ Filipe Brandenburger: filbranden!google.com
 	Google
 Filipe Varela: fcvarela!gmail.com
 	Thomson-Reuters
+Flavio Castelli: fcastelli!suse.com
+	SUSE
 Florian Walker: florian.walker!est.fujitsu.com
 	Fujitsu
 Fotios Lindiakos: flindiakos!shutterstock.com
@@ -1683,6 +1732,8 @@ Frederic Hemberger: mail!frederic-hemberger.de
 Frederick Ryckbosch: frederick.ryckbosch!gmail.com
 	CoScale
 	Google until 2012-09-15
+Frederik Nordahl Jul Sabroe: frederikns!gmail.com
+	(Unknown)
 Frode Egeland: egeland!gmail.com
 	Self
 Fumitoshi Ukai: ukai!google.com
@@ -1730,6 +1781,8 @@ George Kuan: commonlisp!gmail.com
 	Intel
 George Tankersley: george.tankersley!coreos.com, george.tankersley!gmail.com
 	CoreOS
+Georgiy Kutsurua: g.kutsurua!gmail.com
+	(Unknown)
 Geosung Lee: github!arar.io
 	패스트캠퍼스
 Gerard Braad: me!gbraad.nl
@@ -1783,8 +1836,8 @@ Greg Taylor: gtaylor!gc-taylor.com, gtaylor!users.noreply.github.com, snagglepan
 	Reddit
 Gregory Ian: argregoryian!gmail.com
 	NotFound
-Guang Ya Liu: liugya!cn.ibm.com
-	IBM
+Gregory Storme: gregory_storme!hotmail.com
+	(Unknown)
 Guangya Liu: gyliu513!gmail.com
 	IBM
 Guillaume Breton: guillaume!monzo.com
@@ -1805,7 +1858,9 @@ Gustavo Carneiro: gjcarneiro!gmail.com
 	Gambit Research
 Gustavo Orozco H: gorozcoh!users.noreply.github.com
 	NotFound
-Gytis: gytisgreitai!users.noreply.github.com
+Gytis*: gytis!xperious.com
+	(Unknown)
+Gytis*: gytisgreitai!users.noreply.github.com
 	TripCreator
 Gyu-Ho Lee: gyuhox!gmail.com
 	CoreOS
@@ -1829,8 +1884,10 @@ Hardy Simpson: zhongcheng2!huawei.com
 	Huawei
 Harry Fei: feixiaoboy!163.com
 	Net EASE 网易有态度
-Harry Zhang: harryz!hyper.sh, resouer!gmail.com
+Harry Zhang*: harryz!hyper.sh, resouer!gmail.com
 	Hyper.sh
+Harry Zhang*: harryzhang!zju.edu.cn
+	Docker
 Harsh Choudhary: shry.harsh!gmail.com
 	Scaler Labs
 Harsh Desai: harsh!portworx.com
@@ -1886,6 +1943,8 @@ Hui Kang: hkang.sunysb!gmail.com, kangh!us.ibm.com
 	IBM
 Hui-Zhi: zhaohuizhi!gmail.com
 	Caicloud
+Humble Chirammal: hchiramm!redhat.com
+	Red Hat
 Humble Devassy Chirammal: humble.devassy!gmail.com
 	CentOS
 Hung Nguyen Viet: hvn!familug.org
@@ -1907,7 +1966,7 @@ Ian Burrell: ianburrell!gmail.com
 Ian Chakeres: ian.chakeres!gmail.com
 	SalesForce
 Ian Coffey: icoffey!engineyard.com
-	Engine Yard
+	Microsoft
 Ian Lewis*: ianlewis!google.com
 	Google
 Ian Lewis*: ianmlewis!gmail.com
@@ -1966,6 +2025,8 @@ Ivan Shvedunov: ishvedunov!mirantis.com, ivan4th!gmail.com, ivan4th!users.norepl
 	Mirantis
 J. Hollinshead: jollinshead!users.noreply.github.com
 	Hotels.com
+JR: internationalhobo!gmail.com
+	(Unknown)
 Jacco Flenter: github!putpixel.nl
 	Wercker
 Jacek J. Łakis: jacek.lakis!intel.com
@@ -1992,6 +2053,8 @@ Jacob Tanenbaum: jtanenba!redhat.com
 	Red Hat
 Jacob Tomlinson: jacob.tomlinson!informaticslab.co.uk
 	Met Office Informatics Lab
+Jaehoon Choi: plaintext!andromedarabbit.net
+	(Unknown)
 Jago Macleod: jmacleod!google.com
 	Google
 Jaime Soriano Pastor: jsoriano!tuenti.com
@@ -2049,6 +2112,8 @@ Jan Dolecek: juzna.cz!gmail.com
 	eDigitalResearch
 Jan Jungnickel: jan!jungnickel.com
 	SGM-Media
+Jan Pazdziora: jpazdziora!redhat.com
+	Red Hat
 Jan Safranek: jsafrane!redhat.com
 	Red Hat
 Jan Weitz: jan!iosphere.de
@@ -2082,7 +2147,7 @@ Jason Giedymin: jasong!apache.org
 Jason Hansen: jason!slack.io, jhansen!deis.com, jhansen!engineyard.com
 	Microsoft
 	Microsoft until 2017-04-15
-	Engine Yard until 2015-04-15
+	Microsoft until 2015-04-15
 Jason Hunter: jthunter!google.com
 	Google
 Jason Kuhrt: jasonkuhrt!me.com
@@ -2103,21 +2168,29 @@ Javier Cuevas: javi!diacode.com
 	Gudog
 Jay Judkowitz: judkowitz!google.com
 	Google
-Jay Lau: jay.lau.513!gmail.com
+Jay Lau: jay.lau.513!gmail.com, liugya!cn.ibm.com
 	IBM
+Jay Oster: jay!kodewerx.org
+	(Unknown)
 Jay Pipes: jaypipes!gmail.com, jpipes!serialcoder
 	Mirantis
 	AT&T until 2013-12-31
 	HP until 2012-06-04
 	Rackspace until 2011-12-01
+Jay Vyas: jay!apache.org
+	Apache
 Jayson Raymond: jraymond!accelerantmobile.com
 	Accelerant Mobile Corp
+Jean Raby: jean!raby.sh
+	(Unknown)
 Jean de Klerk: jadekler!gmail.com
 	Pivotal
 Jean-Christophe Sirot: jcsirot!gmail.com, jeanchristophe.sirot!arkena.com, jsirot!weborama.com
 	Weborama
 Jean-Francois Chevrette: jf.cron0!gmail.com
 	Funio
+Jedrzej Nowak: pigmej!gmail.com
+	Mirantis
 Jeff Bean: jeff.bean!hds.com
 	Hitachi
 Jeff Grafton: ixdy!users.noreply.github.com, jgrafton!google.com
@@ -2161,6 +2234,8 @@ Jeremy Brown: jeremy!tenfourty.com
 	Red Hat
 Jeremy Deininger: jeremydeininger!gmail.com
 	Checkr
+Jeremy Eder: jeder!redhat.com
+	Red Hat
 Jeremy Jongepier: jeremy.jongepier!cyso.com
 	CYSO
 Jeremy Lewi: jlewi!google.com
@@ -2258,11 +2333,15 @@ Joakim Gustin: jocke.gustin!gmail.com
 	Layer 10
 Joao Morais: jcmoraisjr!gmail.com
 	SERPRO
+Joar Wandborg: joar!wandborg.se
+	(Unknown)
 Jodie Putrino: j.putrino!f5.com
 	F5 Networks
 Joe Beda*: joe!bedafamily.com
 	Shippable
 Joe Beda*: joe.github!bedafamily.com
+	Google
+Joe Betz: jpbetz!google.com
 	Google
 Joe Bowers: joe.bowers!coreos.com
 	CoreOS
@@ -2312,6 +2391,12 @@ John Felten: john!zenzic.com
 John Hofman: johncarlhofman!gmail.com
 	Eneco Energy
 	Fusion Electronics until 2016-06-15
+John Ko: git!johnko.ca
+	(Unknown)
+John Laswell: john.n.laswell!gmail.com
+	(Unknown)
+John Millikin: jmillikin!stripe.com
+	(Unknown)
 John Mulhausen: johndylan!johndylan-macbookpro2.roam.corp.google.com, johndylan!johndylan-macpro.roam.corp.google.com
 	Google
 John Paul Adrian Glaubitz: glaubitz!physik.fu-berlin.de
@@ -2378,6 +2463,8 @@ Joonathan Mägi: joonathan!gmail.com
 	MOVE Guides
 Joonsung Lee: joonsung!devsisters.com
 	Devsisters
+Joost Hofman: joost.h.hofman!gmail.com
+	(Unknown)
 Jordan Jennings: jordanjennings!gmail.com
 	Thermo Fisher Scientific
 Jordan Liggitt: jliggitt!redhat.com, jordan!liggitt.net
@@ -2444,10 +2531,14 @@ Joshua Piccari: joshua.piccari!gmail.com
 	Atlas Informatics
 Joshua Swaney: joshuaswaney!users.noreply.github.com
 	Amazon
+José Carlos Cieni Júnior: cieni!users.noreply.github.com
+	(Unknown)
 Juan Ariza Toledano: juan_ariza_cordoba!hotmail.com
 	Bitnami
 Juan Valencia: jvalencia!sharethis.com
 	ShareThis
+Julia Evans: julia!stripe.com
+	(Unknown)
 Julia Ferraioli: julia.ferraioli!gmail.com
 	Google
 Julian Strobl: julian!endocode.com
@@ -2478,6 +2569,8 @@ Jupp Müller: jupp0r!gmail.com
 	Citrix
 Justin: justin!bouncybouncy.net
 	Self
+Justin Burnham: justin!jburnham.net
+	(Unknown)
 Justin Clayton: justinclayton!users.noreply.github.com
 	Getty Images
 	Walt Disney until 2015-09-15
@@ -2512,8 +2605,6 @@ Jérémy Wimsingues: jeremy.wimsingues!insa-lyon.fr
 	Self
 Jørgen Grøndal: jg!appeartv.com
 	Appear TV AS
-Jędrzej Nowak: pigmej!gmail.com
-	Mirantis
 KORNISTE: korniste!kornisteui-macbook-pro.local
 	KORNISTE
 Kai Zhang: zakir.exe!gmail.com
@@ -2521,6 +2612,8 @@ Kai Zhang: zakir.exe!gmail.com
 	Cisco until 2017-02-15
 Kaijun Chen: kaijun!users.noreply.github.com
 	Qiniu
+Kaitlyn Barnard: kaitlynbarnard10!gmail.com
+	(Unknown)
 Kale Blankenship: kale!lemnisys.com
 	ACME AtronOmatic
 	Plexxi until 2016-06-15
@@ -2558,6 +2651,8 @@ Kasper Bentsen: kasper!firemango.dk
 	Wallmob until 2016-11-15
 Kathrin Probst: kprobst!google.com, kprobst!kprobst-macbookair2.roam.corp.google.com
 	Google
+Kathryn Alexander: kealexan!us.ibm.com
+	IBM
 Kazuki Suda: kazuki.suda!gmail.com, ksuda!zlab.co.jp
 	zlabjp
 Ke Wu: mikewu!google.com
@@ -2567,7 +2662,7 @@ Ke Zhang: zhang.ke106!zte.com.cn, zhangke909!qq.com
 Keegan Carruthers-Smith: keegan.csmith!gmail.com
 	Sourcegraph.com
 Keerthan Mala: kmala!engineyard.com
-	Engine Yard
+	Microsoft
 Keerthan Reddy Mala (kmala): keerthan.mala!gmail.com, kmala!deis.com
 	Microsoft
 Keith Bartholomew: keith.bartholomew!rackspace.com
@@ -2620,6 +2715,8 @@ Kent Rancourt: kent!deis.com, kent.rancourt!microsoft.com, krancour!users.norepl
 	Aetna until 2015-07-15
 Kent Wang: kent.wang!cheanjia.com
 	Rackspace
+Kessiler: kessiler!users.noreply.github.com
+	(Unknown)
 Ketan Kulkarni: ketkulka!gmail.com
 	Cisco
 Kevin: wangzefeng!huawei.com
@@ -2644,6 +2741,8 @@ Kevin Wang*: wang.kanghua!zte.com.cn
 	ZTE Corporation
 Keyan Pishdadian: kpishdadian!gmail.com
 	Teachers Pay Teachers
+Khaled Henidak & Andy Zhang: xiazhang!microsoft.com
+	Microsoft
 Khalid Dermoumi: dev!khalid-dermoumi.de, khaliddermoumi!users.noreply.github.com
 	GRENKELEASING AG
 	GLS until 2015-07-15
@@ -2672,6 +2771,8 @@ Kodai Sakabe: cs006061!gmail.com
 	Wantedly
 Koichi Shiraishi: zchee.io!gmail.com
 	Self
+Kokan: kokaipeter!gmail.com
+	(Unknown)
 Konstantinos Tsakalozos: kos.tsakalozos!canonical.com
 	Canonical
 Koonwah Chen: koonwah!google.com
@@ -2730,6 +2831,8 @@ Lantao Liu: taotaotheripper!gmail.com
 	Google
 Larry Rensing: larry.rensing!gmail.com, larryrensing!users.noreply.github.com
 	St. Clair County Building and Zoning
+Lars Lehtonen: lars.lehtonen!gmail.com
+	(Unknown)
 Lars Mogren: lars.mogren!gmail.com
 	TheNatureOfSoftware
 Lars Sjöström: lars!radicore.se
@@ -2775,6 +2878,8 @@ Lihan Li: lihan.li!hotmail.com
 	Mathspace until 2016-03-15
 Lin Yang: lin.a.yang!intel.com
 	Intel
+Lincoln Stoll: lincoln.stoll!salesforce.com
+	SalesForce
 Liss Tarnell: ft!le-fay.org
 	Torchbox
 Liyi Meng: meng.mobile!gmail.com
@@ -2833,6 +2938,8 @@ Luke Benson: luke.benson!emergingstack.com
 	Emerging Stack
 Luke Faraone: luke!faraone.cc
 	Dropbox
+Luke Heidecke: luke.heidecke!gmail.com
+	(Unknown)
 Luke Kysow: lkysow!gmail.com
 	Hootsuite
 Luke Mallon: luke!mallon.io
@@ -2864,12 +2971,12 @@ Maciej Filipiak: maciej.k.filipiak!gmail.com
 	Currency One SA
 Maciej Kwiek: maciej.iai!gmail.com, mkwiek!mirantis.com
 	Mirantis
-Maciej Pytel: maciekpytel!google.com
-	Google
 Maciej Strzelecki: maciej.strzelecki!gmail.com, mstrzele!users.noreply.github.com
 	Schibsted
 Maciej Szulik: maszulik!redhat.com, soltysh!gmail.com
 	Red Hat
+MaciekPytel: maciekpytel!google.com
+	Google
 Madhusudan.C.S*: madhusudancs!gmail.com
 	FOSSEE
 Madhusudan.C.S*: madhusudancs!google.com
@@ -2896,10 +3003,10 @@ Manjunath A Kumatagi: mkumatag!in.ibm.com
 	IBM
 Manoj Kumar: manoj9788!gmail.com
 	Assert Selenium
+Manuel Alejandro de Brito Fontes: aledbf!gmail.com
+	SOFICOM
 Manuel Amador (Rudd-O): rudd-o!rudd-o.com
 	Rudd-O
-Manuel de Brito Fontes: aledbf!gmail.com
-	SOFICOM
 Marc Boorshtein: marc.boorshtein!tremolosecurity.com
 	Tremolo Security
 Marc CARRE: carre.marc!gmail.com
@@ -2969,14 +3076,14 @@ Mark Lamourine: markllama!gmail.com
 	Red Hat
 Mark Lee: code0x9!gmail.com
 	titicacadev
-Mark Maglana: mmaglana!gmail.com
-	Teradata Aster
 Mark Nuttall: mpnuttall!gmail.com
 	IBM
 Mark Petrovic*: mark.petrovic!xoom.com
 	Xoom
 Mark Petrovic*: mspetrovic!gmail.com
 	PayPal
+Mark S. Maglana: mmaglana!gmail.com
+	Teradata Aster
 Mark deVilliers: markdevilliers!gmail.com
 	Thingful
 Marko Bonaći: mbonaci!users.noreply.github.com
@@ -2997,6 +3104,8 @@ Martin Etmajer: m.etmajer!gmail.com
 	Dynatrace LLC
 Martin Gannholm: martin!way2clever.com
 	NotFound
+Martin Joehren: martin.joehren!esailors.de
+	(Unknown)
 Martin Linkhorst: linki!users.noreply.github.com, martin.linkhorst!zalando.de, martin.linkhorst+github.com!posteo.de
 	Zalando
 Martin Maly: martinmaly!users.noreply.github.com, mmaly!google.com
@@ -3058,7 +3167,7 @@ Matt Bruzek*: matthew.bruzek!canonical.com
 Matt Bruzek*: mbruzek!gmail.com
 	Juju Ecosystem
 Matt Butcher: matt.butcher!microsoft.com, mbutcher!deis.com, mbutcher!engineyard.com, technosophos!gmail.com
-	Engine Yard
+	Microsoft
 	Nest until 2015-06-15
 	Resolv Inc until 2014-10-15
 Matt Condon: matt!skillshare.com, mattgcondon!gmail.com
@@ -3128,10 +3237,8 @@ Matt Tyler: matt.tyler!flashics.com
 	Rio Tinto until 2015-09-15
 Matthew Farrellee: matt!redhat.com
 	Red Hat
-Matthew Fisher*: matt.fisher!microsoft.com, mfisher!deis.com
+Matthew Fisher: matt.fisher!microsoft.com, mfisher!deis.com, mfisher!engineyard.com
 	Microsoft
-Matthew Fisher*: mfisher!engineyard.com
-	Engine Yard
 Matthew Heon: mheon!redhat.com
 	Red Hat
 Matthew Hooker: mwhooker!gmail.com
@@ -3289,18 +3396,20 @@ Michał Żyłowski: michal.zylowski!intel.com
 	Intel
 Michel Alexandre Salim: michel!traveloka.com
 	Traveloka
+Michelle: amerai!google.com, michelle192837!users.noreply.github.com
+	Google
 Michelle Au: msau!google.com
 	Google
-Michelle Noorali*: michelle!deis.com, michellemolu!gmail.com, minooral!microsoft.com
+Michelle Noorali: michelle!deis.com, michellemolu!gmail.com, minooral!microsoft.com, mnoorali!engineyard.com
 	Microsoft
-Michelle Noorali*: mnoorali!engineyard.com
-	Engine Yard
-Michelle Shepardson: amerai!google.com, michelle192837!users.noreply.github.com
-	Google
+	Microsoft until 2017-04-01
+	DealerMatch until 2014-09-15
 Miciah Masters: miciah.masters!gmail.com, mmasters!redhat.com
 	Red Hat
 Miguel Angel Rasero: skuda21!gmail.com
 	Self
+Miguel David: migueldavid!gmail.com
+	(Unknown)
 Miguel Eduardo Gil Biraud: miguel.gil.biraud!ieee.org
 	IEEE
 Miguel Flores Ruiz de Eguino: miguel.frde!gmail.com
@@ -3360,7 +3469,9 @@ MikeJeffrey: mike.jeffrey!gmail.com, mikejeffrey!users.noreply.github.com
 	Google
 Mikel Nelson: github!mikelnelson.net
 	Samsung
-Mikhail Mazurskiy: mmazurskiy!atlassian.com
+Mikhail Mazurskiy*: 126021+ash2k!users.noreply.github.com
+	(Unknown)
+Mikhail Mazurskiy*: mmazurskiy!atlassian.com
 	Atlassian
 Mikhail Vasilenko: mvasilenko!gmail.com
 	XO Tel
@@ -3381,10 +3492,10 @@ Minhan Xia: minhan.xia!gmail.com, mixia!google.com
 	Google
 Misty De Meo: mistydemeo!github.com
 	GitHub
-Mitsuhiro Tanino: mitsuhiro.tanino!hds.com
-	Hitachi Data Systems
 Miyurz: mayur.nagekar!gmail.com
 	NotFound
+MofeLee: mofe!me.com
+	Apple
 Mohamed Bassem: medoox240!gmail.com
 	Facebook
 Mohamed Shahat: mshahat!computer.org
@@ -3429,7 +3540,7 @@ Mykhailo Oleksiuk: mykhail.oleksiuk!teamaol.com
 Máirín Duffy: duffy!redhat.com
 	Red Hat
 Naga Elluri: nelluri!engineyard.com
-	Engine Yard
+	Microsoft
 Nagapramod Mandagere: pramod!us.ibm.com
 	IBM
 Nagarjun: nagarjung.g!gmail.com
@@ -3450,12 +3561,16 @@ Naoki Ainoya: ainonic!gmail.com
 	recruit-mp
 Nataliia Uvarova: grafinya.uvarova!gmail.com
 	Iteam Solutions AB
+Nate Franzen: nfranzen+github!gmail.com
+	(Unknown)
 Nathan Button: nathan.button!gmail.com, nbutton!ancestry.com
 	Ancestry.com
 Nathan Quarles: nateq314!gmail.com
 	Self
 	ZDL Books until 2015-09-15
 	Marbridge Consulting until 2014-06-15
+Nathan Valentine: nrvale0!users.noreply.github.com
+	(Unknown)
 Naveen: nsrinivasan1976!gmail.com
 	Self
 Neil Hanlon: nhanlon!kayak.com
@@ -3566,6 +3681,8 @@ Oli Lalonde: olalonde!gmail.com
 	Blockai
 Oliver Soell: oliver!soell.net
 	Schibsted Media Group
+Olivier Grisel: olivier.grisel!ensta.org
+	(Unknown)
 Olivier Lemasle: o.lemasle!gmail.com
 	Apalia
 Olve S. Hansen: olvesh!gmail.com
@@ -3643,6 +3760,8 @@ Patrick Harböck: patrick.harboeck!tngtech.com
 	NotFound
 Patrick Hemmer: patrick.hemmer!gmail.com
 	NotFound
+Patrick Lucas: me!patricklucas.com
+	(Unknown)
 Patrick Mahoney: patrick.mahoney!raise.com
 	Raise.com
 	Rackspace until 2015-11-15
@@ -3652,7 +3771,7 @@ Patrick Reilly*: patrick!kismatic.io
 	Kismatic
 Patrick Tescher: pat2man!gmail.com
 	WillCall
-Patrik Votoček: patrik!votocek.cz
+Patrik Votocek: patrik!votocek.cz
 	Goodbaby International
 Patryk Duński: patryk.dunski!kende.pl
 	Kende
@@ -3679,8 +3798,6 @@ Paul Tyng: ptyng!underarmour.com
 	Under Armour
 	Code in the Schools until 2015-11-15
 	Radio Clothing until 2015-08-15
-Paul Weil: pweil!redhat.com
-	Red Hat
 Paul Zimmerman: pzimmerm!cisco.com
 	Cisco
 PaulJuliusMartinez: pauljuliusmartinez!gmail.com
@@ -3729,6 +3846,8 @@ Peter Huene: peter!segfault.guru
 	Microsoft
 Peter Lamar: peterrlamar!gmail.com
 	UnitedHealth
+Peter Lee: li.xialong!zte.com.cn
+	ZTE Corporation
 Peter Luttrell: peter!firepod.com
 	Intertrust
 	Motorola until 2016-01-15
@@ -3806,7 +3925,7 @@ Pontus Leitzler: leitzler!gmail.com
 Pooya Sanooei: sourcesoft!users.noreply.github.com
 	Avadis
 	DreamyNet until 2016-03-15
-Prashanth Balasubramanian: beeps!google.com
+Prashanth B: beeps!google.com
 	Google
 Praveen Kumar: kumarpraveen.nitdgp!gmail.com
 	YesMastr
@@ -3884,6 +4003,8 @@ Rahul*: rahul!rmenn.in
 	Rahul Menon
 Rahul*: rchoudhury!gmail.com
 	Q42
+Raj Perera: rajiteh!gmail.com
+	(Unknown)
 Rajat Chopra: rajatchopra!gmail.com, rchopra!redhat.com
 	Red Hat
 Rajdeep Dua: dua_rajdeep!yahoo.com
@@ -3934,6 +4055,8 @@ Remco: remco!dutchcoders.io
 	Dutchcoders
 Remi Rampin: remirampin!gmail.com
 	Self
+Remington Reackhof: rreackhof!rmn.com
+	(Unknown)
 Remon Lam: remon.lam!lamnet.nl
 	ContainerStack.io
 Rene Saenz: rene.saenz!gmail.com
@@ -4030,6 +4153,8 @@ Robert Roland: robert.roland!hpe.com
 	HP
 Robert Ross: robert!creativequeries.com
 	Namely
+Robert Schuh: github!eneticum.de
+	(Unknown)
 Robert Wehner: rcw!wehnerortega.net
 	Google
 	Return Path until 2017-03-15
@@ -4138,6 +4263,8 @@ Ryan Richard*: ryanrichard07!gmail.com
 	Google
 Ryan Wallner: ryan.wallner!clusterhq.com
 	ClusterHQ
+Ryan Walls: github!ryanwalls.com
+	(Unknown)
 Ryan Walters: shout!ryanwalters.co
 	Encyclopaedia Britannica
 Rye Terrell: ryeterrell!ryeterrell.net
@@ -4156,6 +4283,8 @@ Salvatore Dario Minonne: salvatore-dario.minonne!amadeus.com
 	Amadeus
 Sam Abed: samabed!gmail.com, samsabed!gmail.com
 	NotFound
+Sam Clinckspoor: sam.clinckspoor!gmail.com
+	(Unknown)
 Sam Ghods: sam!box.com
 	Box
 Sam Stoelinga: sammiestoel!gmail.com
@@ -4175,6 +4304,8 @@ Sami Makki: smakki!altair.com
 	Altair Engineering
 Sami Wagiaalla: swagiaal!redhat.com
 	Red Hat
+Samuel Brown: samuel.t.brown!gmail.com
+	(Unknown)
 Samuel Cozannet: samuel.cozannet!canonical.com, samuel.cozannet!madeden.com
 	Canonical
 Samuel Ortiz: sameo!linux.intel.com
@@ -4278,8 +4409,6 @@ Seigo Uchida: spesnova!gmail.com
 Selvi K: selvik!users.noreply.github.com
 	Cisco
 	VMware until 2015-08-15
-Sen Lu: senlu!google.com
-	Google
 Serge Catudal: serge.catudal!gmail.com
 	Ubisoft
 Sergei Orlov: orlovsergeypost!gmail.com
@@ -4316,10 +4445,8 @@ Sergiusz Urbaniak*: sur!mesosphere.io
 	Mesosphere
 Serguei Bezverkhi: sbezverk!cisco.com
 	Cisco
-Seth Goings*: segoings!microsoft.com, seth!deis.com, sgoings!deis.com
+Seth Goings: segoings!microsoft.com, seth!deis.com, sgoings!deis.com, sgoings!engineyard.com
 	Microsoft
-Seth Goings*: sgoings!engineyard.com
-	Engine Yard
 Seth House: seth!eseth.com
 	SaltStack
 Seth Jennings: sjenning!redhat.com
@@ -4352,6 +4479,8 @@ Sharif Nassar: mrwacky42!users.noreply.github.com
 	Self until 2016-09-15
 Sharon: captainshar!gmail.com
 	Heptio
+Shashank: shashank.pradhan!datadoghq.com
+	(Unknown)
 Shashidhara T D: shashidhara.td!huawei.com
 	Huawei
 Shaun Parker: shaunrparker!gmail.com
@@ -4444,6 +4573,8 @@ Spencer Brown: spencer!spencerbrown.org
 	Avametric
 Spencer Smith: robertspencersmith!gmail.com, rsmitty!users.noreply.github.com, spencer!solinea.com
 	Solinea
+Spyros Trigazis: spyridon.trigazis!cern.ch, strigazi!gmail.com
+	CERN
 Sreekanth Pothanis: spothanis!ebay.com
 	eBay
 Srini Brahmaroutu: srbrahma!us.ibm.com
@@ -4454,6 +4585,8 @@ Stanisław Szydło: stanislaw.szydlo!intel.com
 	Intel
 Steel Brain: steelbrain!users.noreply.github.com
 	Self
+Steele Clifton-Berry: steelecb+kops!gmail.com
+	(Unknown)
 Stef Walter: stefw!redhat.com
 	Red Hat
 Stefan Gangefors: gangefors!users.noreply.github.com, stefan!gangefors.com
@@ -4474,6 +4607,8 @@ Stephan Wienczny: wienczny!gmail.com
 	Self
 Stephan Zuercher: stephan!turbinelabs.io
 	Turbine Labs
+Stephan van Ellewee: stephan.van.ellewee!gmail.com
+	(Unknown)
 Stephen Baldwin: stephencharlesb!gmail.com
 	NotFound
 Stephen Gallagher: sgallagh!redhat.com
@@ -4484,6 +4619,8 @@ Stephen Kriss: stephen.kriss!gmail.com
 	Heptio
 Stephenie Swope: steph!epiphenie.com
 	Amazon
+Steve Coffman: steve.coffman!ithaka.org
+	(Unknown)
 Steve Gordon: stephen.a.gordon!gmail.com
 	Red Hat
 Steve Jernigan: sjernigan!reverbnation.com
@@ -4542,6 +4679,8 @@ Stijn De Haes: stijn.de.haes!gmail.com
 	Self until 2014-09-15
 Stu Gott: sgott!redhat.com
 	Red Hat
+Stuart Grice: stuartgrice!users.noreply.github.com
+	(Unknown)
 StudyNick: wei.chuanhui1!zte.com.cn
 	ZTE Corporation
 Subhas Dandapani: rdsubhas!gmail.com
@@ -4555,6 +4694,8 @@ SukantGujar: sukantgujar!yahoo.com
 	Paragyte Technologies
 Sunil Arora: sunilarora!google.com
 	Google
+Sunny: me!darkowlzz.space
+	(Unknown)
 Suraj Deshmukh: surajd.service!gmail.com, surajssd009005!gmail.com
 	Red Hat
 Suraj Narwade: surajnarwade353!gmail.com
@@ -4601,6 +4742,8 @@ Tamal Saha: tamal!appscode.com
 	AppsCode
 Tamer Tas: contact!tmrts.com, tamertas!outlook.com, tmrts!users.noreply.github.com
 	Self
+Tamir Duberstein: tamird!gmail.com
+	(Unknown)
 Tang Le: at28997146!163.com, tangle3!wanda.cn
 	Net EASE 网易有态度
 Tanner Bruce: tanner.bruce!farmersedge.ca
@@ -4625,6 +4768,8 @@ Taylor Thomas*: thomastaylor312!gmail.com
 	Nike
 Ted Hahn: ted!lifeonair.com
 	Life On Air
+Teddy Schmitz: teddy!schmitz.hk
+	(Unknown)
 Telepenin Nikolay: telepenin.nikolay!gmail.com
 	CloudLinux
 TerraTech: service!futurequest.net
@@ -4682,6 +4827,8 @@ Tiffany Jernigan: tiffany.jernigan!intel.com
 	Intel
 Till Backhaus: till!backha.us
 	Traum-Ferienwohnungen
+Tim Allclair: tallclair!google.com
+	Google
 Tim Brockman: timbrockman!users.noreply.github.com
 	Republic
 Tim Gossett: tim!cloud.com
@@ -4735,6 +4882,8 @@ Tom Denham*: tom.denham!metaswitch.com
 	Metaswitch
 Tom Haddon: tom!haddons.net
 	Canonical
+Tom Jackson: thomas.b.jackson!gmail.com
+	(Unknown)
 Tom Payne: twpayne!gmail.com
 	Camptocamp
 Tom Petr: tpetr!hubspot.com
@@ -4782,8 +4931,10 @@ Tony Hsu: gosharplite!gmail.com
 	Ubisoft
 Tony Li: tony.li!nytimes.com, tonyli.lives!gmail.com
 	The New York Times
-TonyAdo: coolhzb!163.com
-	Net EASE 网易有态度
+Tony Zhao: touchdown!users.noreply.github.com
+	(Unknown)
+Torben Tretau: torben!tretau.net
+	(Unknown)
 Torin Sandall: torinsandall!gmail.com
 	Styra, Inc.
 Travis Beatty: travisby!gmail.com
@@ -4814,6 +4965,12 @@ Tupin Laurent: ltupin!users.noreply.github.com
 Tyler Britten: tbritten!us.ibm.com
 	Blue Box
 	EMC until 2015-06-30
+Tyler Roscoe: tyler!cryptio.net
+	(Unknown)
+Ubuntu: abdelsalam.naeim!gmail.com, abdelsalam50!gmail.com
+	Information Technology Institute
+	Raya Contact Center until 2016-06-15
+	Self until 2015-12-15
 Uri Sarid: usarid!gmail.com
 	MuleSoft
 Valentin Tjoncke: nouney!users.noreply.github.com
@@ -4821,7 +4978,9 @@ Valentin Tjoncke: nouney!users.noreply.github.com
 	EfficientIP until 2016-06-15
 	Self until 2014-06-15
 	Capgemini until 2013-08-15
-Valentyn Boginskey: vboginskey!gmail.com
+Valentyn Boginskey*: valentyn!greenhouse.io
+	(Unknown)
+Valentyn Boginskey*: vboginskey!gmail.com
 	Greenhouse Software
 Vallard Benincosa: vallard!benincosa.com
 	Cisco
@@ -4856,6 +5015,8 @@ Victor Marmol: vmarmol!google.com
 	Google
 Victor Quinn: mail!victorquinn.com
 	shopspring
+Victor Sartori: victor.sartori!gmail.com
+	(Unknown)
 Victor Unegbu: victor!unegbu.com
 	webgains
 Victoria Domalik: victoria.domalik!gmail.com
@@ -4930,6 +5091,8 @@ Vlad Gorodetsky: v!gor.io
 	NotFound
 Vladi: emve.dev!yandex.ru
 	NotFound
+Vladimir Kozyrev: v.kozyrev.sa!gmail.com
+	(Unknown)
 Vladimir Pouzanov: farcaller!gmail.com
 	Google
 Vladimir Rutsky: rutsky!users.noreply.github.com, rutsky.vladimir!gmail.com, vladimir!rutsky.org
@@ -4958,6 +5121,8 @@ Walter Dolce: walterdolce!gmail.com
 	BBC
 Walter Fender: wfender!google.com
 	Google
+Wang: chaowang95!outlook.com
+	(Unknown)
 Wang Jie: wangjie5!chinaskycloud.com
 	Self
 Wang Xing: hzwangxing!corp.netease.com
@@ -4970,6 +5135,8 @@ Waseem Ahmad: talk.to.waseem!gmail.com
 	Authorly until 2014-08-15
 Wayne Brantley: wayne!waynebrantley.com
 	Self
+Wei Jin: wjin.cn!gmail.com
+	(Unknown)
 Wei Ma: wma!thoughtworks.com
 	ThoughtWorks
 Wei Wei: weiwei.inf!gmail.com
@@ -4998,8 +5165,8 @@ Will Farrington: wcfarrington!gmail.com
 	wfarr systems
 Will Platnick: wplatnick!gmail.com
 	CISSP
-Will Sean Don: willdon!nerdondon.com
-	NotFound
+Will Tran: will!autonomic.ai
+	(Unknown)
 Willem Mali: willem.mali!gmail.com
 	42 Tech
 William Caban: william.caban!savantadvisors.com
@@ -5033,16 +5200,17 @@ Xianglin Gao: xlgao!harmonycloud.cn, xlgao!zju.edu.cn
 	Self
 Xiaogang Xin: xnxin!ebay.com
 	eBay
-Xiaoyu Zhang: zhang.xiaoyu33!zte.com.cn
-	ZTE Corporation
 Xin: xnxin!lm-shc-00950210.corp.ebay.com
 	eBay
 Xin Zhang: xinzhang1228!gmail.com
 	Caicloud
-Xinbo Weng: xihuanbo_0521!zju.edu.cn
-	Self
+Xing Yang: xing.yang!emc.com
+	Dell
+	EMC until 2017-01-31
 Xing Zhou: xingzhou!cn.ibm.com
 	IBM
+Xingcai Zhang: zhangxingcai!ghostcloud.cn
+	(Unknown)
 Xiuyu Li: nickleefly!gmail.com
 	Self
 XrXr: xrsquared!gmail.com
@@ -5061,6 +5229,8 @@ Yang Guan: yangguan!google.com
 	Google
 Yang Guo: ygg!google.com
 	Google
+Yang Li: idealhack!gmail.com
+	(Unknown)
 Yang Meng: yangm3ng!gmail.com
 	NotFound
 Yann Simon: yann.simon.fr!gmail.com
@@ -5115,8 +5285,6 @@ Yong Tang: yong.tang.github!outlook.com
 	Infoblox
 Yota Toyama: raviqqe!gmail.com
 	Self
-Young: afe.young!gmail.com
-	Self
 Yu-Ju Hong: yjhong!google.com
 	Google
 Yuki Sonoda (Yugui): yugui!yugui.jp
@@ -5127,6 +5295,8 @@ Yulin Xie: yulinxie!zju.edu.cn
 	Self
 Yuri Khrustalev: ykhrustalev!users.noreply.github.com
 	Self
+Yurii Bychenok: ipeacocks!gmail.com
+	(Unknown)
 Yuriy Taraday: yorik!ytaraday, yorik.sar!gmail.com
 	Mirantis
 Yury Tsarev: yury.tsarev!iflix.com
@@ -5135,8 +5305,8 @@ Yusuke Kuoka: ykuoka!gmail.com
 	クラウドワークス
 Yutong Zhang: yutongz!google.com
 	Google
-Yuvi Panda: yuvipanda!gmail.com
-	Wikimedia Foundation
+YuxiJin-tobeyjin: jin.yuxi!zte.com.cn
+	ZTE Corporation
 Yves Junqueira: yves.junqueira!gmail.com
 	Google
 Yves Peter: ypwebstuff!gmail.com
@@ -5363,6 +5533,8 @@ adriano.rosso: adriano.rosso!fit-tecnologia.org.br
 	Hitachi until 2017-03-31
 afaranha: afaranha!lsd.ufcg.edu.br
 	Self
+ag237: agentgreen!gmail.com
+	(Unknown)
 agalkin: agalkin!mirantis.com
 	Mirantis
 agangil: agangil!vmware.com
@@ -5414,8 +5586,6 @@ ailzhang: ailzhang!cisco.com
 ainikitenkov: ainikitenkov!gmail.com
 	Hystax
 aishu.ece: aishu.ece!gmail.com
-	HP
-aishwarya.thangappa: aishwarya.thangappa!gmail.com
 	HP
 aislansaulo: aislansaulo!gmail.com
 	Self
@@ -5567,6 +5737,8 @@ alexandra.settle: alexandra.settle!outlook.com
 	Rackspace
 alexandra.settle: alexandra.settle!rackspace.com
 	Rackspace
+alexandrst88: alexandrst88!gmail.com
+	(Unknown)
 alexei.kornienko: alexei.kornienko!gmail.com
 	Mirantis
 alexei_vinogradov: alexei_vinogradov!symantec.com
@@ -5631,6 +5803,8 @@ amcreynolds: amcreynolds!ebay.com
 	eBay
 amcreynolds: amcreynolds!ebaysf.com
 	eBay
+amdonov: donovan_aaron!bah.com
+	(Unknown)
 amerzlyakov: amerzlyakov!selit.ru
 	Sberbank
 amesserl: amesserl!rackspace.com
@@ -5921,8 +6095,6 @@ aparnavtce: aparnavtce!gmail.com
 	HP
 apeeyush: peeyushagarwal1994!gmail.com
 	CSE IIT KANPUR
-apilotti: apilotti!cloudbasesolutions.com
-	Cloudbase Solutions
 aplanas: aplanas!gmail.com
 	SUSE
 aplanas: aplanas!suse.de
@@ -5988,6 +6160,8 @@ arnaudleg: arnaudleg!gmail.com
 	VMware
 artushin: artushin!gmail.com
 	Vube
+arun-gupta: arun.gupta!gmail.com
+	Red Hat
 arun.dhiman: arun.dhiman!imaginea.com
 	Imaginea
 arun.mithil: arun.mithil!gmail.com
@@ -6357,6 +6531,8 @@ bohai: bohai!huawei.com
 	Huawei
 bolu: bolu!google.com
 	Google
+bonowang: bonowang!tencent.com
+	Tencent
 boris: boris!pavlovic.me
 	Mirantis
 	Self until 2013-04-10
@@ -6622,6 +6798,8 @@ chanwit: chanwit!gmail.com
 	Suranee Self
 chaochin: chaochin!gmail.com
 	IBM
+chaowang95: wangchao.fnst!cn.fujitsu.com
+	Fujitsu
 charles.burkett: charles.burkett!walmart.com
 	Walmart
 	Comcast until 2016-10-17
@@ -6919,8 +7097,6 @@ codemonkey77: arb77!hotmail.com
 	IBM
 codevulture: janonymous.codevulture!gmail.com
 	NEC
-cody-clark: codyclark!google.com
-	Google
 cody-somerville: cody-somerville!ubuntu.com
 	Rackspace
 	HP until 2016-02-01
@@ -6997,6 +7173,8 @@ cpuguy83: cpuguy83!gmail.com
 	Docker
 cr_hui: cr_hui!126.com
 	Self
+craig: cbrookes!redhat.com
+	Red Hat
 craig.bryant: craig.bryant!hp.com
 	HP
 craig.bryant: craig.bryant!hpe.com
@@ -7051,8 +7229,6 @@ csg341: csg341!my.utsa.edu
 	Intel
 csravelar: csravelar!gmail.com
 	Intel
-csrwng: cewong!redhat.com
-	Red Hat
 cthiel: cthiel!suse.com
 	Was: Deutsche Telekom
 	Deutsche Telekom until 2014-07-31
@@ -7064,8 +7240,6 @@ ctracey: ctracey!bluebox.net
 	Self until 2013-10-31
 cui.xiaoyu: cui.xiaoyu!h3c.com
 	H3C
-cuihz: cuihz!wise2c.com
-	Wise2c
 cuixiaoyu: cuixiaoyu!163.com
 	H3C
 cuz150: cuz150!my.utsa.edu
@@ -7079,6 +7253,8 @@ cybing4: cybing4!gmail.com
 cyril.roelandt: cyril.roelandt!enovance.com
 	Red Hat
 	eNovance until 2014-06-24
+czahedi: czahedi!google.com
+	Google
 czheng: czheng!cn.ibm.com
 	EasyStack
 	IBM until 2014-02-21
@@ -7497,6 +7673,8 @@ dja: dja!axtens.net
 	IBM until 2017-04-07
 djedi.r: djedi.r!gmail.com
 	Intel
+djkonro: konraddjimeli!gmail.com
+	(Unknown)
 djosborne: djosborne!users.noreply.github.com
 	NotFound
 dkalleg: daniel.allegood!hpe.com
@@ -7686,8 +7864,12 @@ dtroyer: dtroyer!gmail.com
 	Rackspace until 2012-07-20
 du0625: leave24534!gmail.com
 	Self
+duan-yue: duanyue!ghostcloud.cn
+	(Unknown)
 duanzw: duanzw!awcloud.com
 	Awcloud
+dubstack: buddhap!google.com
+	Google
 dudu_0012000: dudu_0012000!yahoo.com
 	Cloudbase Solutions
 duhzecca: duhzecca!gmail.com
@@ -7948,6 +8130,8 @@ ettore.simone: ettore.simone!gmail.com
 	Alchemy Solutions Group
 euan-am: euan-am!users.noreply.github.com
 	NotFound
+eulerzgy: zhenggouyong.zheng!huawei.com
+	Huawei
 eumel: eumel!arcor.de
 	Deutsche Telekom
 evelyn.xu: evelyn.xu!daocloud.io
@@ -8633,8 +8817,6 @@ harlowja: harlowja!outlook.com
 harlowja: harlowja!yahoo-inc.com
 	GoDaddy
 	Yahoo until 2016-03-16
-harry: harryzhang!zju.edu.cn
-	Docker
 harsh.mishra: harsh.mishra!imaginea.com
 	Imaginea
 	Wipro until 2015-04-10
@@ -8678,8 +8860,6 @@ hbjmstone: hbjmstone!163.com
 	Awcloud
 hchenxa: chairmanhh1986!gmail.com
 	NotFound
-hchiramm: hchiramm!redhat.com
-	Red Hat
 hcn518: hcn518!aliyun.com
 	H3C
 hcn518: hcn518!gmail.com
@@ -8790,6 +8970,8 @@ huanghe: huanghe!fiberhome.com
 	Fiberhome
 huanght: huanght!awcloud.com
 	Awcloud
+huangjiuyuan: jiuyuan.huang!daocloud.io
+	DaoCloud
 huangqg: csuhp007!gmail.com
 	IBM
 huangshan: huangshan!fiberhome.com
@@ -9068,6 +9250,8 @@ j.petazzoni: j.petazzoni!docker.com
 j.proudman: j.proudman!us.ibm.com
 	IBM
 	Blue Box until 2016-05-31
+j14s: dimes!j14s.com
+	(Unknown)
 j3p0uk: j3p0uk!hotmail.com
 	Cisco
 	HP until 2015-05-22
@@ -9217,8 +9401,6 @@ jawon.choo: jawon.choo!gmail.com
 jawon.choo: jawon.choo!sk.com
 	SK telecom
 	Samsung until 2016-07-31
-jay vyas: jay!apache.org
-	Apache
 jay: jay!jvf.cc
 	Rackspace
 jay.ahn: jay.ahn!sk.com
@@ -10169,6 +10351,8 @@ krum.spencer: krum.spencer!gmail.com
 	Self until 2013-06-16
 krystism: krystism!gmail.com
 	PoleX
+krzyzacy: senlu!google.com
+	Google
 ksantosh.cs: ksantosh.cs!gmail.com
 	Brocade
 kshafiee: kaveh.shafiee!huawei.com, kshafiee!users.noreply.github.com
@@ -10342,6 +10526,8 @@ liaoishere: liaoishere!gmail.com
 liaopenghui: liaopenghui!unitedstack.com
 	PoleX
 	UnitedStack until 2016-09-04
+liaoyw: whyis4ever!gmail.com
+	(Unknown)
 liaozhuodi: liaozhuodi!t2cloud.net
 	t2cloud
 libing863: libing863!fiberhome.com
@@ -10513,7 +10699,7 @@ liuzhikun: liuzhikun!gmail.com
 	IBM until 2014-11-03
 liwenqi: vikilwq!zju.edu.cn
 	Self
-lixiaobing10051267: li.xiaobing1!zte.com.cn
+lixiaobing1: li.xiaobing1!zte.com.cn
 	ZTE Corporation
 lixing0405: lixing0405!sina.com
 	SG.Cloud
@@ -10752,6 +10938,8 @@ major.hayden: major.hayden!rackspace.com
 maksym_iarmak: maksym_iarmak!symantec.com
 	Mirantis
 	Symantec until 2014-05-13
+malcolm lee: fengxueyu35!126.com
+	(Unknown)
 mandar.vaze: mandar.vaze!vertex.co.in
 	NTT
 mandeep.dhami: mandeep.dhami!gmail.com
@@ -11503,6 +11691,8 @@ mshuler: mshuler!rackspace.com
 	Rackspace
 msolanas: msolanas!cisco.com
 	Cisco
+mtanino: mitsuhiro.tanino!hds.com
+	Hitachi Data Systems
 mtaylor: mtaylor!redhat.com
 	Red Hat
 mthompson: mthompson!a10networks.com
@@ -11539,6 +11729,8 @@ n-marton: marton.natko!gmail.com
 	Virgo Systems
 n.zoschke: n.zoschke!heroku.com
 	Heroku
+n1koo: niko.kurtti!shopify.com
+	(Unknown)
 nachi: nachi!ntti3.com
 	NTT
 nachi: nachi!nttmcl.com
@@ -11606,6 +11798,8 @@ nejc.saje: nejc.saje!xlab.si
 	Red Hat
 nelson: nelson!crynwr.com
 	Self
+nerdondon: willdon!nerdondon.com
+	NotFound
 nerminamiller: nerminamiller!gmail.com
 	Mirantis
 neutron: neutron!zte.com.cn
@@ -11663,6 +11857,8 @@ nick.jones: nick.jones!datacentred.co.uk
 nick.ma: nick.ma!live.cn
 	Fiberhome
 	Awcloud until 2017-02-28
+nico: nico.marcq!gmail.com
+	(Unknown)
 nicodemos: nicodemos!lsd.ufcg.edu.br
 	Self
 nicolas: nicolas!barcet.com
@@ -11740,6 +11936,8 @@ noel: noel!pistoncloud.com
 	Piston Cloud
 noguchimn: noguchimn!nttdata.co.jp
 	NTT
+nomis2k: simon.j.head!gmail.com
+	(Unknown)
 norihiko_kawai: norihiko_kawai!adoc.co.jp
 	ADOC International
 novel.kumar: novel.kumar!gmail.com
@@ -12204,6 +12402,8 @@ pushkar.umaranikar: pushkar.umaranikar!intel.com
 	Intel
 pvoccio: pvoccio!castor.local
 	Rackspace
+pweil-: pweil!redhat.com
+	Red Hat
 pwittrock: phil.wittrock!gmail.com
 	Google
 pyn905: pyn905!my.utsa.edu
@@ -13027,6 +13227,8 @@ sdake: sdake!redhat.com
 sdeaton2: sdeaton2!gmail.com
 	HP
 	Rackspace until 2015-01-05
+sdkfzv: sdkfzv!163.com
+	Net EASE 网易有态度
 sean: sean!dague.net
 	IBM
 	HP until 2016-10-28
@@ -13459,8 +13661,6 @@ spring068: spring068!sina.cn
 	ZTE Corporation
 spxtr: spextear!gmail.com
 	Google
-spyridon.trigazis: spyridon.trigazis!cern.ch
-	CERN
 sragolu: sragolu!mvista.com
 	MontaVista
 sramasw: sramasw!brocade.com
@@ -13581,8 +13781,6 @@ stremovsky: stremovsky!gmail.com
 	Huawei
 stresler: stresler!users.noreply.github.com
 	Tresler
-strigazi: strigazi!gmail.com
-	CERN
 stuart.mclaren: stuart.mclaren!hp.com
 	HP
 stuart.mclaren: stuart.mclaren!hpe.com
@@ -13620,8 +13818,10 @@ sunshuai: sunshuai!awcloud.com
 	Awcloud
 sunshuai: sunshuai!cmss.chinamobile.com
 	KiwiPlan
-supereagle: jmyue!hotmail.com
+supereagle*: jmyue!hotmail.com
 	Self
+supereagle*: yuejinming!wanda.cn
+	(Unknown)
 support: support!greenkeeper.io
 	greenkeeperio
 suraci.alex: suraci.alex!gmail.com
@@ -14610,6 +14810,8 @@ wuyuting: wuyuting!awcloud.com
 	Awcloud
 wwkeyboard: wwkeyboard!gmail.com
 	Rackspace
+wxb0521: xihuanbo_0521!zju.edu.cn
+	Self
 wytdahu: wytdahu!gmail.com
 	Awcloud
 wzh_1993: wzh_1993!126.com
@@ -14644,8 +14846,6 @@ xiabingyao: xiabingyao!tencent.com
 	99cloud until 2017-03-10
 xiakewudixl: xiakewudixl!163.com
 	China Railway ITC
-xialonglee: li.xialong!zte.com.cn
-	ZTE Corporation
 xiang.edison: xiang.edison!gmail.com
 	Huawei
 xianghui: xianghui!cn.ibm.com
@@ -14669,6 +14869,8 @@ xiaoli: xiaoli!sinorail.com
 	China Railway ITC
 xiaoping378: xiaoping378!163.com
 	Net EASE 网易有态度
+xiaoy: zs1379!qq.com
+	(Unknown)
 xiaoyong.liu: xiaoyong.liu!easystack.cn
 	EasyStack
 xichao.liu: xichao.liu!kylin-cloud.com
@@ -14687,9 +14889,6 @@ xiexiaozhe: xiexiaozhe!inspur.com
 xilabao: chenr.fnst!cn.fujitsu.com
 	Fujitsu
 xing.yang: xing.yang!dell.com
-	Dell
-	EMC until 2017-01-31
-xing.yang: xing.yang!emc.com
 	Dell
 	EMC until 2017-01-31
 xingchao: xingchao!polex.com.cn
@@ -14923,6 +15122,8 @@ yongle.li: yongle.li!gmail.com
 yoshigoe: yoshigoe!d-red.jp
 	Daikanyama RED
 	Rakuten until 2015-04-27
+you-n-g: afe.young!gmail.com
+	Self
 yoyozhiyou: yoyozhiyou!163.com
 	Net EASE 网易有态度
 ypbao: ypbao!fiberhome.com
@@ -15018,6 +15219,8 @@ yuval: yuval!brik.org.il
 	Huawei
 yuval.brik: yuval.brik!huawei.com
 	Huawei
+yuvipanda: yuvipanda!gmail.com
+	Wikimedia Foundation
 yuweichou: yuweichou!iii.org.tw
 	Institute for Information Industry
 yuweifree: yuweifree!gmail.com
@@ -15150,10 +15353,14 @@ zhangmei.li: zhangmei.li!easystack.cn
 	H3C until 2015-04-20
 zhangmingld: zhang.ming5!zte.com.cn
 	ZTE Corporation
+zhangningmin: zhangningmin!wanda.cn
+	(Unknown)
 zhangpf: zhangpf!rc.inesa.com
 	inesa
 zhangqiankun: zhangqiankun!sgitg.sgcc.com.cn
 	SG.Cloud
+zhangxiaoyu-zidif: zhang.xiaoyu33!zte.com.cn
+	ZTE Corporation
 zhangyang9: zhangyang9!hfbank.com.cn
 	HFBank
 zhangyanying: zhangyanying!inspur.com
@@ -15197,8 +15404,6 @@ zheng.zhenyu: zheng.zhenyu!outlook.com
 	Huawei
 zhengchuan hu: zhengchuan.hu!easystack.cn
 	EasyStack
-zhengguoyong: zhenggouyong.zheng!huawei.com
-	Huawei
 zhengjiajin: 393926893!qq.com
 	Caicloud
 zhengjiajin: zhengjiajin!caicloud.io
@@ -15308,6 +15513,8 @@ ziad: ziad!sawalha.com
 	Rackspace
 ziad.sawalha: ziad.sawalha!rackspace.com
 	Rackspace
+zigmax: zig_max!hotmail.com
+	(Unknown)
 zigo: zigo!debian.org
 	Mirantis
 	GPLHost until 2014-09-01

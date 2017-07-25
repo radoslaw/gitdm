@@ -1,49 +1,57 @@
-Processed 648 csets from 29 developers
-8 employers found
-A total of 119205 lines added, 69822 removed, 144140 changed (delta 49383)
+Processed 676 csets from 32 developers
+10 employers found
+A total of 487438 lines added, 241643 removed, 593892 changed (delta 245795)
 
 Developers with unknown affiliation
-NotFound chairmanhh1986!gmail.com hchenxa                                           1 (0.2%)
+(Unknown) 126021+ash2k!users.noreply.github.com Mikhail Mazurskiy                   1 (0.1%)
+NotFound chairmanhh1986!gmail.com hchenxa                                           1 (0.1%)
 
 Developers working on their own behalf
+Self lucas.kaldstrom!hotmail.co.uk Lucas Käldström                                1 (0.1%)
 
 Top changeset contributors by employer
-Red Hat                                                                           219 (33.8%)
-IBM                                                                               114 (17.6%)
-Microsoft                                                                         114 (17.6%)
-Google                                                                            111 (17.1%)
-Engine Yard                                                                        86 (13.3%)
+Red Hat                                                                           225 (33.3%)
+Microsoft                                                                         204 (30.2%)
+IBM                                                                               125 (18.5%)
+Google                                                                            112 (16.6%)
+Atlassian                                                                           4 (0.6%)
 jobandtalent                                                                        2 (0.3%)
-NotFound                                                                            1 (0.2%)
-Atlassian                                                                           1 (0.2%)
+NotFound                                                                            1 (0.1%)
+Concur                                                                              1 (0.1%)
+Self                                                                                1 (0.1%)
+(Unknown)                                                                           1 (0.1%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          77328 (53.6%)
-Google                                                                           27011 (18.7%)
-IBM                                                                              17591 (12.2%)
-Microsoft                                                                        13604 (9.4%)
-Engine Yard                                                                      8568 (5.9%)
-jobandtalent                                                                       22 (0.0%)
-NotFound                                                                           11 (0.0%)
-Atlassian                                                                           5 (0.0%)
+Red Hat                                                                          324322 (54.6%)
+Google                                                                           97629 (16.4%)
+Microsoft                                                                        83743 (14.1%)
+IBM                                                                              83372 (14.0%)
+(Unknown)                                                                        2869 (0.5%)
+Atlassian                                                                        1811 (0.3%)
+Self                                                                               77 (0.0%)
+Concur                                                                             41 (0.0%)
+jobandtalent                                                                       19 (0.0%)
+NotFound                                                                            9 (0.0%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 59)
-IBM                                                                                50 (84.7%)
-Google                                                                              8 (13.6%)
-Red Hat                                                                             1 (1.7%)
+Employers with the most signoffs (total 62)
+IBM                                                                                53 (85.5%)
+Google                                                                              8 (12.9%)
+Red Hat                                                                             1 (1.6%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 30)
-Google                                                                             10 (33.3%)
-Red Hat                                                                             9 (30.0%)
-IBM                                                                                 4 (13.3%)
-Microsoft                                                                           3 (10.0%)
-Engine Yard                                                                         1 (3.3%)
-jobandtalent                                                                        1 (3.3%)
-NotFound                                                                            1 (3.3%)
-Atlassian                                                                           1 (3.3%)
+Employers with the most hackers (total 32)
+Google                                                                             10 (31.2%)
+Red Hat                                                                             9 (28.1%)
+IBM                                                                                 4 (12.5%)
+Microsoft                                                                           3 (9.4%)
+(Unknown)                                                                           1 (3.1%)
+Atlassian                                                                           1 (3.1%)
+Self                                                                                1 (3.1%)
+Concur                                                                              1 (3.1%)
+jobandtalent                                                                        1 (3.1%)
+NotFound                                                                            1 (3.1%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

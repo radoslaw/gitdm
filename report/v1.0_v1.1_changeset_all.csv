@@ -1,107 +1,105 @@
 idx,company,n,percent
-0,(All known 104),2139,99.44
-1,Google,1092,50.8
-2,Red Hat,480,22.3
-3,Huawei,173,8.0
-4,(Self),75,3.5
-5,Mesosphere,34,1.6
+0,(All known 102),2121,99.44
+1,Google,1088,51.0
+2,Red Hat,481,22.6
+3,Huawei,169,7.9
+4,(Self),73,3.4
+5,Mesosphere,32,1.5
 6,Docker,30,1.4
 7,CoreOS,28,1.3
-8,Amadeus,12,0.6
-9,(Not Found),12,0.6
-10,Tyk,12,0.6
+8,(Not Found),12,0.6
+9,Tyk,12,0.6
+10,Amadeus,12,0.6
 11,Slack,11,0.5
-12,Metaswitch,10,0.5
+12,Metaswitch,9,0.4
 13,Apache,7,0.3
 14,Alternative Storage,7,0.3
 15,Canonical,6,0.3
 16,CERN,6,0.3
-17,UNINETT,6,0.3
-18,Box,5,0.2
-19,eBay,5,0.2
-20,Amazon,5,0.2
-21,Petback,4,0.2
-22,ISI.nc,4,0.2
-23,ListHub,4,0.2
-24,Funio,4,0.2
-25,Cisco,4,0.2
-26,Opsview Ltd,3,0.1
-27,Epic Games,3,0.1
-28,Kismatic,3,0.1
-29,volleylabs,3,0.1
-30,NHN,3,0.1
+17,Amazon,5,0.2
+18,eBay,5,0.2
+19,Box,5,0.2
+20,Epic Games,4,0.2
+21,ISI.nc,4,0.2
+22,Funio,4,0.2
+23,Petback,4,0.2
+24,UNINETT,4,0.2
+25,ListHub,4,0.2
+26,Cisco,3,0.1
+27,Kismatic,3,0.1
+28,volleylabs,3,0.1
+29,NHN,3,0.1
+30,Opsview Ltd,3,0.1
 31,Weaveworks,3,0.1
 32,Virginia Tech,3,0.1
 33,Oblong Industries,2,0.1
-34,Readify,2,0.1
-35,Revinate,2,0.1
-36,Devops,2,0.1
-37,AppAdhoc,2,0.1
-38,Heroku,2,0.1
-39,Juniper Networks,2,0.1
-40,Puppet,2,0.1
-41,Facebook,2,0.1
-42,Shopify,2,0.1
-43,Transwarp,2,0.1
-44,Hyper.sh,2,0.1
-45,Axway,2,0.1
+34,SAP,2,0.1
+35,Heroku,2,0.1
+36,Met Office Informatics Lab,2,0.1
+37,Readify,2,0.1
+38,Revinate,2,0.1
+39,AppAdhoc,2,0.1
+40,Juniper Networks,2,0.1
+41,Puppet,2,0.1
+42,Facebook,2,0.1
+43,Shopify,2,0.1
+44,Transwarp,2,0.1
+45,Hyper.sh,2,0.1
 46,WillCall,2,0.1
 47,Vungle,2,0.1
 48,Square,2,0.1
 49,wellcometrust,2,0.1
 50,macys.com,2,0.1
-51,SAP,2,0.1
-52,Luxiar,2,0.1
-53,Met Office Informatics Lab,2,0.1
-54,hackmh,1,0.0
-55,Anadea inc.,1,0.0
-56,Zendesk,1,0.0
-57,Apalia,1,0.0
-58,wikiwi,1,0.0
-59,nearForm,1,0.0
-60,Singlewire Software,1,0.0
-61,Connectifier,1,0.0
-62,DrEd Online Doctor,1,0.0
-63,Wikimedia Foundation,1,0.0
-64,Funky,1,0.0
-65,Naver,1,0.0
-66,Stack Exchange,1,0.0
-67,athenahealth,1,0.0
-68,Zesty.io,1,0.0
-69,Whitepages,1,0.0
-70,Samsung,1,0.0
-71,SORINT.lab,1,0.0
-72,Happy Dog Web Productions,1,0.0
-73,Viacom,1,0.0
-74,Ubisoft,1,0.0
-75,Net EASE 网易有态度,1,0.0
-76,MediaMath,1,0.0
-77,ViaNett AS,1,0.0
-78,Engine Yard,1,0.0
-79,Appear TV AS,1,0.0
-80,GatsbyJS,1,0.0
-81,FACEIT,1,0.0
-82,CiscoSpark,1,0.0
-83,Rochester Institute of Technology,1,0.0
-84,Elastic,1,0.0
-85,Walmart,1,0.0
-86,ChinaNetCenter,1,0.0
-87,Agfa HealthCare,1,0.0
-88,CSE IIT KANPUR,1,0.0
-89,Walt Disney,1,0.0
-90,Voleo,1,0.0
-91,Zalando,1,0.0
-92,China Mobile International Limited,1,0.0
-93,Univa,1,0.0
-94,Lohi Labs,1,0.0
-95,clypd,1,0.0
-96,ADEO,1,0.0
-97,Okori Group,1,0.0
-98,iconectiv,1,0.0
-99,"Eldarion, Inc.",1,0.0
-100,Jetstack,1,0.0
-101,Yahoo,1,0.0
-102,Über,1,0.0
-103,"Collanthropy, LLC",1,0.0
-104,Microsoft,1,0.0
-105,Xoom,1,0.0
+51,Luxiar,2,0.1
+52,Anadea inc.,1,0.0
+53,Zendesk,1,0.0
+54,Apalia,1,0.0
+55,wikiwi,1,0.0
+56,nearForm,1,0.0
+57,Singlewire Software,1,0.0
+58,Connectifier,1,0.0
+59,DrEd Online Doctor,1,0.0
+60,Devops,1,0.0
+61,Wikimedia Foundation,1,0.0
+62,Funky,1,0.0
+63,Naver,1,0.0
+64,Stack Exchange,1,0.0
+65,athenahealth,1,0.0
+66,Zesty.io,1,0.0
+67,Whitepages,1,0.0
+68,Samsung,1,0.0
+69,SORINT.lab,1,0.0
+70,Happy Dog Web Productions,1,0.0
+71,Viacom,1,0.0
+72,Ubisoft,1,0.0
+73,Net EASE 网易有态度,1,0.0
+74,Axway,1,0.0
+75,MediaMath,1,0.0
+76,ViaNett AS,1,0.0
+77,Appear TV AS,1,0.0
+78,GatsbyJS,1,0.0
+79,FACEIT,1,0.0
+80,CiscoSpark,1,0.0
+81,Rochester Institute of Technology,1,0.0
+82,Elastic,1,0.0
+83,Walmart,1,0.0
+84,ChinaNetCenter,1,0.0
+85,Agfa HealthCare,1,0.0
+86,CSE IIT KANPUR,1,0.0
+87,Walt Disney,1,0.0
+88,Voleo,1,0.0
+89,Zalando,1,0.0
+90,China Mobile International Limited,1,0.0
+91,Univa,1,0.0
+92,Lohi Labs,1,0.0
+93,clypd,1,0.0
+94,ADEO,1,0.0
+95,Okori Group,1,0.0
+96,iconectiv,1,0.0
+97,"Eldarion, Inc.",1,0.0
+98,Jetstack,1,0.0
+99,Yahoo,1,0.0
+100,Über,1,0.0
+101,"Collanthropy, LLC",1,0.0
+102,Microsoft,1,0.0
+103,Xoom,1,0.0

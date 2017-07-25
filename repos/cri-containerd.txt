@@ -1,6 +1,6 @@
 Processed 98 csets from 9 developers
 3 employers found
-A total of 17181 lines added, 3920 removed, 18155 changed (delta 13261)
+A total of 78594 lines added, 12316 removed, 81275 changed (delta 66278)
 
 Developers with unknown affiliation
 
@@ -18,9 +18,9 @@ Self                                                                            
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           13160 (72.5%)
-IBM                                                                              3438 (18.9%)
-Self                                                                             1557 (8.6%)
+Google                                                                           63551 (78.2%)
+IBM                                                                              9325 (11.5%)
+Self                                                                             8399 (10.3%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 97)

@@ -1,16 +1,19 @@
 "Name","Email","Affliation","Date","Added","Removed","Changesets"
-"deads2k","deads!redhat.com","Red Hat","2017-05-01",2,4,3
-"mbohlool","mehdy!google.com","Google","2017-05-01",1,1,1
+"craig","cbrookes!redhat.com","Red Hat","2017-07-01",15031,57,1
+"mbohlool","mehdy!google.com","Google","2017-05-01",20,20,1
 "Chao Xu","xuchao!google.com","Google","2017-03-01",1,2,1
 "Sahdev P. Zala","spzala!us.ibm.com","IBM","2017-04-01",8,0,1
-"Clayton Coleman","ccoleman!redhat.com","Red Hat","2016-11-01",3,3,1
-"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-02-01",14,2,2
-"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-03-01",52,2,1
-"deads2k","deads!redhat.com","Red Hat","2017-02-01",1722,101,17
+"deads2k","deads!redhat.com","Red Hat","2017-05-01",5,2,3
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2016-11-01",10,0,1
+"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-02-01",14,12,2
+"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-07-01",1454,582,2
+"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-03-01",196,2,1
+"deads2k","deads!redhat.com","Red Hat","2017-02-01",5946,305,17
 "Chao Xu","xuchao!google.com","Google","2017-06-01",1,1,1
-"Monis Khan","mkhan!redhat.com","Red Hat","2017-04-01",3,6,1
-"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-06-01",14,1,1
-"deads2k","deads!redhat.com","Red Hat","2017-03-01",14,6,3
+"Monis Khan","mkhan!redhat.com","Red Hat","2017-04-01",0,31,1
+"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-06-01",77,3,1
+"deads2k","deads!redhat.com","Red Hat","2017-03-01",83,29,3
 "Christoph Blecker","admin!toph.ca","Kelowna","2017-05-01",8,0,1
 "Mike Danese","mikedanese!google.com","Google","2017-04-01",197,0,1
-"Chao Xu","xuchao!google.com","Google","2017-04-01",12,2,1
+"Chao Xu","xuchao!google.com","Google","2017-04-01",29,7,1
+"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-07-01",2182,290,2

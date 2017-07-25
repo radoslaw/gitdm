@@ -1,23 +1,23 @@
 idx,company,n,percent
-0,(All known 85),499121,100.0
-1,Google,323408,64.8
-2,HP,61775,12.4
-3,Red Hat,43483,8.7
-4,CoreOS,30885,6.2
-5,Huawei,9255,1.9
-6,Apache,4086,0.8
-7,IBM,3439,0.7
-8,CERN,3153,0.6
-9,GoGoVan,2905,0.6
-10,(Self),2156,0.4
-11,Spec Deas HR Consulting,2012,0.4
-12,Canonical,1971,0.4
-13,eBay,1698,0.3
-14,Tigera,1059,0.2
-15,VMware,1005,0.2
-16,Rackspace,703,0.1
-17,Fujitsu,667,0.1
-18,Docker,652,0.1
-19,Clarifai,603,0.1
-20,Net EASE 网易有态度,569,0.1
-63,(Not Found),5,0.0
+0,(All known 85),2348109,100.0
+1,Google,1464316,62.4
+2,HP,296431,12.6
+3,Red Hat,269283,11.5
+4,CoreOS,148235,6.3
+5,Huawei,41386,1.8
+6,Apache,23875,1.0
+7,GoGoVan,15022,0.6
+8,CERN,12473,0.5
+9,(Self),11834,0.5
+10,eBay,9063,0.4
+11,Spec Deas HR Consulting,6178,0.3
+12,Tigera,6022,0.3
+13,VMware,4691,0.2
+14,Cisco,3277,0.1
+15,Net EASE 网易有态度,3012,0.1
+16,Clarifai,2921,0.1
+17,Canonical,2890,0.1
+18,Rackspace,2766,0.1
+19,Caicloud,2762,0.1
+20,Docker,2108,0.1
+66,(Not Found),5,0.0

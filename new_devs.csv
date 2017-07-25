@@ -1,76 +1,148 @@
 company,new_devs
-Google,116
+Google,115
 Red Hat,77
 Self,49
 CoreOS,32
 ZTE Corporation,29
-NotFound,26
 IBM,26
+NotFound,26
 Mirantis,23
 Huawei,18
 Fujitsu,15
-Intel,14
 VMware,14
-HP,13
+Intel,14
 Microsoft,12
+HP,12
 Cisco,10
+Net EASE 网易有态度,9
 Canonical,9
 eBay,9
-Net EASE 网易有态度,9
 Caicloud,8
-Tencent,7
 Apprenda,7
-EasyStack,6
+Tencent,7
 Apcera,6
+EasyStack,6
 SalesForce,5
 Heptio,5
 Rancher,4
 Jd.Com,4
-Walmart,3
-Diamanti,3
-Samsung,3
-GoDaddy,3
 Atlassian,3
-DaoCloud,3
-SoundCloud,3
+Samsung,3
+Diamanti,3
 Endocode,3
 Capgemini,3
+Walmart,3
 Rackspace,3
+GoDaddy,3
+SoundCloud,3
 Airbnb,3
-Apple,2
+DaoCloud,3
 Yahoo,2
-LinkedIn,2
-Pressly,2
-Zalando,2
-StackPointCloud,2
-Imaginea,2
-Box,2
-Return Path,2
-Ahead4 Limited,2
+Sky,2
+Juniper Networks,2
+Inovex,2
+Apple,2
+Spotify,2
 chbatey,2
 Amadeus,2
-Nordstrom,2
 Square,2
-Cockroach,2
-SAP,2
-Concur,2
-Sky,2
 NTT,2
 Clarifai,2
+Weaveworks,2
+DigitalOcean,2
+LinkedIn,2
+StackPointCloud,2
+Imaginea,2
+Return Path,2
+Ahead4 Limited,2
+SAP,2
+Tigera,2
+CERN,2
+Box,2
+Nordstrom,2
+Cockroach,2
+Apache,2
+Pressly,2
+Zalando,2
 Loodse,2
 zlabjp,2
-Juniper Networks,2
-Tigera,2
+Portworx,2
+Concur,2
 Elisa,2
 Douyu.com,2
-Inovex,2
-Apache,2
-Portworx,2
 Ancestry.com,2
-Weaveworks,2
-CERN,2
-DigitalOcean,2
-Spotify,2
+Databricks,1
+Traum-Ferienwohnungen,1
+Desjardins,1
+"Gremlin, Inc.",1
+Udacity,1
+Orange,1
+thinkstep,1
+Entelo,1
+Utility Software Services,1
+Pretty Robots,1
+Jetstack,1
+Virtuozzo / OpenVZ,1
+The Manufacturing Institute,1
+Donnerwood Media,1
+Buildbot,1
+hackmh,1
+Addis Ababa Health,1
+kickstarter,1
+Wade & Wendy,1
+jet tsang,1
+Reizwerk GmbH,1
+Nokia,1
+Eon Cloud,1
+jobandtalent,1
+twitch.tv,1
+Redspread,1
+Indigo Biosystems,1
+Georgia Tech,1
+ISI.nc,1
+Daum,1
+OJOHome,1
+BookMyShow,1
+Social Rank,1
+Dynatrace LLC,1
+Peek,1
+salestock,1
+Comcast,1
+NFLabs,1
+Hyperledger,1
+Booz Allen Hamilton,1
+北京天威诚信电子商务服务有限公司,1
+UPMC,1
+CSC,1
+Stylify Your Blog,1
+iFix,1
+Mesosphere,1
+Unicon,1
+Synesis,1
+Bitnami,1
+Sematext Cloud,1
+ValuationUp,1
+Klick Health,1
+DoubleDutch,1
+Outlook.com,1
+Reddit,1
+Scientific Games,1
+Atlas Informatics,1
+KKBOX,1
+Technicolor,1
+SolarWinds,1
+Matrix,1
+Kerad Games,1
+Avametric,1
+One.com,1
+Qwil,1
+D2C Media,1
+NetWatcher,1
+ClusterHQ,1
+Paradigma Tecnológico,1
+ShareThis,1
+JetThoughts,1
+PandoCloud,1
 Activision,1
 ForgeRock,1
 PreviousNext,1
@@ -250,11 +322,11 @@ GRADIANT,1
 CT Lab,1
 MediaMath,1
 Compose,1
-Amazon,1
 Lohika,1
 Shopify,1
 Inuits,1
 ContaAzul,1
+Amazon,1
 minio,1
 Q42,1
 Telemetry.com,1
@@ -267,76 +339,4 @@ Bankwest,1
 China Mobile International Limited,1
 Movable Ink,1
 "Styra, Inc.",1
-Databricks,1
 Virgo Systems,1
-Traum-Ferienwohnungen,1
-Desjardins,1
-"Gremlin, Inc.",1
-Udacity,1
-Orange,1
-thinkstep,1
-Entelo,1
-leanovate,1
-Utility Software Services,1
-Pretty Robots,1
-Jetstack,1
-Virtuozzo / OpenVZ,1
-The Manufacturing Institute,1
-Donnerwood Media,1
-Buildbot,1
-Addis Ababa Health,1
-kickstarter,1
-Wade & Wendy,1
-jet tsang,1
-Reizwerk GmbH,1
-Nokia,1
-Eon Cloud,1
-jobandtalent,1
-twitch.tv,1
-Redspread,1
-Indigo Biosystems,1
-Georgia Tech,1
-ISI.nc,1
-Daum,1
-OJOHome,1
-BookMyShow,1
-Social Rank,1
-Dynatrace LLC,1
-Peek,1
-salestock,1
-Comcast,1
-NFLabs,1
-Hyperledger,1
-Booz Allen Hamilton,1
-北京天威诚信电子商务服务有限公司,1
-UPMC,1
-CSC,1
-Stylify Your Blog,1
-iFix,1
-Mesosphere,1
-Unicon,1
-Synesis,1
-Bitnami,1
-Sematext Cloud,1
-ValuationUp,1
-Klick Health,1
-DoubleDutch,1
-Outlook.com,1
-Reddit,1
-Scientific Games,1
-Atlas Informatics,1
-KKBOX,1
-Technicolor,1
-Beldougie Ltd,1
-SolarWinds,1
-Matrix,1
-Kerad Games,1
-Avametric,1
-One.com,1
-Qwil,1
-D2C Media,1
-NetWatcher,1
-ClusterHQ,1
-Paradigma Tecnológico,1
-ShareThis,1
-JetThoughts,1

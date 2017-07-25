@@ -1,6 +1,6 @@
 Processed 102 csets from 11 developers
 4 employers found
-A total of 9393 lines added, 1847 removed, 9533 changed (delta 7546)
+A total of 41014 lines added, 7386 removed, 41845 changed (delta 33628)
 
 Developers with unknown affiliation
 
@@ -18,10 +18,10 @@ Red Hat                                                                         
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Self                                                                             6734 (70.6%)
-Hyper.sh                                                                         2265 (23.8%)
-Google                                                                            386 (4.0%)
-Red Hat                                                                           148 (1.6%)
+Self                                                                             33305 (79.6%)
+Hyper.sh                                                                         6504 (15.5%)
+Google                                                                           1340 (3.2%)
+Red Hat                                                                           696 (1.7%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 72)

@@ -6,8 +6,8 @@ idx,company,n,percent
 4,ZTE Corporation,15,4.3
 5,CoreOS,13,3.7
 6,IBM,10,2.8
-7,VMware,8,2.3
-8,Mirantis,8,2.3
+7,Mirantis,8,2.3
+8,VMware,8,2.3
 9,Microsoft,7,2.0
 10,Huawei,6,1.7
 11,Canonical,5,1.4
@@ -16,7 +16,7 @@ idx,company,n,percent
 14,Tencent,4,1.1
 15,Fujitsu,4,1.1
 16,Intel,4,1.1
-17,eBay,3,0.9
-18,Heptio,3,0.9
-19,EasyStack,3,0.9
-20,Apprenda,3,0.9
+17,Jd.Com,3,0.9
+18,Apprenda,3,0.9
+19,Heptio,3,0.9
+20,EasyStack,3,0.9

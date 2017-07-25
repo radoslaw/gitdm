@@ -1,102 +1,106 @@
 "Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Derek Parker","parkerderek86!gmail.com","CoreOS","2016-07-01",8,8,2
-"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-02-01",136,489,4
-"Diego Pontoriero","dpontor!gmail.com","CoreOS","2017-04-01",819,618,16
-"Quentin Machu","me!quentin-machu.fr","CoreOS","2017-02-01",97,52,4
-"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-03-01",76,28,3
-"Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-03-01",366,59,3
-"Xiang Li","xiangli.cs!gmail.com","CoreOS","2016-11-01",59,46,1
-"Patrick Baxter","pb!coreos.com","CoreOS","2017-05-01",979,87,21
-"Xiang Li","xiangli.cs!gmail.com","CoreOS","2016-12-01",48,34,2
-"Robert Bailey","robertbailey!google.com","Google","2017-05-01",26,24,2
-"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-06-01",474,179,16
-"Quentin Machu","me!quentin-machu.fr","CoreOS","2016-12-01",25,28,1
-"Justin Santa Barbara","justin!fathomdb.com","Self","2017-01-01",80,69,1
-"Jamie Hannaford","jamie.hannaford!rackspace.com","Rackspace","2017-03-01",114,18,2
-"Diego Pontoriero","dpontor!gmail.com","CoreOS","2017-06-01",164,67,7
-"Kenan Karamehmedovic","kenan435!gmail.com","F24 Ag","2016-09-01",14,2,2
-"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2016-09-01",416,1588,1
-"Derek Parker","derek.parker!coreos.com","CoreOS","2016-04-01",428,20,7
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-11-01",73,38,9
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-01-01",186,84,13
+"Diego Pontoriero","dpontor!gmail.com","CoreOS","2017-07-01",1374,1473,18
+"Derek Parker","parkerderek86!gmail.com","CoreOS","2016-07-01",40,40,2
+"Hongchao Deng","hongchaodeng!users.noreply.github.com","CoreOS","2017-07-01",116,3,4
+"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-02-01",324,1796,4
+"Diego Pontoriero","dpontor!gmail.com","CoreOS","2017-04-01",2580,2313,16
+"Quentin Machu","me!quentin-machu.fr","CoreOS","2017-02-01",196,59,4
+"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-03-01",344,120,3
+"Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-03-01",1644,119,3
+"Xiang Li","xiangli.cs!gmail.com","CoreOS","2016-11-01",232,113,1
+"Patrick Baxter","pb!coreos.com","CoreOS","2017-05-01",3943,117,21
+"Xiang Li","xiangli.cs!gmail.com","CoreOS","2016-12-01",226,106,2
+"Robert Bailey","robertbailey!google.com","Google","2017-05-01",39,31,2
+"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-06-01",2184,902,17
+"Quentin Machu","me!quentin-machu.fr","CoreOS","2016-12-01",49,102,1
+"Justin Santa Barbara","justin!fathomdb.com","Self","2017-01-01",630,411,1
+"Jamie Hannaford","jamie.hannaford!rackspace.com","Rackspace","2017-03-01",663,9,2
+"Diego Pontoriero","dpontor!gmail.com","CoreOS","2017-06-01",790,192,6
+"Kenan Karamehmedovic","kenan435!gmail.com","F24 Ag","2016-09-01",135,89,2
+"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2016-09-01",48,23027,1
+"Derek Parker","derek.parker!coreos.com","CoreOS","2016-04-01",1509,559,7
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-11-01",139,56,9
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-01-01",725,245,13
 "Patrick Baxter","pb!coreos.com","CoreOS","2017-04-01",3,3,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-04-01",590,143,11
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-04-01",909,292,11
 "hasbro17","hasbro17!gmail.com","Self","2017-03-01",3,3,1
 "Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-05-01",2,2,2
-"Jan Willies","jan.willies!accenture.com","Accenture","2017-03-01",0,1,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-09-01",260,177,12
+"Jan Willies","jan.willies!accenture.com","Accenture","2017-03-01",1,1,1
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-09-01",670,397,12
 "Chance Zibolski","chance.zibolski!gmail.com","CoreOS","2016-08-01",2,3,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-02-01",27,21,5
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-02-01",66,63,5
 "Tony Hsu","gosharplite!gmail.com","Ubisoft","2016-06-01",1,1,1
-"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-03-01",69,19,5
-"Derek Parker","parkerderek86!gmail.com","CoreOS","2016-05-01",556,484,3
-"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-02-01",23,21,4
-"Diego Pontoriero","diego.pontoriero!coreos.com","CoreOS","2017-05-01",1707,292,14
-"Patrick Baxter","pb!coreos.com","CoreOS","2016-12-01",63,52,2
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-10-01",244,115,18
-"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-04-01",16,7,2
-"Lucas Serven","lserven!gmail.com","National Geographic","2017-04-01",128,93,6
-"Brandon Philips","brandon!ifup.org","CoreOS","2016-07-01",2,0,1
+"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-03-01",34,8,5
+"Derek Parker","parkerderek86!gmail.com","CoreOS","2016-05-01",2120,1581,3
+"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-02-01",75,29,4
+"Diego Pontoriero","diego.pontoriero!coreos.com","CoreOS","2017-05-01",8738,679,14
+"Patrick Baxter","pb!coreos.com","CoreOS","2016-12-01",148,132,2
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-10-01",729,110,18
+"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-04-01",8,6,2
+"Lucas Serven","lserven!gmail.com","National Geographic","2017-04-01",55,53,6
+"Brandon Philips","brandon!ifup.org","CoreOS","2016-07-01",20,0,1
 "Derek Parker","parkerderek86!gmail.com","CoreOS","2016-09-01",1,1,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-12-01",1190,329,15
-"Abhinav Dahiya","abhinav.dahiya!coreos.com","CoreOS","2017-05-01",611,29,1
-"Derek Parker","derek.parker!coreos.com","CoreOS","2016-06-01",1072,687,6
-"Brandon Philips","brandon!ifup.org","CoreOS","2017-01-01",1,1,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-03-01",57,44,8
-"Abhinav Dahiya","abhinav.dahiya!coreos.com","CoreOS","2017-06-01",246,84,5
-"Lucas Serven","lserven!gmail.com","National Geographic","2017-02-01",43,11,2
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-11-01",42,4,1
-"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-05-01",27,37,4
-"Brandon Philips","brandon!ifup.org","CoreOS","2016-09-01",9,0,1
-"Dan Gillespie","dan.gillespie!coreos.com","CoreOS","2016-09-01",26,11,4
-"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2016-10-01",0,1,1
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2017-02-01",344,67,4
-"jmn","norlund!gmail.com","Self","2017-01-01",1,1,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-05-01",662,516,8
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-08-01",181,145,8
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-07-01",612,672,8
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-12-01",6381,1669,15
+"Abhinav Dahiya","abhinav.dahiya!coreos.com","CoreOS","2017-05-01",1987,22,1
+"Derek Parker","derek.parker!coreos.com","CoreOS","2016-06-01",4026,1701,6
+"Brandon Philips","brandon!ifup.org","CoreOS","2017-01-01",8,3,1
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-03-01",56,44,8
+"Abhinav Dahiya","abhinav.dahiya!coreos.com","CoreOS","2017-06-01",681,178,5
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-07-01",3921,1610,16
+"Lucas Serven","lserven!gmail.com","National Geographic","2017-02-01",13,13,2
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-11-01",2,2,1
+"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-05-01",121,168,4
+"Brandon Philips","brandon!ifup.org","CoreOS","2016-09-01",69,0,1
+"Dan Gillespie","dan.gillespie!coreos.com","CoreOS","2016-09-01",63,11,4
+"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2016-10-01",0,2,1
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2017-02-01",1883,222,4
+"jmn","norlund!gmail.com","Self","2017-01-01",1,2,1
+"Abhinav Dahiya","abhinavdtu2012!gmail.com","(Unknown)","2017-07-01",410,1350,1
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-05-01",2801,2219,7
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-08-01",131,282,8
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-07-01",1021,1384,8
 "Levi Blackstone","levi.blackstone!rackspace.com","Rackspace","2017-04-01",38,40,1
-"Brandon Philips","brandon!ifup.org","CoreOS","2016-04-01",2,1,1
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-08-01",48,48,1
-"Levi Blackstone","levi.blackstone!rackspace.com","Rackspace","2017-03-01",83,36,7
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-04-01",11,5,1
-"Wael M. Nasreddine","wael.nasreddine!gmail.com","Google","2016-09-01",9,1,1
-"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2016-11-01",377,53,6
-"Kamal Marhubi","kamal!marhubi.com","Google","2017-05-01",14,12,2
-"Derek Parker","parkerderek86!gmail.com","CoreOS","2016-10-01",1,11,2
+"Brandon Philips","brandon!ifup.org","CoreOS","2016-04-01",5,5,1
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-08-01",50,50,1
+"Levi Blackstone","levi.blackstone!rackspace.com","Rackspace","2017-03-01",174,36,7
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-04-01",288,265,1
+"Wael M. Nasreddine","wael.nasreddine!gmail.com","Google","2016-09-01",45,13,1
+"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2016-11-01",1491,121,6
+"Kamal Marhubi","kamal!marhubi.com","Google","2017-05-01",45,43,2
+"Derek Parker","parkerderek86!gmail.com","CoreOS","2016-10-01",6,6,2
 "Brandon Philips","brandon.philips!coreos.com","CoreOS","2016-11-01",8,12,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-04-01",1074,634,16
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-05-01",1606,551,2
-"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-01-01",89,52,5
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-10-01",165,14,2
-"Levi Blackstone","levi.blackstone!rackspace.com","Rackspace","2017-05-01",24,0,1
-"Kenan Karamehmedovic","kenan435!gmail.com","F24 Ag","2016-10-01",31,10,1
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-04-01",4532,2279,16
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-05-01",20747,332,2
+"Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2017-01-01",355,141,5
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-10-01",768,3,2
+"Levi Blackstone","levi.blackstone!rackspace.com","Rackspace","2017-05-01",6,6,1
+"Kenan Karamehmedovic","kenan435!gmail.com","F24 Ag","2016-10-01",28,2,1
 "António Meireles","antonio.meireles!reformi.st","Self","2016-07-01",2,2,1
-"Patrick Baxter","pb!coreos.com","CoreOS","2016-10-01",22,15,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-06-01",1802,1360,19
-"Patrick Baxter","pb!coreos.com","CoreOS","2016-09-01",44,34,3
-"Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-05-01",571,29,5
-"Patrick Baxter","pb!coreos.com","CoreOS","2017-03-01",49,45,8
-"Shane Starcher","shanestarcher!gmail.com","Datapipe","2017-05-01",1,1,1
+"Patrick Baxter","pb!coreos.com","CoreOS","2016-10-01",63,12,1
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-06-01",4642,2979,19
+"Patrick Baxter","pb!coreos.com","CoreOS","2016-09-01",155,108,3
+"Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-05-01",3393,128,5
+"Patrick Baxter","pb!coreos.com","CoreOS","2017-03-01",104,152,8
+"Shane Starcher","shanestarcher!gmail.com","Datapipe","2017-05-01",2,2,1
 "Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-02-01",17,2,1
 "Dan Gillespie","dan.gillespie!coreos.com","CoreOS","2016-12-01",6,2,1
-"Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-06-01",29,15,3
-"Patrick Baxter","pb!coreos.com","CoreOS","2017-06-01",238,22,12
-"Rahul","rahul!rmenn.in","Rahul Menon","2017-03-01",6,0,1
-"Xiang Li","xiangli.cs!gmail.com","CoreOS","2017-05-01",586,89,6
-"Xiang Li","xiangli.cs!gmail.com","CoreOS","2017-06-01",8,2,1
-"Derek Parker","parkerderek86!gmail.com","CoreOS","2017-04-01",24,17,3
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-06-01",9,6,1
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-09-01",43,67,3
-"Dhawal Patel","dhawal55!gmail.com","Nordstrom","2017-02-01",87,8,1
-"adieu","adieu!adieu.me","Self","2017-02-01",3,0,1
-"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-12-01",2,2,1
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2017-05-01",1,2,2
-"Dalton Hubble","dghubble!gmail.com","CoreOS","2017-04-01",2,0,1
-"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-03-01",1745,90,7
-"Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-04-01",195,115,10
-"Quentin Machu","me!quentin-machu.fr","CoreOS","2017-01-01",494,115,8
-"Patrick Baxter","pb!coreos.com","CoreOS","2017-02-01",125,116,11
+"Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-06-01",95,16,3
+"Patrick Baxter","pb!coreos.com","CoreOS","2017-06-01",682,61,12
+"Rahul","rahul!rmenn.in","Rahul Menon","2017-03-01",35,0,1
+"Xiang Li","xiangli.cs!gmail.com","CoreOS","2017-05-01",1821,289,6
+"Xiang Li","xiangli.cs!gmail.com","CoreOS","2017-06-01",40,5,1
+"Derek Parker","parkerderek86!gmail.com","CoreOS","2017-04-01",36,61,3
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-06-01",49,11,1
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2016-09-01",10,10,3
+"Dhawal Patel","dhawal55!gmail.com","Nordstrom","2017-02-01",520,16,1
+"adieu","adieu!adieu.me","Self","2017-02-01",16,0,1
+"Frederic Branczyk","fbranczyk!gmail.com","CoreOS","2016-12-01",1,1,1
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2017-05-01",3,4,2
+"Dalton Hubble","dghubble!gmail.com","CoreOS","2017-04-01",2,2,1
+"Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2016-03-01",7170,551,7
+"Yifan Gu","yifan.gu!coreos.com","CoreOS","2017-04-01",234,215,10
+"Quentin Machu","me!quentin-machu.fr","CoreOS","2017-01-01",1730,313,8
+"Patrick Baxter","pb!coreos.com","CoreOS","2017-02-01",242,234,11
 "Aaron Levy","aaronjlevy!gmail.com","Aperian Global","2017-06-01",3,3,1
-"Kenan Karamehmedovic","kenan435!gmail.com","F24 Ag","2016-11-01",8,1,1
-"Carolyn Van Slyck","carolyn.vanslyck!rackspace.com","Rackspace","2017-03-01",48,40,4
+"Kenan Karamehmedovic","kenan435!gmail.com","F24 Ag","2016-11-01",44,1,1
+"Carolyn Van Slyck","carolyn.vanslyck!rackspace.com","Rackspace","2017-03-01",138,127,4

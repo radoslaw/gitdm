@@ -1,21 +1,21 @@
-Processed 271 csets from 47 developers
+Processed 270 csets from 47 developers
 20 employers found
-A total of 49149 lines added, 44611 removed, 84061 changed (delta 4538)
+A total of 209671 lines added, 190831 removed, 367430 changed (delta 18840)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
-Self justin!fathomdb.com Justin Santa Barbara                                     159 (58.7%)
+Self justin!fathomdb.com Justin Santa Barbara                                     160 (59.3%)
 Self lucas.kaldstrom!hotmail.co.uk Lucas Käldström                               16 (5.9%)
 Self comp_!gmx.net Ion Savin                                                        4 (1.5%)
 Self arsen!mamikonyan.am Arsen Mamikonyan                                           1 (0.4%)
 
 Top changeset contributors by employer
-Self                                                                              180 (66.4%)
-Google                                                                             48 (17.7%)
+Self                                                                              181 (67.0%)
+Google                                                                             48 (17.8%)
 Fujitsu                                                                            13 (4.8%)
-Devops                                                                              5 (1.8%)
-Red Hat                                                                             5 (1.8%)
+Red Hat                                                                             5 (1.9%)
+Devops                                                                              3 (1.1%)
 CNM Consulting                                                                      3 (1.1%)
 Univa                                                                               2 (0.7%)
 Schibsted                                                                           2 (0.7%)
@@ -34,26 +34,26 @@ Apcera                                                                          
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Self                                                                             77583 (92.3%)
-Google                                                                           5125 (6.1%)
-Fujitsu                                                                          1155 (1.4%)
-Red Hat                                                                            49 (0.1%)
-CNM Consulting                                                                     48 (0.1%)
-Univa                                                                              26 (0.0%)
-CoreOS                                                                             18 (0.0%)
-TheNatureOfSoftware                                                                14 (0.0%)
-Devops                                                                             10 (0.0%)
-Schibsted                                                                           7 (0.0%)
-Easy Learn Code                                                                     7 (0.0%)
-Donnerwood Media                                                                    6 (0.0%)
+Self                                                                             352696 (96.0%)
+Google                                                                           9836 (2.7%)
+Fujitsu                                                                          3140 (0.9%)
+Devops                                                                            936 (0.3%)
+Red Hat                                                                           286 (0.1%)
+Univa                                                                             196 (0.1%)
+CNM Consulting                                                                    187 (0.1%)
+CoreOS                                                                             54 (0.0%)
+Donnerwood Media                                                                   35 (0.0%)
+Schibsted                                                                          19 (0.0%)
+Easy Learn Code                                                                    17 (0.0%)
+Datapipe                                                                            9 (0.0%)
+Amazon                                                                              6 (0.0%)
 Microsoft                                                                           4 (0.0%)
-Amazon                                                                              2 (0.0%)
-Datapipe                                                                            2 (0.0%)
+TheNatureOfSoftware                                                                 3 (0.0%)
+Apcera                                                                              2 (0.0%)
 DrEd Online Doctor                                                                  1 (0.0%)
 Docker                                                                              1 (0.0%)
 VMware                                                                              1 (0.0%)
 NStack                                                                              1 (0.0%)
-Apcera                                                                              1 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
@@ -65,21 +65,21 @@ Self                                                                            
 Fujitsu                                                                             2 (4.3%)
 Red Hat                                                                             2 (4.3%)
 Univa                                                                               2 (4.3%)
+Devops                                                                              1 (2.1%)
 CNM Consulting                                                                      1 (2.1%)
 CoreOS                                                                              1 (2.1%)
-TheNatureOfSoftware                                                                 1 (2.1%)
-Devops                                                                              1 (2.1%)
+Donnerwood Media                                                                    1 (2.1%)
 Schibsted                                                                           1 (2.1%)
 Easy Learn Code                                                                     1 (2.1%)
-Donnerwood Media                                                                    1 (2.1%)
-Microsoft                                                                           1 (2.1%)
-Amazon                                                                              1 (2.1%)
 Datapipe                                                                            1 (2.1%)
+Amazon                                                                              1 (2.1%)
+Microsoft                                                                           1 (2.1%)
+TheNatureOfSoftware                                                                 1 (2.1%)
+Apcera                                                                              1 (2.1%)
 DrEd Online Doctor                                                                  1 (2.1%)
 Docker                                                                              1 (2.1%)
 VMware                                                                              1 (2.1%)
 NStack                                                                              1 (2.1%)
-Apcera                                                                              1 (2.1%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

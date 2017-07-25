@@ -1,6 +1,6 @@
 Processed 46 csets from 8 developers
 7 employers found
-A total of 201235 lines added, 1499 removed, 201701 changed (delta 199736)
+A total of 343903 lines added, 14727 removed, 357209 changed (delta 329176)
 
 Developers with unknown affiliation
 
@@ -17,13 +17,13 @@ Trend Micro                                                                     
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Huawei                                                                           200550 (99.4%)
-Appcoach                                                                          597 (0.3%)
+Huawei                                                                           345731 (96.8%)
+Appcoach                                                                         6605 (1.8%)
+TrendMicro Inc.                                                                  2768 (0.8%)
+Net EASE 网易有态度                                                         1202 (0.3%)
+Trend Micro                                                                       684 (0.2%)
 Google                                                                            201 (0.1%)
-TrendMicro Inc.                                                                   199 (0.1%)
-Net EASE 网易有态度                                                           97 (0.0%)
-Trend Micro                                                                        40 (0.0%)
-ZTE Corporation                                                                    17 (0.0%)
+ZTE Corporation                                                                    18 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
@@ -33,9 +33,9 @@ Employers with the most hackers (total 8)
 Net EASE 网易有态度                                                            2 (25.0%)
 Huawei                                                                              1 (12.5%)
 Appcoach                                                                            1 (12.5%)
-Google                                                                              1 (12.5%)
 TrendMicro Inc.                                                                     1 (12.5%)
 Trend Micro                                                                         1 (12.5%)
+Google                                                                              1 (12.5%)
 ZTE Corporation                                                                     1 (12.5%)
 Covers 100.000000% of hackers
 

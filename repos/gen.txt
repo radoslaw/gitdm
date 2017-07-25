@@ -1,19 +1,19 @@
-Processed 22 csets from 3 developers
+Processed 25 csets from 3 developers
 2 employers found
-A total of 1547 lines added, 143 removed, 1656 changed (delta 1404)
+A total of 6029 lines added, 1240 removed, 6339 changed (delta 4789)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Google                                                                             16 (72.7%)
-Microsoft                                                                           6 (27.3%)
+Google                                                                             19 (76.0%)
+Microsoft                                                                           6 (24.0%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           1292 (78.0%)
-Microsoft                                                                         364 (22.0%)
+Google                                                                           5549 (87.5%)
+Microsoft                                                                         790 (12.5%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)

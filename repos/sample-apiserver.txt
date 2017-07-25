@@ -1,38 +1,38 @@
-Processed 36 csets from 11 developers
+Processed 41 csets from 12 developers
 5 employers found
-A total of 2052 lines added, 131 removed, 2084 changed (delta 1921)
+A total of 25262 lines added, 1343 removed, 25399 changed (delta 23919)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
-Self lukasz.szaszkiewicz!gmail.com p0lyn0mial                                       1 (2.8%)
+Self lukasz.szaszkiewicz!gmail.com p0lyn0mial                                       3 (7.3%)
 
 Top changeset contributors by employer
-Red Hat                                                                            28 (77.8%)
-Google                                                                              5 (13.9%)
-Kelowna                                                                             1 (2.8%)
-IBM                                                                                 1 (2.8%)
-Self                                                                                1 (2.8%)
+Red Hat                                                                            31 (75.6%)
+Google                                                                              5 (12.2%)
+Self                                                                                3 (7.3%)
+Kelowna                                                                             1 (2.4%)
+IBM                                                                                 1 (2.4%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          1841 (88.3%)
-Google                                                                            213 (10.2%)
-Self                                                                               14 (0.7%)
-Kelowna                                                                             8 (0.4%)
-IBM                                                                                 8 (0.4%)
+Red Hat                                                                          22875 (90.1%)
+Self                                                                             2259 (8.9%)
+Google                                                                            249 (1.0%)
+Kelowna                                                                             8 (0.0%)
+IBM                                                                                 8 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 1)
 Red Hat                                                                             1 (100.0%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 11)
-Red Hat                                                                             5 (45.5%)
-Google                                                                              3 (27.3%)
-Self                                                                                1 (9.1%)
-Kelowna                                                                             1 (9.1%)
-IBM                                                                                 1 (9.1%)
+Employers with the most hackers (total 12)
+Red Hat                                                                             6 (50.0%)
+Google                                                                              3 (25.0%)
+Self                                                                                1 (8.3%)
+Kelowna                                                                             1 (8.3%)
+IBM                                                                                 1 (8.3%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

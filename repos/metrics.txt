@@ -1,6 +1,6 @@
 Processed 8 csets from 3 developers
 2 employers found
-A total of 20437 lines added, 4447 removed, 20437 changed (delta 15990)
+A total of 101246 lines added, 17127 removed, 101246 changed (delta 84119)
 
 Developers with unknown affiliation
 
@@ -12,8 +12,8 @@ Google                                                                          
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          11247 (55.0%)
-Google                                                                           9190 (45.0%)
+Red Hat                                                                          54352 (53.7%)
+Google                                                                           46894 (46.3%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)

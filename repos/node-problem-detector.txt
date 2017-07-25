@@ -1,6 +1,6 @@
 Processed 75 csets from 15 developers
 10 employers found
-A total of 6261 lines added, 1728 removed, 6585 changed (delta 4533)
+A total of 23712 lines added, 6780 removed, 25535 changed (delta 16932)
 
 Developers with unknown affiliation
 NotFound thecantero!users.noreply.github.com thecantero                             1 (1.3%)
@@ -22,12 +22,12 @@ ZTE Corporation                                                                 
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           5802 (88.1%)
-CoreOS                                                                            331 (5.0%)
-Self                                                                              289 (4.4%)
-Net EASE 网易有态度                                                          111 (1.7%)
-Red Hat                                                                            40 (0.6%)
-Codigami                                                                            6 (0.1%)
+Google                                                                           22337 (87.5%)
+CoreOS                                                                           1496 (5.9%)
+Self                                                                             1000 (3.9%)
+Net EASE 网易有态度                                                          472 (1.8%)
+Red Hat                                                                           194 (0.8%)
+Codigami                                                                           30 (0.1%)
 HarmonyCloud                                                                        3 (0.0%)
 Inovex                                                                              1 (0.0%)
 NotFound                                                                            1 (0.0%)

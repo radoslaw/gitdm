@@ -1,107 +1,105 @@
 idx,company,n,percent
-0,(All known 104),410295,99.9
-1,Google,204481,49.8
-2,Kismatic,96572,23.5
-3,Red Hat,54047,13.2
-4,Mesosphere,27729,6.8
-5,CoreOS,5856,1.4
-6,Huawei,5199,1.3
-7,(Self),4593,1.1
-8,eBay,2692,0.7
-9,CERN,1618,0.4
-10,Amazon,1374,0.3
-11,Amadeus,1204,0.3
-12,Docker,719,0.2
-13,Slack,671,0.2
-14,Tyk,577,0.1
-15,Metaswitch,430,0.1
-16,(Not Found),395,0.1
-17,Square,273,0.1
-18,Canonical,270,0.1
-19,Weaveworks,226,0.1
-20,CSE IIT KANPUR,218,0.1
-21,ISI.nc,126,0.0
-22,DrEd Online Doctor,124,0.0
-23,Cisco,122,0.0
-24,Apache,120,0.0
-25,Juniper Networks,113,0.0
-26,Petback,82,0.0
-27,Box,70,0.0
-28,Epic Games,69,0.0
-29,Hyper.sh,68,0.0
-30,UNINETT,61,0.0
-31,ListHub,50,0.0
-32,NHN,39,0.0
-33,Jetstack,36,0.0
-34,Whitepages,31,0.0
-35,China Mobile International Limited,29,0.0
-36,Connectifier,26,0.0
-37,Transwarp,24,0.0
-38,Revinate,23,0.0
-39,nearForm,20,0.0
-40,Heroku,19,0.0
-41,Funio,19,0.0
-42,wikiwi,17,0.0
-43,AppAdhoc,14,0.0
-44,WillCall,13,0.0
-45,ChinaNetCenter,12,0.0
-46,FACEIT,12,0.0
-47,Walt Disney,11,0.0
-48,Alternative Storage,10,0.0
-49,Devops,10,0.0
-50,Zesty.io,10,0.0
-51,Singlewire Software,8,0.0
-52,SAP,8,0.0
-53,Vungle,8,0.0
-54,macys.com,8,0.0
-55,Naver,8,0.0
-56,hackmh,7,0.0
-57,Met Office Informatics Lab,6,0.0
-58,Okori Group,5,0.0
-59,Puppet,5,0.0
-60,Shopify,5,0.0
-61,Luxiar,4,0.0
-62,Anadea inc.,4,0.0
-63,Funky,4,0.0
-64,Samsung,4,0.0
-65,Lohi Labs,4,0.0
-66,Yahoo,4,0.0
-67,Axway,4,0.0
-68,volleylabs,3,0.0
-69,Virginia Tech,3,0.0
-70,Facebook,3,0.0
-71,wellcometrust,3,0.0
-72,Wikimedia Foundation,3,0.0
-73,Stack Exchange,3,0.0
-74,Happy Dog Web Productions,3,0.0
-75,Net EASE 网易有态度,3,0.0
-76,GatsbyJS,3,0.0
-77,Rochester Institute of Technology,3,0.0
-78,Elastic,3,0.0
-79,Über,3,0.0
-80,"Collanthropy, LLC",3,0.0
-81,Opsview Ltd,3,0.0
-82,Oblong Industries,2,0.0
-83,Readify,2,0.0
-84,Apalia,2,0.0
-85,Appear TV AS,2,0.0
-86,Zendesk,1,0.0
-87,SORINT.lab,1,0.0
-88,Viacom,1,0.0
-89,Ubisoft,1,0.0
-90,MediaMath,1,0.0
-91,ViaNett AS,1,0.0
-92,Engine Yard,1,0.0
-93,CiscoSpark,1,0.0
-94,Walmart,1,0.0
-95,Agfa HealthCare,1,0.0
-96,Voleo,1,0.0
-97,Zalando,1,0.0
-98,Univa,1,0.0
-99,clypd,1,0.0
-100,ADEO,1,0.0
+0,(All known 102),1389417,99.83
+1,Google,716256,51.5
+2,Red Hat,273198,19.6
+3,Mesosphere,153497,11.0
+4,Kismatic,104583,7.5
+5,CoreOS,27500,2.0
+6,(Self),25652,1.8
+7,Huawei,18701,1.3
+8,CERN,18049,1.3
+9,eBay,15518,1.1
+10,Amadeus,8082,0.6
+11,Amazon,7721,0.6
+12,Slack,3179,0.2
+13,DrEd Online Doctor,2501,0.2
+14,(Not Found),2345,0.2
+15,Docker,2271,0.2
+16,Tyk,2120,0.2
+17,Metaswitch,2034,0.1
+18,Canonical,804,0.1
+19,Juniper Networks,687,0.0
+20,Heroku,653,0.0
+21,ISI.nc,600,0.0
+22,nearForm,581,0.0
+23,Apache,555,0.0
+24,Weaveworks,547,0.0
+25,Square,454,0.0
+26,Epic Games,343,0.0
+27,Vungle,320,0.0
+28,Cisco,313,0.0
+29,UNINETT,232,0.0
+30,Box,218,0.0
+31,Hyper.sh,217,0.0
+32,ListHub,215,0.0
+33,Jetstack,211,0.0
+34,CSE IIT KANPUR,158,0.0
+35,wikiwi,120,0.0
+36,Transwarp,119,0.0
+37,NHN,109,0.0
+38,Petback,98,0.0
+39,FACEIT,93,0.0
+40,Whitepages,73,0.0
+41,AppAdhoc,64,0.0
+42,Zesty.io,55,0.0
+43,Rochester Institute of Technology,54,0.0
+44,ChinaNetCenter,48,0.0
+45,Naver,46,0.0
+46,China Mobile International Limited,44,0.0
+47,Revinate,42,0.0
+48,Walt Disney,39,0.0
+49,SAP,36,0.0
+50,Funio,35,0.0
+51,Alternative Storage,33,0.0
+52,Net EASE 网易有态度,30,0.0
+53,Connectifier,26,0.0
+54,Okori Group,24,0.0
+55,Über,18,0.0
+56,"Collanthropy, LLC",17,0.0
+57,Anadea inc.,14,0.0
+58,Devops,14,0.0
+59,WillCall,13,0.0
+60,Wikimedia Foundation,13,0.0
+61,volleylabs,12,0.0
+62,Met Office Informatics Lab,11,0.0
+63,Axway,10,0.0
+64,Puppet,9,0.0
+65,macys.com,9,0.0
+66,Funky,9,0.0
+67,Opsview Ltd,8,0.0
+68,Singlewire Software,7,0.0
+69,Walmart,7,0.0
+70,Lohi Labs,7,0.0
+71,ADEO,7,0.0
+72,GatsbyJS,6,0.0
+73,Shopify,5,0.0
+74,Agfa HealthCare,5,0.0
+75,Stack Exchange,4,0.0
+76,Samsung,4,0.0
+77,Yahoo,4,0.0
+78,Virginia Tech,3,0.0
+79,Facebook,3,0.0
+80,wellcometrust,3,0.0
+81,Luxiar,3,0.0
+82,Appear TV AS,3,0.0
+83,Elastic,3,0.0
+84,Oblong Industries,2,0.0
+85,Readify,2,0.0
+86,Apalia,2,0.0
+87,athenahealth,2,0.0
+88,Happy Dog Web Productions,2,0.0
+89,ViaNett AS,2,0.0
+90,Zalando,2,0.0
+91,Xoom,2,0.0
+92,Zendesk,1,0.0
+93,SORINT.lab,1,0.0
+94,Viacom,1,0.0
+95,Ubisoft,1,0.0
+96,MediaMath,1,0.0
+97,CiscoSpark,1,0.0
+98,Voleo,1,0.0
+99,Univa,1,0.0
+100,clypd,1,0.0
 101,iconectiv,1,0.0
 102,"Eldarion, Inc.",1,0.0
 103,Microsoft,1,0.0
-104,Xoom,1,0.0
-105,athenahealth,1,0.0

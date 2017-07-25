@@ -1,107 +1,107 @@
 idx,company,n,percent
-0,(All known 104),723671,100.0
-1,Google,396115,54.7
-2,Red Hat,217030,30.0
-3,Microsoft,32181,4.4
-4,Bulletproof,17595,2.4
-5,VMware,6621,0.9
-6,(Self),6426,0.9
-7,CoreOS,6177,0.9
-8,Huawei,5763,0.8
-9,Dell,5671,0.8
-10,Portworx,4460,0.6
-11,JPMorgan Chase,4062,0.6
-12,Hyper.sh,2786,0.4
-13,Canonical,2651,0.4
-14,Mirantis,2375,0.3
-15,Apprenda,2271,0.3
-16,IBM,1509,0.2
-17,Diamanti,1065,0.1
-18,Fujitsu,994,0.1
-19,ZTE Corporation,843,0.1
-20,Roche,781,0.1
-21,Net EASE 网易有态度,652,0.1
-22,Rancher,519,0.1
-23,Intel,497,0.1
-24,EasyStack,475,0.1
-25,Apache,432,0.1
-26,Molina Healthcare,419,0.1
-27,Heptio,395,0.1
-28,Logic Monitor,350,0.0
-29,SalesForce,271,0.0
-30,Vorstella,165,0.0
-31,Kelowna,165,0.0
-32,CERN,142,0.0
-33,Socrata,134,0.0
-34,Caicloud,127,0.0
-35,CNM Consulting,118,0.0
-36,Cisco,110,0.0
-37,Apple,106,0.0
-38,Box,103,0.0
-39,Rev.com,102,0.0
-40,QIANKUN,98,0.0
-41,Tencent,97,0.0
-42,SICPA Security Solutions,77,0.0
-43,Bloomberg LP,75,0.0
-44,Jetstack,53,0.0
-45,Robots and Pencils,48,0.0
-46,Bigstep,46,0.0
-47,Zalando,30,0.0
-48,Amadeus,30,0.0
-49,Wattpad,30,0.0
-50,42 Tech,27,0.0
-51,Cockroach,27,0.0
-52,eBay,27,0.0
-53,JustWatch,26,0.0
-54,Samsung,25,0.0
-55,Atlassian,24,0.0
-56,HP,21,0.0
-57,Walmart,18,0.0
-58,SkillShare,16,0.0
-59,F24 Ag,16,0.0
-60,ZJU-SEL,15,0.0
-61,SoundCloud,14,0.0
-62,Bitnami,12,0.0
-63,Loodse,12,0.0
-64,Weaveworks,11,0.0
-65,dunnhumby,11,0.0
-66,Igneous Systems,11,0.0
-67,CDNetworks Korea,11,0.0
-68,zlabjp,10,0.0
-69,Sky,9,0.0
-70,(Not Found),9,0.0
-71,YY,8,0.0
-72,AppsCode,7,0.0
-73,Mozilla,6,0.0
-74,Nordstrom,5,0.0
-75,The New York Times,4,0.0
-76,SOFICOM,4,0.0
-77,Ubisoft,4,0.0
-78,Juju Ecosystem,4,0.0
-79,Pressly,3,0.0
-80,Jd.Com,3,0.0
-81,Feenix GmbH,3,0.0
-82,Devops,3,0.0
-83,Cloudera,3,0.0
-84,Ubuntu,2,0.0
-85,RCS Analytics GmbH,2,0.0
-86,FounderFuel,2,0.0
-87,Z Lab Corporation,2,0.0
-88,Criteo,2,0.0
-89,Zeet,2,0.0
+0,(All known 104),4436146,100.0
+1,Google,2086726,47.0
+2,Red Hat,1603888,36.2
+3,Microsoft,177724,4.0
+4,JPMorgan Chase,142060,3.2
+5,Mirantis,53859,1.2
+6,Bulletproof,50796,1.1
+7,Huawei,40869,0.9
+8,(Self),39178,0.9
+9,Portworx,38630,0.9
+10,VMware,38067,0.9
+11,Dell,36918,0.8
+12,IBM,30584,0.7
+13,CoreOS,20550,0.5
+14,Hyper.sh,12798,0.3
+15,Apprenda,9075,0.2
+16,Fujitsu,5831,0.1
+17,Molina Healthcare,5621,0.1
+18,Roche,5112,0.1
+19,Kelowna,4968,0.1
+20,Diamanti,4224,0.1
+21,Canonical,3534,0.1
+22,ZTE Corporation,2873,0.1
+23,Intel,2214,0.0
+24,Net EASE 网易有态度,2203,0.0
+25,Rancher,2060,0.0
+26,Apache,1565,0.0
+27,Heptio,1556,0.0
+28,Logic Monitor,1451,0.0
+29,EasyStack,1430,0.0
+30,SalesForce,1357,0.0
+31,CNM Consulting,650,0.0
+32,Box,607,0.0
+33,Apple,559,0.0
+34,CERN,542,0.0
+35,Tencent,513,0.0
+36,Caicloud,484,0.0
+37,Bloomberg LP,476,0.0
+38,Cisco,429,0.0
+39,Rev.com,390,0.0
+40,Socrata,369,0.0
+41,Jetstack,351,0.0
+42,QIANKUN,313,0.0
+43,SICPA Security Solutions,293,0.0
+44,CDNetworks Korea,234,0.0
+45,Vorstella,233,0.0
+46,Bigstep,206,0.0
+47,Robots and Pencils,193,0.0
+48,Wattpad,176,0.0
+49,42 Tech,111,0.0
+50,Amadeus,105,0.0
+51,eBay,100,0.0
+52,Zalando,89,0.0
+53,Samsung,78,0.0
+54,dunnhumby,75,0.0
+55,F24 Ag,74,0.0
+56,JustWatch,65,0.0
+57,SoundCloud,62,0.0
+58,HP,56,0.0
+59,Atlassian,49,0.0
+60,Bitnami,44,0.0
+61,Criteo,41,0.0
+62,Weaveworks,40,0.0
+63,zlabjp,39,0.0
+64,(Not Found),37,0.0
+65,SkillShare,36,0.0
+66,Loodse,35,0.0
+67,Mozilla,34,0.0
+68,Cockroach,26,0.0
+69,Sky,25,0.0
+70,Walmart,21,0.0
+71,Ubisoft,21,0.0
+72,YY,20,0.0
+73,Igneous Systems,19,0.0
+74,SOFICOM,18,0.0
+75,AppsCode,18,0.0
+76,ZJU-SEL,15,0.0
+77,Z Lab Corporation,11,0.0
+78,Cloud Genius,10,0.0
+79,Jd.Com,8,0.0
+80,Pressly,7,0.0
+81,Nordstrom,5,0.0
+82,The New York Times,4,0.0
+83,TravelSky Technology Limited,4,0.0
+84,Cloudera,4,0.0
+85,Juju Ecosystem,4,0.0
+86,Zeet,4,0.0
+87,Feenix GmbH,3,0.0
+88,Devops,3,0.0
+89,LinkedIn,3,0.0
 90,Pardot,2,0.0
-91,AT&T,1,0.0
-92,ocadotechnology,1,0.0
-93,TravelSky Technology Limited,1,0.0
-94,Cloud Genius,1,0.0
-95,TripTravel,1,0.0
-96,ContainerStack.io,1,0.0
-97,Alternative Storage,1,0.0
-98,LinkedIn,1,0.0
-99,Ustream,1,0.0
-100,Software & Things,1,0.0
-101,DRUD Tech,1,0.0
-102,opentargets,1,0.0
-103,HarmonyCloud,1,0.0
-104,"Embedded Systems, ECE",1,0.0
-105,SAP,1,0.0
+91,Ubuntu,2,0.0
+92,RCS Analytics GmbH,2,0.0
+93,FounderFuel,2,0.0
+94,Software & Things,2,0.0
+95,AT&T,1,0.0
+96,SAP,1,0.0
+97,ocadotechnology,1,0.0
+98,TripTravel,1,0.0
+99,ContainerStack.io,1,0.0
+100,Alternative Storage,1,0.0
+101,Ustream,1,0.0
+102,DRUD Tech,1,0.0
+103,opentargets,1,0.0
+104,HarmonyCloud,1,0.0
+105,"Embedded Systems, ECE",1,0.0

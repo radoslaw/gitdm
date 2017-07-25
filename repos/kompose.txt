@@ -1,54 +1,57 @@
-Processed 468 csets from 20 developers
-11 employers found
-A total of 44299 lines added, 16776 removed, 46991 changed (delta 27523)
+Processed 495 csets from 22 developers
+12 employers found
+A total of 204566 lines added, 113413 removed, 217324 changed (delta 91153)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Red Hat                                                                           274 (58.5%)
-Apache                                                                             94 (20.1%)
-Linux                                                                              32 (6.8%)
-Google                                                                             31 (6.6%)
-Bitnami                                                                            14 (3.0%)
-Dusty Mabe                                                                         12 (2.6%)
-CABNetworks                                                                         5 (1.1%)
+Red Hat                                                                           300 (60.6%)
+Apache                                                                             93 (18.8%)
+Linux                                                                              33 (6.7%)
+Google                                                                             31 (6.3%)
+Bitnami                                                                            14 (2.8%)
+Dusty Mabe                                                                         12 (2.4%)
+CABNetworks                                                                         5 (1.0%)
 Rancher                                                                             3 (0.6%)
 Net EASE 网易有态度                                                            1 (0.2%)
+HarmonyCloud                                                                        1 (0.2%)
 Self                                                                                1 (0.2%)
 Xiaomi.com                                                                          1 (0.2%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          25394 (54.0%)
-Apache                                                                           9347 (19.9%)
-Linux                                                                            8294 (17.7%)
-Bitnami                                                                          1559 (3.3%)
-Google                                                                           1357 (2.9%)
-CABNetworks                                                                       587 (1.2%)
-Rancher                                                                           223 (0.5%)
-Dusty Mabe                                                                        180 (0.4%)
-Xiaomi.com                                                                         40 (0.1%)
-Net EASE 网易有态度                                                            5 (0.0%)
-Self                                                                                5 (0.0%)
+Red Hat                                                                          115149 (53.0%)
+Apache                                                                           42774 (19.7%)
+Linux                                                                            40647 (18.7%)
+Google                                                                           8375 (3.9%)
+Bitnami                                                                          6850 (3.2%)
+Rancher                                                                          1376 (0.6%)
+CABNetworks                                                                      1368 (0.6%)
+Dusty Mabe                                                                        595 (0.3%)
+Xiaomi.com                                                                        150 (0.1%)
+Self                                                                               31 (0.0%)
+Net EASE 网易有态度                                                            6 (0.0%)
+HarmonyCloud                                                                        3 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
 Covers 0.000000% of signoffs
 
-Employers with the most hackers (total 20)
-Red Hat                                                                             8 (40.0%)
-Linux                                                                               2 (10.0%)
-CABNetworks                                                                         2 (10.0%)
-Apache                                                                              1 (5.0%)
-Bitnami                                                                             1 (5.0%)
-Google                                                                              1 (5.0%)
-Rancher                                                                             1 (5.0%)
-Dusty Mabe                                                                          1 (5.0%)
-Xiaomi.com                                                                          1 (5.0%)
-Net EASE 网易有态度                                                            1 (5.0%)
-Self                                                                                1 (5.0%)
+Employers with the most hackers (total 22)
+Red Hat                                                                             9 (40.9%)
+Linux                                                                               2 (9.1%)
+CABNetworks                                                                         2 (9.1%)
+Apache                                                                              1 (4.5%)
+Google                                                                              1 (4.5%)
+Bitnami                                                                             1 (4.5%)
+Rancher                                                                             1 (4.5%)
+Dusty Mabe                                                                          1 (4.5%)
+Xiaomi.com                                                                          1 (4.5%)
+Self                                                                                1 (4.5%)
+Net EASE 网易有态度                                                            1 (4.5%)
+HarmonyCloud                                                                        1 (4.5%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

@@ -1,23 +1,23 @@
-Processed 154 csets from 8 developers
+Processed 176 csets from 8 developers
 4 employers found
-A total of 140593 lines added, 129286 removed, 265979 changed (delta 11307)
+A total of 265107 lines added, 221635 removed, 472485 changed (delta 43472)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Google                                                                            136 (88.3%)
-Red Hat                                                                             7 (4.5%)
-Virtuozzo                                                                           6 (3.9%)
-CoreOS                                                                              5 (3.2%)
+Google                                                                            155 (88.1%)
+Red Hat                                                                             8 (4.5%)
+Virtuozzo                                                                           8 (4.5%)
+CoreOS                                                                              5 (2.8%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           264175 (99.3%)
-Red Hat                                                                           640 (0.2%)
-Virtuozzo                                                                         587 (0.2%)
-CoreOS                                                                            577 (0.2%)
+Google                                                                           464955 (98.4%)
+Red Hat                                                                          4023 (0.9%)
+Virtuozzo                                                                        1934 (0.4%)
+CoreOS                                                                           1573 (0.3%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 1)

@@ -1,6 +1,6 @@
 Processed 3 csets from 1 developers
 1 employers found
-A total of 275 lines added, 0 removed, 275 changed (delta 275)
+A total of 620 lines added, 0 removed, 620 changed (delta 620)
 
 Developers with unknown affiliation
 
@@ -11,7 +11,7 @@ Google                                                                          
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                            275 (100.0%)
+Google                                                                            620 (100.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)

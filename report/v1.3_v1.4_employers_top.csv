@@ -1,5 +1,5 @@
 idx,company,n,percent
-0,(All known 79),267,98.52
+0,(All known 80),267,98.52
 1,Google,71,26.2
 2,Red Hat,42,15.5
 3,Mirantis,14,5.2
@@ -10,13 +10,13 @@ idx,company,n,percent
 8,Huawei,5,1.8
 9,Intel,4,1.5
 10,(Not Found),4,1.5
-11,HP,4,1.5
-12,Microsoft,3,1.1
-13,eBay,3,1.1
-14,Net EASE 网易有态度,3,1.1
+11,Microsoft,3,1.1
+12,eBay,3,1.1
+13,Net EASE 网易有态度,3,1.1
+14,HP,3,1.1
 15,Hyper.sh,2,0.7
-16,Canonical,2,0.7
-17,Apcera,2,0.7
-18,Docker,2,0.7
-19,GoDaddy,2,0.7
-20,Weaveworks,2,0.7
+16,Apache,2,0.7
+17,VMware,2,0.7
+18,Clarifai,2,0.7
+19,Apcera,2,0.7
+20,Canonical,2,0.7

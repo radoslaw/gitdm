@@ -1,22 +1,22 @@
 idx,company,n,percent
-0,(All known 104),235,96.31
-1,Google,54,22.1
-2,Red Hat,38,15.6
-3,Huawei,13,5.3
-4,(Self),12,4.9
+0,(All known 102),233,96.28
+1,Google,54,22.3
+2,Red Hat,38,15.7
+3,Huawei,13,5.4
+4,(Self),12,5.0
 5,(Not Found),9,3.7
-6,CoreOS,5,2.0
-7,Mesosphere,4,1.6
-8,Metaswitch,4,1.6
+6,CoreOS,5,2.1
+7,Mesosphere,4,1.7
+8,Metaswitch,4,1.7
 9,Docker,3,1.2
-10,Cisco,2,0.8
-11,Canonical,2,0.8
-12,Box,2,0.8
-13,CERN,2,0.8
-14,eBay,2,0.8
-15,Amadeus,2,0.8
-16,Epic Games,1,0.4
-17,Hyper.sh,1,0.4
-18,UNINETT,1,0.4
-19,ListHub,1,0.4
-20,NHN,1,0.4
+10,CERN,2,0.8
+11,eBay,2,0.8
+12,Amadeus,2,0.8
+13,Canonical,2,0.8
+14,Cisco,2,0.8
+15,Box,2,0.8
+16,FACEIT,1,0.4
+17,Anadea inc.,1,0.4
+18,Kismatic,1,0.4
+19,Amazon,1,0.4
+20,Slack,1,0.4

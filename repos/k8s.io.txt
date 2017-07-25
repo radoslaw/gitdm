@@ -1,33 +1,40 @@
-Processed 71 csets from 17 developers
-4 employers found
-A total of 2495 lines added, 466 removed, 2707 changed (delta 2029)
+Processed 76 csets from 20 developers
+6 employers found
+A total of 8231 lines added, 3744 removed, 8458 changed (delta 4487)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Google                                                                             58 (81.7%)
-Pear                                                                                6 (8.5%)
-Red Hat                                                                             5 (7.0%)
-CoreOS                                                                              2 (2.8%)
+Google                                                                             60 (78.9%)
+Pear                                                                                6 (7.9%)
+Red Hat                                                                             5 (6.6%)
+CoreOS                                                                              2 (2.6%)
+Embedded Systems, ECE                                                               2 (2.6%)
+Huawei                                                                              1 (1.3%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           2622 (96.9%)
-Pear                                                                               44 (1.6%)
-Red Hat                                                                            30 (1.1%)
-CoreOS                                                                             11 (0.4%)
+Google                                                                           8011 (94.7%)
+Pear                                                                              209 (2.5%)
+CoreOS                                                                            101 (1.2%)
+Red Hat                                                                            70 (0.8%)
+Huawei                                                                             60 (0.7%)
+Embedded Systems, ECE                                                               7 (0.1%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 0)
-Covers 0.000000% of signoffs
+Employers with the most signoffs (total 1)
+Google                                                                              1 (100.0%)
+Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 17)
-Google                                                                             11 (64.7%)
-Red Hat                                                                             3 (17.6%)
-CoreOS                                                                              2 (11.8%)
-Pear                                                                                1 (5.9%)
+Employers with the most hackers (total 20)
+Google                                                                             12 (60.0%)
+Red Hat                                                                             3 (15.0%)
+CoreOS                                                                              2 (10.0%)
+Pear                                                                                1 (5.0%)
+Huawei                                                                              1 (5.0%)
+Embedded Systems, ECE                                                               1 (5.0%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

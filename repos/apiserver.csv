@@ -1,108 +1,122 @@
 "Name","Email","Affliation","Date","Added","Removed","Changesets"
-"Antoine Pelisse","apelisse!google.com","Google","2017-06-01",18,13,2
-"deads2k","deads!redhat.com","Red Hat","2017-06-01",18,2,2
-"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-02-01",26,8,1
-"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-05-01",5,1,1
+"Antoine Pelisse","apelisse!google.com","Google","2017-06-01",15,1,2
+"deads2k","deads!redhat.com","Red Hat","2017-06-01",327,206,3
+"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-02-01",117,32,1
+"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-05-01",31,4,1
 "Nail Islamov","nislamov!atlassian.com","Atlassian","2017-05-01",5,5,1
-"nikhiljindal","nikhiljindal!google.com","Google","2017-05-01",103,3,1
-"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-04-01",61,4,1
+"nikhiljindal","nikhiljindal!google.com","Google","2017-05-01",621,1,1
+"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-04-01",281,1,1
 "Tom Petr","tpetr!hubspot.com","HubSpot","2017-06-01",1,1,1
-"nikhiljindal","nikhiljindal!google.com","Google","2017-02-01",101,42,3
-"ymqytw","mengqiy!google.com","Google","2017-02-01",2,1,1
-"Matt Liggett","mml!google.com","Google","2017-06-01",4,1,1
-"Chao Xu","xuchao!google.com","Google","2017-06-01",158,157,6
+"nikhiljindal","nikhiljindal!google.com","Google","2017-02-01",401,16,3
+"ymqytw","mengqiy!google.com","Google","2017-02-01",3,1,1
+"Matt Liggett","mml!google.com","Google","2017-06-01",32,1,1
+"huangjiuyuan","jiuyuan.huang!daocloud.io","DaoCloud","2017-07-01",94,0,1
+"deads2k","deads!redhat.com","Red Hat","2017-07-01",9,10,2
+"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-07-01",8658,2913,7
+"David Ashpole","dashpole!google.com","Google","2017-06-01",39,21,1
+"Chao Xu","xuchao!google.com","Google","2017-06-01",1169,1176,6
 "Christoph Blecker","admin!toph.ca","Kelowna","2017-05-01",14,0,1
-"Andy Goldstein","andy.goldstein!gmail.com","ASG Consulting","2017-04-01",24,104,1
-"Matt Liggett","mml!google.com","Google","2017-04-01",23,3,2
-"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2017-04-01",1,1,1
+"Andy Goldstein","andy.goldstein!gmail.com","ASG Consulting","2017-04-01",103,504,1
+"Matt Liggett","mml!google.com","Google","2017-04-01",126,25,2
+"Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2017-04-01",3,3,1
 "Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-05-01",4,5,3
-"Clayton Coleman","ccoleman!redhat.com","Red Hat","2016-11-01",569,139,1
-"xilabao","chenr.fnst!cn.fujitsu.com","Fujitsu","2017-03-01",0,4,1
-"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-05-01",902,500,8
-"Saksham Sharma","saksham0808!gmail.com","Google","2017-06-01",221,54,2
-"ymqytw","mengqiy!google.com","Google","2017-03-01",32,1,1
-"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-06-01",796,178,7
-"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-02-01",752,123,7
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2016-11-01",3411,256,1
+"xilabao","chenr.fnst!cn.fujitsu.com","Fujitsu","2017-03-01",0,13,1
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-05-01",5505,2027,8
+"Saksham Sharma","saksham0808!gmail.com","Google","2017-06-01",642,142,2
+"ymqytw","mengqiy!google.com","Google","2017-03-01",209,2,1
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-06-01",7214,2509,8
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-02-01",3992,217,7
 "jg Chen","21521209!zju.edu.cn","Self","2017-02-01",1,1,1
-"deads2k","deads!redhat.com","Red Hat","2017-03-01",2174,1498,17
-"Mikhail Mazurskiy","mmazurskiy!atlassian.com","Atlassian","2017-06-01",6,7,1
-"sakeven","jc5930!sina.cn","DaoCloud","2017-06-01",1,1,1
-"Chao Xu","xuchao!google.com","Google","2017-02-01",340,44,1
+"deads2k","deads!redhat.com","Red Hat","2017-03-01",9169,6836,17
+"Mikhail Mazurskiy","mmazurskiy!atlassian.com","Atlassian","2017-06-01",10,52,1
+"sakeven","jc5930!sina.cn","DaoCloud","2017-06-01",5,0,1
+"Chao Xu","xuchao!google.com","Google","2017-02-01",1907,57,1
 "Morgan Bauer","mbauer!us.ibm.com","IBM","2017-01-01",7,1,1
-"Shyam Jeedigunta","shyamjvs!google.com","Google","2017-05-01",3,2,1
-"Andy Goldstein","agoldste!redhat.com","Red Hat","2017-02-01",3,3,2
-"Fabiano Franz","ffranz!redhat.com","Red Hat","2017-03-01",13,0,1
-"zhouhaibing089","zhouhaibing089!gmail.com","eBay","2017-01-01",48,6,1
-"Scott Weiss","sdw35!cornell.edu","Red Hat","2017-06-01",534,22,1
-"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-06-01",25,36,7
+"Shyam Jeedigunta","shyamjvs!google.com","Google","2017-05-01",6,2,1
+"jianglingxia","jiang.lingxia!zte.com.cn","ZTE Corporation","2017-07-01",3,3,1
+"Andy Goldstein","agoldste!redhat.com","Red Hat","2017-02-01",18,8,2
+"Fabiano Franz","ffranz!redhat.com","Red Hat","2017-03-01",53,0,1
+"zhouhaibing089","zhouhaibing089!gmail.com","eBay","2017-01-01",231,8,1
+"Scott Weiss","sdw35!cornell.edu","Red Hat","2017-06-01",3432,743,1
+"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-06-01",793,230,11
 "linyouchong","lin.youchong!zte.com.cn","ZTE Corporation","2016-12-01",1,1,1
-"Saksham Sharma","sakshams!google.com","Google","2017-05-01",539,3,1
-"Scott Weiss","sdw35!cornell.edu","Red Hat","2017-05-01",468,0,1
-"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-03-01",274,67,10
+"Saksham Sharma","sakshams!google.com","Google","2017-05-01",1852,1,1
+"Scott Weiss","sdw35!cornell.edu","Red Hat","2017-05-01",3178,671,1
+"Mike Danese","mikedanese!google.com","Google","2017-07-01",0,2,1
+"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-03-01",1512,211,10
 "fate-grand-order","chenjg!harmonycloud.cn","HarmonyCloud","2017-02-01",1,1,1
-"David Ashpole","dashpole!google.com","Google","2017-06-01",20,23,1
-"mbohlool","mehdy!google.com","Google","2017-06-01",1026,5,1
-"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-02-01",14,1,1
+"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-07-01",252,0,1
+"mbohlool","mehdy!google.com","Google","2017-06-01",3199,12,1
+"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-02-01",49,1,1
+"sakeven","jc5930!sina.cn","DaoCloud","2017-07-01",0,22,1
+"Tim Allclair","tallclair!google.com","Google","2017-07-01",5,5,1
+"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-07-01",2664,45,5
+"Haoran Wang","haowang!redhat.com","Red Hat","2017-07-01",5,5,1
 "Timothy St. Clair","timothysc!gmail.com","Heptio","2017-02-01",4,1,1
-"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-01-01",4,0,2
+"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-01-01",100,0,2
+"Sahdev P. Zala","spzala!us.ibm.com","IBM","2017-04-01",14,0,1
 "xiangpengzhao","zhao.xiangpeng!zte.com.cn","ZTE Corporation","2017-04-01",2,2,1
-"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-03-01",3,0,2
-"yupengzte","yu.peng36!zte.com.cn","ZTE Corporation","2017-05-01",1,1,1
-"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-06-01",1082,524,7
-"Mike Danese","mikedanese!google.com","Google","2017-04-01",2906,1,3
-"Abhishek Dasgupta","a10gupta!linux.vnet.ibm.com","IBM","2017-02-01",79,76,1
+"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-03-01",10,0,2
+"yupengzte","yu.peng36!zte.com.cn","ZTE Corporation","2017-05-01",2,0,1
+"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-06-01",3851,3488,7
+"Mike Danese","mikedanese!google.com","Google","2017-04-01",2907,3,3
+"Shiyang Wang","shiywang!redhat.com","Red Hat","2017-06-01",342,61,1
+"Abhishek Dasgupta","a10gupta!linux.vnet.ibm.com","IBM","2017-02-01",10,15,1
 "linyouchong","lin.youchong!zte.com.cn","ZTE Corporation","2017-02-01",2,2,2
 "Kyâne Pichou","kyane!kyane.fr","NotFound","2017-06-01",1,1,1
-"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-04-01",44,26,3
-"Tim St. Clair","stclair!google.com","Google","2017-06-01",33,20,2
-"Wojciech Tyczynski","wojtekt!google.com","Google","2017-06-01",9,39,2
-"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-05-01",3,2,1
-"Wojciech Tyczynski","wojtekt!google.com","Google","2017-02-01",12,14,5
-"Sahdev P. Zala","spzala!us.ibm.com","IBM","2017-04-01",14,0,1
-"Timothy St. Clair","timothysc!gmail.com","Heptio","2017-04-01",277,266,1
+"Cao Shufeng","caosf.fnst!cn.fujitsu.com","Fujitsu","2017-04-01",198,67,3
+"Tim St. Clair","stclair!google.com","Google","2017-06-01",163,71,2
+"Wojciech Tyczynski","wojtekt!google.com","Google","2017-06-01",30,182,2
+"Morgan Bauer","mbauer!us.ibm.com","IBM","2017-05-01",1,1,1
+"Wojciech Tyczynski","wojtekt!google.com","Google","2017-02-01",8,68,5
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-07-01",824,9877,4
+"Timothy St. Clair","timothysc!gmail.com","Heptio","2017-04-01",288,245,1
 "supereagle","jmyue!hotmail.com","Self","2017-03-01",2,2,1
-"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-05-01",918,27,1
-"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-04-01",52,17,2
-"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-02-01",2,0,2
-"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-03-01",221,0,1
-"Chao Xu","xuchao!google.com","Google","2017-05-01",83,21,3
-"Wojciech Tyczynski","wojtekt!google.com","Google","2017-05-01",108,42,3
-"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-01-01",7718,546,16
+"Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-05-01",4219,95,1
+"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-04-01",145,86,2
+"Shyam Jeedigunta","shyamjvs!google.com","Google","2017-07-01",0,19,1
+"Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-02-01",38,0,2
+"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-03-01",970,0,1
+"Chao Xu","xuchao!google.com","Google","2017-05-01",110,26,3
+"Wojciech Tyczynski","wojtekt!google.com","Google","2017-05-01",508,111,3
+"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-01-01",30136,541,16
 "Joe Finney","spxtr!google.com","Google","2017-03-01",0,1,1
-"Tim St. Clair","stclair!google.com","Google","2017-05-01",13054,601,12
-"Chao Xu","xuchao!google.com","Google","2017-04-01",113,58,2
-"NickrenREN","renyuquan1!163.com","Net EASE 网易有态度","2017-06-01",1,1,1
-"Eric Paris","eparis!redhat.com","Red Hat","2017-06-01",22,5,1
-"Dominik Schulz","dominik.schulz!gauner.org","JustWatch","2017-02-01",47,1,1
-"Wojciech Tyczynski","wojtekt!google.com","Google","2017-01-01",87,61,2
-"Walter Fender","wfender!google.com","Google","2017-04-01",248,1,1
-"Anthony Yeh","enisoc!google.com","Google","2017-04-01",71,16,1
-"Maru Newby","marun!redhat.com","Red Hat","2017-03-01",27,3,1
-"Robert Rati","rrati!redhat.com","Red Hat","2017-02-01",2,0,1
-"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-06-01",34,5,1
-"Maru Newby","marun!redhat.com","Red Hat","2017-02-01",15,40,1
-"Monis Khan","mkhan!redhat.com","Red Hat","2017-05-01",37,5,2
-"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-05-01",771,93,5
-"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-02-01",35066,861,13
-"Christoph Blecker","admin!toph.ca","Kelowna","2017-03-01",7,7,1
-"deads2k","deads!redhat.com","Red Hat","2017-02-01",19948,553,34
-"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-06-01",112,57,2
-"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-05-01",2361,650,16
-"mbohlool","mehdy!google.com","Google","2017-05-01",350,152,8
-"Jeremy Whitlock","jwhitlock!apache.org","Apache","2017-02-01",946,0,1
-"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-01-01",404,142,5
+"Tim St. Clair","stclair!google.com","Google","2017-05-01",70130,1347,12
+"Chao Xu","xuchao!google.com","Google","2017-04-01",313,95,2
+"NickrenREN","renyuquan1!163.com","Net EASE 网易有态度","2017-06-01",5,0,1
+"Eric Paris","eparis!redhat.com","Red Hat","2017-06-01",139,25,1
+"Dominik Schulz","dominik.schulz!gauner.org","JustWatch","2017-02-01",125,0,1
+"Wojciech Tyczynski","wojtekt!google.com","Google","2017-01-01",343,164,2
+"Walter Fender","wfender!google.com","Google","2017-04-01",1306,1,1
+"Anthony Yeh","enisoc!google.com","Google","2017-04-01",354,41,1
+"Maru Newby","marun!redhat.com","Red Hat","2017-03-01",89,5,1
+"Robert Rati","rrati!redhat.com","Red Hat","2017-02-01",5,0,1
+"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-06-01",108,9,1
+"Maru Newby","marun!redhat.com","Red Hat","2017-02-01",20,113,1
+"Monis Khan","mkhan!redhat.com","Red Hat","2017-05-01",130,10,2
+"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-05-01",4017,142,5
+"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-02-01",197254,1236,13
+"Christoph Blecker","admin!toph.ca","Kelowna","2017-03-01",0,21,1
+"deads2k","deads!redhat.com","Red Hat","2017-02-01",19217,2100,34
+"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-06-01",597,292,2
+"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-05-01",11216,2044,16
+"mbohlool","mehdy!google.com","Google","2017-05-01",1534,616,8
+"Jeremy Whitlock","jwhitlock!apache.org","Apache","2017-02-01",3548,0,1
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2017-01-01",2812,514,5
 "Christoph Blecker","admin!toph.ca","Kelowna","2017-06-01",8,8,1
-"deads2k","deads!redhat.com","Red Hat","2017-01-01",13156,483,36
+"deads2k","deads!redhat.com","Red Hat","2017-01-01",56581,68,36
 "Angus Lees","gus!inodes.org","Bulletproof","2016-11-01",2,2,1
-"gmarek","gmarek!google.com","Google","2017-04-01",15,9,1
+"gmarek","gmarek!google.com","Google","2017-04-01",89,28,1
 "zhengjiajin","393926893!qq.com","Caicloud","2017-06-01",2,2,1
-"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-02-01",13,1,1
-"deads2k","deads!redhat.com","Red Hat","2017-04-01",578,238,5
-"mbohlool","mehdy!google.com","Google","2017-04-01",55,25,3
-"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-03-01",88,75,3
-"deads2k","deads!redhat.com","Red Hat","2017-05-01",424,425,5
-"Ryan Hitchman","rmmh!google.com","Google","2017-05-01",98,5,1
+"p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-02-01",54,2,1
+"deads2k","deads!redhat.com","Red Hat","2017-04-01",3129,477,5
+"mbohlool","mehdy!google.com","Google","2017-04-01",284,49,3
+"Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-03-01",389,137,3
+"deads2k","deads!redhat.com","Red Hat","2017-05-01",1512,720,5
+"Ryan Hitchman","rmmh!google.com","Google","2017-05-01",539,4,1
 "Chao Xu","xuchao!google.com","Google","2017-03-01",1,2,1
-"Derek Carr","decarr!redhat.com","Red Hat","2017-02-01",4,3,1
-"Monis Khan","mkhan!redhat.com","Red Hat","2017-04-01",10,0,1
+"Derek Carr","decarr!redhat.com","Red Hat","2017-02-01",8,27,1
+"Monis Khan","mkhan!redhat.com","Red Hat","2017-04-01",60,0,1
+"Aaron Crickenberger","spiffxp!gmail.com","Samsung","2017-06-01",17,7,1
 "Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2017-04-01",1,1,1

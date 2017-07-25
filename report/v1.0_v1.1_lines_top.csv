@@ -1,22 +1,22 @@
 idx,company,n,percent
-0,(All known 104),410295,99.9
-1,Google,204481,49.8
-2,Kismatic,96572,23.5
-3,Red Hat,54047,13.2
-4,Mesosphere,27729,6.8
-5,CoreOS,5856,1.4
-6,Huawei,5199,1.3
-7,(Self),4593,1.1
-8,eBay,2692,0.7
-9,CERN,1618,0.4
-10,Amazon,1374,0.3
-11,Amadeus,1204,0.3
-12,Docker,719,0.2
-13,Slack,671,0.2
-14,Tyk,577,0.1
-15,Metaswitch,430,0.1
-16,(Not Found),395,0.1
-17,Square,273,0.1
-18,Canonical,270,0.1
-19,Weaveworks,226,0.1
-20,CSE IIT KANPUR,218,0.1
+0,(All known 102),1389417,99.83
+1,Google,716256,51.5
+2,Red Hat,273198,19.6
+3,Mesosphere,153497,11.0
+4,Kismatic,104583,7.5
+5,CoreOS,27500,2.0
+6,(Self),25652,1.8
+7,Huawei,18701,1.3
+8,CERN,18049,1.3
+9,eBay,15518,1.1
+10,Amadeus,8082,0.6
+11,Amazon,7721,0.6
+12,Slack,3179,0.2
+13,DrEd Online Doctor,2501,0.2
+14,(Not Found),2345,0.2
+15,Docker,2271,0.2
+16,Tyk,2120,0.2
+17,Metaswitch,2034,0.1
+18,Canonical,804,0.1
+19,Juniper Networks,687,0.0
+20,Heroku,653,0.0

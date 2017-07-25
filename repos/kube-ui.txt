@@ -1,6 +1,6 @@
 Processed 83 csets from 18 developers
 12 employers found
-A total of 234095 lines added, 53332 removed, 277734 changed (delta 180763)
+A total of 285287 lines added, 85446 removed, 357393 changed (delta 199841)
 
 Developers with unknown affiliation
 
@@ -22,16 +22,16 @@ Rackspace                                                                       
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Kismatic                                                                         212610 (76.6%)
-Google                                                                           35692 (12.9%)
-Vayable                                                                          27890 (10.0%)
-Red Hat                                                                           590 (0.2%)
-Cisco                                                                             534 (0.2%)
-adesso AG                                                                         190 (0.1%)
-UPMC                                                                              132 (0.0%)
-Tagged                                                                             76 (0.0%)
+Kismatic                                                                         255197 (71.4%)
+Vayable                                                                          59040 (16.5%)
+Google                                                                           40665 (11.4%)
+Cisco                                                                             961 (0.3%)
+Red Hat                                                                           863 (0.2%)
+adesso AG                                                                         354 (0.1%)
+UPMC                                                                              180 (0.1%)
+Tagged                                                                            109 (0.0%)
 Mesosphere                                                                         14 (0.0%)
-Coding                                                                              4 (0.0%)
+Coding                                                                              8 (0.0%)
 Apache                                                                              1 (0.0%)
 Rackspace                                                                           1 (0.0%)
 Covers 100.000000% of changes

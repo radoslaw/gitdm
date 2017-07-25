@@ -1,101 +1,101 @@
 Name,Email,Affliation,Date,Added,Removed,Changesets,% Added,% Removed,% Changesets
-deads2k,deads!redhat.com,Red Hat,2017-03-01,12739,3605,89,2.923,1.436,3.327
-Wojciech Tyczynski,wojtekt!google.com,Google,2017-03-01,2057,1814,62,0.472,0.723,2.318
-Chao Xu,xuchao!google.com,Google,2017-05-01,10545,5655,57,2.42,2.253,2.131
-Jordan Liggitt,jliggitt!redhat.com,Red Hat,2017-04-01,4139,980,56,0.95,0.39,2.093
-Mike Danese,mikedanese!google.com,Google,2017-06-01,21869,14508,56,5.019,5.78,2.093
-Dr. Stefan Schimanski,stefan.schimanski!gmail.com,Red Hat,2017-03-01,2457,959,55,0.564,0.382,2.056
-Clayton Coleman,ccoleman!redhat.com,Red Hat,2017-02-01,9303,1623,51,2.135,0.647,1.907
-Maru Newby,marun!redhat.com,Red Hat,2017-04-01,1457,1332,44,0.334,0.531,1.645
-Anthony Yeh,enisoc!google.com,Google,2017-03-01,2493,845,44,0.572,0.337,1.645
-Cao Shufeng,caosf.fnst!cn.fujitsu.com,Fujitsu,2017-03-01,378,122,42,0.087,0.049,1.57
-shashidharatd,shashidhara.td!huawei.com,Huawei,2017-03-01,1161,1521,42,0.266,0.606,1.57
-Jeff Grafton,jgrafton!google.com,Google,2017-06-01,248,176,41,0.057,0.07,1.533
-Zihong Zheng,zihongz!google.com,Google,2017-03-01,1638,735,41,0.376,0.293,1.533
-zhengjiajin,393926893!qq.com,Caicloud,2017-04-01,640,121,37,0.147,0.048,1.383
-Yu-Ju Hong,yjhong!google.com,Google,2017-06-01,5089,7735,36,1.168,3.081,1.346
-Shyam Jeedigunta,shyamjvs!google.com,Google,2017-06-01,818,153,32,0.188,0.061,1.196
-xilabao,chenr.fnst!cn.fujitsu.com,Fujitsu,2017-02-01,1086,196,31,0.249,0.078,1.159
-zhangxiaoyu-zidif,zhang.xiaoyu33!zte.com.cn,ZTE Corporation,2017-04-01,116,81,30,0.027,0.032,1.121
-mbohlool,mehdy!google.com,Google,2017-04-01,14665,63743,28,3.365,25.394,1.047
-Justin Santa Barbara,justin!fathomdb.com,Self,2017-01-01,479,291,28,0.11,0.116,1.047
-gmarek,gmarek!google.com,Google,2017-02-01,690,245,28,0.158,0.098,1.047
-Janet Kuo,chiachenk!google.com,Google,2017-05-01,1914,838,28,0.439,0.334,1.047
-Nick Sardo,nicksardo!google.com,Google,2017-04-01,1262,472,27,0.29,0.188,1.009
-Andy Goldstein,andy.goldstein!gmail.com,ASG Consulting,2017-05-01,1340,881,27,0.308,0.351,1.009
-Marcin Wielgus,mwielgus!google.com,Google,2017-03-01,365,269,25,0.084,0.107,0.935
-Michail Kargakis,mkargaki!redhat.com,Red Hat,2017-04-01,490,357,25,0.112,0.142,0.935
-FengyunPan,fengyun.pan!easystack.cn,EasyStack,2017-05-01,233,132,24,0.053,0.053,0.897
-Tim Hockin,thockin!google.com,Google,2017-03-01,1046,719,24,0.24,0.286,0.897
-Chao Xu,xuchao!silkubi.fra.corp.google.com,Google,2017-06-01,24852,23307,23,5.703,9.285,0.86
-Tim St. Clair,stclair!google.com,Google,2017-05-01,1210,154,23,0.278,0.061,0.86
-Bowei Du,bowei!google.com,Google,2017-06-01,58622,2748,23,13.453,1.095,0.86
-Derek Carr,decarr!redhat.com,Red Hat,2017-06-01,299,94,23,0.069,0.037,0.86
-Mik Vyatskov,vmik!google.com,Google,2017-06-01,3063,100,22,0.703,0.04,0.822
-xiangpengzhao,zhao.xiangpeng!zte.com.cn,ZTE Corporation,2017-05-01,155,130,22,0.036,0.052,0.822
-Klaus Ma,madaxa!cn.ibm.com,IBM,2017-06-01,708,231,22,0.162,0.092,0.822
-David Ashpole,dashpole!google.com,Google,2017-06-01,3397,1275,21,0.78,0.508,0.785
-Madhusudan.C.S,madhusudancs!google.com,Google,2017-03-01,186,97,21,0.043,0.039,0.785
-Pengfei Ni,feiskyer!gmail.com,Hyper.sh,2017-05-01,1381,687,21,0.317,0.274,0.785
-NickrenREN,nickren19!gmail.com,EasyStack,2017-04-01,311,415,20,0.071,0.165,0.748
-Christoph Blecker,admin!toph.ca,Kelowna,2017-05-01,918,1768,19,0.211,0.704,0.71
-nikhiljindal,nikhiljindal!google.com,Google,2017-02-01,635,315,19,0.146,0.125,0.71
-Humble Chirammal,hchiramm!redhat.com,Red Hat,2017-04-01,688,689,18,0.158,0.274,0.673
-Jonathan MacMillan,dvorak!google.com,Google,2017-03-01,930,514,18,0.213,0.205,0.673
-Guangya Liu,gyliu513!gmail.com,IBM,2017-06-01,342,177,18,0.078,0.071,0.673
-Maciej Pytel,maciekpytel!google.com,Google,2017-04-01,216,75,17,0.05,0.03,0.636
-Solly Ross,sross!redhat.com,Red Hat,2017-06-01,681,55,17,0.156,0.022,0.636
-NickrenREN,yuquan.ren!easystack.cn,EasyStack,2017-02-01,549,179,17,0.126,0.071,0.636
-Timothy St. Clair,timothysc!gmail.com,Heptio,2017-05-01,15978,7535,16,3.667,3.002,0.598
-timchenxiaoyu,837829664!qq.com,Self,2017-03-01,2,20,15,0.0,0.008,0.561
-Matthew Wong,mawong!redhat.com,Red Hat,2017-06-01,197,72,15,0.045,0.029,0.561
-Random-Liu,taotaotheripper!gmail.com,Google,2017-06-01,383,312,15,0.088,0.124,0.561
-Dan Williams,dcbw!redhat.com,Red Hat,2017-04-01,533,220,15,0.122,0.088,0.561
-Dong Liu,doliu!microsoft.com,Microsoft,2017-03-01,3642,200,14,0.836,0.08,0.523
-Fabiano Franz,ffranz!redhat.com,Red Hat,2017-03-01,1397,64,14,0.321,0.025,0.523
-Shiyang Wang,shiywang!redhat.com,Red Hat,2017-02-01,873,148,13,0.2,0.059,0.486
-Davanum Srinivas,davanum!gmail.com,Huawei,2017-05-01,52,35,13,0.012,0.014,0.486
-ymqytw,mengqiy!google.com,Google,2017-05-01,4143,1353,13,0.951,0.539,0.486
-Jack Francis,jack.francis!microsoft.com,Microsoft,2017-05-01,335,73,13,0.077,0.029,0.486
-Michelle Au,msau!google.com,Google,2017-05-01,1140,70,13,0.262,0.028,0.486
-Klaus Ma,klaus1982.cn!gmail.com,IBM,2017-02-01,351,74,12,0.081,0.029,0.449
-Jacob Simpson,jacobsimpson!google.com,Google,2017-05-01,669,158,12,0.154,0.063,0.449
-Haoran Wang,haowang!redhat.com,Red Hat,2017-06-01,499,177,12,0.115,0.071,0.449
-Daniel Nardo,dnardo!google.com,Google,2017-05-01,69,21,12,0.016,0.008,0.449
-yupengzte,yu.peng36!zte.com.cn,ZTE Corporation,2017-04-01,6,19,12,0.001,0.008,0.449
-Huamin Chen,hchen!redhat.com,Red Hat,2017-03-01,650,192,12,0.149,0.076,0.449
-Jon Cope,jcope!redhat.com,Red Hat,2017-05-01,542,551,12,0.124,0.22,0.449
-Ahmet Alp Balkan,ahmetb!google.com,Google,2017-05-01,1066,973,11,0.245,0.388,0.411
-divyenpatel,divyenp!vmware.com,VMware,2017-04-01,807,410,11,0.185,0.163,0.411
-Harry Zhang,harryz!hyper.sh,Hyper.sh,2017-02-01,377,184,11,0.087,0.073,0.411
-Jan Safranek,jsafrane!redhat.com,Red Hat,2017-04-01,496,197,11,0.114,0.078,0.411
-Nitish,tiwari.nitish!gmail.com,Tata,2017-03-01,416,174,11,0.095,0.069,0.411
-Alexander Campbell,campbellalex!google.com,Google,2017-05-01,97,48,11,0.022,0.019,0.411
-Andrzej Wasylkowski,wasylkowski!google.com,Google,2017-06-01,107,30,10,0.025,0.012,0.374
-Seth Jennings,sjenning!redhat.com,Red Hat,2017-05-01,155,131,10,0.036,0.052,0.374
-Kenneth Owens,owensk!google.com,Google,2017-06-01,5408,431,10,1.241,0.172,0.374
-Eric Chiang,eric.chiang.m!gmail.com,CoreOS,2017-02-01,56210,61047,10,12.899,24.32,0.374
-Hemant Kumar,hekumar!redhat.com,Red Hat,2017-03-01,348,92,9,0.08,0.037,0.336
-Ryan Hitchman,rmmh!google.com,Google,2017-04-01,175,27,9,0.04,0.011,0.336
-Rohit Agarwal,agarwalrohit!google.com,Google,2017-06-01,34,192,9,0.008,0.076,0.336
-System Administrator,bdontu!vmware.com,VMware,2017-05-01,3544,330,9,0.813,0.131,0.336
-Michael Taufen,mtaufen!google.com,Google,2017-05-01,709,404,9,0.163,0.161,0.336
-Dan Winship,danw!redhat.com,Red Hat,2016-12-01,4291,234,9,0.985,0.093,0.336
-Vishnu kannan,vishnuk!google.com,Google,2017-04-01,72731,15264,9,16.691,6.081,0.336
-Kris,krousey!google.com,Google,2017-05-01,254,51,9,0.058,0.02,0.336
-Lucas Käldström,lucas!weave.works,Self,2017-06-01,204,53,9,0.047,0.021,0.336
-p0lyn0mial,lukasz.szaszkiewicz!gmail.com,Self,2017-04-01,400,217,9,0.092,0.086,0.336
-Jamie Hannaford,jamie.hannaford!rackspace.com,Rackspace,2017-03-01,652,423,9,0.15,0.169,0.336
-Cheng Xing,cxing!google.com,Google,2017-06-01,378,47,9,0.087,0.019,0.336
-Konstantinos Tsakalozos,kos.tsakalozos!canonical.com,Canonical,2017-05-01,81,41,9,0.019,0.016,0.336
-Xing Zhou,xingzhou!cn.ibm.com,IBM,2017-06-01,165,25,8,0.038,0.01,0.299
-ravisantoshgudimetla,ravisantoshgudimetla!gmail.com,Red Hat,2017-04-01,222,100,8,0.051,0.04,0.299
-Casey Davenport,casey!tigera.io,Tigera,2016-08-01,218,143,8,0.05,0.057,0.299
-Nikhita Raghunath,nikitaraghunath!gmail.com,Self,2017-05-01,211,46,8,0.048,0.018,0.299
-supereagle,jmyue!hotmail.com,Self,2017-05-01,19,22,8,0.004,0.009,0.299
-Piotr Szczesniak,pszczesniak!google.com,Google,2017-04-01,33,318,8,0.008,0.127,0.299
-Cole Mickens,cole.mickens!gmail.com,Microsoft,2017-05-01,82,50,8,0.019,0.02,0.299
-Aleksandra Malinowska,aleksandram!google.com,Google,2017-04-01,3294,26,8,0.756,0.01,0.299
-Matt Liggett,mml!google.com,Google,2017-05-01,118,25,8,0.027,0.01,0.299
-Jeff Vance,jvance!redhat.com,Red Hat,2017-02-01,314,233,8,0.072,0.093,0.299
-Yang Guo,ygg!google.com,Google,2017-06-01,705,263,8,0.162,0.105,0.299
+deads2k,deads!redhat.com,Red Hat,2017-03-01,80309,46680,89,3.074,2.501,3.335
+Wojciech Tyczynski,wojtekt!google.com,Google,2017-03-01,8785,6824,62,0.336,0.366,2.323
+Chao Xu,xuchao!google.com,Google,2017-05-01,74619,54389,57,2.856,2.914,2.136
+Mike Danese,mikedanese!google.com,Google,2017-06-01,25218,19451,56,0.965,1.042,2.098
+Jordan Liggitt,jliggitt!redhat.com,Red Hat,2017-04-01,173291,157304,56,6.634,8.428,2.098
+Dr. Stefan Schimanski,stefan.schimanski!gmail.com,Red Hat,2017-03-01,10908,3430,55,0.418,0.184,2.061
+Clayton Coleman,ccoleman!redhat.com,Red Hat,2017-02-01,189954,158495,51,7.272,8.492,1.911
+Maru Newby,marun!redhat.com,Red Hat,2017-04-01,6318,6690,44,0.242,0.358,1.649
+Anthony Yeh,enisoc!google.com,Google,2017-03-01,21435,2552,44,0.821,0.137,1.649
+shashidharatd,shashidhara.td!huawei.com,Huawei,2017-03-01,6576,7825,42,0.252,0.419,1.574
+Cao Shufeng,caosf.fnst!cn.fujitsu.com,Fujitsu,2017-03-01,1465,159,42,0.056,0.009,1.574
+Zihong Zheng,zihongz!google.com,Google,2017-03-01,14180,9190,41,0.543,0.492,1.536
+Jeff Grafton,jgrafton!google.com,Google,2017-06-01,370,223,41,0.014,0.012,1.536
+zhengjiajin,393926893!qq.com,Caicloud,2017-04-01,29466,26121,37,1.128,1.4,1.386
+Yu-Ju Hong,yjhong!google.com,Google,2017-06-01,22217,36942,36,0.85,1.979,1.349
+Shyam Jeedigunta,shyamjvs!google.com,Google,2017-06-01,4582,562,32,0.175,0.03,1.199
+xilabao,chenr.fnst!cn.fujitsu.com,Fujitsu,2017-02-01,5909,551,31,0.226,0.03,1.161
+zhangxiaoyu-zidif,zhang.xiaoyu33!zte.com.cn,ZTE Corporation,2017-04-01,576,169,30,0.022,0.009,1.124
+Justin Santa Barbara,justin!fathomdb.com,Self,2017-01-01,2045,1357,28,0.078,0.073,1.049
+Janet Kuo,chiachenk!google.com,Google,2017-05-01,20446,14162,28,0.783,0.759,1.049
+mbohlool,mehdy!google.com,Google,2017-04-01,223961,380480,28,8.573,20.385,1.049
+gmarek,gmarek!google.com,Google,2017-02-01,3668,922,28,0.14,0.049,1.049
+Andy Goldstein,andy.goldstein!gmail.com,ASG Consulting,2017-05-01,5165,2933,27,0.198,0.157,1.012
+Nick Sardo,nicksardo!google.com,Google,2017-04-01,7489,2758,27,0.287,0.148,1.012
+Michail Kargakis,mkargaki!redhat.com,Red Hat,2017-04-01,10030,9071,25,0.384,0.486,0.937
+Marcin Wielgus,mwielgus!google.com,Google,2017-03-01,1294,753,25,0.05,0.04,0.937
+FengyunPan,fengyun.pan!easystack.cn,EasyStack,2017-05-01,1089,404,24,0.042,0.022,0.899
+Tim Hockin,thockin!google.com,Google,2017-03-01,19337,17243,24,0.74,0.924,0.899
+Bowei Du,bowei!google.com,Google,2017-06-01,232727,32668,23,8.909,1.75,0.862
+Derek Carr,decarr!redhat.com,Red Hat,2017-06-01,1631,346,23,0.062,0.019,0.862
+Tim St. Clair,stclair!google.com,Google,2017-05-01,4222,460,23,0.162,0.025,0.862
+Chao Xu,xuchao!silkubi.fra.corp.google.com,Google,2017-06-01,63777,57997,23,2.441,3.107,0.862
+xiangpengzhao,zhao.xiangpeng!zte.com.cn,ZTE Corporation,2017-05-01,833,580,22,0.032,0.031,0.824
+Mik Vyatskov,vmik!google.com,Google,2017-06-01,11836,692,22,0.453,0.037,0.824
+Klaus Ma,madaxa!cn.ibm.com,IBM,2017-06-01,17519,15260,22,0.671,0.818,0.824
+Madhusudan.C.S,madhusudancs!google.com,Google,2017-03-01,725,216,21,0.028,0.012,0.787
+David Ashpole,dashpole!google.com,Google,2017-06-01,14088,6356,21,0.539,0.341,0.787
+Pengfei Ni,feiskyer!gmail.com,Hyper.sh,2017-05-01,21009,16882,21,0.804,0.905,0.787
+NickrenREN,nickren19!gmail.com,EasyStack,2017-04-01,808,1763,20,0.031,0.094,0.749
+Christoph Blecker,admin!toph.ca,Kelowna,2017-05-01,45011,49830,19,1.723,2.67,0.712
+nikhiljindal,nikhiljindal!google.com,Google,2017-02-01,28954,28028,19,1.108,1.502,0.712
+Humble Chirammal,hchiramm!redhat.com,Red Hat,2017-04-01,3145,2792,18,0.12,0.15,0.674
+Guangya Liu,gyliu513!gmail.com,IBM,2017-06-01,24616,23323,18,0.942,1.25,0.674
+Jonathan MacMillan,dvorak!google.com,Google,2017-03-01,5307,2409,18,0.203,0.129,0.674
+NickrenREN,yuquan.ren!easystack.cn,EasyStack,2017-02-01,2453,697,17,0.094,0.037,0.637
+Solly Ross,sross!redhat.com,Red Hat,2017-06-01,6972,3797,17,0.267,0.203,0.637
+Maciej Pytel,maciekpytel!google.com,Google,2017-04-01,1203,265,16,0.046,0.014,0.599
+Timothy St. Clair,timothysc!gmail.com,Heptio,2017-05-01,68651,29022,16,2.628,1.555,0.599
+Matthew Wong,mawong!redhat.com,Red Hat,2017-06-01,1239,141,15,0.047,0.008,0.562
+Dan Williams,dcbw!redhat.com,Red Hat,2017-04-01,2843,652,15,0.109,0.035,0.562
+Random-Liu,taotaotheripper!gmail.com,Google,2017-06-01,5464,4906,15,0.209,0.263,0.562
+timchenxiaoyu,837829664!qq.com,Self,2017-03-01,6,23,15,0.0,0.001,0.562
+Fabiano Franz,ffranz!redhat.com,Red Hat,2017-03-01,23218,17512,14,0.889,0.938,0.525
+Dong Liu,doliu!microsoft.com,Microsoft,2017-03-01,21504,928,14,0.823,0.05,0.525
+ymqytw,mengqiy!google.com,Google,2017-05-01,24875,18543,13,0.952,0.993,0.487
+Davanum Srinivas,davanum!gmail.com,Huawei,2017-05-01,167,151,13,0.006,0.008,0.487
+Michelle Au,msau!google.com,Google,2017-05-01,15576,10832,13,0.596,0.58,0.487
+Shiyang Wang,shiywang!redhat.com,Red Hat,2017-02-01,2733,474,13,0.105,0.025,0.487
+Jack Francis,jack.francis!microsoft.com,Microsoft,2017-05-01,1720,174,13,0.066,0.009,0.487
+Jon Cope,jcope!redhat.com,Red Hat,2017-05-01,2390,2414,12,0.091,0.129,0.45
+Jacob Simpson,jacobsimpson!google.com,Google,2017-05-01,3322,519,12,0.127,0.028,0.45
+Haoran Wang,haowang!redhat.com,Red Hat,2017-06-01,2867,760,12,0.11,0.041,0.45
+Daniel Nardo,dnardo!google.com,Google,2017-05-01,210,58,12,0.008,0.003,0.45
+yupengzte,yu.peng36!zte.com.cn,ZTE Corporation,2017-04-01,18,35,12,0.001,0.002,0.45
+Huamin Chen,hchen!redhat.com,Red Hat,2017-03-01,24080,21749,12,0.922,1.165,0.45
+Harry Zhang,harryz!hyper.sh,Hyper.sh,2017-02-01,2008,908,11,0.077,0.049,0.412
+divyenpatel,divyenp!vmware.com,VMware,2017-04-01,3722,1154,11,0.142,0.062,0.412
+Nitish,tiwari.nitish!gmail.com,Tata,2017-03-01,1537,658,11,0.059,0.035,0.412
+Klaus Ma,klaus1982.cn!gmail.com,IBM,2017-02-01,1484,238,11,0.057,0.013,0.412
+Ahmet Alp Balkan,ahmetb!google.com,Google,2017-05-01,32488,31663,11,1.244,1.696,0.412
+Jan Safranek,jsafrane!redhat.com,Red Hat,2017-04-01,1757,454,11,0.067,0.024,0.412
+Alexander Campbell,campbellalex!google.com,Google,2017-05-01,370,186,11,0.014,0.01,0.412
+Eric Chiang,eric.chiang.m!gmail.com,CoreOS,2017-02-01,59589,77219,10,2.281,4.137,0.375
+Seth Jennings,sjenning!redhat.com,Red Hat,2017-05-01,647,464,10,0.025,0.025,0.375
+Andrzej Wasylkowski,wasylkowski!google.com,Google,2017-06-01,567,57,10,0.022,0.003,0.375
+Kenneth Owens,owensk!google.com,Google,2017-06-01,81070,54417,10,3.103,2.916,0.375
+Konstantinos Tsakalozos,kos.tsakalozos!canonical.com,Canonical,2017-05-01,82,40,9,0.003,0.002,0.337
+Cheng Xing,cxing!google.com,Google,2017-06-01,1713,136,9,0.066,0.007,0.337
+Michael Taufen,mtaufen!google.com,Google,2017-05-01,3691,2291,9,0.141,0.123,0.337
+Kris,krousey!google.com,Google,2017-05-01,994,194,9,0.038,0.01,0.337
+Dan Winship,danw!redhat.com,Red Hat,2016-12-01,37503,24479,9,1.436,1.312,0.337
+Vishnu kannan,vishnuk!google.com,Google,2017-04-01,267326,71022,9,10.233,3.805,0.337
+Rohit Agarwal,agarwalrohit!google.com,Google,2017-06-01,229,583,9,0.009,0.031,0.337
+Ryan Hitchman,rmmh!google.com,Google,2017-04-01,472,65,9,0.018,0.003,0.337
+System Administrator,bdontu!vmware.com,VMware,2017-05-01,35143,20149,9,1.345,1.08,0.337
+Hemant Kumar,hekumar!redhat.com,Red Hat,2017-03-01,1797,195,9,0.069,0.01,0.337
+p0lyn0mial,lukasz.szaszkiewicz!gmail.com,Self,2017-04-01,1733,732,9,0.066,0.039,0.337
+Jamie Hannaford,jamie.hannaford!rackspace.com,Rackspace,2017-03-01,7167,5866,9,0.274,0.314,0.337
+Lucas Käldström,lucas!weave.works,Self,2017-06-01,884,79,9,0.034,0.004,0.337
+Yang Guo,ygg!google.com,Google,2017-06-01,2952,620,8,0.113,0.033,0.3
+Xing Zhou,xingzhou!cn.ibm.com,IBM,2017-06-01,858,127,8,0.033,0.007,0.3
+supereagle,jmyue!hotmail.com,Self,2017-05-01,33,56,8,0.001,0.003,0.3
+Piotr Szczesniak,pszczesniak!google.com,Google,2017-04-01,46,403,8,0.002,0.022,0.3
+Casey Davenport,casey!tigera.io,Tigera,2016-08-01,757,398,8,0.029,0.021,0.3
+Jeff Vance,jvance!redhat.com,Red Hat,2017-02-01,1512,592,8,0.058,0.032,0.3
+Nikhita Raghunath,nikitaraghunath!gmail.com,Self,2017-05-01,1219,122,8,0.047,0.007,0.3
+Cole Mickens,cole.mickens!gmail.com,Microsoft,2017-05-01,374,183,8,0.014,0.01,0.3
+Aleksandra Malinowska,aleksandram!google.com,Google,2017-04-01,11199,276,8,0.429,0.015,0.3
+Matt Liggett,mml!google.com,Google,2017-05-01,645,95,8,0.025,0.005,0.3
+ravisantoshgudimetla,ravisantoshgudimetla!gmail.com,Red Hat,2017-04-01,1094,396,8,0.042,0.021,0.3

@@ -1,30 +1,33 @@
-Processed 141 csets from 23 developers
-7 employers found
-A total of 13125 lines added, 1751 removed, 13254 changed (delta 11374)
+Processed 147 csets from 24 developers
+8 employers found
+A total of 65935 lines added, 7450 removed, 67021 changed (delta 58485)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
+Self nikitaraghunath!gmail.com Nikhita Raghunath                                    1 (0.7%)
 Self jianhui!outlook.com jianhuiz                                                   1 (0.7%)
 
 Top changeset contributors by employer
-Google                                                                             98 (69.5%)
-Red Hat                                                                            33 (23.4%)
-IBM                                                                                 4 (2.8%)
+Google                                                                             98 (66.7%)
+Red Hat                                                                            38 (25.9%)
+IBM                                                                                 4 (2.7%)
 CoreOS                                                                              2 (1.4%)
 HarmonyCloud                                                                        2 (1.4%)
 Huawei                                                                              1 (0.7%)
 Kelowna                                                                             1 (0.7%)
+Self                                                                                1 (0.7%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           9736 (73.5%)
-Red Hat                                                                          3224 (24.3%)
-IBM                                                                               277 (2.1%)
-Kelowna                                                                             8 (0.1%)
-CoreOS                                                                              6 (0.0%)
+Google                                                                           41940 (62.6%)
+Red Hat                                                                          24122 (36.0%)
+IBM                                                                               754 (1.1%)
+Self                                                                              154 (0.2%)
+Kelowna                                                                            35 (0.1%)
+CoreOS                                                                             12 (0.0%)
 HarmonyCloud                                                                        2 (0.0%)
-Huawei                                                                              1 (0.0%)
+Huawei                                                                              2 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 2)
@@ -32,14 +35,15 @@ IBM                                                                             
 HarmonyCloud                                                                        1 (50.0%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 23)
-Google                                                                             10 (43.5%)
-Red Hat                                                                             7 (30.4%)
-CoreOS                                                                              2 (8.7%)
-IBM                                                                                 1 (4.3%)
-HarmonyCloud                                                                        1 (4.3%)
-Kelowna                                                                             1 (4.3%)
-Huawei                                                                              1 (4.3%)
+Employers with the most hackers (total 24)
+Google                                                                             10 (41.7%)
+Red Hat                                                                             7 (29.2%)
+CoreOS                                                                              2 (8.3%)
+IBM                                                                                 1 (4.2%)
+HarmonyCloud                                                                        1 (4.2%)
+Self                                                                                1 (4.2%)
+Kelowna                                                                             1 (4.2%)
+Huawei                                                                              1 (4.2%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

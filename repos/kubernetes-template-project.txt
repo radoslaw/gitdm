@@ -1,6 +1,6 @@
 Processed 4 csets from 2 developers
 2 employers found
-A total of 334 lines added, 4 removed, 335 changed (delta 330)
+A total of 1190 lines added, 13 removed, 1191 changed (delta 1177)
 
 Developers with unknown affiliation
 
@@ -12,8 +12,8 @@ Google                                                                          
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-CoreOS                                                                            333 (99.4%)
-Google                                                                              2 (0.6%)
+CoreOS                                                                           1189 (99.8%)
+Google                                                                              2 (0.2%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)

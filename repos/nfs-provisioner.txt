@@ -1,6 +1,6 @@
 Processed 240 csets from 6 developers
 4 employers found
-A total of 16715 lines added, 6059 removed, 18664 changed (delta 10656)
+A total of 76658 lines added, 27641 removed, 85832 changed (delta 49017)
 
 Developers with unknown affiliation
 
@@ -14,10 +14,10 @@ Google                                                                          
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          18317 (98.1%)
-Google                                                                            202 (1.1%)
-IBM                                                                               104 (0.6%)
-Gavrie Philipson                                                                   41 (0.2%)
+Red Hat                                                                          85003 (99.0%)
+IBM                                                                               440 (0.5%)
+Google                                                                            205 (0.2%)
+Gavrie Philipson                                                                  184 (0.2%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
@@ -25,8 +25,8 @@ Covers 0.000000% of signoffs
 
 Employers with the most hackers (total 6)
 Red Hat                                                                             3 (50.0%)
-Google                                                                              1 (16.7%)
 IBM                                                                                 1 (16.7%)
+Google                                                                              1 (16.7%)
 Gavrie Philipson                                                                    1 (16.7%)
 Covers 100.000000% of hackers
 

@@ -1,34 +1,46 @@
-Processed 17 csets from 8 developers
-4 employers found
-A total of 1391 lines added, 47 removed, 1393 changed (delta 1344)
+Processed 84 csets from 14 developers
+7 employers found
+A total of 14809 lines added, 5322 removed, 19027 changed (delta 9487)
 
 Developers with unknown affiliation
+(Unknown) jmillikin!stripe.com John Millikin                                        1 (1.2%)
 
 Developers working on their own behalf
+Self stephenhsu90!gmail.com Di Xu                                                   1 (1.2%)
 
 Top changeset contributors by employer
-Google                                                                              8 (47.1%)
-Red Hat                                                                             7 (41.2%)
-IBM                                                                                 1 (5.9%)
-Zalando                                                                             1 (5.9%)
+Google                                                                             71 (84.5%)
+Red Hat                                                                             7 (8.3%)
+SalesForce                                                                          2 (2.4%)
+IBM                                                                                 1 (1.2%)
+Zalando                                                                             1 (1.2%)
+Self                                                                                1 (1.2%)
+(Unknown)                                                                           1 (1.2%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                            581 (41.7%)
-Red Hat                                                                           542 (38.9%)
-Zalando                                                                           250 (17.9%)
-IBM                                                                                20 (1.4%)
+Google                                                                           16835 (88.5%)
+Zalando                                                                          1095 (5.8%)
+Red Hat                                                                           864 (4.5%)
+Self                                                                              100 (0.5%)
+IBM                                                                                90 (0.5%)
+SalesForce                                                                         26 (0.1%)
+(Unknown)                                                                          17 (0.1%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 1)
-IBM                                                                                 1 (100.0%)
+Employers with the most signoffs (total 2)
+Google                                                                              1 (50.0%)
+IBM                                                                                 1 (50.0%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 8)
-Google                                                                              3 (37.5%)
-Red Hat                                                                             3 (37.5%)
-IBM                                                                                 1 (12.5%)
-Zalando                                                                             1 (12.5%)
+Employers with the most hackers (total 14)
+Google                                                                              6 (42.9%)
+Red Hat                                                                             3 (21.4%)
+IBM                                                                                 1 (7.1%)
+Zalando                                                                             1 (7.1%)
+Self                                                                                1 (7.1%)
+SalesForce                                                                          1 (7.1%)
+(Unknown)                                                                           1 (7.1%)
 Covers 100.000000% of hackers
 
 Developer contributions by type
