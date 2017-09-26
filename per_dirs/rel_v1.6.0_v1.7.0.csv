@@ -1643,19 +1643,19 @@
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/proxy/userspace/proxier.go",1,1,1
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/client/clientset_generated/internalclientset/typed/core/internalversion/BUILD",1,0,1
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/ref/ref_test.go",12,11,12
-"xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/printers/internalversion/BUILD",1,0,1
 "xuchao!google.com","Chao Xu","2017-04-10","Google","staging/src/k8s.io/client-go/pkg/api/toleration.go",30,0,30
+"xuchao!google.com","Chao Xu","2017-04-10","Google","plugin/pkg/admission/podpreset/admission.go",2,1,2
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/client/clientset_generated/internalclientset/typed/core/internalversion/event_expansion.go",2,1,2
-"xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/methods.go => staging/src/k8s.io/client-go/pkg/api/taint.go",0,10,10
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/ref/ref.go",7,18,18
-"xuchao!google.com","Chao Xu","2017-04-10","Google","staging/src/k8s.io/client-go/pkg/api/methods.go => pkg/api/taint.go",0,10,10
+"xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/printers/internalversion/BUILD",1,0,1
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/printers/internalversion/describe.go",3,2,3
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/objectreference.go",34,0,34
-"xuchao!google.com","Chao Xu","2017-04-10","Google","plugin/pkg/admission/podpreset/admission.go",2,1,2
+"xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/ref.go",0,132,132
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/BUILD",5,7,7
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/kubectl/cmd/BUILD",1,0,1
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/ref/BUILD",46,0,46
-"xuchao!google.com","Chao Xu","2017-04-10","Google","staging/src/k8s.io/client-go/pkg/api/ref.go",0,132,132
+"xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/taint.go",0,10,10
+"xuchao!google.com","Chao Xu","2017-04-10","Google","staging/src/k8s.io/client-go/pkg/api/taint.go",0,10,10
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/toleration.go",30,0,30
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/kubectl/cmd/drain_test.go",2,1,2
 "xuchao!google.com","Chao Xu","2017-04-10","Google","pkg/api/v1/helpers.go",3,2,3
@@ -2884,6 +2884,7 @@
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/autoscaling/v2alpha1/doc.go",1,0,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/policy/v1beta1/BUILD",1,0,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/batch/v1/defaults.go",1,4,4
+"jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/storage/v1/register.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/authentication/v1/defaults.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/storage/v1/register.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/settings/v1alpha1/register.go",1,1,1
@@ -2910,6 +2911,7 @@
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/authorization/v1beta1/defaults.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/extensions/v1beta1/defaults.go",1,7,7
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/abac/v1beta1/register.go",1,1,1
+"jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/rbac/v1alpha1/defaults.go",1,6,6
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/autoscaling/v1/defaults.go",1,4,4
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/settings/v1alpha1/register.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/apiserver/pkg/apis/example/v1/defaults.go",1,0,1
@@ -2917,7 +2919,6 @@
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/sample-apiserver/hack/verify-codegen.sh",50,0,50
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/batch/v1/defaults.go",1,4,4
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/authorization/v1/defaults.go",1,1,1
-"jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/rbac/v1alpha1/defaults.go",1,6,6
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/imagepolicy/v1alpha1/register.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/authentication/v1beta1/defaults.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/sample-apiserver/hack/update-codegen.sh",2,2,2
@@ -2930,7 +2931,6 @@
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/policy/v1alpha1/register.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/autoscaling/v2alpha1/defaults.go",1,3,3
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/api/BUILD",0,1,1
-"jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/storage/v1/register.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","staging/src/k8s.io/client-go/pkg/apis/policy/v1beta1/register.go",1,1,1
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/rbac/v1alpha1/defaults.go",1,6,6
 "jliggitt!redhat.com","Jordan Liggitt","2017-03-10","Red Hat","pkg/apis/certificates/v1beta1/defaults.go",1,4,4

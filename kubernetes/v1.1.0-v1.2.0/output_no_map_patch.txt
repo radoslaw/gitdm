@@ -1,6 +1,6 @@
 Processed 4493 csets from 347 developers
 152 employers found
-A total of 536849 lines added, 307800 removed, 737985 changed (delta 229049)
+A total of 536849 lines added, 307801 removed, 737986 changed (delta 229048)
 
 Developers with unknown affiliation
 NotFound samsabed!gmail.com Sam Abed                                                4 (0.1%)
@@ -182,7 +182,7 @@ Covers 100.000000% of changesets
 
 Top lines changed by employer
 Google                                                                           333451 (45.2%)
-Red Hat                                                                          307901 (41.7%)
+Red Hat                                                                          307902 (41.7%)
 Mesosphere                                                                       33037 (4.5%)
 Epic Games                                                                       18087 (2.5%)
 CoreOS                                                                           14256 (1.9%)

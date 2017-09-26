@@ -8179,7 +8179,6 @@
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/typed/generated/extensions/unversioned/fake/fake_extensions_client.go",0,4,4
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/clientset_generated/internalclientset/typed/batch/unversioned/doc.go",20,0,20
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/clientset_generated/internalclientset/typed/batch/unversioned/batch_client.go",90,0,90
-"maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/clientset_generated/internalclientset/typed/extensions/unversioned/fake/fake_job.go",0,116,116
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/clientset_generated/internalclientset/typed/extensions/unversioned/job.go",16,16,16
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/typed/generated/extensions/unversioned/extensions_client.go",0,5,5
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/apis/batch/deep_copy_generated.go",147,5,147
@@ -8191,6 +8190,7 @@
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/clientset_generated/internalclientset/typed/extensions/unversioned/extensions_client.go",0,5,5
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/clientset_generated/internalclientset/clientset.go",14,0,14
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/clientset_generated/internalclientset/fake/clientset_generated.go",7,0,7
+"maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/typed/generated/extensions/unversioned/fake/fake_job.go",0,116,116
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/apis/extensions/deep_copy_generated.go",0,136,136
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/client/clientset_generated/internalclientset/typed/batch/unversioned/generated_expansion.go",19,0,19
 "maszulik!redhat.com","Maciej Szulik","2016-04-18","Red Hat","pkg/apis/batch/v1/conversion_generated.go",53,61,61

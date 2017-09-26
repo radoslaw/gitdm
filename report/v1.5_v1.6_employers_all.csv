@@ -16,92 +16,92 @@ idx,company,n,percent
 14,Tencent,4,1.1
 15,Fujitsu,4,1.1
 16,Intel,4,1.1
-17,eBay,3,0.9
-18,Heptio,3,0.9
+17,Jd.Com,3,0.9
+18,Apprenda,3,0.9
 19,EasyStack,3,0.9
-20,Apprenda,3,0.9
-21,Jd.Com,3,0.9
-22,Weaveworks,2,0.6
-23,Hyper.sh,2,0.6
-24,Apache,2,0.6
-25,Caicloud,2,0.6
-26,Zalando,2,0.6
-27,Wattpad,1,0.3
-28,Amadeus,1,0.3
-29,42 Tech,1,0.3
-30,Cockroach,1,0.3
-31,JustWatch,1,0.3
-32,Samsung,1,0.3
-33,Atlassian,1,0.3
-34,HP,1,0.3
-35,Walmart,1,0.3
-36,SkillShare,1,0.3
-37,F24 Ag,1,0.3
-38,ZJU-SEL,1,0.3
-39,SoundCloud,1,0.3
-40,Loodse,1,0.3
-41,Bitnami,1,0.3
-42,CDNetworks Korea,1,0.3
-43,dunnhumby,1,0.3
-44,Igneous Systems,1,0.3
-45,zlabjp,1,0.3
-46,Sky,1,0.3
-47,AppsCode,1,0.3
-48,Mozilla,1,0.3
-49,Nordstrom,1,0.3
-50,The New York Times,1,0.3
-51,SOFICOM,1,0.3
-52,Ubisoft,1,0.3
-53,Juju Ecosystem,1,0.3
-54,Feenix GmbH,1,0.3
-55,Pressly,1,0.3
-56,Devops,1,0.3
-57,Cloudera,1,0.3
-58,Pardot,1,0.3
-59,Ubuntu,1,0.3
-60,RCS Analytics GmbH,1,0.3
-61,FounderFuel,1,0.3
-62,Z Lab Corporation,1,0.3
-63,Criteo,1,0.3
-64,Zeet,1,0.3
-65,AT&T,1,0.3
-66,SAP,1,0.3
-67,TravelSky Technology Limited,1,0.3
-68,Cloud Genius,1,0.3
-69,TripTravel,1,0.3
-70,ContainerStack.io,1,0.3
-71,Alternative Storage,1,0.3
-72,LinkedIn,1,0.3
-73,Ustream,1,0.3
-74,Software & Things,1,0.3
-75,DRUD Tech,1,0.3
-76,opentargets,1,0.3
-77,HarmonyCloud,1,0.3
-78,"Embedded Systems, ECE",1,0.3
-79,ocadotechnology,1,0.3
-80,YY,1,0.3
-81,Bulletproof,1,0.3
-82,Dell,1,0.3
-83,Portworx,1,0.3
-84,JPMorgan Chase,1,0.3
-85,Diamanti,1,0.3
-86,Roche,1,0.3
-87,Rancher,1,0.3
-88,Molina Healthcare,1,0.3
-89,Logic Monitor,1,0.3
-90,SalesForce,1,0.3
-91,Kelowna,1,0.3
-92,Vorstella,1,0.3
-93,CERN,1,0.3
-94,Socrata,1,0.3
-95,CNM Consulting,1,0.3
-96,Cisco,1,0.3
-97,Apple,1,0.3
-98,Box,1,0.3
-99,Rev.com,1,0.3
-100,QIANKUN,1,0.3
-101,SICPA Security Solutions,1,0.3
-102,Bloomberg LP,1,0.3
-103,Jetstack,1,0.3
-104,Robots and Pencils,1,0.3
-105,Bigstep,1,0.3
+20,Heptio,3,0.9
+21,eBay,3,0.9
+22,Hyper.sh,2,0.6
+23,Apache,2,0.6
+24,Caicloud,2,0.6
+25,Zalando,2,0.6
+26,Weaveworks,2,0.6
+27,YY,1,0.3
+28,Bulletproof,1,0.3
+29,Dell,1,0.3
+30,Portworx,1,0.3
+31,JPMorgan Chase,1,0.3
+32,Diamanti,1,0.3
+33,Roche,1,0.3
+34,Rancher,1,0.3
+35,Molina Healthcare,1,0.3
+36,Logic Monitor,1,0.3
+37,SalesForce,1,0.3
+38,Kelowna,1,0.3
+39,Vorstella,1,0.3
+40,CERN,1,0.3
+41,Socrata,1,0.3
+42,CNM Consulting,1,0.3
+43,Cisco,1,0.3
+44,Apple,1,0.3
+45,Box,1,0.3
+46,Rev.com,1,0.3
+47,QIANKUN,1,0.3
+48,SICPA Security Solutions,1,0.3
+49,Bloomberg LP,1,0.3
+50,Jetstack,1,0.3
+51,Robots and Pencils,1,0.3
+52,Bigstep,1,0.3
+53,Wattpad,1,0.3
+54,Amadeus,1,0.3
+55,42 Tech,1,0.3
+56,Cockroach,1,0.3
+57,JustWatch,1,0.3
+58,Samsung,1,0.3
+59,Atlassian,1,0.3
+60,HP,1,0.3
+61,Walmart,1,0.3
+62,SkillShare,1,0.3
+63,F24 Ag,1,0.3
+64,ZJU-SEL,1,0.3
+65,SoundCloud,1,0.3
+66,Loodse,1,0.3
+67,Bitnami,1,0.3
+68,CDNetworks Korea,1,0.3
+69,dunnhumby,1,0.3
+70,Igneous Systems,1,0.3
+71,zlabjp,1,0.3
+72,Sky,1,0.3
+73,AppsCode,1,0.3
+74,Mozilla,1,0.3
+75,Nordstrom,1,0.3
+76,The New York Times,1,0.3
+77,SOFICOM,1,0.3
+78,Ubisoft,1,0.3
+79,Juju Ecosystem,1,0.3
+80,Feenix GmbH,1,0.3
+81,Pressly,1,0.3
+82,Devops,1,0.3
+83,Cloudera,1,0.3
+84,Pardot,1,0.3
+85,Ubuntu,1,0.3
+86,RCS Analytics GmbH,1,0.3
+87,FounderFuel,1,0.3
+88,Z Lab Corporation,1,0.3
+89,Criteo,1,0.3
+90,Zeet,1,0.3
+91,AT&T,1,0.3
+92,SAP,1,0.3
+93,ocadotechnology,1,0.3
+94,TravelSky Technology Limited,1,0.3
+95,Cloud Genius,1,0.3
+96,TripTravel,1,0.3
+97,ContainerStack.io,1,0.3
+98,Alternative Storage,1,0.3
+99,LinkedIn,1,0.3
+100,Ustream,1,0.3
+101,Software & Things,1,0.3
+102,DRUD Tech,1,0.3
+103,opentargets,1,0.3
+104,HarmonyCloud,1,0.3
+105,"Embedded Systems, ECE",1,0.3

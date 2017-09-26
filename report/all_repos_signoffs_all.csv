@@ -1,58 +1,96 @@
 idx,company,n,percent
-0,(All known 55),2579,99.65
-1,Red Hat,981,37.9
-2,Google,528,20.4
-3,(Self),261,10.1
-4,ZTE Corporation,207,8.0
-5,IBM,142,5.5
-6,Mirantis,133,5.1
-7,Intel,72,2.8
-8,SUSE/Novell,37,1.4
-9,Zhejiang University,28,1.1
-10,ClusterHQ,26,1.0
-11,Hyper.sh,22,0.9
-12,Igneous Systems,14,0.5
-13,Cisco,12,0.5
-14,CoreOS,10,0.4
-15,FACEIT,9,0.3
-16,(Not Found),9,0.3
-17,Huawei,8,0.3
-18,Microsoft,7,0.3
-19,Net EASE 网易有态度,6,0.2
-20,DaoCloud,6,0.2
-21,Treasure Data,6,0.2
-22,Docker,6,0.2
-23,Netlify,4,0.2
-24,Petback,4,0.2
-25,Kismatic,4,0.2
-26,Fujitsu,4,0.2
-27,DoSelectHQ,3,0.1
-28,Tencent,3,0.1
-29,HarmonyCloud,3,0.1
-30,AT&T,2,0.1
-31,GNU,2,0.1
-32,zju,2,0.1
-33,hackmh,2,0.1
-34,Jd.Com,2,0.1
-35,Amazon,2,0.1
-36,Weaveworks,1,0.0
-37,Buildbot,1,0.0
-38,Datapipe,1,0.0
-39,Chef,1,0.0
-40,Virtuozzo,1,0.0
-41,"Collanthropy, LLC",1,0.0
-42,ISI.nc,1,0.0
-43,Orange,1,0.0
-44,eleme,1,0.0
-45,Inuits,1,0.0
-46,Anadea inc.,1,0.0
-47,YY,1,0.0
-48,Extraordy,1,0.0
-49,Skipjaq,1,0.0
-50,Sina,1,0.0
-51,Klei Entertainment,1,0.0
-52,Seagate,1,0.0
-53,kiratech,1,0.0
-54,XLAB,1,0.0
-55,OpenStack,1,0.0
+0,(All known 66),3506,99.18
+1,Red Hat,1451,41.0
+2,Google,715,20.2
+3,(Self),330,9.3
+4,ZTE Corporation,242,6.8
+5,IBM,191,5.4
+6,Mirantis,133,3.8
+7,Intel,73,2.1
+8,SUSE/Novell,37,1.0
+9,DaoCloud,37,1.0
+10,Zhejiang University,32,0.9
+11,Docker,27,0.8
+12,ClusterHQ,26,0.7
+13,Hyper.sh,24,0.7
+14,Huawei,23,0.7
+15,(Unknown),19,0.5
+16,CoreOS,15,0.4
+17,Igneous Systems,15,0.4
+18,Cisco,13,0.4
+19,(Not Found),10,0.3
+20,Treasure Data,10,0.3
+21,FACEIT,9,0.3
+22,Microsoft,8,0.2
+23,Net EASE 网易有态度,6,0.2
+24,Gmail *,6,0.2
+25,Wise2c,5,0.1
+26,Kismatic,4,0.1
+27,Fujitsu,4,0.1
+28,NVidia,4,0.1
+29,Virtuozzo,4,0.1
+30,HarmonyCloud,4,0.1
+31,Netlify,4,0.1
+32,Petback,4,0.1
+33,hackmh,4,0.1
+34,CERN,3,0.1
+35,ASG Consulting,3,0.1
+36,Tencent,3,0.1
+37,DoSelectHQ,3,0.1
+38,Amazon,2,0.1
+39,CNCF,2,0.1
+40,AT&T,2,0.1
+41,GNU,2,0.1
+42,zju,2,0.1
+43,Nitrous,2,0.1
+44,Jd.Com,2,0.1
+45,Klei Entertainment,2,0.1
+46,niklas.wik!iki.fi,2,0.1
+47,dan!covalent.io,2,0.1
+48,zhangjie0619!yeah.net,2,0.1
+49,Iki *,2,0.1
+50,Covalent *,2,0.1
+51,Outlook *,2,0.1
+52,Yeah *,2,0.1
+53,VMware,1,0.0
+54,Weaveworks,1,0.0
+55,Zalando,1,0.0
 56,Apprenda,1,0.0
+57,Buildbot,1,0.0
+58,Datapipe,1,0.0
+59,ISI.nc,1,0.0
+60,Chef,1,0.0
+61,"Collanthropy, LLC",1,0.0
+62,Orange,1,0.0
+63,EVRY,1,0.0
+64,eleme,1,0.0
+65,Douyu.com,1,0.0
+66,SUSE,1,0.0
+67,Inuits,1,0.0
+68,Anadea inc.,1,0.0
+69,YY,1,0.0
+70,Extraordy,1,0.0
+71,Skipjaq,1,0.0
+72,OpenStack,1,0.0
+73,Sina,1,0.0
+74,Seagate,1,0.0
+75,kiratech,1,0.0
+76,XLAB,1,0.0
+77,s.rabot!lectra.com,1,0.0
+78,amitkumarj441!gmail.com,1,0.0
+79,lanchongyizu!gmail.com,1,0.0
+80,zhangzhenhao!outlook.com,1,0.0
+81,junaidali.yahya!gmail.com,1,0.0
+82,lo!linux.com,1,0.0
+83,zhaoziqi!qiniu.com,1,0.0
+84,caniszczyk!gmail.com,1,0.0
+85,ce.gao!outlook.com,1,0.0
+86,wjin.cn!gmail.com,1,0.0
+87,msvbhat!gmail.com,1,0.0
+88,jean-pierre.huynh!ounet.fr,1,0.0
+89,mrunal!localhost.localdomain,1,0.0
+90,Qiniu *,1,0.0
+91,Linux *,1,0.0
+92,Lectra *,1,0.0
+93,Ounet *,1,0.0
+94,Localhost *,1,0.0

@@ -1,0 +1,54 @@
+Processed 56 csets from 20 developers
+9 employers found
+A total of 14838 lines added, 920 removed, 15020 changed (delta 13918)
+
+Developers with unknown affiliation
+
+Developers working on their own behalf
+Self nikitaraghunath!gmail.com Nikhita Raghunath                                    3 (5.4%)
+Self jmyue!hotmail.com supereagle                                                   1 (1.8%)
+
+Top changeset contributors by employer
+Red Hat                                                                            36 (64.3%)
+Google                                                                              9 (16.1%)
+Self                                                                                4 (7.1%)
+CoreOS                                                                              2 (3.6%)
+Huawei                                                                              1 (1.8%)
+Hyper.sh                                                                            1 (1.8%)
+ZTE Corporation                                                                     1 (1.8%)
+Atlassian                                                                           1 (1.8%)
+Fujitsu                                                                             1 (1.8%)
+Covers 100.000000% of changesets
+
+Top lines changed by employer
+Red Hat                                                                          14045 (93.5%)
+Google                                                                            782 (5.2%)
+Self                                                                              144 (1.0%)
+Atlassian                                                                          20 (0.1%)
+CoreOS                                                                             11 (0.1%)
+Fujitsu                                                                             8 (0.1%)
+Huawei                                                                              5 (0.0%)
+Hyper.sh                                                                            4 (0.0%)
+ZTE Corporation                                                                     1 (0.0%)
+Covers 100.000000% of changes
+
+Employers with the most signoffs (total 0)
+Covers 0.000000% of signoffs
+
+Employers with the most hackers (total 20)
+Red Hat                                                                             8 (40.0%)
+Google                                                                              3 (15.0%)
+Self                                                                                2 (10.0%)
+CoreOS                                                                              2 (10.0%)
+Atlassian                                                                           1 (5.0%)
+Fujitsu                                                                             1 (5.0%)
+Huawei                                                                              1 (5.0%)
+Hyper.sh                                                                            1 (5.0%)
+ZTE Corporation                                                                     1 (5.0%)
+Covers 100.000000% of hackers
+
+Developer contributions by type
+
+Contributions by type and developers
+
+General contributions by type

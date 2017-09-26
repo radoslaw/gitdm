@@ -1,42 +1,54 @@
-Processed 195 csets from 8 developers
-5 employers found
-A total of 22251 lines added, 7060 removed, 24077 changed (delta 15191)
+Processed 251 csets from 13 developers
+8 employers found
+A total of 30888 lines added, 8395 removed, 33415 changed (delta 22493)
 
 Developers with unknown affiliation
+(Unknown) chenguoyan01!baidu.com chenguoyan01                                       1 (0.4%)
 
 Developers working on their own behalf
-Self crazykev!zju.edu.cn Crazykev                                                  44 (22.6%)
-Self 21521209!zju.edu.cn heartlock                                                 22 (11.3%)
-Self xlgao!harmonycloud.cn Xianglin Gao                                            19 (9.7%)
-Self yaozengzeng!zju.edu.cn YaoZengzeng                                             9 (4.6%)
+Self crazykev!harmonycloud.cn Crazykev                                             59 (23.5%)
+Self 21521209!zju.edu.cn heartlock                                                 22 (8.8%)
+Self xlgao!harmonycloud.cn Xianglin Gao                                            19 (7.6%)
+Self zengzengyao!harmonycloud.cn YaoZengzeng                                       14 (5.6%)
+Self nikitaraghunath!gmail.com Nikhita Raghunath                                    1 (0.4%)
 
 Top changeset contributors by employer
-Hyper.sh                                                                           97 (49.7%)
-Self                                                                               94 (48.2%)
-Google                                                                              2 (1.0%)
-Docker                                                                              1 (0.5%)
-HarmonyCloud                                                                        1 (0.5%)
+Hyper.sh                                                                          119 (47.4%)
+Self                                                                              115 (45.8%)
+Huawei                                                                              6 (2.4%)
+Zhejiang University                                                                 4 (1.6%)
+HarmonyCloud                                                                        3 (1.2%)
+Google                                                                              2 (0.8%)
+Docker                                                                              1 (0.4%)
+(Unknown)                                                                           1 (0.4%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Hyper.sh                                                                         12061 (50.1%)
-Self                                                                             11783 (48.9%)
-Google                                                                            228 (0.9%)
+Self                                                                             16344 (48.9%)
+Hyper.sh                                                                         15178 (45.4%)
+Zhejiang University                                                              1433 (4.3%)
+Google                                                                            228 (0.7%)
+HarmonyCloud                                                                      207 (0.6%)
+Huawei                                                                             20 (0.1%)
 Docker                                                                              3 (0.0%)
-HarmonyCloud                                                                        2 (0.0%)
+(Unknown)                                                                           2 (0.0%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 90)
-Self                                                                               83 (92.2%)
-Hyper.sh                                                                            7 (7.8%)
+Employers with the most signoffs (total 110)
+Self                                                                              102 (92.7%)
+Hyper.sh                                                                            7 (6.4%)
+HarmonyCloud                                                                        1 (0.9%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 9)
-Self                                                                                4 (44.4%)
-Hyper.sh                                                                            2 (22.2%)
-Google                                                                              1 (11.1%)
-Docker                                                                              1 (11.1%)
-HarmonyCloud                                                                        1 (11.1%)
+Employers with the most hackers (total 15)
+Self                                                                                5 (33.3%)
+Hyper.sh                                                                            2 (13.3%)
+HarmonyCloud                                                                        2 (13.3%)
+Huawei                                                                              2 (13.3%)
+Zhejiang University                                                                 1 (6.7%)
+Google                                                                              1 (6.7%)
+Docker                                                                              1 (6.7%)
+(Unknown)                                                                           1 (6.7%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

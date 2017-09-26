@@ -1,6 +1,6 @@
 Processed 2579 csets from 258 developers
 84 employers found
-A total of 326048 lines added, 190180 removed, 422311 changed (delta 135868)
+A total of 326049 lines added, 190182 removed, 422312 changed (delta 135867)
 
 Top changeset contributors by employer
 Google                                                                           1414 (54.8%)
@@ -90,7 +90,7 @@ Tradesy                                                                         
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           255343 (60.5%)
+Google                                                                           255344 (60.5%)
 Red Hat                                                                          75259 (17.8%)
 CoreOS                                                                           22520 (5.3%)
 Huawei                                                                           18481 (4.4%)

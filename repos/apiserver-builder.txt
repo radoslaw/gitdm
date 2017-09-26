@@ -1,34 +1,50 @@
-Processed 154 csets from 8 developers
-4 employers found
-A total of 140593 lines added, 129286 removed, 265979 changed (delta 11307)
+Processed 227 csets from 15 developers
+8 employers found
+A total of 143359 lines added, 130084 removed, 268806 changed (delta 13275)
 
 Developers with unknown affiliation
+(Unknown) martin!etmajer.com Martin Etmajer                                         4 (1.8%)
+(Unknown) yhlou!travelsky.com Yihua Lou                                             2 (0.9%)
+(Unknown) arno.uhlig!gmail.com Arno Uhlig                                           1 (0.4%)
+(Unknown) joonas!bergi.us Joonas Bergius                                            1 (0.4%)
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Google                                                                            136 (88.3%)
-Red Hat                                                                             7 (4.5%)
-Virtuozzo                                                                           6 (3.9%)
-CoreOS                                                                              5 (3.2%)
+Google                                                                            193 (85.0%)
+Virtuozzo                                                                          10 (4.4%)
+Red Hat                                                                             8 (3.5%)
+(Unknown)                                                                           8 (3.5%)
+CoreOS                                                                              5 (2.2%)
+Huawei                                                                              1 (0.4%)
+亚信科技 AsiaInfo                                                               1 (0.4%)
+Embedded Systems, ECE                                                               1 (0.4%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           264175 (99.3%)
-Red Hat                                                                           640 (0.2%)
-Virtuozzo                                                                         587 (0.2%)
+Google                                                                           266629 (99.2%)
+Virtuozzo                                                                         739 (0.3%)
+Red Hat                                                                           643 (0.2%)
 CoreOS                                                                            577 (0.2%)
+(Unknown)                                                                         181 (0.1%)
+亚信科技 AsiaInfo                                                              35 (0.0%)
+Huawei                                                                              1 (0.0%)
+Embedded Systems, ECE                                                               1 (0.0%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 1)
-Virtuozzo                                                                           1 (100.0%)
+Employers with the most signoffs (total 3)
+Virtuozzo                                                                           3 (100.0%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 8)
-Virtuozzo                                                                           2 (25.0%)
-Google                                                                              2 (25.0%)
-Red Hat                                                                             2 (25.0%)
-CoreOS                                                                              2 (25.0%)
+Employers with the most hackers (total 16)
+(Unknown)                                                                           4 (25.0%)
+Google                                                                              3 (18.8%)
+Virtuozzo                                                                           2 (12.5%)
+Red Hat                                                                             2 (12.5%)
+CoreOS                                                                              2 (12.5%)
+亚信科技 AsiaInfo                                                               1 (6.2%)
+Huawei                                                                              1 (6.2%)
+Embedded Systems, ECE                                                               1 (6.2%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

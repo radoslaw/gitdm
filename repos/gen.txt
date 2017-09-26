@@ -1,27 +1,31 @@
-Processed 22 csets from 3 developers
-2 employers found
-A total of 1547 lines added, 143 removed, 1656 changed (delta 1404)
+Processed 34 csets from 4 developers
+3 employers found
+A total of 2586 lines added, 442 removed, 2695 changed (delta 2144)
 
 Developers with unknown affiliation
+(Unknown) ceridwen!users.noreply.github.com Ceridwen                                1 (2.9%)
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Google                                                                             16 (72.7%)
-Microsoft                                                                           6 (27.3%)
+Google                                                                             26 (76.5%)
+Microsoft                                                                           7 (20.6%)
+(Unknown)                                                                           1 (2.9%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           1292 (78.0%)
-Microsoft                                                                         364 (22.0%)
+Google                                                                           2177 (80.8%)
+Microsoft                                                                         500 (18.6%)
+(Unknown)                                                                          18 (0.7%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
 Covers 0.000000% of signoffs
 
-Employers with the most hackers (total 3)
-Microsoft                                                                           2 (66.7%)
-Google                                                                              1 (33.3%)
+Employers with the most hackers (total 4)
+Microsoft                                                                           2 (50.0%)
+Google                                                                              1 (25.0%)
+(Unknown)                                                                           1 (25.0%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

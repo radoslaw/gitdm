@@ -6,76 +6,76 @@ idx,company,n,percent
 4,(Self),12,4.4
 5,ZTE Corporation,10,3.6
 6,CoreOS,9,3.3
-7,Huawei,8,2.9
-8,IBM,8,2.9
-9,Fujitsu,6,2.2
-10,Intel,6,2.2
+7,IBM,8,2.9
+8,Huawei,8,2.9
+9,Intel,6,2.2
+10,Fujitsu,6,2.2
 11,Apprenda,4,1.5
 12,HP,4,1.5
 13,Net EASE 网易有态度,4,1.5
 14,Cisco,3,1.1
-15,(Not Found),3,1.1
-16,VMware,3,1.1
+15,VMware,3,1.1
+16,(Not Found),3,1.1
 17,Canonical,3,1.1
-18,eBay,2,0.7
-19,Microsoft,2,0.7
+18,Hyper.sh,2,0.7
+19,Docker,2,0.7
 20,Weaveworks,2,0.7
-21,Docker,2,0.7
-22,Hyper.sh,2,0.7
+21,Microsoft,2,0.7
+22,eBay,2,0.7
 23,Tencent,2,0.7
-24,ocadotechnology,1,0.4
-25,Caicloud,1,0.4
-26,NASA,1,0.4
-27,DigitalOcean,1,0.4
-28,moovel,1,0.4
-29,Gynzy,1,0.4
-30,Lazada Group,1,0.4
-31,Vonage,1,0.4
-32,Aperian Global,1,0.4
-33,cafebazaar,1,0.4
-34,Z Lab Corporation,1,0.4
-35,SalesForce,1,0.4
-36,Zalando,1,0.4
-37,Yahoo,1,0.4
-38,GoDaddy,1,0.4
-39,Container Solutions,1,0.4
-40,ElementAI,1,0.4
-41,Biolit AB,1,0.4
-42,The Mobility House GmbH,1,0.4
-43,Mobile Center,1,0.4
-44,Mayflower GmbH,1,0.4
-45,Rancher,1,0.4
-46,Viavi Solutions,1,0.4
-47,Pressly,1,0.4
-48,EasyStack,1,0.4
-49,Walt Disney,1,0.4
-50,aporeto-inc,1,0.4
-51,StepStone,1,0.4
-52,Airbnb,1,0.4
-53,EVRY,1,0.4
-54,Smile Open Source Solutions,1,0.4
-55,Carrot Creative,1,0.4
-56,OPES Software,1,0.4
-57,Treasure Data,1,0.4
-58,Apache,1,0.4
-59,Jetstack,1,0.4
-60,CNM Consulting,1,0.4
-61,vipshop,1,0.4
-62,"Embedded Systems, ECE",1,0.4
-63,Inovex,1,0.4
-64,CERN,1,0.4
-65,Bitnami,1,0.4
-66,Eficode,1,0.4
-67,Bulletproof,1,0.4
-68,Cockroach,1,0.4
-69,Samsung,1,0.4
-70,Amadeus,1,0.4
-71,Jaconda,1,0.4
-72,CNCF,1,0.4
-73,18F,1,0.4
-74,Shopify,1,0.4
-75,Blizzard,1,0.4
-76,Palantir,1,0.4
-77,Schuberg Philis,1,0.4
-78,RealNames,1,0.4
-79,Capgemini,1,0.4
+24,Treasure Data,1,0.4
+25,Apache,1,0.4
+26,Jetstack,1,0.4
+27,CNM Consulting,1,0.4
+28,vipshop,1,0.4
+29,"Embedded Systems, ECE",1,0.4
+30,Inovex,1,0.4
+31,CERN,1,0.4
+32,Bitnami,1,0.4
+33,Eficode,1,0.4
+34,Bulletproof,1,0.4
+35,Cockroach,1,0.4
+36,Samsung,1,0.4
+37,Amadeus,1,0.4
+38,Jaconda,1,0.4
+39,CNCF,1,0.4
+40,18F,1,0.4
+41,Shopify,1,0.4
+42,Blizzard,1,0.4
+43,Palantir,1,0.4
+44,Schuberg Philis,1,0.4
+45,RealNames,1,0.4
+46,Capgemini,1,0.4
+47,ocadotechnology,1,0.4
+48,Caicloud,1,0.4
+49,NASA,1,0.4
+50,DigitalOcean,1,0.4
+51,moovel,1,0.4
+52,Gynzy,1,0.4
+53,Lazada Group,1,0.4
+54,Vonage,1,0.4
+55,Aperian Global,1,0.4
+56,cafebazaar,1,0.4
+57,Z Lab Corporation,1,0.4
+58,SalesForce,1,0.4
+59,Zalando,1,0.4
+60,Yahoo,1,0.4
+61,GoDaddy,1,0.4
+62,Container Solutions,1,0.4
+63,ElementAI,1,0.4
+64,Biolit AB,1,0.4
+65,The Mobility House GmbH,1,0.4
+66,Mobile Center,1,0.4
+67,Mayflower GmbH,1,0.4
+68,Rancher,1,0.4
+69,Viavi Solutions,1,0.4
+70,OPES Software,1,0.4
+71,Pressly,1,0.4
+72,EasyStack,1,0.4
+73,Walt Disney,1,0.4
+74,aporeto-inc,1,0.4
+75,StepStone,1,0.4
+76,Airbnb,1,0.4
+77,EVRY,1,0.4
+78,Smile Open Source Solutions,1,0.4
+79,Carrot Creative,1,0.4

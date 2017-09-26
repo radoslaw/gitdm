@@ -1,7 +1,7 @@
 idx,company,n,percent
-0,(All known 104),723671,100.0
+0,(All known 104),723670,100.0
 1,Google,396115,54.7
-2,Red Hat,217030,30.0
+2,Red Hat,217029,30.0
 3,Microsoft,32181,4.4
 4,Bulletproof,17595,2.4
 5,VMware,6621,0.9
@@ -20,4 +20,4 @@ idx,company,n,percent
 18,Fujitsu,994,0.1
 19,ZTE Corporation,843,0.1
 20,Roche,781,0.1
-70,(Not Found),9,0.0
+69,(Not Found),9,0.0

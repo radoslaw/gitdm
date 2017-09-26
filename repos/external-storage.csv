@@ -1,48 +1,105 @@
 "Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
-"Deyuan Deng","deyuan!caicloud.io","Caicloud","2017-06-01",1117,398,1126,20
-"Matthew Wong","mawong!redhat.com","Red Hat","2017-01-01",3202,271,3202,30
-"Clayton O'Neill","clayton!oneill.net","Charter","2017-06-01",79,0,79,1
-"Matthew Wong","mawong!redhat.com","Red Hat","2017-04-01",676,572,843,19
-"Humble Chirammal","hchiramm!redhat.com","Red Hat","2017-03-01",485,6,485,3
-"Xing Zhou","xingzhou!cn.ibm.com","IBM","2017-04-01",51,1,51,1
-"Humble Chirammal","hchiramm!redhat.com","Red Hat","2017-06-01",267,163,269,13
-"Huamin Chen","hchen!redhat.com","Red Hat","2017-03-01",755,2,755,2
-"Matthew Wong","mawong!redhat.com","Red Hat","2017-05-01",260,171,296,11
-"Xing Zhou","xingzhou!cn.ibm.com","IBM","2017-03-01",2,0,2,1
+"Satyam Zode","satyam.zode!cloudbyte.com","(Unknown)","2017-08-01",1115,2,1115,3
+"hchiramm","hchiramm!redhat.com","Red Hat","2017-08-01",216,132,232,12
+"OTSUKA, Yuanying","yuanying!fraction.jp","Self","2017-08-01",4,1,4,2
 "Nagapramod Mandagere","pramod!us.ibm.com","IBM","2017-01-01",83,26,83,2
-"Ian Chakeres","ian.chakeres!gmail.com","SalesForce","2017-06-01",9,3,10,2
-"Humble Chirammal","hchiramm!redhat.com","Red Hat","2017-05-01",1026,440,1038,34
-"Marko Luksa","marko.luksa!gmail.com","Red Hat","2017-04-01",3,0,3,1
+"bradley childs","bchilds!redhat.com","Red Hat","2016-10-01",2,2,2,1
+"weekface","weekface!gmail.com","(Unknown)","2017-08-01",39,0,39,1
+"raffaelespazzoli","raffaele.spazzoli!gmail.com","(Unknown)","2017-08-01",7,37,37,2
+"bradley childs","bchilds!redhat.com","Red Hat","2016-11-01",8,8,8,1
+"Kenjiro Nakayama","nakayamakenjiro!gmail.com","Alternative Storage","2017-09-01",30,11,30,3
 "tamal","tamal!appscode.com","AppsCode","2017-03-01",2,0,2,1
-"childsb","bchilds!redhat.com","Red Hat","2016-11-01",8,8,8,1
-"Kent Wang","kent.wang!cheanjia.com","Rackspace","2017-06-01",3,3,3,1
-"Jan Safranek","jsafrane!redhat.com","Red Hat","2016-11-01",51,13,51,1
-"Michelle Au","msau!google.com","Google","2017-05-01",2119,310,2146,20
-"Michael Adam","obnox!redhat.com","Red Hat","2017-05-01",9,9,9,1
-"Huamin Chen","hchen!redhat.com","Red Hat","2017-06-01",37,0,37,1
-"childsb","bchilds!redhat.com","Red Hat","2017-03-01",1555,828,2366,4
-"Andrew Lau","andrew!andrewklau.com","andrewklau","2017-03-01",3,1,3,2
-"Nagapramod Mandagere","pramod!us.ibm.com","IBM","2017-02-01",21,13,21,1
-"Matthew Wong","mawong!redhat.com","Red Hat","2016-09-01",3337,1484,3763,45
+"Huamin Chen","hchen!redhat.com","Red Hat","2017-05-01",218,0,218,1
+"hchiramm","hchiramm!redhat.com","Red Hat","2017-03-01",485,6,485,3
+"pospispa","ppospisi!redhat.com","Red Hat","2017-07-01",61,7,65,5
+"Tomas Smetana","tsmetana!redhat.com","Red Hat","2017-08-01",5,1,5,1
 "yangwangxing","yangwangxing!nationsky.com","NotFound","2017-06-01",1,0,1,1
-"sarahnovotny","sarah.novotny!gmail.com","Google","2016-11-01",202,0,202,1
-"Humble Devassy Chirammal","humble.devassy!gmail.com","CentOS","2017-05-01",1,0,1,1
-"Gavrie Philipson","gavrie!philipson.co.il","Gavrie Philipson","2017-01-01",32,40,41,3
-"Humble Chirammal","hchiramm!redhat.com","Red Hat","2017-07-01",50,54,66,2
+"Jan Safranek","jsafrane!redhat.com","Red Hat","2016-11-01",51,13,51,1
+"kairen","kyle.b!inwinstack.com","inwinSTACK","2017-09-01",16,10,16,1
 "Matthew Wong","mawong!redhat.com","Red Hat","2017-02-01",2289,819,2688,31
-"Matthew Wong","mawong!redhat.com","Red Hat","2016-11-01",4163,1294,4579,45
-"Matthew Wong","mawong!redhat.com","Red Hat","2017-03-01",10459,12548,14616,45
-"Matthew Wong","mawong!redhat.com","Red Hat","2016-12-01",1871,879,2345,40
+"Matthew Wong","mawong!redhat.com","Red Hat","2017-03-01",10504,12503,14571,45
 "dlorenc","dlorenc!google.com","Google","2017-03-01",20,0,20,1
-"Humble Chirammal","hchiramm!redhat.com","Red Hat","2017-04-01",41,12,41,3
-"Jan Safranek","jsafrane!redhat.com","Red Hat","2017-06-01",27,5,27,3
-"Michelle Au","msau!google.com","Google","2017-06-01",423,228,458,11
+"Yecheng Fu","fuyecheng!qiniu.com","Qiniu","2017-06-01",770,1,770,1
+"Steve Leon","kokhang!gmail.com","HP","2017-07-01",95,642,642,2
 "Jackie Li","jackie.space!gmail.com","FUSEIM","2017-04-01",304,10,304,4
+"OTSUKA, Yuanying","yuanying!fraction.jp","Self","2017-07-01",1860,2,1860,1
+"bradley childs","bchilds!redhat.com","Red Hat","2017-03-01",1555,828,2366,4
+"Adam Litke","alitke!redhat.com","Red Hat","2017-08-01",1018,408,1023,7
+"Niklas Wik","niklas.wik!iki.fi","(Unknown)","2017-08-01",87,7,87,2
+"Deyuan Deng","deyuan!caicloud.io","Caicloud","2017-06-01",1117,398,1126,20
+"Matthew Wong","mawong!redhat.com","Red Hat","2017-04-01",676,572,843,19
+"Satyam Zode","satyam.zode!cloudbyte.com","(Unknown)","2017-09-01",1,1,1,1
+"Yecheng Fu","fuyecheng!qiniu.com","Qiniu","2017-07-01",2,1,2,1
+"Matthew Wong","mawong!redhat.com","Red Hat","2017-05-01",260,171,296,11
+"Michelle Au","msau!google.com","Google","2017-07-01",19,4,19,2
+"Ian Chakeres","ian.chakeres!gmail.com","SalesForce","2017-06-01",9,3,10,2
+"Ian Chakeres","ian.chakeres!gmail.com","SalesForce","2017-09-01",5,7,7,2
+"Michelle Au","msau!google.com","Google","2017-08-01",16,3,16,3
+"Jing Xu","jinxu!google.com","Google","2017-09-01",1,1,1,1
+"Andrew Lau","andrew!andrewklau.com","andrewklau","2017-03-01",3,1,3,2
+"Matthew Wong","mawong!redhat.com","Red Hat","2017-08-01",129,747,838,12
+"Nagapramod Mandagere","pramod!us.ibm.com","IBM","2017-02-01",21,13,21,1
+"Matthew Wong","mawong!redhat.com","Red Hat","2016-10-01",3406,1990,4025,61
+"Matthew Wong","mawong!redhat.com","Red Hat","2016-12-01",1871,879,2345,40
+"Serguei Bezverkhi","sbezverk!cisco.com","Cisco","2017-08-01",2,2,2,1
+"Jan Safranek","jsafrane!redhat.com","Red Hat","2017-06-01",27,5,27,3
+"raffaelespazzoli","raffaele.spazzoli!gmail.com","(Unknown)","2017-06-01",2264,188,2269,15
+"Ian Chakeres","ian.chakeres!gmail.com","SalesForce","2017-07-01",134,39,138,4
+"Michelle Au","msau!google.com","Google","2017-06-01",423,228,458,11
 "Humble Devassy Chirammal","humble.devassy!gmail.com","CentOS","2017-02-01",2,2,2,1
-"dlorenc","dlorenc!google.com","Google","2017-02-01",15,3,15,3
+"Michelle Au","msau!google.com","Google","2017-09-01",6,1,6,1
+"Ian Chakeres","ian.chakeres!gmail.com","SalesForce","2017-08-01",121,28,121,1
 "Humble Devassy Chirammal","humble.devassy!gmail.com","CentOS","2017-03-01",1,1,1,1
 "Deyuan Deng","deyuan!caicloud.io","Caicloud","2017-05-01",83,19,83,2
+"Michal Minář","miminar!redhat.com","Red Hat","2017-09-01",3,1,3,1
+"Christian Simon","simon!swine.de","Jetstack","2017-07-01",1,1,1,1
+"hchiramm","hchiramm!redhat.com","Red Hat","2017-04-01",41,12,41,3
+"Matthew Wong","mawong!redhat.com","Red Hat","2017-09-01",212,104,233,6
+"Marko Luksa","marko.luksa!gmail.com","Red Hat","2017-04-01",3,0,3,1
+"Matthew Wong","mawong!redhat.com","Red Hat","2016-11-01",4163,1294,4579,45
+"Guangya Liu","gyliu513!gmail.com","IBM","2017-09-01",2,2,2,1
+"Mohammad Asif Siddiqui","mohammad.asif.siddiqui1!huawei.com","Huawei","2017-08-01",3,0,3,1
+"hchiramm","hchiramm!redhat.com","Red Hat","2017-05-01",1026,440,1038,34
+"Jan Safranek","jsafrane!redhat.com","Red Hat","2017-07-01",88,95,95,1
+"kairen","kyle.b!inwinstack.com","inwinSTACK","2017-07-01",12,14,14,1
+"Matthew Wong","mawong!redhat.com","Red Hat","2017-01-01",3202,271,3202,30
+"Adam Litke","alitke!redhat.com","Red Hat","2017-09-01",484,318,542,11
+"sarahnovotny","sarah.novotny!gmail.com","Google","2016-11-01",202,0,202,1
+"raffaelespazzoli","raffaele.spazzoli!gmail.com","(Unknown)","2017-05-01",1,0,1,1
+"Sam Manzer","github!invincibleinfra.com","(Unknown)","2017-08-01",19,35,35,3
+"Michelle Au","msau!google.com","Google","2017-05-01",2119,310,2146,20
+"hchiramm","hchiramm!redhat.com","Red Hat","2017-09-01",28,13,28,4
+"dhirajh","dhegde!salesforce.com","SalesForce","2017-07-01",297,171,303,4
+"Serguei Bezverkhi","sbezverk!cisco.com","Cisco","2017-09-01",42,5,42,1
+"Humble Devassy Chirammal","humble.devassy!gmail.com","CentOS","2017-05-01",1,0,1,1
+"Gavrie Philipson","gavrie!philipson.co.il","Gavrie Philipson","2017-01-01",32,40,41,3
+"Levi","shadycuz!gmail.com","(Unknown)","2017-07-01",229,14,229,3
 "Huamin Chen","hchen!redhat.com","Red Hat","2017-04-01",20,21,21,2
+"Joe Black","joeblackwaslike!me.com","Apple","2017-08-01",16,14,16,1
+"Robert Schuh","github!eneticum.de","(Unknown)","2017-07-01",25,28,28,6
+"Clayton O'Neill","clayton!oneill.net","Charter","2017-06-01",79,0,79,1
+"Huamin Chen","hchen!redhat.com","Red Hat","2017-07-01",4,0,4,1
+"Tomas Smetana","tsmetana!redhat.com","Red Hat","2017-09-01",19135,433,19207,16
+"Yecheng Fu","fuyecheng!qiniu.com","Qiniu","2017-08-01",50,17,50,3
+"Xing Zhou","xingzhou!cn.ibm.com","IBM","2017-04-01",51,1,51,1
+"Malepati Bala Siva Sai Akhil","malepatib.akhil!huawei.com","Huawei","2017-08-01",2,2,2,2
+"xing-yang","xing.yang!emc.com","Dell","2017-09-01",762,699,854,6
+"Humble Devassy Chirammal","humble.devassy!gmail.com","CentOS","2017-07-01",2,1,2,1
+"Huamin Chen","hchen!redhat.com","Red Hat","2017-03-01",755,2,755,2
+"Xing Zhou","xingzhou!cn.ibm.com","IBM","2017-03-01",2,0,2,1
+"hchiramm","hchiramm!redhat.com","Red Hat","2017-07-01",235,115,251,8
+"Kent Wang","kent.wang!cheanjia.com","Rackspace","2017-06-01",3,3,3,1
+"hchiramm","hchiramm!redhat.com","Red Hat","2017-06-01",267,163,269,13
+"Michael Adam","obnox!redhat.com","Red Hat","2017-05-01",9,9,9,1
+"Huamin Chen","hchen!redhat.com","Red Hat","2017-06-01",37,0,37,1
+"Matthew Wong","mawong!redhat.com","Red Hat","2017-07-01",2680,1348,4013,7
+"Matthew Wong","mawong!redhat.com","Red Hat","2016-09-01",3337,1484,3763,45
+"raffaelespazzoli","raffaele.spazzoli!gmail.com","(Unknown)","2017-09-01",113,46,117,9
+"Serguei Bezverkhi","sbezverk!cisco.com","Cisco","2017-07-01",12,3,12,1
+"Jan Safranek","jsafrane!redhat.com","Red Hat","2017-09-01",123,68,123,3
+"dlorenc","dlorenc!google.com","Google","2017-02-01",15,3,15,3
+"Guangya Liu","gyliu513!gmail.com","IBM","2017-07-01",1,1,1,1
+"Wei Jin","wjin.cn!gmail.com","(Unknown)","2017-07-01",1,1,1,1
+"xing-yang","xing.yang!emc.com","Dell","2017-08-01",5,5,5,1
+"Tomas Smetana","tsmetana!redhat.com","Red Hat","2017-06-01",517,0,517,1
 "Matthew Wong","mawong!redhat.com","Red Hat","2017-06-01",1405,310,1474,28
-"Matthew Wong","mawong!redhat.com","Red Hat","2016-10-01",3406,1990,4025,61
-"childsb","bchilds!redhat.com","Red Hat","2016-10-01",2,2,2,1

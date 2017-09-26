@@ -18,6 +18,7 @@
 "Jon Cope","jcope!redhat.com","Red Hat","2017-01-01",20,20,20,2
 "Maciej Kwiek","maciej.iai!gmail.com","Mirantis","2017-01-01",222,110,330,3
 "Dominika Hodovska","dhodovsk!redhat.com","Red Hat","2017-01-01",219,176,220,2
+"Paulo Pires","pires!apprenda.com","Apprenda","2017-01-01",559,710,850,22
 "Justin Santa Barbara","justin!fathomdb.com","Self","2017-01-01",195,24,205,10
 "Piotr Szczesniak","pszczesniak!google.com","Google","2017-01-01",163,2682,2694,6
 "David McMahon","djmm!google.com","Google","2017-01-01",146,227,227,2
@@ -33,7 +34,7 @@
 "Andy Goldstein","agoldste!redhat.com","Red Hat","2017-01-01",1815,241,1815,7
 "Monis Khan","mkhan!redhat.com","Red Hat","2017-01-01",5,0,5,1
 "DjangoPeng","pjt73651!gmail.com","Huawei","2017-01-01",2,2,2,1
-"Michael Taufen","mtaufen!google.com","Google","2017-01-01",271,237,284,8
+"Michael Taufen","mtaufen!google.com","Google","2017-01-01",556,381,569,9
 "Jacob Simpson","jacobsimpson!google.com","Google","2017-01-01",26,27,28,2
 "Steve Kriss","steve!heptio.com","Heptio","2017-01-01",60,35,60,1
 "Harry Zhang","harryz!hyper.sh","Hyper.sh","2017-01-01",397,340,398,7
@@ -55,8 +56,7 @@
 "juanvallejo","jvallejo!redhat.com","Red Hat","2017-01-01",108,16,108,6
 "bruceauyeung","ouyang.qinhua!zte.com.cn","ZTE Corporation","2017-01-01",16,12,16,3
 "Matthias Bertschy","matthias.bertschy!gmail.com","SICPA Security Solutions","2017-01-01",11,2,11,1
-"Cole Mickens","cole.mickens!gmail.com","Microsoft","2017-01-01",19,5,19,2
-"zhouhaibing089","zhouhaibing089!gmail.com","eBay","2017-01-01",117,38,117,5
+"zhouhaibing089","zhouhaibing089!gmail.com","eBay","2017-01-01",465,38,465,6
 "Andrew Rynhard","andrew!andrewrynhard.com","Logic Monitor","2017-01-01",322,71,322,1
 "Michail Kargakis","mkargaki!redhat.com","Red Hat","2017-01-01",664,371,712,11
 "bprashanth","beeps!google.com","Google","2017-01-01",5,5,5,2
@@ -75,6 +75,7 @@
 "Andrew Pilloud","andrewpilloud!igneoussystems.com","Igneous Systems","2017-01-01",10,19,19,1
 "Irfan Ur Rehman","irfan.rehman!huawei.com","Huawei","2017-01-01",2325,20,2325,1
 "tanshanshan","tan.shanshan!zte.com.cn","ZTE Corporation","2017-01-01",145,2,145,2
+"Tim St. Clair","stclair!google.com","Google","2017-01-01",1,1,1,1
 "Ethan Chu","xychu2008!gmail.com","Red Hat","2017-01-01",2,2,2,1
 "David Ashpole","dashpole!google.com","Google","2017-01-01",214,57,221,5
 "Dan Gillespie","dan.gillespie!coreos.com","CoreOS","2017-01-01",929,1007,1012,2
@@ -86,7 +87,7 @@
 "Vishnu Kannan","vishnuk!google.com","Google","2017-01-01",242,216,379,6
 "Michael Mrowetz","michael.mrowetz!cdnetworks.co.kr","CDNetworks Korea","2017-01-01",19,2,19,3
 "Sebastian Scheele","sebastian!loodse.com","Loodse","2017-01-01",23,7,23,1
-"Timothy St. Clair","tstclair!redhat.com","Red Hat","2017-01-01",88,162,170,4
+"NickrenREN","yuquan.ren!easystack.cn","EasyStack","2017-01-01",417,282,445,14
 "Solly Ross","sross!redhat.com","Red Hat","2017-01-01",33,1,33,1
 "Madhusudan.C.S","madhusudancs!google.com","Google","2017-01-01",496,192,521,20
 "Rye Terrell","ryeterrell!ryeterrell.net","Self","2017-01-01",542,987,987,1
@@ -108,12 +109,12 @@
 "Sarat Kamisetty","saratk!gmail.com","Cisco","2017-01-01",220,71,220,1
 "Jerzy Szczepkowski","jsz!google.com","Google","2017-01-01",7,24,25,2
 "chrislovecnm","clove!cnmconsulting.net","CNM Consulting","2017-01-01",78,45,78,2
-"NickrenREN","yuquan.ren!easystack.cn","EasyStack","2017-01-01",417,282,445,14
+"Timothy St. Clair","tstclair!redhat.com","Red Hat","2017-01-01",88,162,170,4
 "Matthew Wong","mawong!redhat.com","Red Hat","2017-01-01",225,61,234,3
 "tianshapjq","pu.junqi!zte.com.cn","ZTE Corporation","2017-01-01",2,5,5,2
 "Rene Treffer","rene.treffer!soundcloud.com","SoundCloud","2017-01-01",29,15,29,1
 "Steven E. Harris","seharris!us.ibm.com","IBM","2017-01-01",9,6,9,1
-"Paulo Pires","pires!apprenda.com","Apprenda","2017-01-01",559,710,850,22
+"Sean M. Collins","sean!coreitpro.com","Mirantis","2017-01-01",10,2,10,3
 "Kevin","wangzefeng!huawei.com","Huawei","2017-01-01",610,240,689,5
 "caleb miles","calebamiles!users.noreply.github.com","CoreOS","2017-01-01",4,109,109,4
 "Derek Carr","decarr!redhat.com","Red Hat","2017-01-01",422,30,422,4
@@ -136,10 +137,10 @@
 "Ales Nosek","ales.nosek!gmail.com","Self","2017-01-01",3,0,3,1
 "wlan0","sid!rancher.com","Rancher","2017-01-01",3,3,3,1
 "Wojciech Tyczynski","wojtekt!google.com","Google","2017-01-01",1626,600,1788,14
-"Tim St. Clair","stclair!google.com","Google","2017-01-01",1,1,1,1
+"allencloud","allen.sun!daocloud.io","DaoCloud","2017-01-01",44,44,44,1
 "Ashley Reese","ashley!victorianfox.com","Self","2017-01-01",1,1,1,1
 "p0lyn0mial","lukasz.szaszkiewicz!gmail.com","Self","2017-01-01",107,0,107,2
-"Sean M. Collins","sean!coreitpro.com","Mirantis","2017-01-01",10,2,10,3
+"Cole Mickens","cole.mickens!gmail.com","Microsoft","2017-01-01",32,8,32,3
 "Steve Kuznetsov","skuznets!redhat.com","Red Hat","2017-01-01",7,0,7,1
 "Phillip Wittrock","pwittroc!google.com","Google","2017-01-01",112,28,112,1
 "Xing Zhou","xingzhou!cn.ibm.com","IBM","2017-01-01",621,3,621,3

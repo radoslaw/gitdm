@@ -11,13 +11,13 @@ idx,company,n,percent
 9,Hyper.sh,17,0.7
 10,Net EASE 网易有态度,15,0.6
 11,Weaveworks,14,0.6
-12,Microsoft,13,0.6
-13,eBay,13,0.6
+12,eBay,13,0.6
+13,Microsoft,13,0.6
 14,Clarifai,10,0.4
 15,Apcera,9,0.4
-16,Intel,8,0.3
-17,Canonical,8,0.3
+16,Canonical,8,0.3
+17,Intel,8,0.3
 18,Docker,7,0.3
-19,HP,6,0.3
-20,SOFICOM,6,0.3
-23,(Not Found),5,0.2
+19,SOFICOM,6,0.3
+20,HP,6,0.3
+24,(Not Found),5,0.2

@@ -10,8 +10,8 @@ idx,company,n,percent
 8,IBM,64,1.8
 9,Hyper.sh,56,1.6
 10,Fujitsu,52,1.4
-11,Microsoft,39,1.1
-12,Mirantis,39,1.1
+11,Mirantis,39,1.1
+12,Microsoft,39,1.1
 13,EasyStack,37,1.0
 14,VMware,22,0.6
 15,Net EASE 网易有态度,21,0.6
@@ -19,5 +19,5 @@ idx,company,n,percent
 17,Intel,18,0.5
 18,Bulletproof,15,0.4
 19,Apache,13,0.4
-20,Canonical,11,0.3
+20,Socrata,11,0.3
 26,(Not Found),6,0.2

@@ -160,7 +160,7 @@ By changed lines,eBay,7,pkg/api/v1,204,6.857,0.031
 By changed lines,eBay,7,examples/mysql-cinder-pd/README.md,168,5.647,0.026
 By changed lines,eBay,7,pkg/volume/cinder/cinder_util_test.go,164,5.513,0.025
 By changed lines,eBay,7,plugin/pkg/auth/authenticator/request/keystone/keystone_test.go,147,4.941,0.022
-By changed lines,eBay,7,pkg/auth/authorizer/union,118,3.966,0.018
+By changed lines,eBay,7,pkg/auth/authorizer,118,3.966,0.018
 All By changed lines,Amazon,8,"",2936,0.449,0.449
 By changed lines,Amazon,8,pkg,1861,63.386,0.284
 By changed lines,Amazon,8,pkg/util/jsonpath,1637,55.756,0.25
@@ -218,8 +218,8 @@ By changed lines,Amadeus,10,pkg/expapi/v1,108,4.523,0.017
 By changed lines,Amadeus,10,docs/user-guide/downward-api/volume/README.md,105,4.397,0.016
 By changed lines,Amadeus,10,test/e2e/downwardapi_volume.go,97,4.062,0.015
 By changed lines,Amadeus,10,pkg/api/validation/validation_test.go,95,3.978,0.015
-By changed lines,Amadeus,10,pkg/expapi/v1/conversion_generated.go,76,3.183,0.012
 By changed lines,Amadeus,10,pkg/api/v1/conversion_generated.go,76,3.183,0.012
+By changed lines,Amadeus,10,pkg/expapi/v1/conversion_generated.go,76,3.183,0.012
 All By changed lines,CoreOS,11,"",2277,0.348,0.348
 By changed lines,CoreOS,11,pkg,1237,54.326,0.189
 By changed lines,CoreOS,11,pkg/kubelet,1177,51.691,0.18
@@ -254,7 +254,6 @@ By changed lines,Docker,12,docs/admin,131,9.003,0.02
 By changed lines,Docker,12,docs/admin/garbage-collection.md,109,7.491,0.017
 By changed lines,Docker,12,pkg/kubelet/dockertools,101,6.942,0.015
 By changed lines,Docker,12,cluster/ubuntu/minion/init_scripts,101,6.942,0.015
-By changed lines,Docker,12,pkg/kubelet,101,6.942,0.015
 By changed lines,Docker,12,cluster/ubuntu/minion/init_scripts/etcd,100,6.873,0.015
 By changed lines,Docker,12,test,88,6.048,0.013
 By changed lines,Docker,12,docs/getting-started-guides/ubuntu.md,83,5.704,0.013
@@ -263,7 +262,7 @@ By changed lines,Docker,12,contrib/ansible,66,4.536,0.01
 By changed lines,Docker,12,test/images,58,3.986,0.009
 By changed lines,Docker,12,test/images/mount-tester,56,3.849,0.009
 By changed lines,Docker,12,test/images/mount-tester/mt.go,55,3.78,0.008
-By changed lines,Docker,12,cluster/ubuntu/minion/init_conf,41,2.818,0.006
+By changed lines,Docker,12,docs/user-guide,41,2.818,0.006
 All By changed lines,Slack,13,"",1409,0.215,0.215
 By changed lines,Slack,13,pkg,1316,93.4,0.201
 By changed lines,Slack,13,pkg/proxy,1120,79.489,0.171
@@ -304,9 +303,9 @@ By changed lines,Tyk,14,pkg/client,36,3.169,0.006
 By changed lines,Tyk,14,pkg/probe/http/http_test.go,34,2.993,0.005
 By changed lines,Tyk,14,pkg/api/v1,32,2.817,0.005
 By changed lines,Tyk,14,pkg/apis/experimental/v1,26,2.289,0.004
-By changed lines,Tyk,14,pkg/api/v1/deep_copy_generated.go,22,1.937,0.003
-By changed lines,Tyk,14,pkg/api/deep_copy_generated.go,22,1.937,0.003
 By changed lines,Tyk,14,pkg/kubectl/resource_printer_test.go,22,1.937,0.003
+By changed lines,Tyk,14,pkg/api/deep_copy_generated.go,22,1.937,0.003
+By changed lines,Tyk,14,pkg/api/v1/deep_copy_generated.go,22,1.937,0.003
 All By changed lines,Metaswitch,15,"",859,0.131,0.131
 By changed lines,Metaswitch,15,docs/getting-started-guides,840,97.788,0.128
 By changed lines,Metaswitch,15,docs/getting-started-guides/fedora/fedora-calico.md,356,41.444,0.054
@@ -409,9 +408,9 @@ By number of commits to file,Kismatic,3,www/master/shared,28,3.233,0.208
 By number of commits to file,Kismatic,3,third_party/ui/bower_components/modernizr/test,28,3.233,0.208
 By number of commits to file,Kismatic,3,www/app/components/dashboard,25,2.887,0.185
 By number of commits to file,Kismatic,3,www/master/components/dashboard/js/modules,19,2.194,0.141
-By number of commits to file,Kismatic,3,www/master/components/dashboard/views,17,1.963,0.126
-By number of commits to file,Kismatic,3,www/app/components/dashboard/views,17,1.963,0.126
 By number of commits to file,Kismatic,3,third_party/ui/bower_components/hammerjs,17,1.963,0.126
+By number of commits to file,Kismatic,3,www/app/components/dashboard/views,17,1.963,0.126
+By number of commits to file,Kismatic,3,www/master/components/dashboard/views,17,1.963,0.126
 All By number of commits to file,Huawei,4,"",510,3.78,3.78
 By number of commits to file,Huawei,4,pkg,230,45.098,1.705
 By number of commits to file,Huawei,4,docs,171,33.529,1.267
@@ -423,15 +422,16 @@ By number of commits to file,Huawei,4,cluster,55,10.784,0.408
 By number of commits to file,Huawei,4,docs/man/man1,40,7.843,0.296
 By number of commits to file,Huawei,4,cluster/centos,30,5.882,0.222
 By number of commits to file,Huawei,4,docs/getting-started-guides,25,4.902,0.185
-By number of commits to file,Huawei,4,pkg/kubelet,23,4.51,0.17
 By number of commits to file,Huawei,4,pkg/api,23,4.51,0.17
+By number of commits to file,Huawei,4,pkg/kubelet,23,4.51,0.17
 By number of commits to file,Huawei,4,plugin/pkg,19,3.725,0.141
 By number of commits to file,Huawei,4,pkg/volume,18,3.529,0.133
 By number of commits to file,Huawei,4,contrib,16,3.137,0.119
 By number of commits to file,Huawei,4,docs/admin,15,2.941,0.111
+By number of commits to file,Huawei,4,cluster/ubuntu,12,2.353,0.089
+By number of commits to file,Huawei,4,contrib/completions,12,2.353,0.089
 By number of commits to file,Huawei,4,pkg/kubectl/resource,12,2.353,0.089
 By number of commits to file,Huawei,4,contrib/completions/bash,12,2.353,0.089
-By number of commits to file,Huawei,4,cluster/ubuntu,12,2.353,0.089
 By number of commits to file,Huawei,4,plugin/pkg/scheduler,12,2.353,0.089
 By number of commits to file,Huawei,4,contrib/completions/bash/kubectl,12,2.353,0.089
 By number of commits to file,Huawei,4,pkg/client,10,1.961,0.074
@@ -440,27 +440,27 @@ By number of commits to file,Self,5,pkg,114,50.22,0.845
 By number of commits to file,Self,5,cluster,36,15.859,0.267
 By number of commits to file,Self,5,examples,23,10.132,0.17
 By number of commits to file,Self,5,pkg/api,20,8.811,0.148
+By number of commits to file,Self,5,docs,19,8.37,0.141
 By number of commits to file,Self,5,pkg/kubelet,19,8.37,0.141
 By number of commits to file,Self,5,examples/elasticsearch,19,8.37,0.141
-By number of commits to file,Self,5,docs,19,8.37,0.141
 By number of commits to file,Self,5,pkg/cloudprovider,18,7.93,0.133
 By number of commits to file,Self,5,pkg/controller,16,7.048,0.119
 By number of commits to file,Self,5,test,15,6.608,0.111
 By number of commits to file,Self,5,pkg/util,15,6.608,0.111
 By number of commits to file,Self,5,cluster/ubuntu,12,5.286,0.089
-By number of commits to file,Self,5,docs/getting-started-guides,11,4.846,0.082
 By number of commits to file,Self,5,pkg/client,11,4.846,0.082
+By number of commits to file,Self,5,docs/getting-started-guides,11,4.846,0.082
 By number of commits to file,Self,5,test/e2e,10,4.405,0.074
 By number of commits to file,Self,5,cluster/gce,9,3.965,0.067
 By number of commits to file,Self,5,pkg/cloudprovider/aws,9,3.965,0.067
+By number of commits to file,Self,5,cmd,8,3.524,0.059
 By number of commits to file,Self,5,pkg/api/v1,8,3.524,0.059
 By number of commits to file,Self,5,pkg/cloudprovider/providers,8,3.524,0.059
-By number of commits to file,Self,5,cmd,8,3.524,0.059
 By number of commits to file,Self,5,cluster/gce/coreos,8,3.524,0.059
-By number of commits to file,Self,5,examples/elasticsearch/production_cluster,7,3.084,0.052
 By number of commits to file,Self,5,pkg/client/unversioned,7,3.084,0.052
-By number of commits to file,Self,5,pkg/util/oom,6,2.643,0.044
-By number of commits to file,Self,5,pkg/kubelet/dockertools,6,2.643,0.044
+By number of commits to file,Self,5,examples/elasticsearch/production_cluster,7,3.084,0.052
+By number of commits to file,Self,5,pkg/registry,6,2.643,0.044
+By number of commits to file,Self,5,cluster/aws,6,2.643,0.044
 All By number of commits to file,Mesosphere,6,"",116,0.86,0.86
 By number of commits to file,Mesosphere,6,cluster,55,47.414,0.408
 By number of commits to file,Mesosphere,6,cluster/mesos/docker,45,38.793,0.334
@@ -469,19 +469,19 @@ By number of commits to file,Mesosphere,6,contrib/mesos/pkg/scheduler,20,17.241,
 By number of commits to file,Mesosphere,6,docs,15,12.931,0.111
 By number of commits to file,Mesosphere,6,contrib/mesos/pkg/minion,10,8.621,0.074
 By number of commits to file,Mesosphere,6,docs/user-guide/walkthrough,8,6.897,0.059
+By number of commits to file,Mesosphere,6,docs/getting-started-guides,7,6.034,0.052
 By number of commits to file,Mesosphere,6,cluster/mesos/docker/util.sh,7,6.034,0.052
 By number of commits to file,Mesosphere,6,cluster/mesos/docker/common/bin,7,6.034,0.052
-By number of commits to file,Mesosphere,6,docs/getting-started-guides,7,6.034,0.052
-By number of commits to file,Mesosphere,6,contrib/mesos/pkg/scheduler/podtask,6,5.172,0.044
-By number of commits to file,Mesosphere,6,contrib/mesos/pkg/minion/tasks,6,5.172,0.044
-By number of commits to file,Mesosphere,6,cluster/mesos/docker/docker-compose.yml,6,5.172,0.044
 By number of commits to file,Mesosphere,6,contrib/mesos/pkg/proc,6,5.172,0.044
+By number of commits to file,Mesosphere,6,cluster/mesos/docker/docker-compose.yml,6,5.172,0.044
+By number of commits to file,Mesosphere,6,contrib/mesos/pkg/minion/tasks,6,5.172,0.044
+By number of commits to file,Mesosphere,6,contrib/mesos/pkg/scheduler/podtask,6,5.172,0.044
 By number of commits to file,Mesosphere,6,cluster/mesos/docker/config-default.sh,5,4.31,0.037
-By number of commits to file,Mesosphere,6,contrib/mesos/pkg/scheduler/service,4,3.448,0.03
+By number of commits to file,Mesosphere,6,docs/getting-started-guides/docker.md,4,3.448,0.03
 By number of commits to file,Mesosphere,6,cluster/mesos/docker/test,4,3.448,0.03
 By number of commits to file,Mesosphere,6,cluster/mesos/docker/keygen,4,3.448,0.03
-By number of commits to file,Mesosphere,6,contrib/mesos/pkg/scheduler/service/service.go,4,3.448,0.03
 By number of commits to file,Mesosphere,6,contrib/mesos/pkg/scheduler/scheduler.go,4,3.448,0.03
+By number of commits to file,Mesosphere,6,contrib/mesos/pkg/scheduler/service,4,3.448,0.03
 All By number of commits to file,DrEd Online Doctor,7,"",115,0.852,0.852
 By number of commits to file,DrEd Online Doctor,7,pkg,57,49.565,0.422
 By number of commits to file,DrEd Online Doctor,7,cluster,15,13.043,0.111
@@ -493,19 +493,19 @@ By number of commits to file,DrEd Online Doctor,7,test/e2e,7,6.087,0.052
 By number of commits to file,DrEd Online Doctor,7,pkg/api,6,5.217,0.044
 By number of commits to file,DrEd Online Doctor,7,pkg/controller,5,4.348,0.037
 By number of commits to file,DrEd Online Doctor,7,pkg/kubectl,5,4.348,0.037
+By number of commits to file,DrEd Online Doctor,7,contrib/mesos,4,3.478,0.03
 By number of commits to file,DrEd Online Doctor,7,pkg/util,4,3.478,0.03
-By number of commits to file,DrEd Online Doctor,7,pkg/client/cache,4,3.478,0.03
 By number of commits to file,DrEd Online Doctor,7,cluster/juju,4,3.478,0.03
 By number of commits to file,DrEd Online Doctor,7,pkg/kubectl/cmd,4,3.478,0.03
-By number of commits to file,DrEd Online Doctor,7,contrib/mesos,4,3.478,0.03
-By number of commits to file,DrEd Online Doctor,7,docs/user-guide,3,2.609,0.022
-By number of commits to file,DrEd Online Doctor,7,examples,3,2.609,0.022
-By number of commits to file,DrEd Online Doctor,7,pkg/storage,3,2.609,0.022
-By number of commits to file,DrEd Online Doctor,7,pkg/client/record,3,2.609,0.022
-By number of commits to file,DrEd Online Doctor,7,docs/admin,3,2.609,0.022
-By number of commits to file,DrEd Online Doctor,7,docs/getting-started-guides,3,2.609,0.022
-By number of commits to file,DrEd Online Doctor,7,cluster/aws,3,2.609,0.022
+By number of commits to file,DrEd Online Doctor,7,pkg/client/cache,4,3.478,0.03
 By number of commits to file,DrEd Online Doctor,7,hack,3,2.609,0.022
+By number of commits to file,DrEd Online Doctor,7,examples,3,2.609,0.022
+By number of commits to file,DrEd Online Doctor,7,docs/getting-started-guides,3,2.609,0.022
+By number of commits to file,DrEd Online Doctor,7,docs/user-guide,3,2.609,0.022
+By number of commits to file,DrEd Online Doctor,7,cluster/aws,3,2.609,0.022
+By number of commits to file,DrEd Online Doctor,7,pkg/storage,3,2.609,0.022
+By number of commits to file,DrEd Online Doctor,7,docs/admin,3,2.609,0.022
+By number of commits to file,DrEd Online Doctor,7,pkg/client/record,3,2.609,0.022
 By number of commits to file,DrEd Online Doctor,7,contrib/mesos/pkg,3,2.609,0.022
 All By number of commits to file,Square,8,"",109,0.808,0.808
 By number of commits to file,Square,8,pkg,84,77.064,0.623
@@ -514,21 +514,22 @@ By number of commits to file,Square,8,pkg/client/unversioned,12,11.009,0.089
 By number of commits to file,Square,8,pkg/kubectl,10,9.174,0.074
 By number of commits to file,Square,8,test,9,8.257,0.067
 By number of commits to file,Square,8,pkg/kubelet,9,8.257,0.067
-By number of commits to file,Square,8,pkg/util,8,7.339,0.059
 By number of commits to file,Square,8,pkg/api,8,7.339,0.059
-By number of commits to file,Square,8,pkg/client/unversioned/cache,7,6.422,0.052
-By number of commits to file,Square,8,plugin/pkg,7,6.422,0.052
+By number of commits to file,Square,8,pkg/util,8,7.339,0.059
+By number of commits to file,Square,8,plugin,7,6.422,0.052
 By number of commits to file,Square,8,test/e2e,7,6.422,0.052
-By number of commits to file,Square,8,plugin/pkg/scheduler,5,4.587,0.037
+By number of commits to file,Square,8,plugin/pkg,7,6.422,0.052
+By number of commits to file,Square,8,pkg/client/unversioned/cache,7,6.422,0.052
 By number of commits to file,Square,8,contrib/mesos/pkg,5,4.587,0.037
+By number of commits to file,Square,8,plugin/pkg/scheduler,5,4.587,0.037
 By number of commits to file,Square,8,pkg/api/validation,4,3.67,0.03
-By number of commits to file,Square,8,pkg/controller/node,3,2.752,0.022
-By number of commits to file,Square,8,pkg/kubelet/dockertools,3,2.752,0.022
-By number of commits to file,Square,8,pkg/controller/serviceaccount,3,2.752,0.022
 By number of commits to file,Square,8,cmd,3,2.752,0.022
 By number of commits to file,Square,8,pkg/labels,3,2.752,0.022
 By number of commits to file,Square,8,pkg/apiserver,3,2.752,0.022
+By number of commits to file,Square,8,pkg/registry,3,2.752,0.022
+By number of commits to file,Square,8,pkg/cloudprovider,3,2.752,0.022
 By number of commits to file,Square,8,pkg/kubectl/cmd,3,2.752,0.022
+By number of commits to file,Square,8,pkg/controller/node,3,2.752,0.022
 All By number of commits to file,Tyk,9,"",94,0.697,0.697
 By number of commits to file,Tyk,9,pkg,77,81.915,0.571
 By number of commits to file,Tyk,9,pkg/api,16,17.021,0.119
@@ -536,24 +537,24 @@ By number of commits to file,Tyk,9,pkg/kubelet,12,12.766,0.089
 By number of commits to file,Tyk,9,pkg/controller,9,9.574,0.067
 By number of commits to file,Tyk,9,docs,7,7.447,0.052
 By number of commits to file,Tyk,9,pkg/client,7,7.447,0.052
-By number of commits to file,Tyk,9,pkg/kubectl,6,6.383,0.044
 By number of commits to file,Tyk,9,pkg/registry,6,6.383,0.044
+By number of commits to file,Tyk,9,pkg/kubectl,6,6.383,0.044
 By number of commits to file,Tyk,9,pkg/util,5,5.319,0.037
+By number of commits to file,Tyk,9,test,4,4.255,0.03
+By number of commits to file,Tyk,9,pkg/apis,4,4.255,0.03
 By number of commits to file,Tyk,9,docs/proposals,4,4.255,0.03
+By number of commits to file,Tyk,9,pkg/apis/experimental,4,4.255,0.03
 By number of commits to file,Tyk,9,pkg/api/unversioned,4,4.255,0.03
 By number of commits to file,Tyk,9,pkg/client/record,4,4.255,0.03
-By number of commits to file,Tyk,9,test,4,4.255,0.03
-By number of commits to file,Tyk,9,pkg/apis/experimental,4,4.255,0.03
-By number of commits to file,Tyk,9,pkg/registry/namespace,3,3.191,0.022
-By number of commits to file,Tyk,9,test/e2e,3,3.191,0.022
 By number of commits to file,Tyk,9,pkg/storage,3,3.191,0.022
-By number of commits to file,Tyk,9,docs/design,2,2.128,0.015
-By number of commits to file,Tyk,9,pkg/registry/service,2,2.128,0.015
-By number of commits to file,Tyk,9,pkg/client/unversioned,2,2.128,0.015
-By number of commits to file,Tyk,9,pkg/controller/node,2,2.128,0.015
+By number of commits to file,Tyk,9,test/e2e,3,3.191,0.022
+By number of commits to file,Tyk,9,pkg/registry/namespace,3,3.191,0.022
 By number of commits to file,Tyk,9,contrib/mesos,2,2.128,0.015
-By number of commits to file,Tyk,9,pkg/storage/etcd,2,2.128,0.015
+By number of commits to file,Tyk,9,pkg/apiserver,2,2.128,0.015
+By number of commits to file,Tyk,9,docs/design,2,2.128,0.015
 By number of commits to file,Tyk,9,pkg/watch,2,2.128,0.015
+By number of commits to file,Tyk,9,pkg/probe,2,2.128,0.015
+By number of commits to file,Tyk,9,contrib/mesos/pkg,2,2.128,0.015
 All By number of commits to file,Docker,10,"",91,0.674,0.674
 By number of commits to file,Docker,10,docs,33,36.264,0.245
 By number of commits to file,Docker,10,docs/getting-started-guides,25,27.473,0.185
@@ -562,22 +563,22 @@ By number of commits to file,Docker,10,cluster/ubuntu,21,23.077,0.156
 By number of commits to file,Docker,10,contrib/ansible,20,21.978,0.148
 By number of commits to file,Docker,10,contrib/ansible/roles,19,20.879,0.141
 By number of commits to file,Docker,10,docs/getting-started-guides/docker-multinode,17,18.681,0.126
-By number of commits to file,Docker,10,docs/getting-started-guides/docker-multinode/master.sh,7,7.692,0.052
-By number of commits to file,Docker,10,docs/getting-started-guides/docker-multinode/worker.sh,7,7.692,0.052
 By number of commits to file,Docker,10,cluster/ubuntu/util.sh,7,7.692,0.052
+By number of commits to file,Docker,10,docs/getting-started-guides/docker-multinode/worker.sh,7,7.692,0.052
+By number of commits to file,Docker,10,docs/getting-started-guides/docker-multinode/master.sh,7,7.692,0.052
 By number of commits to file,Docker,10,contrib/ansible/roles/master,7,7.692,0.052
 By number of commits to file,Docker,10,test,6,6.593,0.044
 By number of commits to file,Docker,10,cluster/ubuntu/minion,6,6.593,0.044
-By number of commits to file,Docker,10,contrib/ansible/roles/node,4,4.396,0.03
-By number of commits to file,Docker,10,contrib/ansible/roles/kubernetes-addons,4,4.396,0.03
+By number of commits to file,Docker,10,pkg/kubelet,4,4.396,0.03
 By number of commits to file,Docker,10,docs/admin,4,4.396,0.03
 By number of commits to file,Docker,10,test/images,4,4.396,0.03
-By number of commits to file,Docker,10,contrib/ansible/roles/master/templates,4,4.396,0.03
-By number of commits to file,Docker,10,pkg,4,4.396,0.03
 By number of commits to file,Docker,10,docs/getting-started-guides/docker-multinode.md,4,4.396,0.03
 By number of commits to file,Docker,10,pkg/kubelet/dockertools,4,4.396,0.03
-By number of commits to file,Docker,10,cluster/ubuntu/minion/init_conf,4,4.396,0.03
 By number of commits to file,Docker,10,cluster/ubuntu/build.sh,4,4.396,0.03
+By number of commits to file,Docker,10,cluster/ubuntu/minion/init_conf,4,4.396,0.03
+By number of commits to file,Docker,10,contrib/ansible/roles/node,4,4.396,0.03
+By number of commits to file,Docker,10,contrib/ansible/roles/kubernetes-addons,4,4.396,0.03
+By number of commits to file,Docker,10,contrib/ansible/roles/master/templates,4,4.396,0.03
 All By number of commits to file,Petback,11,"",84,0.623,0.623
 By number of commits to file,Petback,11,docs,65,77.381,0.482
 By number of commits to file,Petback,11,docs/getting-started-guides,17,20.238,0.126
@@ -586,22 +587,24 @@ By number of commits to file,Petback,11,examples,7,8.333,0.052
 By number of commits to file,Petback,11,docs/proposals,7,8.333,0.052
 By number of commits to file,Petback,11,cluster,6,7.143,0.044
 By number of commits to file,Petback,11,docs/admin,6,7.143,0.044
-By number of commits to file,Petback,11,docs/devel,5,5.952,0.037
 By number of commits to file,Petback,11,contrib,5,5.952,0.037
+By number of commits to file,Petback,11,docs/devel,5,5.952,0.037
 By number of commits to file,Petback,11,docs/design,4,4.762,0.03
 By number of commits to file,Petback,11,cluster/addons,3,3.571,0.022
 By number of commits to file,Petback,11,docs/getting-started-guides/scratch.md,3,3.571,0.022
+By number of commits to file,Petback,11,cluster/juju,2,2.381,0.015
 By number of commits to file,Petback,11,docs/volumes.md,2,2.381,0.015
-By number of commits to file,Petback,11,cluster/addons/dns,2,2.381,0.015
 By number of commits to file,Petback,11,docs/replication-controller.md,2,2.381,0.015
+By number of commits to file,Petback,11,docs/admin/cluster-management.md,2,2.381,0.015
+By number of commits to file,Petback,11,cluster/juju/bundles,2,2.381,0.015
+By number of commits to file,Petback,11,docs/getting-started-guides/docker-multinode,2,2.381,0.015
 By number of commits to file,Petback,11,docs/user-guide/environment-guide,2,2.381,0.015
+By number of commits to file,Petback,11,docs/getting-started-guides/coreos,2,2.381,0.015
+By number of commits to file,Petback,11,cluster/addons/dns,2,2.381,0.015
 By number of commits to file,Petback,11,docs/user-guide/connecting-applications.md,2,2.381,0.015
 By number of commits to file,Petback,11,cluster/juju/bundles/README.md,2,2.381,0.015
-By number of commits to file,Petback,11,docs/getting-started-guides/docker-multinode,2,2.381,0.015
-By number of commits to file,Petback,11,docs/getting-started-guides/coreos,2,2.381,0.015
-By number of commits to file,Petback,11,docs/admin/cluster-management.md,2,2.381,0.015
-By number of commits to file,Petback,11,docs/troubleshooting.md,1,1.19,0.007
-By number of commits to file,Petback,11,docs/kubectl_patch.md,1,1.19,0.007
+By number of commits to file,Petback,11,README.md,1,1.19,0.007
+By number of commits to file,Petback,11,examples/openshift-origin,1,1.19,0.007
 All By number of commits to file,Amazon,12,"",82,0.608,0.608
 By number of commits to file,Amazon,12,docs,46,56.098,0.341
 By number of commits to file,Amazon,12,docs/user-guide,26,31.707,0.193
@@ -611,10 +614,9 @@ By number of commits to file,Amazon,12,docs/man/man1,20,24.39,0.148
 By number of commits to file,Amazon,12,pkg/util/jsonpath,12,14.634,0.089
 By number of commits to file,Amazon,12,pkg/kubectl,10,12.195,0.074
 By number of commits to file,Amazon,12,pkg/kubectl/cmd,6,7.317,0.044
-By number of commits to file,Amazon,12,pkg/util/jsonpath/jsonpath_test.go,5,6.098,0.037
 By number of commits to file,Amazon,12,cluster,5,6.098,0.037
+By number of commits to file,Amazon,12,pkg/util/jsonpath/jsonpath_test.go,5,6.098,0.037
 By number of commits to file,Amazon,12,hack,4,4.878,0.03
-By number of commits to file,Amazon,12,pkg/kubectl/cmd/util,3,3.659,0.022
 By number of commits to file,Amazon,12,third_party/golang/template,3,3.659,0.022
 By number of commits to file,Amazon,12,pkg/kubectl/cmd/get.go,3,3.659,0.022
 By number of commits to file,Amazon,12,docs/user-guide/kubectl/kubectl_rolling-update.md,3,3.659,0.022
@@ -624,16 +626,25 @@ By number of commits to file,Amazon,12,docs/user-guide/kubectl/kubectl_annotate.
 By number of commits to file,Amazon,12,docs/man/man1/kubectl-expose.1,3,3.659,0.022
 By number of commits to file,Amazon,12,docs/user-guide/kubectl/kubectl_run.md,3,3.659,0.022
 By number of commits to file,Amazon,12,docs/man/man1/kubectl-config-view.1,3,3.659,0.022
+By number of commits to file,Amazon,12,docs/user-guide/kubectl/kubectl_config_view.md,3,3.659,0.022
 All By number of commits to file,CSE IIT KANPUR,13,"",63,0.467,0.467
 By number of commits to file,CSE IIT KANPUR,13,docs,42,66.667,0.311
+By number of commits to file,CSE IIT KANPUR,13,pkg,21,33.333,0.156
+By number of commits to file,CSE IIT KANPUR,13,docs/user-guide,21,33.333,0.156
+By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl,21,33.333,0.156
 By number of commits to file,CSE IIT KANPUR,13,docs/man,21,33.333,0.156
 By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl,21,33.333,0.156
 By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd,21,33.333,0.156
 By number of commits to file,CSE IIT KANPUR,13,docs/man/man1,21,33.333,0.156
-By number of commits to file,CSE IIT KANPUR,13,pkg,21,33.333,0.156
-By number of commits to file,CSE IIT KANPUR,13,docs/user-guide,21,33.333,0.156
-By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl,21,33.333,0.156
 By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/config,4,6.349,0.03
+By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_expose.md,1,1.587,0.007
+By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/portforward.go,1,1.587,0.007
+By number of commits to file,CSE IIT KANPUR,13,docs/man/man1/kubectl-config-set-credentials.1,1,1.587,0.007
+By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_proxy.md,1,1.587,0.007
+By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_label.md,1,1.587,0.007
+By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_scale.md,1,1.587,0.007
+By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/stop.go,1,1.587,0.007
+By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_describe.md,1,1.587,0.007
 By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/get.go,1,1.587,0.007
 By number of commits to file,CSE IIT KANPUR,13,docs/man/man1/kubectl-delete.1,1,1.587,0.007
 By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/rollingupdate.go,1,1.587,0.007
@@ -642,14 +653,6 @@ By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/attach.go,1,1.587
 By number of commits to file,CSE IIT KANPUR,13,docs/man/man1/kubectl-replace.1,1,1.587,0.007
 By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/patch.go,1,1.587,0.007
 By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/describe.go,1,1.587,0.007
-By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/create.go,1,1.587,0.007
-By number of commits to file,CSE IIT KANPUR,13,pkg/kubectl/cmd/delete.go,1,1.587,0.007
-By number of commits to file,CSE IIT KANPUR,13,docs/man/man1/kubectl-logs.1,1,1.587,0.007
-By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_config_set-credentials.md,1,1.587,0.007
-By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_rolling-update.md,1,1.587,0.007
-By number of commits to file,CSE IIT KANPUR,13,docs/man/man1/kubectl-proxy.1,1,1.587,0.007
-By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_replace.md,1,1.587,0.007
-By number of commits to file,CSE IIT KANPUR,13,docs/user-guide/kubectl/kubectl_create.md,1,1.587,0.007
 All By number of commits to file,CoreOS,14,"",59,0.437,0.437
 By number of commits to file,CoreOS,14,pkg,41,69.492,0.304
 By number of commits to file,CoreOS,14,pkg/kubelet,37,62.712,0.274
@@ -658,44 +661,45 @@ By number of commits to file,CoreOS,14,pkg/kubelet/rkt/rkt.go,11,18.644,0.082
 By number of commits to file,CoreOS,14,pkg/kubelet/dockertools,8,13.559,0.059
 By number of commits to file,CoreOS,14,docs,6,10.169,0.044
 By number of commits to file,CoreOS,14,pkg/kubelet/container,5,8.475,0.037
+By number of commits to file,CoreOS,14,hack,4,6.78,0.03
 By number of commits to file,CoreOS,14,docs/getting-started-guides,4,6.78,0.03
 By number of commits to file,CoreOS,14,pkg/kubelet/dockertools/manager.go,4,6.78,0.03
-By number of commits to file,CoreOS,14,hack,4,6.78,0.03
-By number of commits to file,CoreOS,14,pkg/kubelet/runtime_hooks.go,3,5.085,0.022
 By number of commits to file,CoreOS,14,cmd,3,5.085,0.022
 By number of commits to file,CoreOS,14,docs/getting-started-guides/coreos.md,3,5.085,0.022
+By number of commits to file,CoreOS,14,pkg/kubelet/runtime_hooks.go,3,5.085,0.022
 By number of commits to file,CoreOS,14,pkg/kubelet/container/runtime.go,3,5.085,0.022
-By number of commits to file,CoreOS,14,cmd/kube-apiserver/app/server.go,2,3.39,0.015
-By number of commits to file,CoreOS,14,pkg/kubelet/rkt/pod_info.go,2,3.39,0.015
-By number of commits to file,CoreOS,14,hack/verify-flags/known-flags.txt,2,3.39,0.015
-By number of commits to file,CoreOS,14,cmd/kube-apiserver,2,3.39,0.015
-By number of commits to file,CoreOS,14,hack/verify-flags,2,3.39,0.015
 By number of commits to file,CoreOS,14,plugin,2,3.39,0.015
+By number of commits to file,CoreOS,14,hack/verify-flags,2,3.39,0.015
+By number of commits to file,CoreOS,14,docs/admin,2,3.39,0.015
+By number of commits to file,CoreOS,14,cmd/kube-apiserver,2,3.39,0.015
+By number of commits to file,CoreOS,14,plugin/pkg,2,3.39,0.015
+By number of commits to file,CoreOS,14,pkg/cloudprovider,2,3.39,0.015
+By number of commits to file,CoreOS,14,hack/verify-flags/known-flags.txt,2,3.39,0.015
 By number of commits to file,CoreOS,14,pkg/kubelet/kubelet.go,2,3.39,0.015
-By number of commits to file,CoreOS,14,pkg/kubelet/dockertools/manager_test.go,2,3.39,0.015
-By number of commits to file,CoreOS,14,pkg/cloudprovider/gce,2,3.39,0.015
 By number of commits to file,CoreOS,14,docs/admin/authentication.md,2,3.39,0.015
+By number of commits to file,CoreOS,14,cmd/kube-apiserver/app,2,3.39,0.015
+By number of commits to file,CoreOS,14,plugin/pkg/auth,2,3.39,0.015
 All By number of commits to file,eBay,15,"",59,0.437,0.437
 By number of commits to file,eBay,15,pkg,42,71.186,0.311
-By number of commits to file,eBay,15,pkg/api,14,23.729,0.104
 By number of commits to file,eBay,15,pkg/volume,14,23.729,0.104
+By number of commits to file,eBay,15,pkg/api,14,23.729,0.104
 By number of commits to file,eBay,15,pkg/volume/cinder,10,16.949,0.074
 By number of commits to file,eBay,15,examples/mysql-cinder-pd,6,10.169,0.044
 By number of commits to file,eBay,15,pkg/api/v1,6,10.169,0.044
-By number of commits to file,eBay,15,pkg/api/validation,4,6.78,0.03
 By number of commits to file,eBay,15,cmd,4,6.78,0.03
-By number of commits to file,eBay,15,plugin/pkg/auth/authenticator/request/keystone,3,5.085,0.022
+By number of commits to file,eBay,15,pkg/api/validation,4,6.78,0.03
+By number of commits to file,eBay,15,plugin,3,5.085,0.022
 By number of commits to file,eBay,15,pkg/expapi,3,5.085,0.022
 By number of commits to file,eBay,15,pkg/apiserver,3,5.085,0.022
-By number of commits to file,eBay,15,plugin/pkg/auth/authenticator,3,5.085,0.022
-By number of commits to file,eBay,15,pkg/expapi/v1,2,3.39,0.015
-By number of commits to file,eBay,15,pkg/cloudprovider/providers,2,3.39,0.015
-By number of commits to file,eBay,15,pkg/kubelet/volumes.go,2,3.39,0.015
-By number of commits to file,eBay,15,pkg/volume/plugins.go,2,3.39,0.015
-By number of commits to file,eBay,15,examples/mysql-cinder-pd/mysql-service.yaml,2,3.39,0.015
-By number of commits to file,eBay,15,pkg/auth/authorizer,2,3.39,0.015
-By number of commits to file,eBay,15,cmd/kube-apiserver/app,2,3.39,0.015
-By number of commits to file,eBay,15,pkg/api/v1/conversion_generated.go,2,3.39,0.015
+By number of commits to file,eBay,15,plugin/pkg/auth/authenticator/request/keystone,3,5.085,0.022
+By number of commits to file,eBay,15,api,2,3.39,0.015
+By number of commits to file,eBay,15,pkg/controller,2,3.39,0.015
+By number of commits to file,eBay,15,cmd/kubelet,2,3.39,0.015
+By number of commits to file,eBay,15,api/swagger-spec,2,3.39,0.015
+By number of commits to file,eBay,15,pkg/cloudprovider,2,3.39,0.015
+By number of commits to file,eBay,15,pkg/kubelet,2,3.39,0.015
+By number of commits to file,eBay,15,pkg/auth,2,3.39,0.015
+By number of commits to file,eBay,15,cmd/kube-apiserver,2,3.39,0.015
 All By number of commits to file,NotFound,16,"",32,0.237,0.237
 By number of commits to file,NotFound,16,pkg,24,75.0,0.178
 By number of commits to file,NotFound,16,pkg/kubelet,10,31.25,0.074
@@ -705,20 +709,20 @@ By number of commits to file,NotFound,16,pkg/kubelet/dockertools,5,15.625,0.037
 By number of commits to file,NotFound,16,pkg/util,4,12.5,0.03
 By number of commits to file,NotFound,16,pkg/kubectl,4,12.5,0.03
 By number of commits to file,NotFound,16,pkg/credentialprovider,3,9.375,0.022
-By number of commits to file,NotFound,16,pkg/kubelet/dockertools/docker_test.go,2,6.25,0.015
-By number of commits to file,NotFound,16,pkg/kubectl/describe_test.go,2,6.25,0.015
-By number of commits to file,NotFound,16,pkg/kubectl/describe.go,2,6.25,0.015
 By number of commits to file,NotFound,16,pkg/kubelet/container,2,6.25,0.015
+By number of commits to file,NotFound,16,pkg/kubectl/describe.go,2,6.25,0.015
+By number of commits to file,NotFound,16,pkg/kubectl/describe_test.go,2,6.25,0.015
 By number of commits to file,NotFound,16,docs/user-guide/connecting-applications.md,2,6.25,0.015
-By number of commits to file,NotFound,16,docs/user-guide/pod-states.md,1,3.125,0.007
-By number of commits to file,NotFound,16,pkg/kubelet/rkt,1,3.125,0.007
-By number of commits to file,NotFound,16,pkg/util/backoff.go,1,3.125,0.007
-By number of commits to file,NotFound,16,pkg/kubelet/kubelet.go,1,3.125,0.007
-By number of commits to file,NotFound,16,docs/user-guide/compute-resources.md,1,3.125,0.007
-By number of commits to file,NotFound,16,cluster/aws/util.sh,1,3.125,0.007
-By number of commits to file,NotFound,16,pkg/credentialprovider/config_test.go,1,3.125,0.007
-By number of commits to file,NotFound,16,pkg/api/types.go,1,3.125,0.007
-By number of commits to file,NotFound,16,pkg/credentialprovider/keyring.go,1,3.125,0.007
-By number of commits to file,NotFound,16,pkg/credentialprovider/config.go,1,3.125,0.007
-By number of commits to file,NotFound,16,docs/user-guide/volumes.md,1,3.125,0.007
-By number of commits to file,NotFound,16,docs/user-guide/prereqs.md,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/kubelet/dockertools/docker_test.go,2,6.25,0.015
+By number of commits to file,NotFound,16,cluster,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/cloudprovider,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/volume,1,3.125,0.007
+By number of commits to file,NotFound,16,cluster/aws,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/api,1,3.125,0.007
+By number of commits to file,NotFound,16,docs/getting-started-guides,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/cloudprovider/providers,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/volume/glusterfs,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/kubelet/kubelet_test.go,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/util/backoff_test.go,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/util/clock_test.go,1,3.125,0.007
+By number of commits to file,NotFound,16,pkg/util/clock.go,1,3.125,0.007

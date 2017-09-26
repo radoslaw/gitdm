@@ -1,40 +1,59 @@
-Processed 102 csets from 11 developers
-4 employers found
-A total of 9393 lines added, 1847 removed, 9533 changed (delta 7546)
+Processed 134 csets from 18 developers
+9 employers found
+A total of 11134 lines added, 2303 removed, 11320 changed (delta 8831)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
-Self xlgao!zju.edu.cn Xianglin Gao                                                 27 (26.5%)
-Self 21521209!zju.edu.cn Luke Chen                                                 19 (18.6%)
-Self yulinxie!zju.edu.cn Yulin Xie                                                 17 (16.7%)
-Self mozhuli!users.noreply.github.com Wade Lee                                      1 (1.0%)
+Self xlgao!zju.edu.cn Xianglin Gao                                                 27 (20.1%)
+Self 21521209!zju.edu.cn Luke Chen                                                 19 (14.2%)
+Self yulinxie!zju.edu.cn Yulin Xie                                                 17 (12.7%)
+Self mozhuli!users.noreply.github.com Wade Lee                                      1 (0.7%)
 
 Top changeset contributors by employer
-Self                                                                               64 (62.7%)
-Hyper.sh                                                                           23 (22.5%)
-Google                                                                             11 (10.8%)
-Red Hat                                                                             4 (3.9%)
+Self                                                                               64 (47.8%)
+Hyper.sh                                                                           35 (26.1%)
+Google                                                                             17 (12.7%)
+Red Hat                                                                             5 (3.7%)
+Huawei                                                                              4 (3.0%)
+ZTE Corporation                                                                     3 (2.2%)
+IBM                                                                                 3 (2.2%)
+Wise2c                                                                              2 (1.5%)
+Docker                                                                              1 (0.7%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Self                                                                             6734 (70.6%)
-Hyper.sh                                                                         2265 (23.8%)
-Google                                                                            386 (4.0%)
-Red Hat                                                                           148 (1.6%)
+Self                                                                             6734 (59.5%)
+Hyper.sh                                                                         3182 (28.1%)
+Google                                                                            557 (4.9%)
+IBM                                                                               396 (3.5%)
+ZTE Corporation                                                                   220 (1.9%)
+Red Hat                                                                           203 (1.8%)
+Huawei                                                                             14 (0.1%)
+Wise2c                                                                             12 (0.1%)
+Docker                                                                              2 (0.0%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 72)
-Self                                                                               64 (88.9%)
-Google                                                                              4 (5.6%)
-Red Hat                                                                             4 (5.6%)
+Employers with the most signoffs (total 90)
+Self                                                                               64 (71.1%)
+Google                                                                             10 (11.1%)
+Red Hat                                                                             5 (5.6%)
+IBM                                                                                 4 (4.4%)
+ZTE Corporation                                                                     4 (4.4%)
+Wise2c                                                                              2 (2.2%)
+Docker                                                                              1 (1.1%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 11)
-Self                                                                                4 (36.4%)
-Google                                                                              3 (27.3%)
-Red Hat                                                                             2 (18.2%)
-Hyper.sh                                                                            2 (18.2%)
+Employers with the most hackers (total 18)
+Self                                                                                4 (22.2%)
+Google                                                                              3 (16.7%)
+Red Hat                                                                             2 (11.1%)
+ZTE Corporation                                                                     2 (11.1%)
+Hyper.sh                                                                            2 (11.1%)
+Huawei                                                                              2 (11.1%)
+IBM                                                                                 1 (5.6%)
+Wise2c                                                                              1 (5.6%)
+Docker                                                                              1 (5.6%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

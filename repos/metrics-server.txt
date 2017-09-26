@@ -1,0 +1,35 @@
+Processed 17 csets from 3 developers
+3 employers found
+A total of 22427 lines added, 13868 removed, 35964 changed (delta 8559)
+
+Developers with unknown affiliation
+
+Developers working on their own behalf
+
+Top changeset contributors by employer
+Google                                                                             15 (88.2%)
+Huawei                                                                              1 (5.9%)
+Red Hat                                                                             1 (5.9%)
+Covers 100.000000% of changesets
+
+Top lines changed by employer
+Google                                                                           35961 (100.0%)
+Red Hat                                                                             2 (0.0%)
+Huawei                                                                              1 (0.0%)
+Covers 100.000000% of changes
+
+Employers with the most signoffs (total 1)
+Huawei                                                                              1 (100.0%)
+Covers 100.000000% of signoffs
+
+Employers with the most hackers (total 3)
+Huawei                                                                              1 (33.3%)
+Google                                                                              1 (33.3%)
+Red Hat                                                                             1 (33.3%)
+Covers 100.000000% of hackers
+
+Developer contributions by type
+
+Contributions by type and developers
+
+General contributions by type

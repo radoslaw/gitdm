@@ -1,19 +1,20 @@
-Processed 28 csets from 3 developers
+Processed 55 csets from 3 developers
 2 employers found
-A total of 237131 lines added, 3275 removed, 237145 changed (delta 233856)
+A total of 547971 lines added, 9786 removed, 547998 changed (delta 538185)
 
 Developers with unknown affiliation
+(Unknown) lwander!users.noreply.github.com Lars Wander                             20 (36.4%)
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Microsoft                                                                          15 (53.6%)
-Google                                                                             13 (46.4%)
+Google                                                                             33 (60.0%)
+Microsoft                                                                          22 (40.0%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           235274 (99.2%)
-Microsoft                                                                        1871 (0.8%)
+Microsoft                                                                        301714 (55.1%)
+Google                                                                           246284 (44.9%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)

@@ -1,12 +1,12 @@
-Processed 933 csets from 180 developers
-56 employers found
-A total of 190855 lines added, 154188 removed, 276908 changed (delta 36667)
+Processed 937 csets from 181 developers
+57 employers found
+A total of 191545 lines added, 154379 removed, 277598 changed (delta 37166)
 
 Developers with unknown affiliation
 NotFound meybohm!traum-ferienwohnungen.de Janis Meybohm                             1 (0.1%)
 
 Developers working on their own behalf
-Self pires!apprenda.com Paulo Pires                                                22 (2.4%)
+Self pires!apprenda.com Paulo Pires                                                22 (2.3%)
 Self lucas!weave.works Lucas Käldström                                           17 (1.8%)
 Self justin!fathomdb.com Justin Santa Barbara                                      10 (1.1%)
 Self ablock84!gmail.com Alexander Block                                             4 (0.4%)
@@ -16,9 +16,9 @@ Self ashley!victorianfox.com Ashley Reese                                       
 Self ales.nosek!gmail.com Ales Nosek                                                1 (0.1%)
 
 Top changeset contributors by employer
-Red Hat                                                                           403 (43.2%)
-Google                                                                            270 (28.9%)
-Self                                                                               36 (3.9%)
+Red Hat                                                                           403 (43.0%)
+Google                                                                            271 (28.9%)
+Self                                                                               36 (3.8%)
 Apprenda                                                                           27 (2.9%)
 Hyper.sh                                                                           17 (1.8%)
 Huawei                                                                             16 (1.7%)
@@ -27,10 +27,10 @@ CoreOS                                                                          
 ZTE Corporation                                                                    14 (1.5%)
 EasyStack                                                                          14 (1.5%)
 JPMorgan Chase                                                                     11 (1.2%)
-Microsoft                                                                           9 (1.0%)
-Mirantis                                                                            7 (0.8%)
-Fujitsu                                                                             7 (0.8%)
-eBay                                                                                6 (0.6%)
+Microsoft                                                                          10 (1.1%)
+eBay                                                                                7 (0.7%)
+Mirantis                                                                            7 (0.7%)
+Fujitsu                                                                             7 (0.7%)
 Apache                                                                              5 (0.5%)
 Canonical                                                                           5 (0.5%)
 VMware                                                                              5 (0.5%)
@@ -67,6 +67,7 @@ Software & Things                                                               
 DRUD Tech                                                                           1 (0.1%)
 Rancher                                                                             1 (0.1%)
 Loodse                                                                              1 (0.1%)
+DaoCloud                                                                            1 (0.1%)
 Zalando                                                                             1 (0.1%)
 Apple                                                                               1 (0.1%)
 Igneous Systems                                                                     1 (0.1%)
@@ -75,18 +76,19 @@ Logic Monitor                                                                   
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          180167 (65.1%)
-Google                                                                           67345 (24.3%)
-Microsoft                                                                        6076 (2.2%)
-Huawei                                                                           4294 (1.6%)
+Red Hat                                                                          180167 (64.9%)
+Google                                                                           67630 (24.4%)
+Microsoft                                                                        6089 (2.2%)
+Huawei                                                                           4294 (1.5%)
 Self                                                                             3833 (1.4%)
 Hyper.sh                                                                         2822 (1.0%)
-JPMorgan Chase                                                                   2356 (0.9%)
+JPMorgan Chase                                                                   2356 (0.8%)
 CoreOS                                                                           1292 (0.5%)
 IBM                                                                              1277 (0.5%)
 VMware                                                                           1275 (0.5%)
 Apprenda                                                                          966 (0.3%)
 Apache                                                                            656 (0.2%)
+eBay                                                                              478 (0.2%)
 EasyStack                                                                         445 (0.2%)
 ZTE Corporation                                                                   412 (0.1%)
 Lohika                                                                            384 (0.1%)
@@ -102,10 +104,10 @@ Canonical                                                                       
 Bloomberg LP                                                                      150 (0.1%)
 Net EASE 网易有态度                                                          138 (0.0%)
 Molina Healthcare                                                                 131 (0.0%)
-eBay                                                                              130 (0.0%)
 Jetstack                                                                          102 (0.0%)
 CNM Consulting                                                                     78 (0.0%)
 Heptio                                                                             60 (0.0%)
+DaoCloud                                                                           44 (0.0%)
 42 Tech                                                                            43 (0.0%)
 SoundCloud                                                                         29 (0.0%)
 Fujitsu                                                                            27 (0.0%)
@@ -133,16 +135,17 @@ Software & Things                                                               
 DRUD Tech                                                                           1 (0.0%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 15)
-Red Hat                                                                             7 (46.7%)
-Google                                                                              4 (26.7%)
-ZTE Corporation                                                                     3 (20.0%)
-IBM                                                                                 1 (6.7%)
+Employers with the most signoffs (total 16)
+Red Hat                                                                             7 (43.8%)
+Google                                                                              4 (25.0%)
+ZTE Corporation                                                                     3 (18.8%)
+IBM                                                                                 1 (6.2%)
+DaoCloud                                                                            1 (6.2%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 180)
-Google                                                                             53 (29.4%)
-Red Hat                                                                            39 (21.7%)
+Employers with the most hackers (total 181)
+Google                                                                             53 (29.3%)
+Red Hat                                                                            39 (21.5%)
 Self                                                                                7 (3.9%)
 ZTE Corporation                                                                     6 (3.3%)
 IBM                                                                                 6 (3.3%)
@@ -153,9 +156,10 @@ VMware                                                                          
 Mirantis                                                                            3 (1.7%)
 Hyper.sh                                                                            2 (1.1%)
 Apprenda                                                                            2 (1.1%)
+eBay                                                                                2 (1.1%)
 Canonical                                                                           2 (1.1%)
 Net EASE 网易有态度                                                            2 (1.1%)
-eBay                                                                                2 (1.1%)
+DaoCloud                                                                            1 (0.6%)
 JPMorgan Chase                                                                      1 (0.6%)
 Apache                                                                              1 (0.6%)
 EasyStack                                                                           1 (0.6%)

@@ -1,27 +1,42 @@
-Processed 8 csets from 3 developers
-2 employers found
-A total of 20437 lines added, 4447 removed, 20437 changed (delta 15990)
+Processed 53 csets from 13 developers
+6 employers found
+A total of 21579 lines added, 12085 removed, 31746 changed (delta 9494)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
+Self lucas!weave.works Lucas Käldström                                            1 (1.9%)
+Self jmyue!hotmail.com supereagle                                                   1 (1.9%)
 
 Top changeset contributors by employer
-Red Hat                                                                             6 (75.0%)
-Google                                                                              2 (25.0%)
+Red Hat                                                                            26 (49.1%)
+Google                                                                             19 (35.8%)
+CoreOS                                                                              3 (5.7%)
+Kelowna                                                                             2 (3.8%)
+Self                                                                                2 (3.8%)
+ZTE Corporation                                                                     1 (1.9%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          11247 (55.0%)
-Google                                                                           9190 (45.0%)
+Google                                                                           26123 (82.3%)
+Red Hat                                                                          5458 (17.2%)
+Self                                                                               99 (0.3%)
+CoreOS                                                                             44 (0.1%)
+Kelowna                                                                            21 (0.1%)
+ZTE Corporation                                                                     1 (0.0%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 0)
-Covers 0.000000% of signoffs
+Employers with the most signoffs (total 1)
+ZTE Corporation                                                                     1 (100.0%)
+Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 3)
-Google                                                                              2 (66.7%)
-Red Hat                                                                             1 (33.3%)
+Employers with the most hackers (total 13)
+Red Hat                                                                             5 (38.5%)
+Google                                                                              3 (23.1%)
+Self                                                                                2 (15.4%)
+ZTE Corporation                                                                     1 (7.7%)
+CoreOS                                                                              1 (7.7%)
+Kelowna                                                                             1 (7.7%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

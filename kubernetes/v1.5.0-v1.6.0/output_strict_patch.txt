@@ -1,6 +1,6 @@
 Processed 3593 csets from 347 developers
 105 employers found
-A total of 431187 lines added, 444949 removed, 723680 changed (delta -13762)
+A total of 431186 lines added, 444948 removed, 723679 changed (delta -13762)
 
 Developers with unknown affiliation
 NotFound lzw19860818!aliyun.com LouZhengwei                                         2 (0.1%)
@@ -141,7 +141,7 @@ Covers 100.000000% of changesets
 
 Top lines changed by employer
 Google                                                                           396115 (54.7%)
-Red Hat                                                                          217030 (30.0%)
+Red Hat                                                                          217029 (30.0%)
 Microsoft                                                                        32181 (4.4%)
 Bulletproof                                                                      17595 (2.4%)
 VMware                                                                           6621 (0.9%)

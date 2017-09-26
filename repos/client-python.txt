@@ -1,57 +1,78 @@
-Processed 179 csets from 14 developers
-11 employers found
-A total of 389971 lines added, 122204 removed, 445688 changed (delta 267767)
+Processed 212 csets from 22 developers
+16 employers found
+A total of 397362 lines added, 127073 removed, 453731 changed (delta 270289)
 
 Developers with unknown affiliation
+(Unknown) konraddjimeli!gmail.com djkonro                                           7 (3.3%)
+(Unknown) mccullya!gmail.com BoySherman                                             2 (0.9%)
+(Unknown) dmyerscough!users.noreply.github.com Damian Myerscough                    1 (0.5%)
+(Unknown) jean!raby.sh Jean Raby                                                    1 (0.5%)
 
 Developers working on their own behalf
-Self sergi!koolpi.com Sergi Almacellas Abellana                                     5 (2.8%)
-Self hi!avi.im avi                                                                  2 (1.1%)
-Self skuda21!gmail.com Miguel Angel Rasero                                          1 (0.6%)
+Self sergi!koolpi.com Sergi Almacellas Abellana                                     5 (2.4%)
+Self hi!avi.im avi                                                                  2 (0.9%)
+Self skuda21!gmail.com Miguel Angel Rasero                                          1 (0.5%)
 
 Top changeset contributors by employer
-Google                                                                            139 (77.7%)
-Mirantis                                                                           17 (9.5%)
-Self                                                                                8 (4.5%)
-Blackwood Seven                                                                     5 (2.8%)
-Bitnami                                                                             2 (1.1%)
-Jive Software                                                                       2 (1.1%)
-IEEE Computer Society                                                               2 (1.1%)
-Giant Swarm                                                                         1 (0.6%)
-NEC                                                                                 1 (0.6%)
-Rangobox                                                                            1 (0.6%)
-Sahara Cluster                                                                      1 (0.6%)
+Google                                                                            153 (72.2%)
+Mirantis                                                                           17 (8.0%)
+(Unknown)                                                                          11 (5.2%)
+Self                                                                                8 (3.8%)
+Blackwood Seven                                                                     5 (2.4%)
+SUSE                                                                                3 (1.4%)
+Huawei                                                                              2 (0.9%)
+CERN                                                                                2 (0.9%)
+Bitnami                                                                             2 (0.9%)
+Jive Software                                                                       2 (0.9%)
+IEEE Computer Society                                                               2 (0.9%)
+Giant Swarm                                                                         1 (0.5%)
+Wikimedia Foundation                                                                1 (0.5%)
+NEC                                                                                 1 (0.5%)
+Rangobox                                                                            1 (0.5%)
+Sahara Cluster                                                                      1 (0.5%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           437169 (98.1%)
+Google                                                                           443308 (97.7%)
 Mirantis                                                                         6170 (1.4%)
+(Unknown)                                                                        1808 (0.4%)
 Blackwood Seven                                                                  1243 (0.3%)
 Bitnami                                                                           645 (0.1%)
 Sahara Cluster                                                                    318 (0.1%)
 Self                                                                              129 (0.0%)
+SUSE                                                                               52 (0.0%)
+Huawei                                                                             40 (0.0%)
 Jive Software                                                                       5 (0.0%)
 IEEE Computer Society                                                               5 (0.0%)
+CERN                                                                                3 (0.0%)
 Giant Swarm                                                                         2 (0.0%)
+Wikimedia Foundation                                                                1 (0.0%)
 NEC                                                                                 1 (0.0%)
 Rangobox                                                                            1 (0.0%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 0)
-Covers 0.000000% of signoffs
+Employers with the most signoffs (total 3)
+CERN                                                                                2 (66.7%)
+SUSE                                                                                1 (33.3%)
+Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 14)
-Self                                                                                3 (21.4%)
-Google                                                                              2 (14.3%)
-Mirantis                                                                            1 (7.1%)
-Blackwood Seven                                                                     1 (7.1%)
-Bitnami                                                                             1 (7.1%)
-Sahara Cluster                                                                      1 (7.1%)
-Jive Software                                                                       1 (7.1%)
-IEEE Computer Society                                                               1 (7.1%)
-Giant Swarm                                                                         1 (7.1%)
-NEC                                                                                 1 (7.1%)
-Rangobox                                                                            1 (7.1%)
+Employers with the most hackers (total 23)
+(Unknown)                                                                           4 (17.4%)
+Self                                                                                3 (13.0%)
+SUSE                                                                                2 (8.7%)
+Google                                                                              2 (8.7%)
+CERN                                                                                1 (4.3%)
+Mirantis                                                                            1 (4.3%)
+Blackwood Seven                                                                     1 (4.3%)
+Bitnami                                                                             1 (4.3%)
+Sahara Cluster                                                                      1 (4.3%)
+Huawei                                                                              1 (4.3%)
+Jive Software                                                                       1 (4.3%)
+IEEE Computer Society                                                               1 (4.3%)
+Giant Swarm                                                                         1 (4.3%)
+Wikimedia Foundation                                                                1 (4.3%)
+NEC                                                                                 1 (4.3%)
+Rangobox                                                                            1 (4.3%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

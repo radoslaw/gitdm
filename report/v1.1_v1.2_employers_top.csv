@@ -10,13 +10,13 @@ idx,company,n,percent
 8,Fujitsu,5,1.4
 9,Mesosphere,4,1.1
 10,Net EASE 网易有态度,4,1.1
-11,eBay,3,0.9
-12,Weaveworks,3,0.9
-13,Apcera,3,0.9
-14,Microsoft,3,0.9
-15,Amadeus,3,0.9
-16,Caicloud,3,0.9
-17,Sky,2,0.6
-18,Jetstack,2,0.6
-19,Juniper Networks,2,0.6
-20,Canonical,2,0.6
+11,Caicloud,3,0.9
+12,Amadeus,3,0.9
+13,Microsoft,3,0.9
+14,Apcera,3,0.9
+15,eBay,3,0.9
+16,Weaveworks,3,0.9
+17,Cisco,2,0.6
+18,Docker,2,0.6
+19,Diamanti,2,0.6
+20,Metaswitch,2,0.6

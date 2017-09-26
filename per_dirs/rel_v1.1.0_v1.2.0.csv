@@ -10647,7 +10647,7 @@
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/typed/generated/extensions/v1beta1/fake/fake_scale.go",23,0,23
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/typed/generated/extensions/v1beta1/fake/fake_scale_expansion.go",46,0,46
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/controller/serviceaccount/serviceaccounts_controller_test.go",1,1,1
-"xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/clientset_generated/internalclientset/fake/discovery.go",76,0,76
+"xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/clientset_generated/internalclientset/fake/discovery.go",2,0,2
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/typed/generated/core/v1/fake/fake_event_expansion.go",89,0,89
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/volume/fc/fc_test.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/typed/generated/core/v1/fake/fake_serviceaccount.go",103,0,103
@@ -10687,7 +10687,7 @@
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/controller/podautoscaler/metrics/metrics_client_test.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/volume/aws_ebs/aws_ebs_test.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/typed/generated/extensions/v1beta1/fake/fake_ingress.go",113,0,113
-"xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/clientset_generated/release_1_2/fake/discovery.go",2,0,2
+"xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/client/clientset_generated/release_1_2/fake/discovery.go",76,0,76
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/util/deployment/deployment_test.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/controller/deployment/deployment_controller_test.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-02-16","Google","pkg/controller/replication/replication_controller_test.go",1,1,1

@@ -2,14 +2,14 @@ Order,Company,Index,File/Directory,Number,Percent,PercentAll
 All By changed lines,All,0,"",482982,100.0,100.0
 All By changed lines,Google,1,"",272467,56.413,56.413
 By changed lines,Google,1,docs,94798,34.792,19.628
-By changed lines,Google,1,pkg,82577,30.307,17.097
+By changed lines,Google,1,pkg,82709,30.356,17.125
 By changed lines,Google,1,docs/man/man1,68793,25.248,14.243
-By changed lines,Google,1,staging,33657,12.353,6.969
-By changed lines,Google,1,staging/src/k8s.io,33622,12.34,6.961
+By changed lines,Google,1,staging,33525,12.304,6.941
+By changed lines,Google,1,staging/src/k8s.io,33490,12.291,6.934
 By changed lines,Google,1,pkg/kubelet,24406,8.957,5.053
 By changed lines,Google,1,api,15309,5.619,3.17
 By changed lines,Google,1,test,13850,5.083,2.868
-By changed lines,Google,1,staging/src/k8s.io/client-go,13817,5.071,2.861
+By changed lines,Google,1,staging/src/k8s.io/client-go,13685,5.023,2.833
 By changed lines,Google,1,docs/user-guide/kubectl,13356,4.902,2.765
 By changed lines,Google,1,pkg/controller,11526,4.23,2.386
 By changed lines,Google,1,api/openapi-spec/swagger.json,11371,4.173,2.354
@@ -17,7 +17,7 @@ By changed lines,Google,1,docs/yaml/kubectl,11174,4.101,2.314
 By changed lines,Google,1,pkg/cloudprovider,10726,3.937,2.221
 By changed lines,Google,1,pkg/cloudprovider/providers,10699,3.927,2.215
 By changed lines,Google,1,pkg/cloudprovider/providers/gce,10270,3.769,2.126
-By changed lines,Google,1,pkg/api,9469,3.475,1.961
+By changed lines,Google,1,pkg/api,9601,3.524,1.988
 By changed lines,Google,1,staging/src/k8s.io/apimachinery,9327,3.423,1.931
 By changed lines,Google,1,staging/src/k8s.io/apimachinery/pkg,9248,3.394,1.915
 By changed lines,Google,1,pkg/kubelet/dockertools,8885,3.261,1.84
@@ -154,7 +154,7 @@ By changed lines,Hyper.sh,8,pkg/fieldpath,255,6.361,0.053
 By changed lines,Hyper.sh,8,pkg/kubelet/dockershim,250,6.236,0.052
 By changed lines,Hyper.sh,8,pkg/kubelet/kuberuntime,238,5.937,0.049
 By changed lines,Hyper.sh,8,pkg/api/v1,224,5.587,0.046
-By changed lines,Hyper.sh,8,staging/src/k8s.io/client-go,142,3.542,0.029
+By changed lines,Hyper.sh,8,staging/src/k8s.io,142,3.542,0.029
 All By changed lines,IBM,9,"",3860,0.799,0.799
 By changed lines,IBM,9,pkg,1819,47.124,0.377
 By changed lines,IBM,9,plugin,1002,25.959,0.207
@@ -176,7 +176,7 @@ By changed lines,IBM,9,pkg/controller,217,5.622,0.045
 By changed lines,IBM,9,staging/src/k8s.io/client-go,199,5.155,0.041
 By changed lines,IBM,9,pkg/kubelet/types,195,5.052,0.04
 By changed lines,IBM,9,staging/src/k8s.io/apimachinery/pkg,188,4.87,0.039
-By changed lines,IBM,9,staging/src/k8s.io/apimachinery/pkg/api/resource,186,4.819,0.039
+By changed lines,IBM,9,staging/src/k8s.io/apimachinery/pkg/api,186,4.819,0.039
 All By changed lines,Kelowna,10,"",3471,0.719,0.719
 By changed lines,Kelowna,10,docs,1548,44.598,0.321
 By changed lines,Kelowna,10,api,1068,30.769,0.221
@@ -234,8 +234,9 @@ By changed lines,storageos,12,staging/src/k8s.io/client-go/pkg,127,3.976,0.026
 By changed lines,storageos,12,staging/src/k8s.io/client-go/pkg/api,126,3.945,0.026
 By changed lines,storageos,12,pkg/api/v1,73,2.286,0.015
 By changed lines,storageos,12,pkg/volume/storageos/BUILD,69,2.16,0.014
-By changed lines,storageos,12,staging/src/k8s.io/client-go/pkg/api/v1/types.go,63,1.972,0.013
-By changed lines,storageos,12,staging/src/k8s.io/client-go/pkg/api/types.go,63,1.972,0.013
+By changed lines,storageos,12,pkg/api/types.go,63,1.972,0.013
+By changed lines,storageos,12,pkg/api/v1/types.go,63,1.972,0.013
+By changed lines,storageos,12,staging/src/k8s.io/client-go/pkg/api/v1,63,1.972,0.013
 All By changed lines,Fujitsu,13,"",3027,0.627,0.627
 By changed lines,Fujitsu,13,pkg,2218,73.274,0.459
 By changed lines,Fujitsu,13,pkg/kubectl,1520,50.215,0.315
@@ -244,8 +245,8 @@ By changed lines,Fujitsu,13,pkg/kubectl/cmd/set,711,23.489,0.147
 By changed lines,Fujitsu,13,pkg/kubectl/cmd/set/set_subject_test.go,427,14.106,0.088
 By changed lines,Fujitsu,13,cmd,396,13.082,0.082
 By changed lines,Fujitsu,13,cmd/kubeadm,393,12.983,0.081
-By changed lines,Fujitsu,13,pkg/printers,314,10.373,0.065
 By changed lines,Fujitsu,13,pkg/registry,314,10.373,0.065
+By changed lines,Fujitsu,13,pkg/printers,314,10.373,0.065
 By changed lines,Fujitsu,13,pkg/registry/rbac/validation,313,10.34,0.065
 By changed lines,Fujitsu,13,pkg/printers/internalversion,304,10.043,0.063
 By changed lines,Fujitsu,13,pkg/kubectl/cmd/create_clusterrole_test.go,290,9.58,0.06
@@ -258,7 +259,7 @@ By changed lines,Fujitsu,13,pkg/printers/internalversion/describe.go,165,5.451,0
 By changed lines,Fujitsu,13,cmd/kubeadm/app/master,159,5.253,0.033
 By changed lines,Fujitsu,13,pkg/kubectl/cmd/create_role_test.go,148,4.889,0.031
 By changed lines,Fujitsu,13,pkg/printers/internalversion/printers.go,137,4.526,0.028
-By changed lines,Fujitsu,13,cmd/kubeadm/test/cmd,132,4.361,0.027
+By changed lines,Fujitsu,13,cmd/kubeadm/test,132,4.361,0.027
 All By changed lines,EasyStack,14,"",2987,0.618,0.618
 By changed lines,EasyStack,14,pkg,2401,80.382,0.497
 By changed lines,EasyStack,14,pkg/controller,1376,46.066,0.285
@@ -281,8 +282,8 @@ By changed lines,EasyStack,14,pkg/kubelet/volumemanager/populator/desired_state_
 By changed lines,EasyStack,14,pkg/volume/cinder/attacher.go,158,5.29,0.033
 By changed lines,EasyStack,14,test/e2e,149,4.988,0.031
 By changed lines,EasyStack,14,pkg/volume/cinder/attacher_test.go,144,4.821,0.03
-By changed lines,EasyStack,14,pkg/controller/volume/attachdetach/populator/desired_state_of_world_populator_test.go,137,4.587,0.028
 By changed lines,EasyStack,14,pkg/controller/service,137,4.587,0.028
+By changed lines,EasyStack,14,pkg/controller/volume/attachdetach/populator/desired_state_of_world_populator_test.go,137,4.587,0.028
 By changed lines,EasyStack,14,federation,133,4.453,0.028
 All By changed lines,ASG Consulting,15,"",2726,0.564,0.564
 By changed lines,ASG Consulting,15,cmd,920,33.749,0.19
@@ -312,22 +313,22 @@ By changed lines,NotFound,16,cluster/addons/registry,18,16.364,0.004
 By changed lines,NotFound,16,pkg/controller/podautoscaler/horizontal.go,17,15.455,0.004
 By changed lines,NotFound,16,pkg/controller/garbagecollector/graph_builder.go,14,12.727,0.003
 By changed lines,NotFound,16,cluster/addons/registry/README.md,13,11.818,0.003
-By changed lines,NotFound,16,pkg/controller/volume/persistentvolume/pv_controller.go,4,3.636,0.001
-By changed lines,NotFound,16,pkg/apis/componentconfig,4,3.636,0.001
-By changed lines,NotFound,16,pkg/controller/volume/persistentvolume,4,3.636,0.001
 By changed lines,NotFound,16,staging/src,4,3.636,0.001
-By changed lines,NotFound,16,pkg/apis/componentconfig/types.go,4,3.636,0.001
-By changed lines,NotFound,16,staging/src/k8s.io,4,3.636,0.001
 By changed lines,NotFound,16,pkg/apis,4,3.636,0.001
-By changed lines,NotFound,16,staging,4,3.636,0.001
+By changed lines,NotFound,16,staging/src/k8s.io,4,3.636,0.001
+By changed lines,NotFound,16,pkg/apis/componentconfig,4,3.636,0.001
+By changed lines,NotFound,16,pkg/controller/volume,4,3.636,0.001
+By changed lines,NotFound,16,pkg/controller/podautoscaler/legacy_horizontal_test.go,4,3.636,0.001
+By changed lines,NotFound,16,pkg/apis/componentconfig/types.go,4,3.636,0.001
 By changed lines,NotFound,16,pkg/controller/podautoscaler/horizontal_test.go,4,3.636,0.001
+By changed lines,NotFound,16,pkg/controller/volume/persistentvolume,4,3.636,0.001
 All By number of commits to file,All,0,"",13540,100.0,100.0
 All By number of commits to file,Google,1,"",6432,47.504,47.504
-By number of commits to file,Google,1,pkg,2638,41.014,19.483
-By number of commits to file,Google,1,staging,1166,18.128,8.612
-By number of commits to file,Google,1,staging/src/k8s.io,1159,18.019,8.56
+By number of commits to file,Google,1,pkg,2639,41.029,19.49
+By number of commits to file,Google,1,staging,1165,18.113,8.604
+By number of commits to file,Google,1,staging/src/k8s.io,1158,18.004,8.552
 By number of commits to file,Google,1,test,647,10.059,4.778
-By number of commits to file,Google,1,staging/src/k8s.io/client-go,624,9.701,4.609
+By number of commits to file,Google,1,staging/src/k8s.io/client-go,623,9.686,4.601
 By number of commits to file,Google,1,docs,508,7.898,3.752
 By number of commits to file,Google,1,pkg/kubelet,496,7.711,3.663
 By number of commits to file,Google,1,pkg/client,427,6.639,3.154
@@ -337,12 +338,12 @@ By number of commits to file,Google,1,cmd,305,4.742,2.253
 By number of commits to file,Google,1,federation,296,4.602,2.186
 By number of commits to file,Google,1,pkg/controller,278,4.322,2.053
 By number of commits to file,Google,1,staging/src/k8s.io/apiserver,256,3.98,1.891
-By number of commits to file,Google,1,staging/src/k8s.io/client-go/pkg,252,3.918,1.861
+By number of commits to file,Google,1,staging/src/k8s.io/client-go/pkg,251,3.902,1.854
 By number of commits to file,Google,1,staging/src/k8s.io/apiserver/pkg,229,3.56,1.691
 By number of commits to file,Google,1,pkg/client/clientset_generated,220,3.42,1.625
 By number of commits to file,Google,1,docs/man/man1,213,3.312,1.573
 By number of commits to file,Google,1,pkg/apis,210,3.265,1.551
-By number of commits to file,Google,1,pkg/api,192,2.985,1.418
+By number of commits to file,Google,1,pkg/api,193,3.001,1.425
 By number of commits to file,Google,1,docs/user-guide/kubectl,180,2.799,1.329
 By number of commits to file,Google,1,pkg/kubectl,174,2.705,1.285
 All By number of commits to file,Red Hat,2,"",3428,25.318,25.318
@@ -366,9 +367,9 @@ By number of commits to file,Red Hat,2,test/e2e,150,4.376,1.108
 By number of commits to file,Red Hat,2,pkg/controller,128,3.734,0.945
 By number of commits to file,Red Hat,2,staging/src/k8s.io/kube-apiextensions-server/pkg/client,124,3.617,0.916
 By number of commits to file,Red Hat,2,staging/src/k8s.io/apiextensions-apiserver,119,3.471,0.879
-By number of commits to file,Red Hat,2,staging/src/k8s.io/kube-aggregator,113,3.296,0.835
 By number of commits to file,Red Hat,2,cmd,113,3.296,0.835
 By number of commits to file,Red Hat,2,plugin/pkg/admission,113,3.296,0.835
+By number of commits to file,Red Hat,2,staging/src/k8s.io/kube-aggregator,113,3.296,0.835
 By number of commits to file,Red Hat,2,test/integration,110,3.209,0.812
 All By number of commits to file,Self,3,"",427,3.154,3.154
 By number of commits to file,Self,3,pkg,132,30.913,0.975
@@ -380,8 +381,8 @@ By number of commits to file,Self,3,cmd,54,12.646,0.399
 By number of commits to file,Self,3,cluster/juju/layers,45,10.539,0.332
 By number of commits to file,Self,3,staging/src/k8s.io,44,10.304,0.325
 By number of commits to file,Self,3,cmd/kubeadm/app,39,9.133,0.288
-By number of commits to file,Self,3,cluster/juju/layers/kubernetes-worker,26,6.089,0.192
 By number of commits to file,Self,3,pkg/kubelet,26,6.089,0.192
+By number of commits to file,Self,3,cluster/juju/layers/kubernetes-worker,26,6.089,0.192
 By number of commits to file,Self,3,pkg/cloudprovider,25,5.855,0.185
 By number of commits to file,Self,3,pkg/cloudprovider/providers/aws,24,5.621,0.177
 By number of commits to file,Self,3,pkg/controller,23,5.386,0.17
@@ -396,8 +397,8 @@ By number of commits to file,Kelowna,4,docs,141,45.338,1.041
 By number of commits to file,Kelowna,4,docs/user-guide,74,23.794,0.547
 By number of commits to file,Kelowna,4,api,38,12.219,0.281
 By number of commits to file,Kelowna,4,api/swagger-spec,37,11.897,0.273
-By number of commits to file,Kelowna,4,docs/getting-started-guides,31,9.968,0.229
 By number of commits to file,Kelowna,4,pkg,31,9.968,0.229
+By number of commits to file,Kelowna,4,docs/getting-started-guides,31,9.968,0.229
 By number of commits to file,Kelowna,4,staging/src/k8s.io,30,9.646,0.222
 By number of commits to file,Kelowna,4,docs/admin,29,9.325,0.214
 By number of commits to file,Kelowna,4,examples,24,7.717,0.177
@@ -410,9 +411,8 @@ By number of commits to file,Kelowna,4,hack,9,2.894,0.066
 By number of commits to file,Kelowna,4,cmd,8,2.572,0.059
 By number of commits to file,Kelowna,4,federation/apis/swagger-spec,7,2.251,0.052
 By number of commits to file,Kelowna,4,examples/storage,6,1.929,0.044
-By number of commits to file,Kelowna,4,plugin,5,1.608,0.037
-By number of commits to file,Kelowna,4,test,5,1.608,0.037
 By number of commits to file,Kelowna,4,cluster,5,1.608,0.037
+By number of commits to file,Kelowna,4,test,5,1.608,0.037
 By number of commits to file,Kelowna,4,plugin/pkg,5,1.608,0.037
 All By number of commits to file,EasyStack,5,"",225,1.662,1.662
 By number of commits to file,EasyStack,5,pkg,136,60.444,1.004
@@ -433,11 +433,11 @@ By number of commits to file,EasyStack,5,pkg/volume/cinder,10,4.444,0.074
 By number of commits to file,EasyStack,5,pkg/cloudprovider/providers/openstack,9,4.0,0.066
 By number of commits to file,EasyStack,5,cmd,8,3.556,0.059
 By number of commits to file,EasyStack,5,pkg/controller/volume/persistentvolume/pv_controller.go,7,3.111,0.052
+By number of commits to file,EasyStack,5,pkg/api,6,2.667,0.044
 By number of commits to file,EasyStack,5,pkg/kubelet/volumemanager,6,2.667,0.044
 By number of commits to file,EasyStack,5,federation/pkg/federation-controller/util,6,2.667,0.044
-By number of commits to file,EasyStack,5,pkg/api,6,2.667,0.044
-By number of commits to file,EasyStack,5,pkg/controller/volume/persistentvolume/pv_controller_base.go,5,2.222,0.037
-By number of commits to file,EasyStack,5,staging/src/k8s.io/client-go/pkg/api,5,2.222,0.037
+By number of commits to file,EasyStack,5,staging/src,5,2.222,0.037
+By number of commits to file,EasyStack,5,pkg/volume/util,5,2.222,0.037
 All By number of commits to file,IBM,6,"",203,1.499,1.499
 By number of commits to file,IBM,6,pkg,87,42.857,0.643
 By number of commits to file,IBM,6,plugin,44,21.675,0.325
@@ -452,12 +452,12 @@ By number of commits to file,IBM,6,plugin/pkg/scheduler/algorithm,14,6.897,0.103
 By number of commits to file,IBM,6,test,12,5.911,0.089
 By number of commits to file,IBM,6,pkg/api/v1,11,5.419,0.081
 By number of commits to file,IBM,6,api,10,4.926,0.074
-By number of commits to file,IBM,6,staging/src/k8s.io/client-go/pkg,10,4.926,0.074
 By number of commits to file,IBM,6,test/e2e,10,4.926,0.074
-By number of commits to file,IBM,6,staging/src/k8s.io/client-go/pkg/api,10,4.926,0.074
+By number of commits to file,IBM,6,staging/src/k8s.io/client-go/pkg,10,4.926,0.074
 By number of commits to file,IBM,6,plugin/pkg/scheduler/algorithm/predicates,10,4.926,0.074
-By number of commits to file,IBM,6,pkg/kubelet/cm,9,4.433,0.066
+By number of commits to file,IBM,6,staging/src/k8s.io/client-go/pkg/api,10,4.926,0.074
 By number of commits to file,IBM,6,cmd,9,4.433,0.066
+By number of commits to file,IBM,6,pkg/kubelet/cm,9,4.433,0.066
 By number of commits to file,IBM,6,plugin/pkg/admission,8,3.941,0.059
 By number of commits to file,IBM,6,api/swagger-spec,7,3.448,0.052
 By number of commits to file,IBM,6,test/e2e/testing-manifests/statefulset,7,3.448,0.052
@@ -469,16 +469,17 @@ By number of commits to file,Microsoft,7,pkg/kubelet,29,14.796,0.214
 By number of commits to file,Microsoft,7,pkg/kubelet/dockershim,18,9.184,0.133
 By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure_loadbalancer.go,16,8.163,0.118
 By number of commits to file,Microsoft,7,staging/src/k8s.io/client-go,10,5.102,0.074
-By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure_test.go,8,4.082,0.059
 By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure_util.go,8,4.082,0.059
-By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure_backoff.go,7,3.571,0.052
+By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure_test.go,8,4.082,0.059
 By number of commits to file,Microsoft,7,api,7,3.571,0.052
 By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure.go,7,3.571,0.052
-By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure_instances.go,6,3.061,0.044
-By number of commits to file,Microsoft,7,pkg/proxy/winuserspace,6,3.061,0.044
-By number of commits to file,Microsoft,7,pkg/kubelet/util,6,3.061,0.044
+By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure_backoff.go,7,3.571,0.052
 By number of commits to file,Microsoft,7,api/swagger-spec,6,3.061,0.044
-By number of commits to file,Microsoft,7,staging/src/k8s.io/client-go/plugin/pkg/client/auth,6,3.061,0.044
+By number of commits to file,Microsoft,7,pkg/proxy,6,3.061,0.044
+By number of commits to file,Microsoft,7,pkg/kubelet/util,6,3.061,0.044
+By number of commits to file,Microsoft,7,pkg/proxy/winuserspace,6,3.061,0.044
+By number of commits to file,Microsoft,7,pkg/cloudprovider/providers/azure/azure_instances.go,6,3.061,0.044
+By number of commits to file,Microsoft,7,staging/src/k8s.io/client-go/plugin/pkg,6,3.061,0.044
 All By number of commits to file,Fujitsu,8,"",162,1.196,1.196
 By number of commits to file,Fujitsu,8,pkg,65,40.123,0.48
 By number of commits to file,Fujitsu,8,pkg/kubectl,45,27.778,0.332
@@ -495,14 +496,14 @@ By number of commits to file,Fujitsu,8,staging/src/k8s.io/apiserver/pkg/endpoint
 By number of commits to file,Fujitsu,8,hack/make-rules,10,6.173,0.074
 By number of commits to file,Fujitsu,8,pkg/kubectl/cmd/auth,9,5.556,0.066
 By number of commits to file,Fujitsu,8,staging/src/k8s.io/client-go,7,4.321,0.052
+By number of commits to file,Fujitsu,8,pkg/registry,6,3.704,0.044
+By number of commits to file,Fujitsu,8,pkg/printers,6,3.704,0.044
+By number of commits to file,Fujitsu,8,hack/make-rules/test-cmd-util.sh,6,3.704,0.044
+By number of commits to file,Fujitsu,8,pkg/kubectl/cmd/create_role.go,6,3.704,0.044
+By number of commits to file,Fujitsu,8,cmd/kubeadm/app/cmd,6,3.704,0.044
+By number of commits to file,Fujitsu,8,cmd/kubeadm/app/apis,6,3.704,0.044
 By number of commits to file,Fujitsu,8,pkg/kubectl/cmd/auth/cani.go,6,3.704,0.044
 By number of commits to file,Fujitsu,8,cmd/kubeadm/app/apis/kubeadm,6,3.704,0.044
-By number of commits to file,Fujitsu,8,pkg/printers,6,3.704,0.044
-By number of commits to file,Fujitsu,8,cmd/kubeadm/app/apis,6,3.704,0.044
-By number of commits to file,Fujitsu,8,pkg/kubectl/cmd/create_role.go,6,3.704,0.044
-By number of commits to file,Fujitsu,8,hack/make-rules/test-cmd-util.sh,6,3.704,0.044
-By number of commits to file,Fujitsu,8,pkg/registry,6,3.704,0.044
-By number of commits to file,Fujitsu,8,staging/src/k8s.io/apiserver/pkg/endpoints/filters,6,3.704,0.044
 All By number of commits to file,ZTE Corporation,9,"",160,1.182,1.182
 By number of commits to file,ZTE Corporation,9,pkg,93,58.125,0.687
 By number of commits to file,ZTE Corporation,9,pkg/kubectl,33,20.625,0.244
@@ -510,23 +511,23 @@ By number of commits to file,ZTE Corporation,9,pkg/kubectl/cmd,26,16.25,0.192
 By number of commits to file,ZTE Corporation,9,pkg/printers/internalversion,15,9.375,0.111
 By number of commits to file,ZTE Corporation,9,pkg/kubelet,13,8.125,0.096
 By number of commits to file,ZTE Corporation,9,cmd,12,7.5,0.089
-By number of commits to file,ZTE Corporation,9,pkg/registry,10,6.25,0.074
-By number of commits to file,ZTE Corporation,9,staging/src/k8s.io,10,6.25,0.074
-By number of commits to file,ZTE Corporation,9,federation,10,6.25,0.074
-By number of commits to file,ZTE Corporation,9,pkg/controller,10,6.25,0.074
-By number of commits to file,ZTE Corporation,9,staging/src,10,6.25,0.074
 By number of commits to file,ZTE Corporation,9,test,10,6.25,0.074
+By number of commits to file,ZTE Corporation,9,staging,10,6.25,0.074
+By number of commits to file,ZTE Corporation,9,federation,10,6.25,0.074
+By number of commits to file,ZTE Corporation,9,pkg/registry,10,6.25,0.074
+By number of commits to file,ZTE Corporation,9,staging/src,10,6.25,0.074
+By number of commits to file,ZTE Corporation,9,pkg/controller,10,6.25,0.074
+By number of commits to file,ZTE Corporation,9,staging/src/k8s.io,10,6.25,0.074
 By number of commits to file,ZTE Corporation,9,examples,9,5.625,0.066
 By number of commits to file,ZTE Corporation,9,pkg/registry/apps,8,5.0,0.059
 By number of commits to file,ZTE Corporation,9,federation/pkg,7,4.375,0.052
 By number of commits to file,ZTE Corporation,9,pkg/printers/internalversion/describe.go,7,4.375,0.052
+By number of commits to file,ZTE Corporation,9,test/images,6,3.75,0.044
 By number of commits to file,ZTE Corporation,9,federation/pkg/federation-controller,6,3.75,0.044
 By number of commits to file,ZTE Corporation,9,pkg/registry/apps/statefulset,6,3.75,0.044
-By number of commits to file,ZTE Corporation,9,test/images,6,3.75,0.044
-By number of commits to file,ZTE Corporation,9,plugin/pkg/scheduler,4,2.5,0.03
-By number of commits to file,ZTE Corporation,9,staging/src/k8s.io/apiserver,4,2.5,0.03
+By number of commits to file,ZTE Corporation,9,plugin,4,2.5,0.03
 By number of commits to file,ZTE Corporation,9,examples/storage,4,2.5,0.03
-By number of commits to file,ZTE Corporation,9,plugin/pkg,4,2.5,0.03
+By number of commits to file,ZTE Corporation,9,plugin/pkg/scheduler,4,2.5,0.03
 All By number of commits to file,ASG Consulting,10,"",157,1.16,1.16
 By number of commits to file,ASG Consulting,10,pkg,77,49.045,0.569
 By number of commits to file,ASG Consulting,10,pkg/controller,40,25.478,0.295
@@ -536,18 +537,20 @@ By number of commits to file,ASG Consulting,10,pkg/client,22,14.013,0.162
 By number of commits to file,ASG Consulting,10,pkg/client/listers,21,13.376,0.155
 By number of commits to file,ASG Consulting,10,cmd/kube-proxy,14,8.917,0.103
 By number of commits to file,ASG Consulting,10,staging/src/k8s.io/client-go,13,8.28,0.096
-By number of commits to file,ASG Consulting,10,staging/src/k8s.io/client-go/listers,10,6.369,0.074
 By number of commits to file,ASG Consulting,10,cmd/kube-proxy/app,10,6.369,0.074
+By number of commits to file,ASG Consulting,10,staging/src/k8s.io/client-go/listers,10,6.369,0.074
 By number of commits to file,ASG Consulting,10,pkg/controller/garbagecollector,9,5.732,0.066
 By number of commits to file,ASG Consulting,10,test,8,5.096,0.059
 By number of commits to file,ASG Consulting,10,cmd/kube-controller-manager/app,7,4.459,0.052
 By number of commits to file,ASG Consulting,10,hack,6,3.822,0.044
-By number of commits to file,ASG Consulting,10,staging/src/k8s.io/kube-apiextensions-server/pkg,5,3.185,0.037
 By number of commits to file,ASG Consulting,10,test/e2e,5,3.185,0.037
+By number of commits to file,ASG Consulting,10,staging/src/k8s.io/kube-apiextensions-server,5,3.185,0.037
+By number of commits to file,ASG Consulting,10,staging/src/k8s.io/kube-aggregator,5,3.185,0.037
+By number of commits to file,ASG Consulting,10,staging/src/k8s.io/kube-apiextensions-server/pkg,5,3.185,0.037
 By number of commits to file,ASG Consulting,10,staging/src/k8s.io/kube-aggregator/pkg,5,3.185,0.037
-By number of commits to file,ASG Consulting,10,staging/src/k8s.io/apimachinery/pkg,4,2.548,0.03
-By number of commits to file,ASG Consulting,10,cmd/libs/go2idl,4,2.548,0.03
-By number of commits to file,ASG Consulting,10,pkg/apis/componentconfig,4,2.548,0.03
+By number of commits to file,ASG Consulting,10,pkg/apis,4,2.548,0.03
+By number of commits to file,ASG Consulting,10,cmd/libs,4,2.548,0.03
+By number of commits to file,ASG Consulting,10,pkg/kubelet,4,2.548,0.03
 All By number of commits to file,Hyper.sh,11,"",147,1.086,1.086
 By number of commits to file,Hyper.sh,11,pkg,123,83.673,0.908
 By number of commits to file,Hyper.sh,11,pkg/kubelet,111,75.51,0.82
@@ -555,21 +558,21 @@ By number of commits to file,Hyper.sh,11,pkg/kubelet/dockershim,46,31.293,0.34
 By number of commits to file,Hyper.sh,11,pkg/kubelet/kuberuntime,27,18.367,0.199
 By number of commits to file,Hyper.sh,11,plugin/pkg/scheduler,11,7.483,0.081
 By number of commits to file,Hyper.sh,11,pkg/kubelet/api,10,6.803,0.074
-By number of commits to file,Hyper.sh,11,pkg/kubelet/api/v1alpha1/runtime,8,5.442,0.059
 By number of commits to file,Hyper.sh,11,pkg/kubelet/apis/cri,8,5.442,0.059
-By number of commits to file,Hyper.sh,11,plugin/pkg/scheduler/core,6,4.082,0.044
-By number of commits to file,Hyper.sh,11,test/e2e_node,6,4.082,0.044
-By number of commits to file,Hyper.sh,11,pkg/kubelet/rktshim,6,4.082,0.044
+By number of commits to file,Hyper.sh,11,pkg/kubelet/api/v1alpha1/runtime,8,5.442,0.059
 By number of commits to file,Hyper.sh,11,test,6,4.082,0.044
 By number of commits to file,Hyper.sh,11,pkg/api,6,4.082,0.044
+By number of commits to file,Hyper.sh,11,test/e2e_node,6,4.082,0.044
+By number of commits to file,Hyper.sh,11,pkg/kubelet/rktshim,6,4.082,0.044
+By number of commits to file,Hyper.sh,11,plugin/pkg/scheduler/core,6,4.082,0.044
 By number of commits to file,Hyper.sh,11,pkg/kubelet/remote,5,3.401,0.037
 By number of commits to file,Hyper.sh,11,pkg/kubelet/dockershim/docker_sandbox.go,5,3.401,0.037
-By number of commits to file,Hyper.sh,11,pkg/kubelet/apis/cri/testing,4,2.721,0.03
-By number of commits to file,Hyper.sh,11,pkg/kubelet/dockershim/remote,4,2.721,0.03
 By number of commits to file,Hyper.sh,11,hack,4,2.721,0.03
 By number of commits to file,Hyper.sh,11,pkg/api/v1,4,2.721,0.03
-By number of commits to file,Hyper.sh,11,pkg/kubelet/api/v1alpha1/runtime/api.proto,4,2.721,0.03
+By number of commits to file,Hyper.sh,11,pkg/kubelet/dockershim/remote,4,2.721,0.03
+By number of commits to file,Hyper.sh,11,pkg/kubelet/apis/cri/testing,4,2.721,0.03
 By number of commits to file,Hyper.sh,11,pkg/kubelet/api/v1alpha1/runtime/api.pb.go,4,2.721,0.03
+By number of commits to file,Hyper.sh,11,pkg/kubelet/api/v1alpha1/runtime/api.proto,4,2.721,0.03
 All By number of commits to file,Huawei,12,"",143,1.056,1.056
 By number of commits to file,Huawei,12,federation,76,53.147,0.561
 By number of commits to file,Huawei,12,federation/pkg,65,45.455,0.48
@@ -586,57 +589,52 @@ By number of commits to file,Huawei,12,federation/pkg/kubefed,9,6.294,0.066
 By number of commits to file,Huawei,12,federation/pkg/federation-controller/service/servicecontroller.go,8,5.594,0.059
 By number of commits to file,Huawei,12,federation/cmd/federation-controller-manager/app,7,4.895,0.052
 By number of commits to file,Huawei,12,pkg/client/leaderelection,6,4.196,0.044
-By number of commits to file,Huawei,12,federation/pkg/federation-controller/service/servicecontroller_test.go,5,3.497,0.037
-By number of commits to file,Huawei,12,federation/pkg/federation-controller/service/BUILD,5,3.497,0.037
-By number of commits to file,Huawei,12,federation/pkg/kubefed/init,5,3.497,0.037
 By number of commits to file,Huawei,12,cluster/addons,5,3.497,0.037
-By number of commits to file,Huawei,12,test/e2e_federation/service.go,5,3.497,0.037
 By number of commits to file,Huawei,12,test/e2e/framework,5,3.497,0.037
+By number of commits to file,Huawei,12,test/e2e_federation/service.go,5,3.497,0.037
+By number of commits to file,Huawei,12,federation/pkg/kubefed/init,5,3.497,0.037
+By number of commits to file,Huawei,12,federation/pkg/federation-controller/service/BUILD,5,3.497,0.037
+By number of commits to file,Huawei,12,federation/pkg/federation-controller/service/servicecontroller_test.go,5,3.497,0.037
 By number of commits to file,Huawei,12,hack/local-up-cluster.sh,4,2.797,0.03
 All By number of commits to file,Rackspace,13,"",142,1.049,1.049
 By number of commits to file,Rackspace,13,pkg,88,61.972,0.65
 By number of commits to file,Rackspace,13,pkg/volume,40,28.169,0.295
 By number of commits to file,Rackspace,13,pkg/security/podsecuritypolicy,17,11.972,0.126
-By number of commits to file,Rackspace,13,plugin/pkg/admission,11,7.746,0.081
+By number of commits to file,Rackspace,13,plugin,11,7.746,0.081
 By number of commits to file,Rackspace,13,cluster,11,7.746,0.081
-By number of commits to file,Rackspace,13,plugin/pkg,11,7.746,0.081
 By number of commits to file,Rackspace,13,pkg/kubelet,11,7.746,0.081
+By number of commits to file,Rackspace,13,plugin/pkg/admission,11,7.746,0.081
 By number of commits to file,Rackspace,13,cmd,10,7.042,0.074
 By number of commits to file,Rackspace,13,test,10,7.042,0.074
-By number of commits to file,Rackspace,13,cmd/kubeadm/app,9,6.338,0.066
 By number of commits to file,Rackspace,13,test/e2e,9,6.338,0.066
-By number of commits to file,Rackspace,13,cmd/kubeadm,9,6.338,0.066
+By number of commits to file,Rackspace,13,cmd/kubeadm/app,9,6.338,0.066
 By number of commits to file,Rackspace,13,staging/src/k8s.io,7,4.93,0.052
 By number of commits to file,Rackspace,13,pkg/security/podsecuritypolicy/user,7,4.93,0.052
-By number of commits to file,Rackspace,13,staging/src,7,4.93,0.052
 By number of commits to file,Rackspace,13,plugin/pkg/admission/initialresources,7,4.93,0.052
-By number of commits to file,Rackspace,13,pkg/api,6,4.225,0.044
+By number of commits to file,Rackspace,13,pkg/apis,6,4.225,0.044
 By number of commits to file,Rackspace,13,cluster/rackspace,6,4.225,0.044
 By number of commits to file,Rackspace,13,test/e2e/common,6,4.225,0.044
-By number of commits to file,Rackspace,13,pkg/security/podsecuritypolicy/group,5,3.521,0.037
-By number of commits to file,Rackspace,13,cmd/kubeadm/app/apis/kubeadm,5,3.521,0.037
+By number of commits to file,Rackspace,13,api/swagger-spec,5,3.521,0.037
 All By number of commits to file,Mirantis,14,"",137,1.012,1.012
 By number of commits to file,Mirantis,14,pkg,97,70.803,0.716
 By number of commits to file,Mirantis,14,pkg/kubelet,55,40.146,0.406
-By number of commits to file,Mirantis,14,staging/src,23,16.788,0.17
-By number of commits to file,Mirantis,14,pkg/kubelet/server,23,16.788,0.17
 By number of commits to file,Mirantis,14,staging/src/k8s.io,23,16.788,0.17
+By number of commits to file,Mirantis,14,pkg/kubelet/server,23,16.788,0.17
 By number of commits to file,Mirantis,14,staging/src/k8s.io/client-go,21,15.328,0.155
-By number of commits to file,Mirantis,14,staging/src/k8s.io/client-go/tools,14,10.219,0.103
 By number of commits to file,Mirantis,14,pkg/kubelet/container,14,10.219,0.103
 By number of commits to file,Mirantis,14,staging/src/k8s.io/client-go/tools/remotecommand,14,10.219,0.103
 By number of commits to file,Mirantis,14,pkg/kubectl/cmd,12,8.759,0.089
 By number of commits to file,Mirantis,14,pkg/client,11,8.029,0.081
 By number of commits to file,Mirantis,14,pkg/util/term,10,7.299,0.074
 By number of commits to file,Mirantis,14,pkg/kubelet/server/streaming,9,6.569,0.066
-By number of commits to file,Mirantis,14,pkg/kubelet/server/remotecommand,8,5.839,0.059
 By number of commits to file,Mirantis,14,test,8,5.839,0.059
 By number of commits to file,Mirantis,14,pkg/controller,8,5.839,0.059
+By number of commits to file,Mirantis,14,pkg/kubelet/server/remotecommand,8,5.839,0.059
 By number of commits to file,Mirantis,14,test/e2e,7,5.109,0.052
 By number of commits to file,Mirantis,14,pkg/kubelet/dockershim,7,5.109,0.052
-By number of commits to file,Mirantis,14,pkg/kubelet/container/testing,6,4.38,0.044
 By number of commits to file,Mirantis,14,pkg/client/unversioned,6,4.38,0.044
-By number of commits to file,Mirantis,14,staging/src/k8s.io/client-go/pkg,5,3.65,0.037
+By number of commits to file,Mirantis,14,pkg/kubelet/container/testing,6,4.38,0.044
+By number of commits to file,Mirantis,14,pkg/client/tests,5,3.65,0.037
 By number of commits to file,Mirantis,14,pkg/client/unversioned/remotecommand,5,3.65,0.037
 All By number of commits to file,Heptio,15,"",118,0.871,0.871
 By number of commits to file,Heptio,15,staging/src/k8s.io,36,30.508,0.266
@@ -651,35 +649,37 @@ By number of commits to file,Heptio,15,staging/src/k8s.io/client-go/pkg/api,16,1
 By number of commits to file,Heptio,15,test/e2e/storage,15,12.712,0.111
 By number of commits to file,Heptio,15,staging/src/k8s.io/client-go/pkg/apis,10,8.475,0.074
 By number of commits to file,Heptio,15,pkg/apis,8,6.78,0.059
-By number of commits to file,Heptio,15,staging/src/k8s.io/client-go/pkg/api/v1,8,6.78,0.059
-By number of commits to file,Heptio,15,pkg/client/leaderelection,8,6.78,0.059
-By number of commits to file,Heptio,15,pkg/apis/componentconfig,8,6.78,0.059
-By number of commits to file,Heptio,15,examples/k8petstore/web-server,8,6.78,0.059
 By number of commits to file,Heptio,15,pkg/client,8,6.78,0.059
-By number of commits to file,Heptio,15,staging/src/k8s.io/client-go/pkg/apis/extensions,6,5.085,0.044
+By number of commits to file,Heptio,15,pkg/apis/componentconfig,8,6.78,0.059
+By number of commits to file,Heptio,15,pkg/client/leaderelection,8,6.78,0.059
+By number of commits to file,Heptio,15,examples/k8petstore/web-server,8,6.78,0.059
+By number of commits to file,Heptio,15,staging/src/k8s.io/client-go/pkg/api/v1,8,6.78,0.059
 By number of commits to file,Heptio,15,plugin,6,5.085,0.044
+By number of commits to file,Heptio,15,staging/src/k8s.io/client-go/pkg/apis/extensions,6,5.085,0.044
 By number of commits to file,Heptio,15,pkg/apis/componentconfig/v1alpha1,5,4.237,0.037
 By number of commits to file,Heptio,15,pkg/client/leaderelection/resourcelock,5,4.237,0.037
+By number of commits to file,Heptio,15,plugin/pkg,4,3.39,0.03
 By number of commits to file,Heptio,15,test/e2e/perf,4,3.39,0.03
-By number of commits to file,Heptio,15,examples/k8petstore/web-server/static,4,3.39,0.03
 All By number of commits to file,NotFound,16,"",14,0.103,0.103
 By number of commits to file,NotFound,16,pkg,6,42.857,0.044
 By number of commits to file,NotFound,16,pkg/controller,5,35.714,0.037
 By number of commits to file,NotFound,16,cluster/addons/registry,3,21.429,0.022
 By number of commits to file,NotFound,16,pkg/controller/podautoscaler,3,21.429,0.022
+By number of commits to file,NotFound,16,staging,2,14.286,0.015
+By number of commits to file,NotFound,16,cmd,2,14.286,0.015
 By number of commits to file,NotFound,16,staging/src,2,14.286,0.015
-By number of commits to file,NotFound,16,cmd/kube-controller-manager/app,2,14.286,0.015
+By number of commits to file,NotFound,16,cmd/kube-controller-manager,2,14.286,0.015
 By number of commits to file,NotFound,16,staging/src/k8s.io,2,14.286,0.015
+By number of commits to file,NotFound,16,cmd/kube-controller-manager/app,2,14.286,0.015
+By number of commits to file,NotFound,16,hack/verify-flags,1,7.143,0.007
+By number of commits to file,NotFound,16,pkg/apis,1,7.143,0.007
+By number of commits to file,NotFound,16,pkg/controller/garbagecollector,1,7.143,0.007
+By number of commits to file,NotFound,16,hack/verify-flags/known-flags.txt,1,7.143,0.007
+By number of commits to file,NotFound,16,pkg/apis/componentconfig,1,7.143,0.007
+By number of commits to file,NotFound,16,pkg/controller/volume,1,7.143,0.007
+By number of commits to file,NotFound,16,staging/src/k8s.io/client-go,1,7.143,0.007
+By number of commits to file,NotFound,16,cluster/addons/registry/registry-svc.yaml,1,7.143,0.007
+By number of commits to file,NotFound,16,cluster/addons/registry/registry-rc.yaml,1,7.143,0.007
+By number of commits to file,NotFound,16,cluster/addons/registry/README.md,1,7.143,0.007
 By number of commits to file,NotFound,16,pkg/controller/garbagecollector/graph_builder.go,1,7.143,0.007
 By number of commits to file,NotFound,16,cmd/kube-controller-manager/app/autoscaling.go,1,7.143,0.007
-By number of commits to file,NotFound,16,pkg/controller/podautoscaler/legacy_horizontal_test.go,1,7.143,0.007
-By number of commits to file,NotFound,16,cmd/kube-controller-manager/app/options,1,7.143,0.007
-By number of commits to file,NotFound,16,pkg/controller/podautoscaler/horizontal.go,1,7.143,0.007
-By number of commits to file,NotFound,16,pkg/apis/componentconfig/types.go,1,7.143,0.007
-By number of commits to file,NotFound,16,pkg/controller/podautoscaler/horizontal_test.go,1,7.143,0.007
-By number of commits to file,NotFound,16,staging/src/k8s.io/apimachinery,1,7.143,0.007
-By number of commits to file,NotFound,16,pkg/controller/volume/persistentvolume,1,7.143,0.007
-By number of commits to file,NotFound,16,staging/src/k8s.io/client-go/tools,1,7.143,0.007
-By number of commits to file,NotFound,16,cmd/kube-controller-manager/app/options/options.go,1,7.143,0.007
-By number of commits to file,NotFound,16,staging/src/k8s.io/apimachinery/pkg,1,7.143,0.007
-By number of commits to file,NotFound,16,pkg/controller/volume/persistentvolume/pv_controller.go,1,7.143,0.007

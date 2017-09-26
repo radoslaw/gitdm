@@ -9366,9 +9366,8 @@
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/authorization/doc.go",19,0,19
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/api/unversioned/deep_copy_generated.go",14,41,41
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/conversion/doc.go",2,0,2
-"thockin!google.com","Tim Hockin","2016-06-06","Google","federation/apis/federation/doc.go",19,0,19
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/certificates/doc.go",19,0,19
-"thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/autoscaling/doc.go",2,15,15
+"thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/autoscaling/doc.go",19,0,19
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/rbac/doc.go",2,0,2
 "thockin!google.com","Tim Hockin","2016-06-06","Google","federation/apis/core/register.go",0,1,1
 "thockin!google.com","Tim Hockin","2016-06-06","Google","docs/devel/adding-an-APIGroup.md",5,3,5
@@ -9398,6 +9397,7 @@
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/autoscaling/v1/doc.go",2,0,2
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/componentconfig/doc.go",19,0,19
 "thockin!google.com","Tim Hockin","2016-06-06","Google","federation/apis/core/v1/register.go",0,1,1
+"thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/util/intstr/deep_copy_generated.go => federation/apis/federation/doc.go",2,15,15
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/batch/doc.go",19,0,19
 "thockin!google.com","Tim Hockin","2016-06-06","Google","pkg/apis/authorization/v1beta1/doc.go",2,0,2
 "thockin!google.com","Tim Hockin","2016-06-06","Google","federation/apis/core/v1/deep_copy.go",0,42,42
@@ -11371,11 +11371,11 @@
 "jsz!google.com","Jerzy Szczepkowski","2016-08-02","Google","cluster/gce/util.sh",211,32,211
 "jsz!google.com","Jerzy Szczepkowski","2016-08-02","Google","cluster/gce/gci/master-helper.sh",37,3,37
 "jsz!google.com","Jerzy Szczepkowski","2016-08-04","Google","cluster/addons/cluster-monitoring/influxdb/influxdb-claim.yaml",0,15,15
-"jsz!google.com","Jerzy Szczepkowski","2016-08-04","Google","cluster/addons/cluster-monitoring/influxdb/influxdb-grafana-controller.yaml",74,0,74
+"jsz!google.com","Jerzy Szczepkowski","2016-08-04","Google","cluster/addons/cluster-monitoring/influxdb/influxdb-grafana-controller.yaml",7,5,7
 "jsz!google.com","Jerzy Szczepkowski","2016-08-04","Google","cluster/gce/util.sh",0,13,13
 "jsz!google.com","Jerzy Szczepkowski","2016-08-04","Google","cluster/gce/gci/configure-helper.sh",0,6,6
 "jsz!google.com","Jerzy Szczepkowski","2016-08-04","Google","cluster/addons/cluster-monitoring/influxdb/influxdb-pv.yaml",0,19,19
-"jsz!google.com","Jerzy Szczepkowski","2016-08-04","Google","cluster/gce/coreos/kube-manifests/addons/cluster-monitoring/influxdb/influxdb-grafana-controller.yaml",7,5,7
+"jsz!google.com","Jerzy Szczepkowski","2016-08-04","Google","cluster/gce/coreos/kube-manifests/addons/cluster-monitoring/influxdb/influxdb-grafana-controller.yaml",74,0,74
 "jsz!google.com","Jerzy Szczepkowski","2016-07-12","Google","cluster/addons/cluster-monitoring/influxdb/influxdb-claim.yaml",0,15,15
 "jsz!google.com","Jerzy Szczepkowski","2016-07-12","Google","cluster/gce/gci/configure-helper.sh",0,6,6
 "jsz!google.com","Jerzy Szczepkowski","2016-07-12","Google","cluster/addons/cluster-monitoring/influxdb/influxdb-grafana-petset.yaml",17,6,17

@@ -1,24 +1,30 @@
-Processed 270 csets from 4 developers
-1 employers found
-A total of 15424 lines added, 7883 removed, 18992 changed (delta 7541)
+Processed 289 csets from 8 developers
+3 employers found
+A total of 20922 lines added, 13550 removed, 30017 changed (delta 7372)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Red Hat                                                                           270 (100.0%)
+Red Hat                                                                           286 (99.0%)
+Huawei                                                                              2 (0.7%)
+Amadeus                                                                             1 (0.3%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          18992 (100.0%)
+Red Hat                                                                          30013 (100.0%)
+Huawei                                                                              2 (0.0%)
+Amadeus                                                                             2 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
 Covers 0.000000% of signoffs
 
-Employers with the most hackers (total 4)
-Red Hat                                                                             4 (100.0%)
+Employers with the most hackers (total 8)
+Red Hat                                                                             5 (62.5%)
+Huawei                                                                              2 (25.0%)
+Amadeus                                                                             1 (12.5%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

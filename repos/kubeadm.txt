@@ -1,34 +1,45 @@
-Processed 8 csets from 5 developers
-4 employers found
-A total of 717 lines added, 2 removed, 717 changed (delta 715)
+Processed 14 csets from 9 developers
+7 employers found
+A total of 1253 lines added, 64 removed, 1311 changed (delta 1189)
 
 Developers with unknown affiliation
+(Unknown) mbertschler!gmail.com Martin Bertschler                                   1 (7.1%)
 
 Developers working on their own behalf
-Self luxas!users.noreply.github.com Lucas Käldström                               4 (50.0%)
+Self luxas!users.noreply.github.com Lucas Käldström                               5 (35.7%)
 
 Top changeset contributors by employer
-Self                                                                                4 (50.0%)
-Rackspace                                                                           2 (25.0%)
-CliQr Technologies                                                                  1 (12.5%)
-Google                                                                              1 (12.5%)
+Self                                                                                5 (35.7%)
+Huawei                                                                              3 (21.4%)
+Rackspace                                                                           2 (14.3%)
+CliQr Technologies                                                                  1 (7.1%)
+Google                                                                              1 (7.1%)
+Unicredit                                                                           1 (7.1%)
+(Unknown)                                                                           1 (7.1%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                            309 (43.1%)
-Self                                                                              307 (42.8%)
-Rackspace                                                                         100 (13.9%)
+Unicredit                                                                         452 (34.5%)
+Self                                                                              388 (29.6%)
+Google                                                                            309 (23.6%)
+Rackspace                                                                         100 (7.6%)
+Huawei                                                                             60 (4.6%)
 CliQr Technologies                                                                  1 (0.1%)
+(Unknown)                                                                           1 (0.1%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 0)
-Covers 0.000000% of signoffs
+Employers with the most signoffs (total 1)
+Huawei                                                                              1 (100.0%)
+Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 5)
-Rackspace                                                                           2 (40.0%)
-Google                                                                              1 (20.0%)
-Self                                                                                1 (20.0%)
-CliQr Technologies                                                                  1 (20.0%)
+Employers with the most hackers (total 9)
+Huawei                                                                              2 (22.2%)
+Rackspace                                                                           2 (22.2%)
+Unicredit                                                                           1 (11.1%)
+Self                                                                                1 (11.1%)
+Google                                                                              1 (11.1%)
+CliQr Technologies                                                                  1 (11.1%)
+(Unknown)                                                                           1 (11.1%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

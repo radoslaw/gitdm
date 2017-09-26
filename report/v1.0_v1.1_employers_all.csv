@@ -9,98 +9,98 @@ idx,company,n,percent
 7,Mesosphere,4,1.6
 8,Metaswitch,4,1.6
 9,Docker,3,1.2
-10,CERN,2,0.8
-11,Amadeus,2,0.8
-12,Canonical,2,0.8
-13,Microsoft,2,0.8
-14,Box,2,0.8
-15,Cisco,2,0.8
-16,eBay,2,0.8
-17,Hyper.sh,1,0.4
-18,UNINETT,1,0.4
-19,ListHub,1,0.4
-20,NHN,1,0.4
-21,Jetstack,1,0.4
-22,Whitepages,1,0.4
-23,China Mobile International Limited,1,0.4
-24,Connectifier,1,0.4
-25,Transwarp,1,0.4
-26,Revinate,1,0.4
-27,nearForm,1,0.4
-28,Funio,1,0.4
-29,Heroku,1,0.4
-30,wikiwi,1,0.4
-31,AppAdhoc,1,0.4
-32,WillCall,1,0.4
-33,ChinaNetCenter,1,0.4
-34,Walt Disney,1,0.4
-35,Alternative Storage,1,0.4
-36,Devops,1,0.4
-37,Zesty.io,1,0.4
-38,SAP,1,0.4
-39,Vungle,1,0.4
-40,macys.com,1,0.4
-41,Singlewire Software,1,0.4
-42,Naver,1,0.4
-43,Met Office Informatics Lab,1,0.4
-44,Puppet,1,0.4
-45,Shopify,1,0.4
-46,Okori Group,1,0.4
-47,Axway,1,0.4
-48,Luxiar,1,0.4
-49,Funky,1,0.4
-50,Samsung,1,0.4
-51,Lohi Labs,1,0.4
-52,Yahoo,1,0.4
-53,volleylabs,1,0.4
-54,Opsview Ltd,1,0.4
-55,Virginia Tech,1,0.4
-56,Facebook,1,0.4
-57,wellcometrust,1,0.4
-58,Wikimedia Foundation,1,0.4
-59,Stack Exchange,1,0.4
-60,Happy Dog Web Productions,1,0.4
-61,Net EASE 网易有态度,1,0.4
-62,GatsbyJS,1,0.4
-63,Rochester Institute of Technology,1,0.4
-64,Elastic,1,0.4
-65,Über,1,0.4
-66,"Collanthropy, LLC",1,0.4
-67,Oblong Industries,1,0.4
-68,Readify,1,0.4
-69,Apalia,1,0.4
-70,Appear TV AS,1,0.4
-71,Zendesk,1,0.4
-72,athenahealth,1,0.4
-73,SORINT.lab,1,0.4
-74,Viacom,1,0.4
-75,Ubisoft,1,0.4
-76,ViaNett AS,1,0.4
-77,CiscoSpark,1,0.4
-78,Walmart,1,0.4
-79,Agfa HealthCare,1,0.4
-80,Voleo,1,0.4
-81,Zalando,1,0.4
-82,Univa,1,0.4
-83,clypd,1,0.4
-84,ADEO,1,0.4
-85,iconectiv,1,0.4
-86,"Eldarion, Inc.",1,0.4
-87,Xoom,1,0.4
-88,MediaMath,1,0.4
-89,FACEIT,1,0.4
-90,hackmh,1,0.4
-91,Anadea inc.,1,0.4
-92,Kismatic,1,0.4
-93,Amazon,1,0.4
-94,Slack,1,0.4
-95,Tyk,1,0.4
-96,Square,1,0.4
-97,Weaveworks,1,0.4
-98,CSE IIT KANPUR,1,0.4
-99,ISI.nc,1,0.4
-100,DrEd Online Doctor,1,0.4
-101,Apache,1,0.4
-102,Juniper Networks,1,0.4
-103,Petback,1,0.4
-104,Epic Games,1,0.4
+10,eBay,2,0.8
+11,CERN,2,0.8
+12,Amadeus,2,0.8
+13,Canonical,2,0.8
+14,Cisco,2,0.8
+15,Box,2,0.8
+16,Microsoft,2,0.8
+17,FACEIT,1,0.4
+18,hackmh,1,0.4
+19,Anadea inc.,1,0.4
+20,Kismatic,1,0.4
+21,Amazon,1,0.4
+22,Slack,1,0.4
+23,Tyk,1,0.4
+24,Square,1,0.4
+25,Weaveworks,1,0.4
+26,CSE IIT KANPUR,1,0.4
+27,ISI.nc,1,0.4
+28,DrEd Online Doctor,1,0.4
+29,Apache,1,0.4
+30,Juniper Networks,1,0.4
+31,Petback,1,0.4
+32,Epic Games,1,0.4
+33,Hyper.sh,1,0.4
+34,UNINETT,1,0.4
+35,ListHub,1,0.4
+36,NHN,1,0.4
+37,Jetstack,1,0.4
+38,Whitepages,1,0.4
+39,China Mobile International Limited,1,0.4
+40,Connectifier,1,0.4
+41,Transwarp,1,0.4
+42,Revinate,1,0.4
+43,nearForm,1,0.4
+44,Funio,1,0.4
+45,Heroku,1,0.4
+46,wikiwi,1,0.4
+47,AppAdhoc,1,0.4
+48,WillCall,1,0.4
+49,ChinaNetCenter,1,0.4
+50,Walt Disney,1,0.4
+51,Alternative Storage,1,0.4
+52,Devops,1,0.4
+53,Zesty.io,1,0.4
+54,SAP,1,0.4
+55,Vungle,1,0.4
+56,macys.com,1,0.4
+57,Singlewire Software,1,0.4
+58,Naver,1,0.4
+59,Met Office Informatics Lab,1,0.4
+60,Puppet,1,0.4
+61,Shopify,1,0.4
+62,Okori Group,1,0.4
+63,Axway,1,0.4
+64,Luxiar,1,0.4
+65,Funky,1,0.4
+66,Samsung,1,0.4
+67,Lohi Labs,1,0.4
+68,Yahoo,1,0.4
+69,volleylabs,1,0.4
+70,Opsview Ltd,1,0.4
+71,Virginia Tech,1,0.4
+72,Facebook,1,0.4
+73,wellcometrust,1,0.4
+74,Wikimedia Foundation,1,0.4
+75,Stack Exchange,1,0.4
+76,Happy Dog Web Productions,1,0.4
+77,Net EASE 网易有态度,1,0.4
+78,GatsbyJS,1,0.4
+79,Rochester Institute of Technology,1,0.4
+80,Elastic,1,0.4
+81,Über,1,0.4
+82,"Collanthropy, LLC",1,0.4
+83,Oblong Industries,1,0.4
+84,Readify,1,0.4
+85,Apalia,1,0.4
+86,Appear TV AS,1,0.4
+87,Zendesk,1,0.4
+88,athenahealth,1,0.4
+89,SORINT.lab,1,0.4
+90,Viacom,1,0.4
+91,Ubisoft,1,0.4
+92,MediaMath,1,0.4
+93,ViaNett AS,1,0.4
+94,CiscoSpark,1,0.4
+95,Walmart,1,0.4
+96,Agfa HealthCare,1,0.4
+97,Voleo,1,0.4
+98,Zalando,1,0.4
+99,Univa,1,0.4
+100,clypd,1,0.4
+101,ADEO,1,0.4
+102,iconectiv,1,0.4
+103,"Eldarion, Inc.",1,0.4
+104,Xoom,1,0.4

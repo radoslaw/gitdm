@@ -1,10 +1,10 @@
 Name,Email,Affliation,Date,Added,Removed,Changed,Changesets,% Added,% Removed,% Changed,% Changesets
 David Ashpole,dashpole!google.com,Google,2017-03-01,82346,52270,100437,33,19.098,11.747,13.879,0.918
-deads2k,deads!redhat.com,Red Hat,2016-11-01,58451,60989,98920,276,13.556,13.707,13.669,7.682
+deads2k,deads!redhat.com,Red Hat,2016-11-01,58450,60988,98919,276,13.556,13.707,13.669,7.682
 Anthony Yeh,enisoc!google.com,Google,2017-03-01,22611,20540,41191,74,5.244,4.616,5.692,2.06
 Wojciech Tyczynski,wojtekt!google.com,Google,2016-11-01,18777,6308,19272,111,4.355,1.418,2.663,3.089
 Clayton Coleman,ccoleman!redhat.com,Red Hat,2017-02-01,17990,15264,20013,113,4.172,3.431,2.765,3.145
-Dr. Stefan Schimanski,stefan.schimanski!gmail.com,Red Hat,2017-03-01,14387,23451,28192,168,3.337,5.27,3.896,4.676
+Dr. Stefan Schimanski,stefan.schimanski!gmail.com,Red Hat,2017-03-01,14387,23451,28192,168,3.337,5.271,3.896,4.676
 Chao Xu,xuchao!google.com,Google,2016-12-01,14057,152746,157028,64,3.26,34.329,21.699,1.781
 Angus Lees,gus!inodes.org,Bulletproof,2017-02-01,13979,10085,17595,15,3.242,2.267,2.431,0.417
 Brendan Burns,bburns!google.com,Microsoft,2017-02-01,10738,2868,10742,25,2.49,0.645,1.484,0.696

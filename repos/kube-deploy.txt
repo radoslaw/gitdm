@@ -1,18 +1,18 @@
-Processed 271 csets from 47 developers
+Processed 272 csets from 47 developers
 20 employers found
-A total of 49149 lines added, 44611 removed, 84061 changed (delta 4538)
+A total of 49363 lines added, 44612 removed, 84275 changed (delta 4751)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
-Self justin!fathomdb.com Justin Santa Barbara                                     159 (58.7%)
+Self justin!fathomdb.com Justin Santa Barbara                                     160 (58.8%)
 Self lucas.kaldstrom!hotmail.co.uk Lucas Käldström                               16 (5.9%)
 Self comp_!gmx.net Ion Savin                                                        4 (1.5%)
 Self arsen!mamikonyan.am Arsen Mamikonyan                                           1 (0.4%)
 
 Top changeset contributors by employer
-Self                                                                              180 (66.4%)
-Google                                                                             48 (17.7%)
+Self                                                                              181 (66.5%)
+Google                                                                             48 (17.6%)
 Fujitsu                                                                            13 (4.8%)
 Devops                                                                              5 (1.8%)
 Red Hat                                                                             5 (1.8%)
@@ -34,9 +34,9 @@ Apcera                                                                          
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Self                                                                             77583 (92.3%)
+Self                                                                             77798 (92.3%)
 Google                                                                           5125 (6.1%)
-Fujitsu                                                                          1155 (1.4%)
+Fujitsu                                                                          1154 (1.4%)
 Red Hat                                                                            49 (0.1%)
 CNM Consulting                                                                     48 (0.1%)
 Univa                                                                              26 (0.0%)

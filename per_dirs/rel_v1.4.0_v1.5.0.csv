@@ -910,14 +910,14 @@
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/rest/request.go",87,32,87
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/core/v1/fake/fake_resourcequota.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/Godeps/Godeps.json",12,3,12
-"mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/batch/v2alpha1/fake/doc.go",1,1,1
+"mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/batch/v2alpha1/fake/doc.go",20,0,20
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/_vendor/github.com/stretchr/testify/LICENCE.txt",22,0,22
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/core/v1/fake/doc.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/_vendor/golang.org/x/sys/CONTRIBUTORS",3,0,3
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/pkg/apis/batch/v2alpha1/register.go",4,2,4
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/core/v1/fake/fake_serviceaccount.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/certificates/v1alpha1/fake/doc.go",1,1,1
-"mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/policy/v1beta1/generated_expansion.go",2,8,8
+"mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/policy/v1beta1/generated_expansion.go",19,0,19
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/pkg/api/meta/help.go",67,0,67
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/pkg/apis/policy/types.go",19,3,19
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/apps/v1beta1/apps_client.go",22,20,22
@@ -992,7 +992,7 @@
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/core/v1/fake/fake_pod.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/pkg/util/validation/validation.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/pkg/util/config/feature_gate.go",24,4,24
-"mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/apps/v1beta1/fake/doc.go",20,0,20
+"mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/apps/v1beta1/fake/doc.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/apps/v1beta1/doc.go",2,2,2
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/certificates/v1alpha1/generated_expansion.go",0,2,2
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/pkg/util/testing/fake_handler.go",3,0,3
@@ -1150,7 +1150,7 @@
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/authorization/v1beta1/selfsubjectaccessreview.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/policy/v1beta1/poddisruptionbudget.go",167,0,167
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/core/v1/event.go",1,1,1
-"mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/batch/v2alpha1/generated_expansion.go",21,0,21
+"mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/batch/v2alpha1/generated_expansion.go",4,8,8
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/core/v1/fake/fake_configmap.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/core/v1/fake/fake_endpoints.go",1,1,1
 "mwielgus!google.com","Marcin Wielgus","2016-11-08","Google","staging/src/k8s.io/client-go/kubernetes/typed/extensions/v1beta1/fake/fake_podsecuritypolicy.go",1,1,1
@@ -10494,7 +10494,6 @@
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/master/master.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/autoscaling/internalversion/horizontalpodautoscaler.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/controller/scheduledjob/BUILD",1,1,1
-"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/certificates/unversioned/generated_expansion.go",0,17,17
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/fake/clientset_generated.go",95,33,95
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/core/internalversion/doc.go",20,0,20
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/extensions/v1beta1/fake/fake_scale.go",1,1,1
@@ -10779,7 +10778,7 @@
 "xuchao!google.com","Chao Xu","2016-10-21","Google","plugin/pkg/auth/authorizer/webhook/BUILD",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/authorization/internalversion/localsubjectaccessreview.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/rbac/internalversion/clusterrolebinding.go",1,1,1
-"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/apps/internalversion/doc.go",20,0,20
+"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/apps/internalversion/doc.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/batch/internalversion/doc.go",20,0,20
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/authentication/internalversion/tokenreview.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/policy/internalversion/poddisruptionbudget.go",1,1,1
@@ -10795,7 +10794,7 @@
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/authorization/internalversion/authorization_client.go",2,2,2
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/controller/volume/persistentvolume/BUILD",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/extensions/internalversion/fake/BUILD",1,1,1
-"xuchao!google.com","Chao Xu","2016-10-21","Google","cmd/libs/go2idl/client-gen/testoutput/clientset_generated/test_internalclientset/typed/testgroup/internalversion/generated_expansion.go",19,0,19
+"xuchao!google.com","Chao Xu","2016-10-21","Google","cmd/libs/go2idl/client-gen/testoutput/clientset_generated/test_internalclientset/typed/testgroup/internalversion/generated_expansion.go",3,1,3
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/autoscaling/v1/fake/fake_autoscaling_client.go",3,3,3
 "xuchao!google.com","Chao Xu","2016-10-21","Google","federation/client/clientset_generated/federation_internalclientset/typed/core/internalversion/fake/fake_core_client.go",6,6,6
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/autoscaling/internalversion/generated_expansion.go",1,1,1
@@ -10816,14 +10815,14 @@
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/rbac/v1alpha1/role.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/authorization/v1beta1/fake/doc.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/authorization/internalversion/fake/fake_authorization_client.go",4,4,4
-"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/storage/internalversion/doc.go",1,1,1
+"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/storage/internalversion/doc.go",20,0,20
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/batch/v1/fake/doc.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","test/e2e/node_problem_detector.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/authorization/v1beta1/authorization_client.go",23,21,23
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/batch/v1/doc.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/batch/internalversion/fake/BUILD",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/util/replicaset/BUILD",1,1,1
-"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/policy/internalversion/doc.go",1,1,1
+"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/policy/internalversion/doc.go",20,0,20
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/authorization/v1beta1/localsubjectaccessreview.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/policy/v1alpha1/policy_client.go",21,19,21
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/storage/internalversion/storage_client.go",2,2,2
@@ -10900,7 +10899,7 @@
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/fake/BUILD",22,22,22
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/release_1_5/typed/core/v1/fake/doc.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/kubectl/metricsutil/BUILD",1,1,1
-"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/authentication/internalversion/doc.go",20,0,20
+"xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/authentication/internalversion/doc.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-10-21","Google","pkg/client/clientset_generated/internalclientset/typed/rbac/internalversion/doc.go",20,0,20
 "xuchao!google.com","Chao Xu","2016-10-21","Google","federation/client/clientset_generated/federation_release_1_3/clientset.go",6,6,6
 "xuchao!google.com","Chao Xu","2016-10-21","Google","federation/client/clientset_generated/federation_release_1_5/fake/clientset_generated.go",24,9,24
@@ -12645,7 +12644,7 @@
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/pkg/apis/authentication/doc.go",1,0,1
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/_vendor/golang.org/x/sys/unix/ztypes_netbsd_386.go",396,0,396
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/pkg/api/meta/multirestmapper.go",3,3,3
-"xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/kubernetes/typed/extensions/v1beta1/fake/doc.go",1,1,1
+"xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/kubernetes/typed/extensions/v1beta1/fake/doc.go",20,0,20
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/pkg/api/install/install.go",9,9,9
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/kubernetes/typed/batch/v1/batch_client.go",4,4,4
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/pkg/api/meta/interfaces.go",4,4,4
@@ -12725,7 +12724,7 @@
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/kubernetes/typed/core/v1/fake/fake_service_expansion.go",2,2,2
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/pkg/util/intstr/intstr.go",15,0,15
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/cmd/libs/go2idl/openapi-gen/generators/common/doc.go",18,0,18
-"xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/kubernetes/typed/core/v1/fake/doc.go",20,0,20
+"xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/kubernetes/typed/core/v1/fake/doc.go",1,1,1
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/pkg/api/resource/quantity.go",15,0,15
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/_vendor/golang.org/x/text/cases/info.go",83,0,83
 "xuchao!google.com","Chao Xu","2016-09-16","Google","staging/src/k8s.io/client-go/1.5/kubernetes/typed/authorization/v1beta1/fake/fake_subjectaccessreview_expansion.go",2,2,2
@@ -14818,7 +14817,7 @@
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/apps/v1alpha1/fake/doc.go",20,0,20
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/rbac/v1alpha1/fake/fake_rolebinding.go",117,0,117
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/batch/v1/doc.go",1,1,1
-"mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/apps/v1alpha1/generated_expansion.go",19,0,19
+"mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/apps/v1alpha1/generated_expansion.go",2,6,6
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/rbac/v1alpha1/fake/fake_rbac_client.go",49,0,49
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/storage/v1beta1/fake/doc.go",20,0,20
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/policy/v1alpha1/doc.go",1,1,1
@@ -14846,7 +14845,7 @@
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/import_known_versions.go",4,0,4
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/authorization/v1beta1/authorization_client.go",0,10,10
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/authorization/v1beta1/selfsubjectaccessreview.go",0,40,40
-"mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/certificates/v1alpha1/generated_expansion.go",2,6,6
+"mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/certificates/v1alpha1/generated_expansion.go",19,0,19
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/core/v1/fake/doc.go",1,1,1
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/rbac/v1alpha1/generated_expansion.go",25,0,25
 "mawong!redhat.com","Matthew Wong","2016-09-30","Red Hat","pkg/client/clientset_generated/release_1_4/typed/storage/v1beta1/doc.go",20,0,20

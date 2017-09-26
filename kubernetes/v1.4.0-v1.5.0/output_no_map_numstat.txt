@@ -1,6 +1,6 @@
 Processed 2603 csets from 271 developers
 79 employers found
-A total of 583081 lines added, 272938 removed, 749268 changed (delta 310143)
+A total of 583065 lines added, 272922 removed, 749252 changed (delta 310143)
 
 Developers with unknown affiliation
 NotFound andrew!areed.io Andrew Reed                                                1 (0.0%)
@@ -107,7 +107,7 @@ Carrot Creative                                                                 
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           574082 (76.6%)
+Google                                                                           574066 (76.6%)
 Red Hat                                                                          124482 (16.6%)
 Self                                                                             6301 (0.8%)
 Apprenda                                                                         6114 (0.8%)

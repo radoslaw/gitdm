@@ -1,13 +1,35 @@
 "Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
-"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-02-01",250,1,250,1
-"Jeff Grafton","jgrafton!google.com","Google","2017-05-01",18,6,18,2
-"Jeff Grafton","jgrafton!google.com","Google","2017-04-01",105,9,105,2
-"Mike Danese","mikedanese!google.com","Google","2016-12-01",101,0,101,1
-"Doug Davis","dug!us.ibm.com","IBM","2016-12-01",20,15,20,1
-"Mike Danese","mikedanese!google.com","Google","2017-01-01",137,0,137,1
-"Jeff Grafton","jgrafton!google.com","Google","2017-06-01",18,7,18,1
-"Paul Morie","pmorie!redhat.com","Red Hat","2016-12-01",512,4,514,4
-"sarahnovotny","sarah.novotny!gmail.com","Google","2016-12-01",202,0,202,1
+"Di Xu","stephenhsu90!gmail.com","Self","2017-02-01",100,86,100,1
+"Jeff Grafton","jgrafton!google.com","Google","2017-02-01",4,5,5,2
 "Paul Morie","pmorie!redhat.com","Red Hat","2017-01-01",1,1,1,1
+"Alexander Kanevskiy","kad!linux.intel.com","Intel","2017-08-01",2,4,4,1
+"Joe Finney","spxtr!google.com","Google","2017-02-01",140,11,140,2
+"Malepati Bala Siva Sai Akhil","malepatib.akhil!huawei.com","Huawei","2017-08-01",1,1,1,1
+"Mohammad Asif Siddiqui","mohammad.asif.siddiqui1!huawei.com","Huawei","2017-08-01",2,1,2,2
+"Jeff Grafton","jgrafton!google.com","Google","2017-05-01",18,6,18,2
+"Doug Davis","dug!us.ibm.com","IBM","2016-12-01",20,15,20,1
+"Jeff Grafton","jgrafton!google.com","Google","2017-09-01",10,20,20,2
+"Tim St. Clair","stclair!google.com","Google","2016-10-01",3,0,3,1
+"Fei Xu","xufei40!huawei.com","Huawei","2017-08-01",4,4,4,1
+"Jeff Grafton","jgrafton!google.com","Google","2017-01-01",8,4,8,3
+"Joe Finney","spxtr!google.com","Google","2016-12-01",17,8,17,3
+"Jeff Grafton","jgrafton!google.com","Google","2017-07-01",228,103,241,11
+"Jeff Grafton","jgrafton!google.com","Google","2017-08-01",71,28,76,7
+"Paul Morie","pmorie!redhat.com","Red Hat","2016-12-01",512,4,514,4
+"Yerken","yerken.tussupbekov!zalando.de","Zalando","2017-02-01",250,1,250,1
+"Jeff Grafton","jgrafton!google.com","Google","2016-12-01",272,90,277,8
+"Lincoln Stoll","lincoln.stoll!salesforce.com","SalesForce","2017-01-01",7,3,7,2
+"John Millikin","jmillikin!stripe.com","(Unknown)","2017-07-01",17,1,17,1
+"Mike Danese","mikedanese!google.com","Google","2017-02-01",4,2,4,1
+"Mike Danese","mikedanese!google.com","Google","2016-10-01",683,96,727,11
+"Doug Davis","dug!us.ibm.com","IBM","2017-07-01",48,0,48,1
+"Mike Danese","mikedanese!google.com","Google","2016-11-01",364,56,375,6
+"Jeff Grafton","jgrafton!google.com","Google","2017-04-01",109,9,109,3
+"Mike Danese","mikedanese!google.com","Google","2016-12-01",1035,686,1629,13
+"Antoine Pelisse","apelisse!google.com","Google","2017-02-01",3,3,3,1
+"Jeff Grafton","jgrafton!google.com","Google","2017-06-01",18,7,18,1
+"sarahnovotny","sarah.novotny!gmail.com","Google","2016-12-01",202,0,202,1
+"Mike Danese","mikedanese!google.com","Google","2017-04-01",1,1,1,1
+"Mike Danese","mikedanese!google.com","Google","2017-01-01",159,9,159,4
 "Jan Chaloupka","jchaloup!redhat.com","Red Hat","2017-02-01",5,3,5,1
 "Eric Paris","eparis!redhat.com","Red Hat","2017-02-01",22,1,22,1

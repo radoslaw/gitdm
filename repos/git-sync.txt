@@ -1,45 +1,52 @@
-Processed 44 csets from 9 developers
-8 employers found
-A total of 2388 lines added, 495 removed, 2427 changed (delta 1893)
+Processed 51 csets from 11 developers
+10 employers found
+A total of 2468 lines added, 535 removed, 2507 changed (delta 1933)
 
 Developers with unknown affiliation
+(Unknown) jovofdt!gmail.com jorianvo                                                1 (2.0%)
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-Google                                                                             30 (68.2%)
-Zendesk                                                                             6 (13.6%)
-Futurequest                                                                         2 (4.5%)
-PTLC                                                                                2 (4.5%)
-Codigami                                                                            1 (2.3%)
-HarmonyCloud                                                                        1 (2.3%)
-Zalando                                                                             1 (2.3%)
-ReverbNation                                                                        1 (2.3%)
+Google                                                                             33 (64.7%)
+Zendesk                                                                             6 (11.8%)
+PTLC                                                                                3 (5.9%)
+Huawei                                                                              2 (3.9%)
+Futurequest                                                                         2 (3.9%)
+Codigami                                                                            1 (2.0%)
+HarmonyCloud                                                                        1 (2.0%)
+Zalando                                                                             1 (2.0%)
+ReverbNation                                                                        1 (2.0%)
+(Unknown)                                                                           1 (2.0%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           2327 (95.9%)
+Google                                                                           2355 (93.9%)
+(Unknown)                                                                          49 (2.0%)
+PTLC                                                                               30 (1.2%)
 Zalando                                                                            30 (1.2%)
-PTLC                                                                               29 (1.2%)
 Zendesk                                                                            20 (0.8%)
-Codigami                                                                           11 (0.5%)
+Codigami                                                                           11 (0.4%)
 ReverbNation                                                                        6 (0.2%)
 Futurequest                                                                         3 (0.1%)
+Huawei                                                                              2 (0.1%)
 HarmonyCloud                                                                        1 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
 Covers 0.000000% of signoffs
 
-Employers with the most hackers (total 9)
-Google                                                                              2 (22.2%)
-Zalando                                                                             1 (11.1%)
-PTLC                                                                                1 (11.1%)
-Zendesk                                                                             1 (11.1%)
-Codigami                                                                            1 (11.1%)
-ReverbNation                                                                        1 (11.1%)
-Futurequest                                                                         1 (11.1%)
-HarmonyCloud                                                                        1 (11.1%)
+Employers with the most hackers (total 11)
+Google                                                                              2 (18.2%)
+(Unknown)                                                                           1 (9.1%)
+PTLC                                                                                1 (9.1%)
+Zalando                                                                             1 (9.1%)
+Zendesk                                                                             1 (9.1%)
+Codigami                                                                            1 (9.1%)
+ReverbNation                                                                        1 (9.1%)
+Futurequest                                                                         1 (9.1%)
+Huawei                                                                              1 (9.1%)
+HarmonyCloud                                                                        1 (9.1%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

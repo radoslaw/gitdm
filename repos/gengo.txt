@@ -1,30 +1,36 @@
-Processed 141 csets from 23 developers
-7 employers found
-A total of 13125 lines added, 1751 removed, 13254 changed (delta 11374)
+Processed 156 csets from 28 developers
+9 employers found
+A total of 14976 lines added, 2741 removed, 15180 changed (delta 12235)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
-Self jianhui!outlook.com jianhuiz                                                   1 (0.7%)
+Self jmyue!hotmail.com supereagle                                                   1 (0.6%)
+Self nikitaraghunath!gmail.com Nikhita Raghunath                                    1 (0.6%)
+Self jianhui!outlook.com jianhuiz                                                   1 (0.6%)
 
 Top changeset contributors by employer
-Google                                                                             98 (69.5%)
-Red Hat                                                                            33 (23.4%)
-IBM                                                                                 4 (2.8%)
-CoreOS                                                                              2 (1.4%)
-HarmonyCloud                                                                        2 (1.4%)
-Huawei                                                                              1 (0.7%)
-Kelowna                                                                             1 (0.7%)
+Google                                                                            100 (64.1%)
+Red Hat                                                                            39 (25.0%)
+Huawei                                                                              5 (3.2%)
+IBM                                                                                 4 (2.6%)
+CoreOS                                                                              2 (1.3%)
+HarmonyCloud                                                                        2 (1.3%)
+Self                                                                                2 (1.3%)
+Samsung                                                                             1 (0.6%)
+Kelowna                                                                             1 (0.6%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           9736 (73.5%)
-Red Hat                                                                          3224 (24.3%)
-IBM                                                                               277 (2.1%)
+Google                                                                           9764 (64.3%)
+Red Hat                                                                          5031 (33.1%)
+IBM                                                                               277 (1.8%)
+Self                                                                               73 (0.5%)
+Huawei                                                                             16 (0.1%)
 Kelowna                                                                             8 (0.1%)
 CoreOS                                                                              6 (0.0%)
+Samsung                                                                             3 (0.0%)
 HarmonyCloud                                                                        2 (0.0%)
-Huawei                                                                              1 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 2)
@@ -32,14 +38,16 @@ IBM                                                                             
 HarmonyCloud                                                                        1 (50.0%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 23)
-Google                                                                             10 (43.5%)
-Red Hat                                                                             7 (30.4%)
-CoreOS                                                                              2 (8.7%)
-IBM                                                                                 1 (4.3%)
-HarmonyCloud                                                                        1 (4.3%)
-Kelowna                                                                             1 (4.3%)
-Huawei                                                                              1 (4.3%)
+Employers with the most hackers (total 28)
+Google                                                                             10 (35.7%)
+Red Hat                                                                             7 (25.0%)
+Huawei                                                                              3 (10.7%)
+Self                                                                                2 (7.1%)
+CoreOS                                                                              2 (7.1%)
+IBM                                                                                 1 (3.6%)
+HarmonyCloud                                                                        1 (3.6%)
+Kelowna                                                                             1 (3.6%)
+Samsung                                                                             1 (3.6%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

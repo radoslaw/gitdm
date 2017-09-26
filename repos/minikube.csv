@@ -1,48 +1,61 @@
 "Name","Email","Affliation","Date","Added","Removed","Changed","Changesets"
 "Dongsu Park","dongsu!endocode.com","Endocode","2017-02-01",93,35,93,8
-"Steve Sloka","slokas!upmc.edu","UPMC","2017-03-01",49,4,49,2
 "Praveen Kumar","kumarpraveen.nitdgp!gmail.com","YesMastr","2016-12-01",1,1,1,1
-"dlorenc","dlorenc!google.com","Google","2017-05-01",79,69,80,5
+"Rajadeepan D Ramesh","rajadeepan.d.ramesh!huawei.com","Huawei","2017-08-01",1,1,1,1
+"Steve Sloka","slokas!upmc.edu","UPMC","2017-03-01",49,4,49,2
+"Erik Stidham","erik!tigera.io","Tigera","2017-08-01",2,0,2,1
+"dlorenc","dlorenc!google.com","Google","2017-05-01",596,78,602,7
 "Wiiliam Chang","warmchang!outlook.com","ZTE Corporation","2017-04-01",7,5,7,3
+"Jimmi Dyson","jimmidyson!gmail.com","Red Hat","2017-01-01",6,0,6,1
 "Thomas Graf","tgraf!suug.ch","Self","2017-05-01",35,31,35,1
 "Matt Rickard","mrick!google.com","Google","2017-02-01",2022,1293,2444,30
 "Steve Leon","kokhang!gmail.com","HP","2017-06-01",2,0,2,1
 "Eric Chiang","eric.chiang.m!gmail.com","CoreOS","2017-03-01",2,2,2,1
 "John Paul Adrian Glaubitz","glaubitz!physik.fu-berlin.de","SUSE/Novell","2017-01-01",2,1,2,1
 "Brian Fallik","bfallik!gmail.com","clypd","2016-07-01",1,1,1,1
+"Stephan van Ellewee","stephan.van.ellewee!gmail.com","(Unknown)","2017-07-01",74,1,74,1
+"zouyee","zouyee1989!gmail.com","China Mobile International Limited","2017-07-01",1,1,1,1
 "Ajanthan","balaajanthan!gmail.com","WSO2","2016-10-01",23,5,23,1
 "Robert Kozikowski","r.kozikowski!gmail.com","Self","2016-09-01",2,0,2,1
+"William Chang","zhang.wanmin!zte.com.cn","ZTE Corporation","2017-07-01",1,1,1,1
 "Thibaut Démaret","59pilgrim!gmail.com","Devops","2017-05-01",4,1,4,1
-"Aaron Prindle","aprindle!google.com","Google","2017-01-01",92,10,92,8
-"Matt Rickard","mrick!google.com","Google","2017-06-01",238,137,298,16
+"Matt Rickard","mrick!google.com","Google","2017-09-01",506,358,551,19
+"Matt Rickard","mrick!google.com","Google","2017-06-01",343,242,462,25
 "Kir Shatrov","kirs!users.noreply.github.com","Shopify","2017-02-01",2,0,2,1
+"dlorenc","dlorenc!google.com","Google","2017-07-01",278,115,278,9
 "Pengfei Ni","feiskyer!gmail.com","Hyper.sh","2016-12-01",1,1,1,1
 "Steve Sloka","slokas!upmc.edu","UPMC","2017-02-01",500,255,631,4
 "Steve Sloka","slokas!upmc.edu","UPMC","2016-06-01",8,1,8,1
+"Denis Andrejew","da.colonel!gmail.com","Feenix GmbH","2016-11-01",337,337,337,1
 "Dale Hamel","daleha!gmail.com","Shopify","2017-03-01",10,1,10,1
 "fate-grand-order","chenjg!harmonycloud.cn","HarmonyCloud","2017-01-01",1,1,1,1
-"William Chang","zhang.wanmin!zte.com.cn","ZTE Corporation","2017-04-01",1,1,1,1
-"Matt Rickard","mrick!google.com","Google","2017-01-01",970,420,1087,17
+"dlorenc","dlorenc!google.com","Google","2017-03-01",16,12,16,6
+"Dale Hamel","dalehamel!users.noreply.github.com","Shopify","2017-04-01",10,0,10,3
 "Max Lavrenov","max.lavrenov!optiopay.com","OptioPay","2017-03-01",23,2,23,1
 "Giancarlo Rubio","gianrubio!gmail.com","Digidentity","2017-05-01",6,6,6,1
 "Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-05-01",1202,762,1271,28
 "Srini Brahmaroutu","srbrahma!us.ibm.com","IBM","2017-03-01",1,1,1,1
-"Andrew Seigner","andrew!sig.gy","Code Coup","2017-04-01",6,6,6,1
 "Silviu Tantos","me!razius.com","Silviu Tantos","2017-03-01",2,1,2,1
+"Thibaut Démaret","59pilgrim!gmail.com","Devops","2017-06-01",9,6,9,4
+"Sunny","me!darkowlzz.space","(Unknown)","2017-07-01",133,5,133,2
 "Gerard Braad","me!gbraad.nl","Red Hat","2017-06-01",1,1,1,1
 "Stefan Sauer","ensonic!google.com","Google","2017-01-01",1,0,1,1
+"Hiroshi Nomura","n.hirsim!gmail.com","(Unknown)","2017-09-01",35,4,35,2
 "clchen","ccl0326!163.com","Net EASE 网易有态度","2016-11-01",3,2,3,1
 "Brandon Philips","brandon!ifup.org","CoreOS","2016-10-01",3,1,3,1
-"dlorenc","dlorenc!google.com","Google","2017-03-01",16,12,16,6
+"Aaron Schlesinger","aaschles!microsoft.com","Microsoft","2017-08-01",33,0,33,2
+"William Chang","zhang.wanmin!zte.com.cn","ZTE Corporation","2017-04-01",1,1,1,1
 "Ghe Rivero","ghe.rivero!gmail.com","HP","2017-02-01",9,0,9,1
 "Manuel de Brito Fontes","aledbf!gmail.com","SOFICOM","2017-06-01",1,1,1,1
 "Sergiusz Urbaniak","sur!coreos.com","CoreOS","2016-09-01",235,31,235,17
+"Jiahao Chen","jiahao!mit.edu","MIT","2017-08-01",1,1,1,1
 "Mark Nuttall","mpnuttall!gmail.com","IBM","2016-11-01",7,5,7,2
+"Eden Li","eden.li!gmail.com","Flipboard","2017-03-01",28,21,28,1
 "Thibaut Demaret","thibaut.demaret!radiofrance.com","Devops","2017-06-01",4,4,5,2
 "Travis Cline","travis.cline!gmail.com","ScriptDash","2017-06-01",14,6,14,1
 "Aaron Prindle","aprindle!google.com","Google","2017-02-01",9294,264,9360,17
 "vishah","vishah!blackrock.com","blackrock","2016-11-01",216,212,216,2
-"Sergiusz Urbaniak","sur!coreos.com","CoreOS","2016-10-01",283,477,711,8
+"stefano9o","stefano.galeano!gmail.com","(Unknown)","2017-09-01",1,1,1,1
 "dlorenc","dlorenc!google.com","Google","2016-04-01",1986,559,2103,26
 "Matt Rickard","mrick!google.com","Google","2017-05-01",750,619,787,17
 "Hans Kristian Flaatten","hans.flaatten!evry.com","EVRY","2016-09-01",13,13,13,1
@@ -51,37 +64,46 @@
 "Steve Leon","kokhang!gmail.com","HP","2017-04-01",4,0,4,1
 "Justin Garrison","justinleegarrison!gmail.com","Walt Disney","2016-11-01",4,1,4,1
 "Martin Etmajer","m.etmajer!gmail.com","Dynatrace LLC","2017-02-01",1,0,1,1
+"David Lyle","david.lyle!intel.com","Intel","2016-11-01",1,1,1,1
 "bryk","bryk!google.com","Google","2016-08-01",4,4,4,1
 "Matt Rickard","mrick!google.com","Google","2016-08-01",390,149,419,18
 "dlorenc","dlorenc!google.com","Google","2016-07-01",472,121,480,28
 "Steve Sloka","slokas!upmc.edu","UPMC","2017-06-01",2,2,2,1
-"trishnaguha","trishnaguha17!gmail.com","Red Hat","2017-02-01",6,0,6,1
+"Steve Sloka","slokas!upmc.edu","UPMC","2017-07-01",14,6,14,1
 "SukantGujar","sukantgujar!yahoo.com","Paragyte Technologies","2017-05-01",1,1,1,1
+"Ryuzo Yamamoto","ryuzo.yamamoto!gmail.com","(Unknown)","2017-08-01",2,2,2,1
 "Dmitry Voytik","voytikd!gmail.com","Huawei","2017-03-01",1,1,1,1
+"Manuel de Brito Fontes","aledbf!gmail.com","SOFICOM","2017-07-01",2,2,2,2
 "dlorenc","dlorenc!google.com","Google","2017-02-01",361,31,361,9
 "Hans Kristian Flaatten","hans!starefossen.com","EVRY","2016-10-01",1,1,1,1
 "Shuanglei Tao","tsl0922!gmail.com","Coding","2016-08-01",6,0,6,1
 "Rod Cloutier","rodcloutier!gmail.com","Ubisoft","2016-10-01",52,332,332,1
-"Denis Andrejew","da.colonel!gmail.com","Feenix GmbH","2016-11-01",337,337,337,1
+"Jimmi Dyson","jimmidyson!gmail.com","Red Hat","2016-08-01",20,15,20,2
+"Alessandro Pilotti","apilotti!cloudbasesolutions.com","Cloudbase Solutions","2017-07-01",2,1,2,1
 "Jimmi Dyson","jimmidyson!gmail.com","Red Hat","2016-09-01",46,20,46,3
+"Andy Clayton","q3aiml!gmail.com","(Unknown)","2017-07-01",2,1,2,2
 "Boris Schrijver","bschrijver!schubergphilis.com","Schuberg Philis","2016-10-01",8,3,8,1
 "Aaron Prindle","aprindle!google.com","Google","2017-03-01",1684,2722,2752,6
+"Victor Häggqvist","victor!snilius.com","Shipwallet","2016-09-01",26,0,26,1
 "Thibaut Demaret","thibaut.demaret!radiofrance.com","Devops","2017-05-01",4,7,8,2
 "abrand","abrand!apprenda.com","Apprenda","2016-08-01",6,0,6,1
 "Aaron Prindle","aprindle!google.com","Google","2016-08-01",1242,426,1247,21
+"Arthur","arthurbalfredo!gmail.com","(Unknown)","2017-08-01",3,3,3,1
 "Matt Rickard","mrick!google.com","Google","2016-11-01",486,243,578,17
+"Pavol Loffay","p.loffay!gmail.com","(Unknown)","2017-07-01",1,1,1,1
 "dlorenc","dlorenc!google.com","Google","2016-06-01",1294,396,1310,48
-"Maxime Vidori","maxime.vidori!container-solutions.com","Adyen","2017-03-01",86,5,86,3
-"Giovanni Tirloni","giovanni.tirloni!gmail.com","Self","2017-04-01",3,0,3,1
+"Kent Rancourt","kent.rancourt!microsoft.com","Microsoft","2017-09-01",190,60,190,2
+"Dale Hamel","dale.hamel!shopify.com","Shopify","2017-05-01",119,27,119,1
+"Ben Corlett","ben.corlett!gmail.com","BSkyB","2017-09-01",13,0,13,1
 "Brandon Philips","brandon.philips!coreos.com","CoreOS","2016-06-01",119,20,119,2
 "dlorenc","lorenc.d!gmail.com","Google","2016-05-01",2755,1100,3072,80
-"Steve Sloka","slokas!upmc.edu","UPMC","2017-01-01",24,24,24,3
-"Matt Rickard","mrick!google.com","Google","2017-04-01",503,67,504,14
+"Chris Stryczynski","chris!soundshare.co.uk","(Unknown)","2017-08-01",17,4,17,1
+"dlorenc","dlorenc!google.com","Google","2017-04-01",325,99,325,9
 "Paul Bourke","brk3!users.noreply.github.com","NotFound","2016-07-01",17,3,17,1
-"Aaron Prindle","aprindle!google.com","Google","2016-06-01",1679,475,1949,17
+"Anatoli Babenia","anatoli!rainforce.org","(Unknown)","2017-08-01",3,2,3,2
 "Kyle Kurtz","kjkurtz!gmail.com","Target","2017-02-01",1,1,1,1
 "Brandon Philips","brandon.philips!coreos.com","CoreOS","2016-09-01",4,2,4,1
-"Rob Franken","rfranken!google.com","Google","2016-11-01",4,4,4,1
+"Manuel de Brito Fontes","aledbf!gmail.com","SOFICOM","2017-08-01",1,1,1,1
 "Vish Kannan","vishh!users.noreply.github.com","Google","2016-04-01",206,2,206,2
 "Matt Rickard","mrick!google.com","Google","2016-09-01",970,42,973,12
 "dlorenc","dlorenc!google.com","Google","2017-01-01",110,15,111,10
@@ -90,43 +112,55 @@
 "bryk","bryk!google.com","Google","2016-09-01",4,4,4,1
 "Dan Gillespie","dan!redspread.com","Redspread","2016-05-01",2232,18,2233,9
 "James Strachan","james.strachan!gmail.com","Red Hat","2016-06-01",17,3,17,2
+"Aaron Prindle","aprindle!google.com","Google","2017-01-01",92,10,92,8
 "Matt Rickard","mrick!google.com","Google","2016-12-01",421,154,458,25
-"Jimmi Dyson","jimmidyson!gmail.com","Red Hat","2017-01-01",6,0,6,1
+"Aaron Prindle","aprindle!google.com","Google","2017-09-01",38,19,38,6
 "Puja","puja108!gmail.com","Europa","2017-02-01",1,1,1,1
 "Davanum Srinivas","davanum!gmail.com","Mirantis","2017-02-01",6,2,6,2
 "ryan jarvinen","ryan.jarvinen!gmail.com","CoreOS","2016-09-01",14,5,14,1
 "Mohamed Shahat","mshahat!computer.org","TIBCOSoftware","2017-02-01",3,0,3,1
 "Cedric Ziel","cedric!cedric-ziel.com","dreipunktnull","2016-11-01",1,1,1,1
+"Samuel Dion-Girardeau","samuel.diongirardeau!gmail.com","(Unknown)","2017-08-01",1,1,1,1
 "Aaron Prindle","aprindle!google.com","Google","2016-10-01",821,231,898,13
 "Andreas Kohn","andreas.kohn!gmail.com","Collaborne","2017-05-01",2,2,2,2
-"Eden Li","eden.li!gmail.com","Flipboard","2017-03-01",28,21,28,1
+"Yaniv Kaul","ykaul!redhat.com","Red Hat","2017-08-01",1,1,1,1
 "Sergiusz Urbaniak","sur!coreos.com","CoreOS","2016-08-01",1478,3,1478,7
-"Dale Hamel","dale.hamel!shopify.com","Shopify","2017-05-01",119,27,119,1
+"Maxime Vidori","maxime.vidori!container-solutions.com","Adyen","2017-03-01",86,5,86,3
 "Budh Ram Gurung","budhram.gurung01!gmail.com","Red Hat","2017-05-01",11,11,11,1
 "Jamie Hannaford","jamie.hannaford!rackspace.com","Rackspace","2017-06-01",5,0,5,1
+"Sergiusz Urbaniak","sur!coreos.com","CoreOS","2016-10-01",283,477,711,8
 "Aaron Prindle","aprindle!google.com","Google","2016-12-01",14,3,14,4
+"Mohammad Asif Siddiqui","mohammad.asif.siddiqui1!huawei.com","Huawei","2017-08-01",14,4,14,3
 "Jonathan Boulle","jonathanboulle!gmail.com","NStack","2016-10-01",4,4,4,1
 "Matt Rickard","mrick!google.com","Google","2016-10-01",1522,1083,2337,31
-"dlorenc","dlorenc!google.com","Google","2017-06-01",14,75,78,6
+"Jakub Gocławski","gocek13!gmail.com","Social WiFi","2017-06-01",11,3,11,1
+"adolphlwq","kenan3015!gmail.com","(Unknown)","2017-09-01",1,1,1,1
+"Charlie Drage","charlie!charliedrage.com","Red Hat","2017-09-01",4,2,4,1
 "Bartosz Ptaszynski","foobarto!gmail.com","Teamwork.com","2017-04-01",1,1,1,1
 "Aaron Prindle","aprindle!google.com","Google","2016-07-01",722,171,722,15
 "Alexander Vlasov","avlasov!sugarcrm.com","SugarCRM","2017-04-01",1,1,1,1
+"Mark Snelling","mark!bakedbeans.com","(Unknown)","2017-08-01",2,0,2,1
 "Morgan Bauer","mbauer!us.ibm.com","IBM","2016-07-01",3,4,4,3
+"Praveen Kumar","kumarpraveen.nitdgp!gmail.com","YesMastr","2017-09-01",33,18,33,2
 "Aaron Prindle","aprindle!google.com","Google","2016-05-01",620,66,620,7
 "Maru Newby","marun!redhat.com","Red Hat","2016-10-01",16,0,16,1
+"hanks","zhouhan315!gmail.com","(Unknown)","2017-07-01",24,11,24,1
 "Raees Bhatti","raees.bhatti!gmail.com","The Websmith Co.","2016-10-01",1,0,1,1
 "Xinbo Weng","xihuanbo_0521!zju.edu.cn","Self","2016-12-01",31,33,33,2
 "Bill Prin","waprin!google.com","Google","2016-12-01",2,0,2,1
 "Denis Andrejew","da.colonel!gmail.com","Feenix GmbH","2017-03-01",1,1,1,1
-"David Lyle","david.lyle!intel.com","Intel","2016-11-01",1,1,1,1
+"dlorenc","dlorenc!google.com","Google","2017-08-01",363,64,363,7
+"Giovanni Tirloni","giovanni.tirloni!gmail.com","Self","2017-04-01",3,0,3,1
+"Ihor Dvoretskyi","ihor!dvoretskyi.com","Mirantis","2017-08-01",1,1,1,1
 "Marcin Maciaszczyk","maciaszczykm!users.noreply.github.com","Fujitsu","2017-05-01",4,4,4,1
 "Chris Nesbitt-Smith","chris!cns.me.uk","UK Home Office","2017-02-01",1,1,1,1
 "Antonio Murdaca","runcom!redhat.com","Red Hat","2017-06-01",2,2,2,1
 "Koichi Shiraishi","zchee.io!gmail.com","Self","2016-10-01",1,0,1,1
-"Victor Häggqvist","victor!snilius.com","Shipwallet","2016-09-01",26,0,26,1
+"DenisBiondic","denisbiondic!hotmail.com","(Unknown)","2017-07-01",2,0,2,1
 "dlorenc","dlorenc!google.com","Google","2016-10-01",110,52,143,10
 "Vic Iglesias","viglesias!google.com","Google","2016-09-01",1,0,1,1
 "Subhas Dandapani","rdsubhas!gmail.com","GoEuro","2016-06-01",14,2,14,1
+"Steve Sloka","slokas!upmc.edu","UPMC","2017-01-01",24,24,24,3
 "Andrew Chen","chenopis!users.noreply.github.com","Google","2017-06-01",8,1,8,1
 "Gerd Aschemann","gerd!aschemann.net","Self","2016-07-01",26,20,26,3
 "Matthew Fisher","mfisher!deis.com","Microsoft","2017-01-01",9,0,9,1
@@ -134,56 +168,65 @@
 "Mike Grass","mgrass!salesforce.com","SalesForce","2017-04-01",20,10,20,4
 "Shailesh Pant","shailesh.pant!gmail.com","Cisco","2016-06-01",1,1,1,1
 "Rob Franken","rfranken!google.com","Google","2017-01-01",4,4,4,1
+"Aaron Prindle","aprindle!google.com","Google","2016-06-01",1679,475,1949,17
 "Aaron Prindle","aprindle!google.com","Google","2016-11-01",815,196,831,8
 "Jimmi Dyson","jimmidyson!gmail.com","Red Hat","2016-10-01",793,457,921,23
 "Roland Schilter","roli!weave.works","Weaveworks","2017-06-01",3,3,3,1
 "Phu Kieu","pkieu!jpl.nasa.gov","NASA","2017-03-01",95,1,95,1
 "Brandon L. Gauthier","brandon.l.gauthier!gmail.com","Content Analyst Company","2017-01-01",19,5,19,1
 "Brad Ison","bison!coreos.com","CoreOS","2016-09-01",48,1,48,2
-"Dale Hamel","dalehamel!users.noreply.github.com","Shopify","2017-04-01",10,0,10,3
+"Matt Rickard","mrick!google.com","Google","2017-01-01",970,420,1087,17
+"umiyosh","yumino99!gmail.com","NotFound","2016-08-01",7,7,7,2
 "tz70s","su3g4284zo6y7!gmail.com","NotFound","2017-06-01",3,0,3,1
 "Aaron Prindle","aprindle!google.com","Google","2017-04-01",527,2362,2642,12
 "dlorenc","dlorenc!google.com","Google","2016-11-01",123,6,123,6
 "Patrick Gray","pgray!conductor.com","Conductor","2016-08-01",7,0,7,2
 "abrand","abrand!apprenda.com","Apprenda","2016-07-01",3,2,3,1
-"Aaron Prindle","aprindle!google.com","Google","2017-06-01",239,81,239,8
+"Aaron Prindle","aprindle!google.com","Google","2017-06-01",507,81,507,9
 "Matthew Fisher","matt.fisher!microsoft.com","Microsoft","2017-06-01",63,4,63,3
+"Aaron Prindle","aprindle!google.com","Google","2017-08-01",19,8,19,3
 "dlorenc","dlorenc!google.com","Google","2016-08-01",704,75,705,10
 "dlorenc","dlorenc!google.com","Google","2016-12-01",228,44,228,6
 "Budh Ram Gurung","budhram.gurung01!gmail.com","Red Hat","2017-06-01",42,42,42,2
 "Victoria Domalik","victoria.domalik!gmail.com","Wercker","2016-08-01",118,0,118,1
-"Matt Rickard","mrick!google.com","Google","2016-07-01",1,1,1,1
+"Rob Franken","rfranken!google.com","Google","2016-11-01",4,4,4,1
+"trishnaguha","trishnaguha17!gmail.com","Red Hat","2017-02-01",6,0,6,1
 "Steve Sloka","slokas!upmc.edu","UPMC","2016-12-01",60,0,60,1
 "Michelle Noorali","michelle!deis.com","Microsoft","2017-06-01",2,2,2,1
 "Jimmi Dyson","jimmidyson!gmail.com","Red Hat","2016-07-01",628,113,639,29
 "Nick Kubala","nkubala!google.com","Google","2017-05-01",105,52,105,3
+"Teddy Schmitz","teddy!schmitz.hk","(Unknown)","2017-05-01",16,0,16,1
 "Lalatendu Mohanty","lmohanty!redhat.com","Red Hat","2017-06-01",9,0,9,1
 "Alexander Kanevskiy","alexander.kanevskiy!intel.com","Intel","2016-10-01",4,4,4,1
 "XrXr","xrsquared!gmail.com","NotFound","2017-06-01",5,0,5,1
 "Arve Knudsen","arve.knudsen!gmail.com","ApresMIDI AB","2017-06-01",3,4,4,1
+"Aaron Prindle","aprindle!google.com","Google","2017-07-01",39,17,39,3
 "goodwillcoding","goodwillcoding!users.noreply.github.com","Pylons Project","2017-06-01",2,2,2,1
 "Bryan Larsen","bryan!larsen.st","Self","2017-05-01",2,2,2,1
 "Paulo Bittencourt","paulo!wattpad.com","Wattpad","2017-01-01",1,1,1,1
 "Rob Franken","rob!rob-franken.nl","Google","2016-10-01",4,4,4,1
 "Andreas Kohn","andreas.kohn!gmail.com","Collaborne","2016-11-01",2,2,2,1
-"Thibaut Démaret","59pilgrim!gmail.com","Devops","2017-06-01",9,6,9,4
-"dlorenc","dlorenc!google.com","Google","2017-04-01",325,99,325,9
+"Marc CARRE","carre.marc!gmail.com","Weaveworks","2017-07-01",3,0,3,1
+"Andrew Seigner","andrew!sig.gy","Code Coup","2017-04-01",6,6,6,1
+"Matt Rickard","mrick!google.com","Google","2017-04-01",503,67,504,14
 "Aaron Prindle","aprindle!google.com","Google","2016-09-01",2167,657,2176,10
 "Everett Toews","everett.toews!rackspace.com","Rackspace","2017-04-01",1,1,1,1
 "Matt Rickard","mrick!google.com","Google","2017-03-01",788,561,793,31
-"Jakub Gocławski","gocek13!gmail.com","Social WiFi","2017-06-01",11,3,11,1
+"dlorenc","dlorenc!google.com","Google","2017-06-01",73,132,137,7
 "William Martin Stewart","zoidbergwill!gmail.com","Superbalist","2016-10-01",24,24,24,1
 "Andreas Kohn","andreas.kohn!gmail.com","Collaborne","2017-02-01",4,3,4,3
 "Sylvain Bellemare","sylvain!ascribe.io","ascribe","2017-03-01",1,1,1,1
+"Phu Kieu","pskieu!gmail.com","NASA","2017-08-01",22,18,22,1
 "Jimmi Dyson","jimmidyson!gmail.com","Red Hat","2016-06-01",192,22,192,2
 "dlorenc","lorenc.d!gmail.com","Google","2016-09-01",538,278,562,24
 "Gustavo Carneiro","gjcarneiro!gmail.com","Gambit Research","2016-10-01",5,2,5,1
 "Brian Fallik","bfallik!gmail.com","clypd","2017-02-01",1,1,1,1
-"umiyosh","yumino99!gmail.com","NotFound","2016-08-01",7,7,7,2
+"Matt Rickard","mrick!google.com","Google","2017-08-01",3846,1753,4073,52
 "Abby Tisdale","atisdale!atisdale.sfo.corp.google.com","Google","2017-06-01",370,4,370,1
 "Sergiusz Urbaniak","sur!coreos.com","CoreOS","2017-01-01",5,2,5,2
-"Jimmi Dyson","jimmidyson!gmail.com","Red Hat","2016-08-01",20,15,20,2
+"Matt Rickard","mrick!google.com","Google","2017-07-01",491,214,593,21
 "Shane Ramey","shane.ramey!gmail.com","O'Reilly Media","2017-06-01",10,9,10,2
+"Matt Rickard","mrick!google.com","Google","2016-07-01",1,1,1,1
 "Andreas Kohn","andreas.kohn!gmail.com","Collaborne","2017-01-01",2,2,2,2
 "Tom von Schwerdtner","tomvons!gmail.com","CoverMyMeds","2017-02-01",18,47,52,4
 "Chris Broadfoot","cbro!golang.org","Google","2016-12-01",7,7,7,1

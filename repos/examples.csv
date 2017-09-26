@@ -18,18 +18,20 @@
 "eulerzgy","zhenggouyong.zheng!huawei.com","Huawei","2015-10-01",1,1,1,1
 "derekwaynecarr","decarr!redhat.com","Red Hat","2015-09-01",319,1,319,2
 "jay vyas","jay!apache.org","Apache","2015-04-01",2,2,2,1
+"Alexander Block","ablock84!gmail.com","Self","2017-07-01",11,2,11,1
 "Pierre du Plessis","pierre!pcservice.co.za","MiWay Insurance","2015-02-01",1,1,1,1
-"Christian Koep","christiankoep!gmail.com","Self","2016-05-01",3,6,6,1
+"Cody Clark","codyclark!google.com","Google","2017-08-01",476,1073,1073,4
 "deads2k","deads!redhat.com","Red Hat","2016-09-01",11,10,11,4
 "Tim Hockin","thockin!google.com","Google","2014-06-01",12,0,12,1
 "Brian Grant","briangrant!google.com","Google","2014-09-01",1,1,1,1
 "Brian Grant","briangrant!google.com","Google","2015-10-01",4,2,4,1
+"Vladimir Pouzanov","farcaller!gmail.com","Google","2017-07-01",51,82,82,1
 "Jan Safranek","jsafrane!redhat.com","Red Hat","2017-01-01",13,13,13,1
 "Corey Farwell","coreyf!rwell.org","kickstarter","2015-11-01",1,1,1,1
 "Steve Kuznetsov","steve.kuznetsov!gmail.com","Red Hat","2015-06-01",357,47,357,2
 "Jan Safranek","jsafrane!redhat.com","Red Hat","2017-03-01",25,27,27,1
 "Brad Erickson","eosrei!gmail.com","Udacity","2015-11-01",2,2,2,1
-"Joe Beda","joe.github!bedafamily.com","Google","2014-06-01",350,22,350,3
+"TigerXu","xuzhonghu!huawei.com","Huawei","2017-08-01",0,2,2,1
 "Eric Tune","etune!google.com","Google","2015-12-01",13,8,13,1
 "derekwaynecarr","decarr!redhat.com","Red Hat","2015-01-01",297,2,297,4
 "Janet Kuo","chiachenk!google.com","Google","2016-10-01",7,7,7,3
@@ -61,8 +63,8 @@
 "Chakravarthy Nelluri","nelcyguy!gmail.com","Diamanti","2016-04-01",52,6,52,1
 "Tim Hockin","thockin!google.com","Google","2014-10-01",78,48,78,2
 "Yifan Gu","yifan.gu!coreos.com","CoreOS","2016-09-01",3,3,6,2
-"Matt Baldwin","baldwin!stackpointcloud.com","StackPointCloud","2016-08-01",3,0,3,1
-"Daniel Smith","dbsmith!google.com","Google","2015-05-01",328,229,553,3
+"Zach Loafman","zml!google.com","Google","2015-10-01",623,523,794,7
+"Greg Taylor","gtaylor!users.noreply.github.com","Reddit","2017-08-01",1,1,1,1
 "Madhusudan.C.S","madhusudancs!google.com","Google","2016-01-01",2,1,2,1
 "Amy Unruh","amy!infosleuth.net","Google","2015-01-01",419,0,419,1
 "jayunit100","jayunit100!gmail.com","Red Hat","2015-03-01",3684,2427,5948,5
@@ -74,6 +76,7 @@
 "Christian Koep","christiankoep!gmail.com","Self","2017-03-01",1,1,1,1
 "Julia Ferraioli","julia.ferraioli!gmail.com","Google","2014-07-01",8,0,8,1
 "Jan Safranek","jsafrane!redhat.com","Red Hat","2016-09-01",28,15,28,2
+"jay vyas","jay!apache.org","Apache","2015-08-01",8,6,8,1
 "Elson Rodriguez","elson.rodriguez!gmail.com","Intel","2015-04-01",6,2,6,1
 "Huamin Chen","hchen!redhat.com","Red Hat","2016-08-01",173,11,173,3
 "Maciej Kwiek","maciej.iai!gmail.com","Mirantis","2016-11-01",1,1,1,1
@@ -81,6 +84,7 @@
 "Jerome Touffe-Blin","jtblin!gmail.com","Atlassian","2016-02-01",37,43,43,1
 "Sam Ghods","sam!box.com","Box","2015-02-01",2,0,2,1
 "zhangxiaoyu-zidif","zhang.xiaoyu33!zte.com.cn","ZTE Corporation","2017-04-01",19,19,19,1
+"Christian Koep","christiankoep!gmail.com","Self","2016-05-01",3,6,6,1
 "Timothy St. Clair","timothysc!gmail.com","Heptio","2017-04-01",0,2085,2085,1
 "Jeff Mendoza","jeffmendoza!google.com","Google","2015-05-01",169,86,171,5
 "Steve Watt","swatt!redhat.com","Red Hat","2015-03-01",2,2,2,1
@@ -89,7 +93,6 @@
 "Jeff Grafton","jgrafton!google.com","Google","2016-12-01",3,3,3,1
 "Doug Davis","dug!us.ibm.com","IBM","2016-05-01",31,31,31,1
 "Brendan Burns","bburns!google.com","Google","2014-12-01",104,0,104,2
-"Angus Salkeld","asalkeld!mirantis.com","Mirantis","2016-07-01",0,2,2,1
 "Veres Lajos","vlajos!gmail.com","DrEd Online Doctor","2015-08-01",3,3,3,1
 "Jason Kuhrt","jasonkuhrt!me.com","Apple","2014-11-01",0,1,1,1
 "Brendan Burns","bburns!google.com","Google","2014-10-01",264,29,264,9
@@ -114,22 +117,24 @@
 "Nitish Tiwari","nitisht!users.noreply.github.com","minio","2017-02-01",1,0,1,1
 "you-n-g","afe.young!gmail.com","Self","2015-04-01",15,2,15,3
 "jijun2","jijun2!huawei.com","Huawei","2015-10-01",21,39,39,2
-"Álex González","agonzalezro!gmail.com","jobandtalent","2015-09-01",147,0,147,1
+"Malepati Bala Siva Sai Akhil","malepatib.akhil!huawei.com","Huawei","2017-08-01",2,2,2,1
 "Deimosfr","deimos!deimos.fr","Criteo","2016-12-01",4,0,4,1
 "Tamer Tas","contact!tmrts.com","Self","2016-08-01",1,1,1,1
 "Patrick Galbraith","patg!hp.com","HP","2015-09-01",630,0,630,1
-"Huamin Chen","hchen!redhat.com","Red Hat","2015-09-01",9,2,9,1
+"Huamin Chen","hchen!redhat.com","Red Hat","2017-03-01",115,2,115,2
 "Michail Kargakis","mkargaki!redhat.com","Red Hat","2016-12-01",2,2,2,1
 "Maisem Ali","maisem!google.com","Google","2016-02-01",19,19,38,2
 "Klaus Ma","klaus1982.cn!gmail.com","IBM","2016-08-01",85,4,85,1
 "Seth Jennings","sjenning!redhat.com","Red Hat","2017-01-01",3,3,3,1
 "Salvatore Dario Minonne","salvatore-dario.minonne!amadeus.com","Amadeus","2015-02-01",3,0,3,1
 "jay vyas","jay!apache.org","Apache","2015-06-01",792,0,792,1
+"Deyuan Deng","deyuan.deng!gmail.com","Google","2014-08-01",2,6,6,2
 "Tim Hockin","thockin!google.com","Google","2014-09-01",10,10,10,2
 "Joe Beda","joe.github!bedafamily.com","Google","2014-09-01",62,27,62,3
 "Sreekanth Pothanis","spothanis!ebay.com","eBay","2015-04-01",254,0,254,2
 "rsokolowski","rsokolowski!google.com","Google","2015-02-01",186,126,186,1
 "Hongchao Deng","hongchaodeng1!gmail.com","CoreOS","2016-08-01",23,10,23,5
+"Jordan Liggitt","jordan!liggitt.net","Red Hat","2017-08-01",44,14,44,1
 "Gurpartap Singh","contact!gurpartap.com","Self","2014-09-01",1032,363,1040,8
 "deads2k","deads!redhat.com","Red Hat","2017-01-01",49,52,55,9
 "Brendan Burns","bburns!google.com","Google","2014-07-01",22,9,22,4
@@ -146,17 +151,17 @@
 "Ahmet Alp Balkan","ahmetb!google.com","Google","2017-05-01",13,13,13,2
 "Klaus Ma","klaus1982.cn!gmail.com","IBM","2016-04-01",50,8,50,1
 "Vladimir Rutsky","rutsky!users.noreply.github.com","Buildbot","2016-02-01",1,1,1,1
-"Xing Zhou","xingzhou!cn.ibm.com","IBM","2016-12-01",16,16,16,1
 "Nikhita Raghunath","nikitaraghunath!gmail.com","Self","2017-05-01",13,13,13,1
 "Matthew Farrellee","matt!redhat.com","Red Hat","2015-03-01",491,2,491,11
 "Chris Crane","03cranec!users.noreply.github.com","Sysdig","2016-07-01",216,14,222,4
 "Chao Xu","xuchao!google.com","Google","2015-12-01",40,44,44,1
 "Bob Cao","bobintornado!gmail.com","Tinkerbox","2016-05-01",2,2,2,1
+"David Oppenheimer","davidopp!google.com","Google","2015-07-01",63,63,63,1
 "Zach Loafman","zml!google.com","Google","2016-02-01",7,5,7,1
 "O'meid","public!omeid.me","microcloud","2017-05-01",1,1,1,1
 "Zichang Lin","linzichang!huawei.com","Huawei","2015-11-01",12,18,18,1
 "Prashanth Balasubramanian","beeps!google.com","Google","2015-06-01",1,1,1,1
-"markturansky","mturansk!redhat.com","Red Hat","2015-10-01",164,0,164,1
+"Vladimir Vivien","vladimirvivien!users.noreply.github.com","(Unknown)","2017-09-01",35,58,58,1
 "derekwaynecarr","decarr!redhat.com","Red Hat","2015-03-01",46,30,46,2
 "Jeff Mendoza","jeffmendoza!google.com","Google","2016-03-01",2,1,2,1
 "Thien-Thi Nguyen","tnguyen!redhat.com","Red Hat","2015-05-01",1,1,1,1
@@ -186,6 +191,7 @@
 "deads2k","deads!redhat.com","Red Hat","2016-12-01",13,9,13,3
 "Hans Kristian Flaatten","hans!starefossen.com","EVRY","2016-09-01",1,1,1,1
 "Di Xu","stephenhsu90!gmail.com","Self","2017-02-01",1,1,1,1
+"Tony Foerster","anthonymfoerster!gmail.com","(Unknown)","2017-07-01",16,16,16,1
 "Dr. Stefan Schimanski","sttts!redhat.com","Red Hat","2016-11-01",5,5,5,1
 "deads2k","deads!redhat.com","Red Hat","2015-12-01",2,2,2,1
 "Huamin Chen","hchen!redhat.com","Red Hat","2016-07-01",70,0,70,1
@@ -202,6 +208,7 @@
 "Allan Caffee","allan.caffee!gmail.com","LinkedIn","2016-10-01",1,1,1,1
 "Deyuan Deng","deyuan!google.com","Google","2015-04-01",293,0,293,1
 "Jan Safranek","jsafrane!redhat.com","Red Hat","2017-02-01",0,8,8,1
+"Weibin Lin","linweibin1!huawei.com","Huawei","2017-08-01",13,13,13,6
 "Chao Xu","xuchao!google.com","Google","2015-10-01",20,20,20,4
 "Brendan Burns","bburns!google.com","Google","2015-08-01",46,44,46,1
 "jayunit100","jayunit100!gmail.com","Red Hat","2015-01-01",6,3,6,1
@@ -213,52 +220,60 @@
 "Anish Bhatt","anish!gatech.edu","Georgia Tech","2015-11-01",2,0,2,1
 "Chao Xu","xuchao!google.com","Google","2015-09-01",14,11,14,4
 "Jeff Vance","jvance!redhat.com","Red Hat","2016-08-01",54,4,54,1
+"Brendan Burns","bburns!google.com","Google","2015-02-01",10,18,18,2
 "Brandon Philips","brandon!ifup.org","CoreOS","2016-06-01",1,1,1,1
 "David McMahon","djmm!google.com","Google","2016-09-01",140,35,140,1
 "oaktowner","ciruli!gmail.com","Google","2014-10-01",1,1,1,1
 "Daniel Smith","dbsmith!google.com","Google","2014-06-01",34,26,34,4
 "Mike Danese","mikedanese!google.com","Google","2016-12-01",257,52,257,2
+"BaluDontu","bdontu!vmware.com","VMware","2017-03-01",199,0,199,1
 "Matthew Farrellee","matt!redhat.com","Red Hat","2016-01-01",0,450,450,1
 "Simen Bekkhus","sbekkhus91!gmail.com","FINN.no","2017-02-01",1,1,1,1
-"Deyuan Deng","deyuan.deng!gmail.com","Google","2014-08-01",2,6,6,2
+"zoues","zouyee1989!gmail.com","China Mobile International Limited","2017-07-01",1,1,1,1
 "Jeff Mendoza","jeffmendoza!google.com","Google","2015-04-01",341,0,341,1
 "Abrar Shivani","shivania!vmware.com","VMware","2017-02-01",36,25,36,1
 "Brandon Philips","brandon.philips!coreos.com","CoreOS","2016-05-01",1,1,1,1
 "Mike Danese","mikedanese!google.com","Google","2017-04-01",17,17,17,1
 "Vishnu kannan","vishnuk!google.com","Google","2014-10-01",1,1,1,1
 "markturansky","mturansk!redhat.com","Red Hat","2015-04-01",116,55,116,4
-"Humble Chirammal","hchiramm!redhat.com","Red Hat","2017-05-01",10,0,10,2
 "joe2far","joe2farrell!gmail.com","Ammeon","2016-07-01",279,279,279,2
+"Miyurz","miyurz!users.noreply.github.com","(Unknown)","2017-08-01",4,4,4,1
 "Adam Zell","zellster!gmail.com","Über","2016-05-01",5,5,5,1
 "Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-05-01",4,1,4,1
+"colin","colin1124x!gmail.com","(Unknown)","2017-07-01",4,3,4,1
 "Tim St. Clair","stclair!google.com","Google","2016-02-01",1,1,1,1
 "Mike Danese","mikedanese!gmail.com","Google","2015-08-01",24,24,24,4
 "Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-07-01",14,0,14,1
 "keisuke oohashi","keisuke.oohashi!gmail.com","カブク","2014-09-01",1,1,1,1
 "timchenxiaoyu","837829664!qq.com","Self","2017-02-01",3,3,3,2
-"Brendan Burns","bburns!google.com","Google","2015-02-01",10,18,18,2
+"Anthony Yeh","enisoc!google.com","Google","2017-07-01",0,4,4,1
 "dingh","dinghaiyang!huawei.com","Huawei","2015-05-01",36,8,36,1
 "Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-12-01",0,7,7,1
+"nikhiljindal","nikhiljindal!google.com","Google","2015-05-01",13,9,13,1
+"Randy Fay","randy!randyfay.com","Randy Fay","2017-08-01",4,8,8,1
 "Alex Robinson","arob!google.com","Google","2016-07-01",0,49939,49939,1
 "Jordan Liggitt","jliggitt!redhat.com","Red Hat","2017-02-01",10,10,10,1
 "Eric Tune","etune!google.com","Google","2016-03-01",6,1161,1161,1
-"Chakravarthy Nelluri","nelcyguy!gmail.com","Diamanti","2017-02-01",204,17,204,1
+"Ahmet Alp Balkan","ahmetalpbalkan!gmail.com","Microsoft","2017-08-01",47,760,760,5
 "Kris Rousey","krousey!google.com","Google","2015-06-01",89,88,91,13
 "Clayton Coleman","ccoleman!redhat.com","Red Hat","2014-10-01",4,4,4,2
 "Kristian Klausen","klausenbusk!hotmail.com","Airtame","2017-04-01",0,15,15,1
+"Joe Beda","joe.github!bedafamily.com","Google","2014-06-01",350,22,350,3
 "Jan Dolecek","juzna.cz!gmail.com","eDigitalResearch","2015-03-01",2,1,2,1
-"jay vyas","jay!apache.org","Apache","2015-08-01",8,6,8,1
+"Angus Salkeld","asalkeld!mirantis.com","Mirantis","2016-07-01",0,2,2,1
 "Dai Zuozhuo","daizuozhuo!gmail.com","Amazon","2015-08-01",4,4,4,1
 "Alex Robinson","alexdwanerobinson!gmail.com","Cockroach","2017-05-01",11,17,17,2
 "Alex Robinson","alexdwanerobinson!gmail.com","Cockroach","2016-12-01",31,2,31,1
 "hokutosei","jeanepaul!gmail.com","Luxiar","2015-01-01",1,1,1,1
+"Chakravarthy Nelluri","nelcyguy!gmail.com","Diamanti","2017-02-01",204,17,204,1
 "Pedro Marques","pedro.r.marques!gmail.com","Google","2015-06-01",123,109,123,1
 "Chao Xu","xuchao!google.com","Google","2015-05-01",1765,2819,3083,21
 "Kathrin Probst","kprobst!google.com","Google","2015-06-01",7,1,7,1
 "Chakravarthy Nelluri","nelcyguy!gmail.com","Diamanti","2015-09-01",242,0,242,1
+"Leif Madsen","leif!leifmadsen.com","(Unknown)","2017-08-01",27,11,27,1
 "tanshanshan","tan.shanshan!zte.com.cn","ZTE Corporation","2016-12-01",12,10,12,2
 "Alexander","abezzubov!nflabs.com","NFLabs","2015-12-01",1,1,1,1
-"Deyuan Deng","deyuan!google.com","Google","2015-03-01",5,7,7,1
+"netroby","netroby!users.noreply.github.com","(Unknown)","2017-08-01",1,1,1,1
 "Karl Beecher","karl!endocode.com","Endocode","2015-04-01",194,223,223,1
 "Joe Beda","joe.github!bedafamily.com","Google","2014-08-01",370,130,370,2
 "Antmanler","antmanler!gmail.com","Beijing Renaissance Era Investment","2015-02-01",288,0,288,1
@@ -312,6 +327,7 @@
 "Huamin Chen","hchen!redhat.com","Red Hat","2016-11-01",3,0,3,1
 "Werner","sky.captin!gmail.com","CT Lab","2017-05-01",17,15,17,1
 "Nitish","tiwari.nitish!gmail.com","Tata","2017-05-01",4,12,12,1
+"chaowang95","wangchao.fnst!cn.fujitsu.com","Fujitsu","2017-07-01",1,1,1,1
 "eulerzgy","zhenggouyong.zheng!huawei.com","Huawei","2015-09-01",1,1,1,1
 "Janet Kuo","chiachenk!google.com","Google","2015-08-01",0,1,1,1
 "Oguz Pastirmaci","oguzp!microsoft.com","Microsoft","2017-01-01",91,0,91,1
@@ -320,17 +336,18 @@
 "Amy Unruh","amyu!google.com","Google","2015-08-01",96,25,96,1
 "Prashanth Balasubramanian","beeps!google.com","Google","2015-07-01",254,0,254,1
 "Cole Mickens","cole.mickens!gmail.com","Microsoft","2017-02-01",1,1,1,1
+"Fei Xu","xufei40!huawei.com","Huawei","2017-08-01",2,2,2,1
 "Hongbin Lu","hongbin.lu!huawei.com","Huawei","2015-12-01",0,1,1,1
 "goltermann","goltermann!google.com","Google","2015-05-01",10,9,10,1
 "Jeff Lowdermilk","jeffml!google.com","Google","2015-03-01",25,34,34,2
 "Vladimir Vivien","vladimir.vivien!gmail.com","Dell","2016-11-01",344,0,344,1
 "Rafael Chacon","rafaelchacon!gmail.com","MyFitnessPal","2014-06-01",4,4,4,1
 "Abrar Shivani","shivania!vmware.com","VMware","2016-10-01",484,1,484,1
-"Paul Morie","pmorie!gmail.com","Red Hat","2015-04-01",71,0,71,1
+"Ahmet Alp Balkan","ahmetalpbalkan!gmail.com","Microsoft","2017-07-01",92,69,92,3
 "Jeff Lowdermilk","jeffml!google.com","Google","2015-05-01",111,2,111,1
 "Filip Grzadkowski","filipg!google.com","Google","2015-09-01",69,158,158,1
 "Brendan Burns","bburns!google.com","Google","2015-01-01",3480,16,3480,7
-"David Oppenheimer","davidopp!google.com","Google","2015-07-01",63,63,63,1
+"Humble Chirammal","hchiramm!redhat.com","Red Hat","2017-07-01",5,0,5,1
 "Kyle Mathews","mathews.kyle!gmail.com","GatsbyJS","2015-02-01",2,2,2,1
 "Zichang Lin","linzichang!huawei.com","Huawei","2015-10-01",0,11,11,1
 "Brendan Burns","bburns!google.com","Google","2015-03-01",50,18,55,2
@@ -351,6 +368,7 @@
 "huzhifeng","huzhifeng!douyu.tv","Douyu.com","2017-03-01",1,1,1,1
 "Anish Bhatt","anish!gatech.edu","Georgia Tech","2015-10-01",21,19,21,1
 "Masahiro Sano","sabo.ttenda!gmail.com","Mercari","2015-05-01",143,2,143,1
+"Álex González","agonzalezro!gmail.com","jobandtalent","2015-09-01",147,0,147,1
 "MikeJeffrey","mikejeffrey!users.noreply.github.com","Google","2014-11-01",6,6,6,2
 "derekwaynecarr","decarr!redhat.com","Red Hat","2015-06-01",405,109,407,3
 "Aditya Patawari","aditya!adityapatawari.com","Fedora Project","2014-12-01",3,0,3,1
@@ -359,22 +377,28 @@
 "Joe Beda","joe.github!bedafamily.com","Google","2014-12-01",14,14,14,1
 "haoyuan","haoyuan.ge!caicloud.io","Caicloud","2017-04-01",3,3,3,1
 "Tim Hockin","thockin!google.com","Google","2015-04-01",71,55,71,2
+"Denis Andrejew","da.colonel!gmail.com","Feenix GmbH","2017-08-01",1,1,1,1
 "Marek Biskup","biskup!google.com","Google","2015-06-01",42,7,42,1
 "Szymon Pyżalski","spyzalski!mirantis.com","Mirantis","2016-06-01",1,1,1,1
+"derekwaynecarr","decarr!redhat.com","Red Hat","2015-04-01",17,13,17,3
 "Paul Morie","pmorie!redhat.com","Red Hat","2016-01-01",3,2,3,1
+"BaluDontu","bdontu!vmware.com","VMware","2017-02-01",26,1,26,1
 "Eric Tune","etune!google.com","Google","2015-09-01",15,0,15,2
 "hurf","huruifeng!huawei.com","Huawei","2015-10-01",11,11,11,1
+"Deyuan Deng","deyuan!google.com","Google","2015-03-01",5,7,7,1
 "Rohit Jnagal","jnagal!google.com","Google","2015-05-01",15,20,20,1
 "Wojciech Tyczynski","wojtekt!google.com","Google","2016-06-01",1,1,1,1
 "Ritesh H Shukla","sritesh!vmware.com","VMware","2017-03-01",132,5,132,1
 "deads2k","deads!redhat.com","Red Hat","2016-10-01",7,3,8,2
 "Joe Beda","joe.github!bedafamily.com","Google","2015-01-01",0,65,65,1
+"Slava Semushin","vsemushi!redhat.com","Red Hat","2017-07-01",3,1,3,1
 "Phillip Wittrock","pwittroc!google.com","Google","2016-03-01",13,11,13,1
 "Piotr Szczesniak","pszczesniak!google.com","Google","2015-03-01",63,87,89,3
 "Garrett Rodrigues","grod!google.com","Google","2017-01-01",5,2,5,1
 "Kyle Mathews","mathews.kyle!gmail.com","GatsbyJS","2015-08-01",5,5,5,1
-"RichieEscarez","rescarez!google.com","Google","2015-06-01",305,277,306,7
+"Matt Baldwin","baldwin!stackpointcloud.com","StackPointCloud","2016-08-01",3,0,3,1
 "Chao Xu","xuchao!google.com","Google","2016-10-01",3,3,3,1
+"Daniel Smith","dbsmith!google.com","Google","2015-05-01",328,229,553,3
 "Daniel Smith","dbsmith!google.com","Google","2014-09-01",12,12,12,3
 "Daniel Martí","mvdan!mvdan.cc","Tyk","2015-09-01",2,1,2,1
 "Pieter Joost van de Sande","pj!born2code.net","DoubleDutch","2016-01-01",1,1,1,1
@@ -387,8 +411,8 @@
 "Chris Hager","chris!linuxuser.at","Bits Working","2017-03-01",36,37,37,1
 "Eric Paris","eparis!redhat.com","Red Hat","2014-11-01",1,1,1,1
 "Jason Hunter","jthunter!google.com","Google","2015-04-01",11,6,11,1
-"Tony Hsu","gosharplite!gmail.com","Ubisoft","2015-04-01",1,1,1,1
-"Huamin Chen","hchen!redhat.com","Red Hat","2017-03-01",115,2,115,2
+"markturansky","mturansk!redhat.com","Red Hat","2015-10-01",164,0,164,1
+"RichieEscarez","rescarez!google.com","Google","2015-06-01",305,277,306,7
 "Carsten Clasohm","clasohm!redhat.com","Red Hat","2015-09-01",23,23,23,1
 "Satnam Singh","satnam!google.com","Google","2015-07-01",73,282,282,4
 "chrislovecnm","clove!cnmconsulting.net","CNM Consulting","2016-07-01",933,248,933,1
@@ -408,7 +432,7 @@
 "Vishnu kannan","vishnuk!google.com","Google","2014-11-01",120,55,169,4
 "Jeff Mendoza","jeffmendoza!google.com","Google","2016-02-01",562,347,562,2
 "Robert Bailey","robertbailey!google.com","Google","2015-02-01",56,236,236,4
-"Zach Loafman","zml!google.com","Google","2015-10-01",623,523,794,7
+"Xing Zhou","xingzhou!cn.ibm.com","IBM","2016-12-01",16,16,16,1
 "Mike Danese","mikedanese!google.com","Google","2016-10-01",22,3,22,3
 "tobad357","tobias.adamson!gmail.com","The Manufacturing Institute","2016-04-01",66,77,77,1
 "Robert Bailey","robertbailey!google.com","Google","2015-06-01",7,7,7,1
@@ -464,7 +488,6 @@
 "Alex Robinson","arob!google.com","Google","2015-02-01",125,62,182,2
 "David McMahon","djmm!google.com","Google","2016-03-01",114,39,114,1
 "Ed Costello","epc!epcostello.com","Petback","2015-08-01",7,7,7,1
-"Balu Dontu","bdontu!vmware.com","VMware","2017-02-01",26,1,26,1
 "Johannes Scheuermann","johannes.scheuermann!inovex.de","Inovex","2016-04-01",146,0,146,1
 "Amy Unruh","amyu!google.com","Google","2015-12-01",3,3,3,1
 "Andrew Smith","me!andrewmichaelsmith.com","Virtu Financial LLC","2014-11-01",1,1,1,1
@@ -476,7 +499,7 @@
 "David McMahon","djmm!google.com","Google","2016-06-01",904,3323,3328,4
 "Abhi Shah","abshah!google.com","Google","2015-03-01",498,190,498,1
 "nikhiljindal","nikhiljindal!google.com","Google","2015-10-01",7,5,7,1
-"nikhiljindal","nikhiljindal!google.com","Google","2015-05-01",13,9,13,1
+"BaluDontu","bdontu!vmware.com","VMware","2017-09-01",61,2,61,1
 "Robert Bailey","robertbailey!google.com","Google","2014-09-01",1,1,1,1
 "Deyuan Deng","deyuan.deng!gmail.com","Google","2014-09-01",18,18,18,1
 "Gerti Poppel","gerti.poppel!est.fujitsu.com","Fujitsu","2015-12-01",2,2,2,1
@@ -489,10 +512,11 @@
 "Mike Plavsky","mikhail.plavskiy!quest.com","Quest Software","2017-06-01",2,2,2,1
 "MikeJeffrey","mike.jeffrey!gmail.com","Google","2015-03-01",5,8,8,1
 "mksalawa","magorzata!google.com","Google","2016-08-01",6,3,6,1
+"Manjunath A Kumatagi","mkumatag!in.ibm.com","IBM","2017-08-01",24,0,24,1
 "Bastien Chong","bastien974!gmail.com","D2C Media","2015-09-01",13,4,13,1
 "Timothy St. Clair","tstclair!redhat.com","Red Hat","2016-04-01",5,5,5,1
 "Sami Wagiaalla","swagiaal!redhat.com","Red Hat","2015-06-01",62,11,62,5
-"derekwaynecarr","decarr!redhat.com","Red Hat","2015-04-01",17,13,17,3
+"Paul Morie","pmorie!gmail.com","Red Hat","2015-04-01",71,0,71,1
 "Quinton Hoole","quinton!google.com","Google","2015-05-01",20,55,55,1
 "Harry Zhang","harryzhang!zju.edu.cn","Docker","2015-09-01",313,34,313,6
 "Michael Taufen","mtaufen!google.com","Google","2017-01-01",12,12,12,1
@@ -505,16 +529,18 @@
 "Andrea Cosentino","ancosen!gmail.com","Red Hat","2016-07-01",1,1,1,1
 "Chakravarthy Nelluri","nelcyguy!gmail.com","Diamanti","2017-03-01",77,160,204,3
 "Tim Hockin","thockin!google.com","Google","2015-05-01",4,4,4,2
-"Clayton Coleman","ccoleman!redhat.com","Red Hat","2014-07-01",209,0,209,2
+"Tim Hockin","thockin!google.com","Google","2015-11-01",115,114,115,7
 "Anthony Yeh","enisoc!google.com","Google","2015-10-01",161,40,161,2
 "Christian Koep","christiankoep!gmail.com","Self","2016-09-01",1,1,1,1
 "nikhiljindal","nikhiljindal!google.com","Google","2016-01-01",192,6,194,3
+"jianglingxia","jiang.lingxia!zte.com.cn","ZTE Corporation","2017-07-01",2,2,2,2
 "jayunit100","jayunit100!gmail.com","Red Hat","2015-02-01",157,40,157,2
 "Bin Wang","wbin00!gmail.com","AppAdhoc","2015-08-01",22,0,22,1
 "Steve Milner","smilner!redhat.com","Red Hat","2015-10-01",4,4,4,1
 "deads2k","deads!redhat.com","Red Hat","2016-11-01",51,15,51,5
 "ckleban","ckleban!gmail.com","Google","2016-02-01",11,13,13,1
 "Filip Grzadkowski","filipg!google.com","Google","2015-03-01",354,0,354,1
+"Huamin Chen","hchen!redhat.com","Red Hat","2015-09-01",9,2,9,1
 "Chao Xu","xuchao!google.com","Google","2016-04-01",6,6,6,1
 "Daniel Smith","dbsmith!google.com","Google","2014-08-01",10,7,10,2
 "Kris Rousey","krousey!google.com","Google","2015-04-01",2,2,2,1
@@ -524,15 +550,20 @@
 "Rafal Gajdulewicz","r.gajdulewicz!gmail.com","Viacom","2015-07-01",1,1,1,1
 "Ahmet Alp Balkan","ahmetb!google.com","Google","2017-04-01",8,162,162,1
 "Takeshi Hagikura","shiketa1999!gmail.com","Google","2014-07-01",4,4,4,1
+"Tony Hsu","gosharplite!gmail.com","Ubisoft","2015-04-01",1,1,1,1
 "Clayton Coleman","ccoleman!redhat.com","Red Hat","2015-04-01",1,5,5,1
 "Sam Ghods","sam!box.com","Box","2015-03-01",2,2,2,1
 "Chao Xu","xuchao!google.com","Google","2016-01-01",10,1,10,1
 "Kathrin Probst","kprobst!kprobst-macbookair2.roam.corp.google.com","Google","2015-05-01",2,3,3,1
 "Amy Unruh","amy!infosleuth.net","Google","2015-06-01",456,507,507,1
+"Lion-Wei","liangwei14!huawei.com","Huawei","2017-09-01",1,1,1,1
 "Tim Hockin","thockin!google.com","Google","2016-10-01",0,1938,1938,2
+"Cody Clark","codyclark!google.com","Google","2017-07-01",117,849,854,2
 "Vladimir Vivien","vladimir.vivien!gmail.com","Dell","2017-03-01",40,16,40,1
+"Ian Chakeres","ian.chakeres!gmail.com","SalesForce","2017-08-01",8,0,8,1
 "Dr. Stefan Schimanski","stefan.schimanski!gmail.com","Red Hat","2016-12-01",24,19,27,5
 "Chris Alfonso","calfonso!redhat.com","Red Hat","2015-02-01",30,0,30,1
+"Clayton Coleman","ccoleman!redhat.com","Red Hat","2014-07-01",209,0,209,2
 "xiangpengzhao","zhao.xiangpeng!zte.com.cn","ZTE Corporation","2017-05-01",2,2,2,1
 "Wesley Hartford","wesley!ze.com","ZE PowerGroup","2016-08-01",2,2,2,1
 "scuxiayiqian","scuxiayiqian!gmail.com","Self","2015-03-01",2,2,2,1
@@ -546,7 +577,7 @@
 "Kris Rousey","krousey!google.com","Google","2015-05-01",0,1,1,1
 "Daniel Smith","dbsmith!google.com","Google","2015-07-01",920,80,933,6
 "Paul Morie","pmorie!redhat.com","Red Hat","2015-07-01",2,3,3,2
-"Tim Hockin","thockin!google.com","Google","2015-11-01",115,114,115,7
+"Humble Chirammal","hchiramm!redhat.com","Red Hat","2017-05-01",10,0,10,2
 "Paul Morie","pmorie!redhat.com","Red Hat","2016-02-01",395,3,395,2
 "Alex Robinson","alexdwanerobinson!gmail.com","Cockroach","2016-08-01",85,10,85,2
 "nikhiljindal","nikhiljindal!google.com","Google","2016-03-01",12,2,12,1
@@ -593,6 +624,7 @@
 "Lucas Käldström","lucas.kaldstrom!hotmail.co.uk","Self","2016-08-01",20,2,20,1
 "Xiangfei Zhu","xiangfeiz!vmware.com","VMware","2017-01-01",7,7,7,2
 "nikhiljindal","nikhiljindal!google.com","Google","2015-07-01",1,1,1,1
+"Manjunath A Kumatagi","mkumatag!in.ibm.com","IBM","2017-07-01",159,4,159,1
 "Szymon Pyżalski","spyzalski!mirantis.com","Mirantis","2016-07-01",9,1,9,1
 "Matthew Farrellee","matt!redhat.com","Red Hat","2015-11-01",37,16,38,5
 "Deyuan Deng","deyuan!google.com","Google","2015-06-01",15,16,20,2
@@ -605,7 +637,6 @@
 "nikhiljindal","nikhiljindal!google.com","Google","2015-04-01",346,444,444,2
 "Anastasis Andronidis","anastasis90!yahoo.gr","CERN","2015-06-01",50,0,50,1
 "yuexiao-wang","wang.yuexiao!zte.com.cn","ZTE Corporation","2016-10-01",2,2,2,1
-"Balu Dontu","bdontu!vmware.com","VMware","2017-03-01",199,0,199,1
 "Clayton Coleman","ccoleman!redhat.com","Red Hat","2016-05-01",5,4,5,1
 "divyenpatel","divyenp!vmware.com","VMware","2017-05-01",12,1,12,1
 "goltermann","goltermann!google.com","Google","2016-04-01",2,1,2,1

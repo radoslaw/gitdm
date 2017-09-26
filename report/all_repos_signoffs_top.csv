@@ -1,22 +1,24 @@
 idx,company,n,percent
-0,(All known 55),2579,99.65
-1,Red Hat,981,37.9
-2,Google,528,20.4
-3,(Self),261,10.1
-4,ZTE Corporation,207,8.0
-5,IBM,142,5.5
-6,Mirantis,133,5.1
-7,Intel,72,2.8
-8,SUSE/Novell,37,1.4
-9,Zhejiang University,28,1.1
-10,ClusterHQ,26,1.0
-11,Hyper.sh,22,0.9
-12,Igneous Systems,14,0.5
-13,Cisco,12,0.5
-14,CoreOS,10,0.4
-15,FACEIT,9,0.3
-16,(Not Found),9,0.3
-17,Huawei,8,0.3
-18,Microsoft,7,0.3
-19,Net EASE 网易有态度,6,0.2
-20,DaoCloud,6,0.2
+0,(All known 66),3506,99.18
+1,Red Hat,1451,41.0
+2,Google,715,20.2
+3,(Self),330,9.3
+4,ZTE Corporation,242,6.8
+5,IBM,191,5.4
+6,Mirantis,133,3.8
+7,Intel,73,2.1
+8,SUSE/Novell,37,1.0
+9,DaoCloud,37,1.0
+10,Zhejiang University,32,0.9
+11,Docker,27,0.8
+12,ClusterHQ,26,0.7
+13,Hyper.sh,24,0.7
+14,Huawei,23,0.7
+15,(Unknown),19,0.5
+16,CoreOS,15,0.4
+17,Igneous Systems,15,0.4
+18,Cisco,13,0.4
+19,(Not Found),10,0.3
+20,Treasure Data,10,0.3
+24,Gmail *,6,0.2
+51,Outlook *,2,0.1

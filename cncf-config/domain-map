@@ -1,5 +1,3 @@
-# Here is a set of mappings of domain names onto employer names.
-# domain-map [domain name [< YYYY-MM-DD]
 163.com Net EASE 网易有态度
 21viacloud.com 21viacloud
 360.cn Qihoo 360 Technology Co
@@ -10,11 +8,11 @@
 8d.com 8D Technologies
 99cloud.net 99cloud
 a10networks.com A10 Networks
-ac.th Suranaree University of Technology
 accenture.com Accenture
 acelio.com Acelio
 aconex.com Aconex
 actar.com.br ACTAR Tech
+ac.th Suranaree University of Technology
 adaptec.com Adaptec
 addi-data.com ADDI-DATA GmbH
 adoc.co.jp ADOC International
@@ -24,15 +22,15 @@ akamai.com Akamai Technologies
 akanda.io Akanda
 alcatel-lucent.com Alcatel-Lucent
 alchemy.solutions Alchemy Solutions Group
-allegro.pl Allegro
 allegrogroup.com Allegro
+allegro.pl Allegro
 altiscale.com Altiscale
 alyseo.com Alyseo
-am.sony.com Sony
 amadeus.com Amadeus
 amd.com AMD
 ammeon.com Ammeon
 ampliphae.com Ampliphae
+am.sony.com Sony
 anagramm.de Anagramm GmbH
 analog.com Analog Devices
 anchor.com.au Anchor
@@ -63,15 +61,14 @@ atomia.com Atomia
 atomide.com Atomide
 att.com AT&T
 attinteractive.com AT&T
-av.it.pt Instituto de Telecomunicacoes
 avaya.com Avaya
 avinetworks.com Avi Networks
+av.it.pt Instituto de Telecomunicacoes
 avtrex.com Avtrex
 awcloud.com Awcloud
 axis.com Axis Communications
 axway.com Axway
 azingo.com Azingo
-b-com.com B.COM
 b1-systems.de B1 Systems GmbH
 bacoosta.com Bacoosta IT Services
 balabit.com BalaBit
@@ -79,12 +76,13 @@ balabit.hu BalaBit
 baslerweb.com Basler Vision Technologies
 bay.ws Bay
 bbva.com BBVA
-bcx.co.za BCX
+b-com.com B.COM
 bcx.com BCX
+bcx.co.za BCX
 bestbuy.com Best Buy
 bigswitch.com Big Switch Networks
-bit-isle.co.jp Bit-isle Inc.
 bitergia.com Bitergia
+bit-isle.co.jp Bit-isle Inc.
 bitnami.com Bitnami
 bitwagon.com BitWagon Software
 bivio.net Bivio Networking
@@ -128,9 +126,9 @@ cienet.com.cn CIeNET Technologies
 cisco.com Cisco
 citi.umich.edu Univ. of Michigan CITI
 citrix.com Citrix
-cloud.com Citrix
 cloudbasesolutions.com Cloudbase Solutions
 cloudbau.de Cloudbau
+cloud.com Citrix
 clouddc.ru CloudDC
 cloudenablers.com Cloudenablers
 cloudfounders.com CloudFounders
@@ -145,10 +143,10 @@ clustcom.com Cluster Computing
 clusterfs.com Sun
 cmss.chinamobile.com China Mobile
 cn.fujitsu.com Fujitsu
-co.it.pt Instituto de Telecomunicacoes
 codethink.co.uk Codethink
 cognizant.com Cognizant
 cohodata.com Coho Data
+co.it.pt Instituto de Telecomunicacoes
 collab.net CollabNet, Inc
 colt.net Colt
 compulab.co.il CompuLab
@@ -169,24 +167,23 @@ critc.cn China Railway ITC
 crs4.it CRS4
 cs2c.com.cn cs2c
 csail.mit.edu MIT CSAIL
-cse-semaphore.com CSE Semaphore
 csee.hnu.edu.cn Hunan University, Institution of Supercomputing and Cloud Computing
+cse-semaphore.com CSE Semaphore
 csr.com CSR
 cybera.ca Cybera
 cybercom.com Cybercom
 cybercom.fi Cybercom
 cyberguard.com Secure Computing
 cybernetics.com Cybernetics
-d-red.jp Daikanyama RED
 da.jp.nec.com NEC
 dankohn.com CNCF
 daocloud.io DaoCloud
-data.slu.se Uppsala University
 datacentred.co.uk DataCentred
 datacentred.io DataCentred
+data.slu.se Uppsala University
 dave.eu Dave S.r.l.
-de.bosch.com Bosch
 debian.org Debian
+de.bosch.com Bosch
 deis.com DEIS
 dektech.com.au DEK Technologies
 dell.com Dell
@@ -198,8 +195,10 @@ digitalpacific.com.au Digital Pacific
 digiware.nl Digiware
 dmm.com DMM.com Labo
 docker.com Docker
+# domain-map [domain name [< YYYY-MM-DD]
 dotcloud.com dotCloud
 dreamhost.com DreamHost
+d-red.jp Daikanyama RED
 dtdream.com Dt Dream
 dti2.net DTI2 - Desarrollo de la tecnologia de las comunicaciones
 earthlink.net Earthlink
@@ -258,11 +257,11 @@ golang.org Google
 google.com Google
 gopivotal.com Pivotal
 gplhost.com GPLHost
-grid.hust.edu.cn CDGCC, HUST
 gridcentric.ca Gridcentric
 gridcentric.com Gridcentric
 griddynamics.com Grid Dynamics
 griddynamics.net Grid Dynamics
+grid.hust.edu.cn CDGCC, HUST
 grnet.gr GRNET
 gslab.com Great Software Laboratory
 guardian.co.uk The Guardian
@@ -275,6 +274,7 @@ hastexo.com Hastexo
 hauppauge.com Hauppauge
 hcl.com HCL
 hds.com Hitachi
+# Here is a set of mappings of domain names onto employer names.
 hermes-softlab.com HERMES SoftLab
 heroku.com Heroku
 hevs.ch HES-SO Valais Wallis
@@ -304,8 +304,8 @@ igel.co.jp igel
 iii.org.tw Institute for Information Industry
 imaginea.com Imaginea Technologies Inc.
 inaugust.com In August
-indt.org INdT
 indt.org.br INdT
+indt.org INdT
 inesa.com inesa
 infinite.com Infinite
 infoblox.com Infoblox
@@ -327,22 +327,22 @@ inwinstack.com inwinSTACK
 iomart.com iomart
 iram.es IRAM
 iroquoisystems.com IroquoiSystems
-is.co.za Internet Solutions
 iscas.ac.cn ISCAS
+is.co.za Internet Solutions
 isi.edu Information Sciences Institute
 ispras.ru ISP RAS
-it.pt Instituto de Telecomunicacoes
 itkey.com itkey
+it.pt Instituto de Telecomunicacoes
 itri.org.tw Industrial Technology Research Institute
 itsyn.com IT Synergy
-iweb.co.uk iWebSolutions
 iweb.com iWeb
+iweb.co.uk iWebSolutions
 izeltech.com Izel Technologies
 jd.com JD.COM
 jhuapl.edu Johns Hopkins University Applied Physics Laboratory
 jmicron.com jmicron.com
-jp.fujitsu.com Fujitsu
 jpberlin.de JP Berlin
+jp.fujitsu.com Fujitsu
 juniper.com Juniper
 juniper.net Juniper
 katalix.com Katalix Systems
@@ -369,11 +369,11 @@ limilo.com Limilo
 linagora.com Linagora
 linaro.org Linaro
 linutronix.de linutronix
-linux-foundation.org The Linux Foundation
-linux.vnet.ibm.com IBM
 linuxacademy.com Linux Academy
 linuxant.com Linuxant
+linux-foundation.org The Linux Foundation
 linuxfoundation.org The Linux Foundation
+linux.vnet.ibm.com IBM
 linx.net London Internet Exchange
 lippert-at.de LiPPERT Embedded Computers GmbH
 lippertembedded.de LiPPERT Embedded Computers GmbH
@@ -393,8 +393,8 @@ macqel.com Macq Electronique
 maginatics.com Maginatics
 mailtrust.com Rackspace
 managedit.ie Managed IT
-mandriva.com Mandriva
 mandriva.com.br Mandriva
+mandriva.com Mandriva
 maplelabs.com Maplelabs
 mapr.com MapR
 maprtech.com MapR
@@ -434,9 +434,9 @@ nasa.gov NASA
 navercorp.com NAVER
 navy.mil US Navy
 nebula.com Nebula
+necam.com NEC
 nec.co.jp NEC
 nec.com NEC
-necam.com NEC
 neclab.eu NEC
 nectechnologies.in NEC
 netapp.com NetApp
@@ -543,8 +543,8 @@ qlogic.com QLogic
 qrclab.com Quanta Research Cambridge
 qumranet.com Qumranet
 quobyte.com Quobyte Inc.
-rackspace.co.uk Rackspace
 rackspace.com Rackspace
+rackspace.co.uk Rackspace
 rackwareinc.com Rackware
 radisys.com Radisys
 radware.com Radware
@@ -609,13 +609,12 @@ solidfire.com SolidFire
 solinea.com Solinea
 sonian.net Sonian
 sony.co.jp Sony
-sony.com Sony
 sonycom.com Sony
+sony.com Sony
 sonymobile.com Sony Mobile Communications
 southpole.se South Pole AB
 spidernet.net SpiderNet Services
 spilgames.com Spil Games
-st.com ST Microelectronics
 stackhpc.com StackHPC
 stackinsider.com Stackinsider
 stackmasters.eu Stackmasters
@@ -623,6 +622,7 @@ stackops.com StackOps
 stackstorm.com StackStorm
 starentnetworks.com Starent Networks
 statefarm.com State Farm Insurance
+st.com ST Microelectronics
 steeleye.com SteelEye
 stlinux.com ST Microelectronics
 stratoscale.com Stratoscale
@@ -631,10 +631,10 @@ sun.com Sun
 suse.com SUSE
 suse.cz SUSE
 suse.de SUSE
-sw.ru Parallels
 swiftstack.com SwiftStack
 swisscom.com Swisscom
 switch.ch Switch
+sw.ru Parallels
 swsoft.com Parallels
 symantec.com Symantec
 t2cloud.net t2cloud
@@ -696,12 +696,12 @@ ultimumtechnologies.com Ultimum Technologies
 umcloud.com UMCloud
 umd.edu University of Maryland
 umn.edu University of Minnesota
-uni-wuerzburg.de University of Würzburg
 unicontrol.de Unicontrol Systemtechnik
 unimelb.edu.au University of Melbourne
 unionpay.com China UnionPay
 unisys.com Unisys
 unitedstack.com UnitedStack
+uni-wuerzburg.de University of Würzburg
 upv.es UPV
 uq.edu.au University of Queensland
 us.ibm.com IBM
@@ -737,8 +737,8 @@ wanclouds.net Wanclouds
 wdc.com Western Digital
 weave.works Weaveworks
 wikimedia.org Wikimedia Foundation
-winbond.com Winbond Electronics
 winbond.com.tw Winbond Electronics
+winbond.com Winbond Electronics
 wincor-nixdorf.com Wincor Nixdorf
 windriver.com Wind River
 winhong.com winhong
@@ -746,13 +746,13 @@ wipro.com Wipro
 wise2c.com Wise2c
 wolfsonmicro.com Wolfson Microelectronics
 workday.com Workday
-x-io.com X-IO Technologies
-x-ion.de x-ion
 xensource.com XenSource
 xerox.com Xerox
 xes-inc.com Extreme Engineering Solutions
 xiangcloud.com.cn XiangCloud
 xilinx.com Xilinx
+x-io.com X-IO Technologies
+x-ion.de x-ion
 xiostorage.com X-IO Technologies
 xiv.co.il XIV Information Systems
 xivstorage.com XIV Information Systems

@@ -1,30 +1,36 @@
-Processed 19 csets from 4 developers
-3 employers found
-A total of 215912 lines added, 808 removed, 215913 changed (delta 215104)
+Processed 39 csets from 10 developers
+4 employers found
+A total of 216345 lines added, 1010 removed, 216351 changed (delta 215335)
 
 Developers with unknown affiliation
+(Unknown) sergio.moreno.calzada!everis.com Sergio Moreno                            4 (10.3%)
+(Unknown) git!jasonpoon.ca Jason Poon                                               1 (2.6%)
+(Unknown) sergio.m.calzada!gmail.com sergiomcalzada                                 1 (2.6%)
 
 Developers working on their own behalf
 
 Top changeset contributors by employer
-everis                                                                             13 (68.4%)
-Microsoft                                                                           4 (21.1%)
-Google                                                                              2 (10.5%)
+everis                                                                             20 (51.3%)
+Microsoft                                                                          11 (28.2%)
+(Unknown)                                                                           6 (15.4%)
+Google                                                                              2 (5.1%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Microsoft                                                                        215125 (99.6%)
-everis                                                                            578 (0.3%)
+Microsoft                                                                        215397 (99.6%)
+everis                                                                            608 (0.3%)
 Google                                                                            210 (0.1%)
+(Unknown)                                                                         136 (0.1%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
 Covers 0.000000% of signoffs
 
-Employers with the most hackers (total 4)
-Microsoft                                                                           2 (50.0%)
-everis                                                                              1 (25.0%)
-Google                                                                              1 (25.0%)
+Employers with the most hackers (total 10)
+Microsoft                                                                           5 (50.0%)
+(Unknown)                                                                           3 (30.0%)
+everis                                                                              1 (10.0%)
+Google                                                                              1 (10.0%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

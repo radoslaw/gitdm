@@ -1,49 +1,60 @@
-Processed 98 csets from 24 developers
-9 employers found
-A total of 15778 lines added, 5022 removed, 18954 changed (delta 10756)
+Processed 142 csets from 30 developers
+12 employers found
+A total of 18655 lines added, 6278 removed, 22198 changed (delta 12377)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
+Self lucas!weave.works Lucas Käldström                                            1 (0.7%)
+Self jmyue!hotmail.com supereagle                                                   1 (0.7%)
 
 Top changeset contributors by employer
-Red Hat                                                                            64 (65.3%)
-Google                                                                             23 (23.5%)
-ASG Consulting                                                                      3 (3.1%)
-IBM                                                                                 2 (2.0%)
-Fujitsu                                                                             2 (2.0%)
-Huawei                                                                              1 (1.0%)
-en.N cloud                                                                          1 (1.0%)
-CoreOS                                                                              1 (1.0%)
-Kelowna                                                                             1 (1.0%)
+Red Hat                                                                            92 (64.8%)
+Google                                                                             32 (22.5%)
+ASG Consulting                                                                      3 (2.1%)
+Fujitsu                                                                             3 (2.1%)
+Huawei                                                                              2 (1.4%)
+CoreOS                                                                              2 (1.4%)
+IBM                                                                                 2 (1.4%)
+Self                                                                                2 (1.4%)
+en.N cloud                                                                          1 (0.7%)
+Kelowna                                                                             1 (0.7%)
+ZTE Corporation                                                                     1 (0.7%)
+Atlassian                                                                           1 (0.7%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          14558 (76.8%)
-Google                                                                           4254 (22.4%)
+Red Hat                                                                          15689 (70.7%)
+Google                                                                           6253 (28.2%)
+Self                                                                               68 (0.3%)
 IBM                                                                                56 (0.3%)
-ASG Consulting                                                                     52 (0.3%)
+ASG Consulting                                                                     52 (0.2%)
+Atlassian                                                                          20 (0.1%)
 en.N cloud                                                                         17 (0.1%)
+Fujitsu                                                                            12 (0.1%)
 Kelowna                                                                            12 (0.1%)
-Fujitsu                                                                             2 (0.0%)
-CoreOS                                                                              2 (0.0%)
-Huawei                                                                              1 (0.0%)
+CoreOS                                                                             11 (0.0%)
+Huawei                                                                              7 (0.0%)
+ZTE Corporation                                                                     1 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 1)
 Red Hat                                                                             1 (100.0%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 24)
-Red Hat                                                                             8 (33.3%)
-Google                                                                              8 (33.3%)
-IBM                                                                                 2 (8.3%)
-ASG Consulting                                                                      1 (4.2%)
-en.N cloud                                                                          1 (4.2%)
-Kelowna                                                                             1 (4.2%)
-Fujitsu                                                                             1 (4.2%)
-CoreOS                                                                              1 (4.2%)
-Huawei                                                                              1 (4.2%)
+Employers with the most hackers (total 30)
+Red Hat                                                                             9 (30.0%)
+Google                                                                              8 (26.7%)
+Self                                                                                2 (6.7%)
+IBM                                                                                 2 (6.7%)
+Huawei                                                                              2 (6.7%)
+ASG Consulting                                                                      1 (3.3%)
+Atlassian                                                                           1 (3.3%)
+en.N cloud                                                                          1 (3.3%)
+Fujitsu                                                                             1 (3.3%)
+Kelowna                                                                             1 (3.3%)
+CoreOS                                                                              1 (3.3%)
+ZTE Corporation                                                                     1 (3.3%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

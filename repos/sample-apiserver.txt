@@ -1,38 +1,52 @@
-Processed 36 csets from 11 developers
-5 employers found
-A total of 2052 lines added, 131 removed, 2084 changed (delta 1921)
+Processed 72 csets from 22 developers
+9 employers found
+A total of 8375 lines added, 1001 removed, 8528 changed (delta 7374)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
-Self lukasz.szaszkiewicz!gmail.com p0lyn0mial                                       1 (2.8%)
+Self lukasz.szaszkiewicz!gmail.com p0lyn0mial                                       7 (9.7%)
+Self lucas!weave.works Lucas Käldström                                            1 (1.4%)
+Self jmyue!hotmail.com supereagle                                                   1 (1.4%)
 
 Top changeset contributors by employer
-Red Hat                                                                            28 (77.8%)
-Google                                                                              5 (13.9%)
-Kelowna                                                                             1 (2.8%)
-IBM                                                                                 1 (2.8%)
-Self                                                                                1 (2.8%)
+Red Hat                                                                            48 (66.7%)
+Google                                                                              9 (12.5%)
+Self                                                                                9 (12.5%)
+Huawei                                                                              1 (1.4%)
+CoreOS                                                                              1 (1.4%)
+CliQr Technologies                                                                  1 (1.4%)
+Kelowna                                                                             1 (1.4%)
+IBM                                                                                 1 (1.4%)
+Atlassian                                                                           1 (1.4%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Red Hat                                                                          1841 (88.3%)
-Google                                                                            213 (10.2%)
-Self                                                                               14 (0.7%)
-Kelowna                                                                             8 (0.4%)
-IBM                                                                                 8 (0.4%)
+Red Hat                                                                          6607 (77.5%)
+Self                                                                             1077 (12.6%)
+Google                                                                            767 (9.0%)
+Atlassian                                                                          44 (0.5%)
+CoreOS                                                                              9 (0.1%)
+Kelowna                                                                             8 (0.1%)
+IBM                                                                                 8 (0.1%)
+Huawei                                                                              6 (0.1%)
+CliQr Technologies                                                                  2 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 1)
 Red Hat                                                                             1 (100.0%)
 Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 11)
-Red Hat                                                                             5 (45.5%)
-Google                                                                              3 (27.3%)
-Self                                                                                1 (9.1%)
-Kelowna                                                                             1 (9.1%)
-IBM                                                                                 1 (9.1%)
+Employers with the most hackers (total 22)
+Red Hat                                                                             8 (36.4%)
+Google                                                                              5 (22.7%)
+Self                                                                                3 (13.6%)
+Atlassian                                                                           1 (4.5%)
+CoreOS                                                                              1 (4.5%)
+Kelowna                                                                             1 (4.5%)
+IBM                                                                                 1 (4.5%)
+Huawei                                                                              1 (4.5%)
+CliQr Technologies                                                                  1 (4.5%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

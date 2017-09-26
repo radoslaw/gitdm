@@ -1,6 +1,6 @@
 Processed 985 csets from 183 developers
 53 employers found
-A total of 337895 lines added, 290654 removed, 452588 changed (delta 47241)
+A total of 337879 lines added, 290638 removed, 452572 changed (delta 47241)
 
 Developers with unknown affiliation
 
@@ -72,7 +72,7 @@ Carrot Creative                                                                 
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           385296 (85.1%)
+Google                                                                           385280 (85.1%)
 Red Hat                                                                          46474 (10.3%)
 Mirantis                                                                         3317 (0.7%)
 Self                                                                             3201 (0.7%)

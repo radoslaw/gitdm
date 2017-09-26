@@ -1,0 +1,31 @@
+Processed 16 csets from 4 developers
+2 employers found
+A total of 12093 lines added, 593 removed, 12453 changed (delta 11500)
+
+Developers with unknown affiliation
+
+Developers working on their own behalf
+
+Top changeset contributors by employer
+Google                                                                             15 (93.8%)
+Red Hat                                                                             1 (6.2%)
+Covers 100.000000% of changesets
+
+Top lines changed by employer
+Google                                                                           12429 (99.8%)
+Red Hat                                                                            24 (0.2%)
+Covers 100.000000% of changes
+
+Employers with the most signoffs (total 0)
+Covers 0.000000% of signoffs
+
+Employers with the most hackers (total 4)
+Google                                                                              3 (75.0%)
+Red Hat                                                                             1 (25.0%)
+Covers 100.000000% of hackers
+
+Developer contributions by type
+
+Contributions by type and developers
+
+General contributions by type

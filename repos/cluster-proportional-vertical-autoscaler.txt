@@ -1,0 +1,31 @@
+Processed 48 csets from 6 developers
+2 employers found
+A total of 5059 lines added, 2572 removed, 6049 changed (delta 2487)
+
+Developers with unknown affiliation
+
+Developers working on their own behalf
+
+Top changeset contributors by employer
+Google                                                                             47 (97.9%)
+CoreOS                                                                              1 (2.1%)
+Covers 100.000000% of changesets
+
+Top lines changed by employer
+Google                                                                           5726 (94.7%)
+CoreOS                                                                            323 (5.3%)
+Covers 100.000000% of changes
+
+Employers with the most signoffs (total 0)
+Covers 0.000000% of signoffs
+
+Employers with the most hackers (total 6)
+Google                                                                              5 (83.3%)
+CoreOS                                                                              1 (16.7%)
+Covers 100.000000% of hackers
+
+Developer contributions by type
+
+Contributions by type and developers
+
+General contributions by type

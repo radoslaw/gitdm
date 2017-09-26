@@ -1,33 +1,40 @@
-Processed 58 csets from 10 developers
-4 employers found
-A total of 26561 lines added, 5565 removed, 29523 changed (delta 20996)
+Processed 62 csets from 13 developers
+6 employers found
+A total of 26568 lines added, 5569 removed, 29530 changed (delta 20999)
 
 Developers with unknown affiliation
 
 Developers working on their own behalf
+Self git!jwf.io Justin W. Flory                                                     1 (1.6%)
 
 Top changeset contributors by employer
-Google                                                                             49 (84.5%)
-Red Hat                                                                             7 (12.1%)
-Seznam.cz                                                                           1 (1.7%)
-Practo                                                                              1 (1.7%)
+Google                                                                             50 (80.6%)
+Red Hat                                                                             7 (11.3%)
+Huawei                                                                              2 (3.2%)
+Seznam.cz                                                                           1 (1.6%)
+Self                                                                                1 (1.6%)
+Practo                                                                              1 (1.6%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           23333 (79.0%)
+Google                                                                           23334 (79.0%)
 Red Hat                                                                          6175 (20.9%)
 Practo                                                                             14 (0.0%)
+Huawei                                                                              4 (0.0%)
+Self                                                                                2 (0.0%)
 Seznam.cz                                                                           1 (0.0%)
 Covers 100.000000% of changes
 
 Employers with the most signoffs (total 0)
 Covers 0.000000% of signoffs
 
-Employers with the most hackers (total 10)
-Google                                                                              6 (60.0%)
-Red Hat                                                                             2 (20.0%)
-Practo                                                                              1 (10.0%)
-Seznam.cz                                                                           1 (10.0%)
+Employers with the most hackers (total 13)
+Google                                                                              6 (46.2%)
+Red Hat                                                                             2 (15.4%)
+Huawei                                                                              2 (15.4%)
+Practo                                                                              1 (7.7%)
+Self                                                                                1 (7.7%)
+Seznam.cz                                                                           1 (7.7%)
 Covers 100.000000% of hackers
 
 Developer contributions by type

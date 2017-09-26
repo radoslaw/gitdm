@@ -1,31 +1,45 @@
 idx,company,n,percent
-0,(All known 28),779,98.86
-1,Google,272,34.5
-2,Red Hat,233,29.6
-3,ZTE Corporation,130,16.5
-4,(Self),39,4.9
-5,IBM,29,3.7
-6,ClusterHQ,13,1.6
-7,Cisco,12,1.5
-8,(Not Found),9,1.1
-9,FACEIT,7,0.9
-10,Huawei,6,0.8
-11,DaoCloud,5,0.6
-12,Docker,5,0.6
-13,Hyper.sh,4,0.5
-14,Tencent,3,0.4
-15,Fujitsu,3,0.4
-16,Kismatic,2,0.3
-17,Amazon,2,0.3
-18,Jd.Com,2,0.3
-19,CoreOS,2,0.3
-20,Weaveworks,1,0.1
-21,Petback,1,0.1
-22,Inuits,1,0.1
-23,hackmh,1,0.1
-24,Anadea inc.,1,0.1
-25,YY,1,0.1
-26,eleme,1,0.1
-27,Treasure Data,1,0.1
-28,"Collanthropy, LLC",1,0.1
-29,Chef,1,0.1
+0,(All known 33),862,98.4
+1,Google,280,32.0
+2,Red Hat,268,30.6
+3,ZTE Corporation,132,15.1
+4,(Self),39,4.5
+5,IBM,35,4.0
+6,DaoCloud,26,3.0
+7,ClusterHQ,13,1.5
+8,Cisco,12,1.4
+9,(Not Found),9,1.0
+10,FACEIT,7,0.8
+11,Huawei,6,0.7
+12,(Unknown),5,0.6
+13,Docker,5,0.6
+14,NVidia,4,0.5
+15,Hyper.sh,4,0.5
+16,Fujitsu,3,0.3
+17,Tencent,3,0.3
+18,hackmh,3,0.3
+19,CoreOS,2,0.2
+20,Kismatic,2,0.2
+21,Amazon,2,0.2
+22,ASG Consulting,2,0.2
+23,Jd.Com,2,0.2
+24,zhangjie0619!yeah.net,2,0.2
+25,Yeah *,2,0.2
+26,Microsoft,1,0.1
+27,"Collanthropy, LLC",1,0.1
+28,Chef,1,0.1
+29,Weaveworks,1,0.1
+30,Petback,1,0.1
+31,Nitrous,1,0.1
+32,Inuits,1,0.1
+33,Anadea inc.,1,0.1
+34,YY,1,0.1
+35,Virtuozzo,1,0.1
+36,eleme,1,0.1
+37,Treasure Data,1,0.1
+38,s.rabot!lectra.com,1,0.1
+39,caniszczyk!gmail.com,1,0.1
+40,ce.gao!outlook.com,1,0.1
+41,Gmail *,1,0.1
+42,Lectra *,1,0.1
+43,Outlook *,1,0.1

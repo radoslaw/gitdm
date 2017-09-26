@@ -1,28 +1,40 @@
-Processed 10 csets from 2 developers
-2 employers found
-A total of 3221 lines added, 122 removed, 3223 changed (delta 3099)
+Processed 23 csets from 6 developers
+5 employers found
+A total of 3929 lines added, 162 removed, 3931 changed (delta 3767)
 
 Developers with unknown affiliation
+(Unknown) tomasz.prus!gmail.com Tomasz Prus                                         1 (4.3%)
+(Unknown) jean!raby.sh Jean Raby                                                    1 (4.3%)
 
 Developers working on their own behalf
-Self sergi!koolpi.com Sergi Almacellas Abellana                                     2 (20.0%)
+Self sergi!koolpi.com Sergi Almacellas Abellana                                     4 (17.4%)
 
 Top changeset contributors by employer
-Google                                                                              8 (80.0%)
-Self                                                                                2 (20.0%)
+Google                                                                             14 (60.9%)
+Self                                                                                4 (17.4%)
+Wikimedia Foundation                                                                2 (8.7%)
+(Unknown)                                                                           2 (8.7%)
+CERN                                                                                1 (4.3%)
 Covers 100.000000% of changesets
 
 Top lines changed by employer
-Google                                                                           3185 (98.8%)
-Self                                                                               38 (1.2%)
+Google                                                                           3800 (96.7%)
+Self                                                                               87 (2.2%)
+(Unknown)                                                                          31 (0.8%)
+Wikimedia Foundation                                                               12 (0.3%)
+CERN                                                                                1 (0.0%)
 Covers 100.000000% of changes
 
-Employers with the most signoffs (total 0)
-Covers 0.000000% of signoffs
+Employers with the most signoffs (total 1)
+CERN                                                                                1 (100.0%)
+Covers 100.000000% of signoffs
 
-Employers with the most hackers (total 2)
-Google                                                                              1 (50.0%)
-Self                                                                                1 (50.0%)
+Employers with the most hackers (total 6)
+(Unknown)                                                                           2 (33.3%)
+CERN                                                                                1 (16.7%)
+Google                                                                              1 (16.7%)
+Self                                                                                1 (16.7%)
+Wikimedia Foundation                                                                1 (16.7%)
 Covers 100.000000% of hackers
 
 Developer contributions by type
